@@ -1,2 +1,2 @@
 # WFM-Riven-Search
-Little project
+A project made to search for godrolls, unrolleds and specific rolls faster and easier.

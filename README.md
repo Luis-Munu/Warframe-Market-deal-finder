@@ -25,3 +25,11 @@ To add or remove negatives edit negatives.csv
 To add or remove rolls edit wantedRolls.json
 
 If I get the time, I'll try to add stat weighting to the riven rating system, and maybe, in the future, weight them around specific weapon stats.ie a non crit weapon don't want critical damage or critical chance.
+
+
+TODO LIST:
+User interface
+Ability to search for just one weapon or specific combo on the go.
+Stat weighting.
+Add weapon stats to get a better stat weighting.
+Automatically upload results to a website.

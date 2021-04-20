@@ -1,7 +1,7 @@
 # WFM-Riven-Search
 A project made to search for godrolls, unrolleds and specific rolls faster and easier, it shows grades and a riven rating along with the stats.
+
 To use it just write the command: "python rivenSearch.py"
-Feel free to make changes in the config files and in settings.py.
 
 There're 4 types of search, depending on the speed of the search, the number of rivens received increases or diminishes:
 

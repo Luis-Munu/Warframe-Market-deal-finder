@@ -1,0 +1,22 @@
+{
+    "twin_grakatas":
+      {
+          
+          "stat1": "critical_damage",
+          "stat2": "base_damage_/_melee_damage",
+          "stat3": "critical_chance"
+      },
+    "kuva_nukor": 
+      {
+            "stat1": "multishot",
+            "stat2": "status_chance",
+            "stat3": "fire_rate_/_attack_speed"
+      },
+    "proboscis_cernos": 
+      {
+            "stat1": "multishot",
+            "stat2": "base_damage_/_melee_damage",
+            "stat3": "electric_damage"
+      }
+    
+}

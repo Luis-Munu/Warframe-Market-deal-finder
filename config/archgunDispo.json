@@ -1,0 +1,77 @@
+{
+    "cyngas":
+     {
+       "disposition": 1.30,
+       "weapontype": [3]
+     },
+    "dual_decurion":
+     {
+       "disposition": 1.30,
+       "weapontype": [3]
+     },
+    "phaedra":
+     {
+       "disposition": 1.20,
+       "weapontype": [3]
+     },
+    "corvas":
+     {
+       "disposition": 1.10,
+       "weapontype": [3]
+     },
+    "velocitus":
+     {
+       "disposition": 1.10,
+       "weapontype": [3]
+     },
+    "fluctus":
+     {
+       "disposition": 1.00,
+       "weapontype": [3]
+     },
+    "grattler":
+     {
+       "disposition": 1.00,
+       "weapontype": [3]
+     },
+    "imperator":
+     {
+       "disposition": 1.00,
+       "weapontype": [3]
+     },
+    "kuva_ayanga":
+     {
+       "disposition": 1.00,
+       "weapontype": [3]
+     },
+    "imperator_vandal":
+     {
+       "disposition": 0.85,
+       "weapontype": [3]
+     },
+    "larkspur":
+     {
+       "disposition": 0.85,
+       "weapontype": [3]
+     },
+    "cortege":
+     {
+       "disposition": 0.70,
+       "weapontype": [3]
+     },
+    "arquebex":
+     {
+       "disposition": 0.50,
+       "weapontype": [3]
+     },
+    "mausolon":
+     {
+       "disposition": 0.50,
+       "weapontype": [3]
+     },
+    "morgha":
+     {
+       "disposition": 0.50,
+       "weapontype": [3]
+    }
+}

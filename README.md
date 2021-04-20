@@ -15,7 +15,8 @@ A terribly slow one that will search for godrolls and unrolleds for every weapon
 
 To change the stats, rolls or weapons being searched for just add or remove them in the config files.
 
-To add or remove weapons edit wantedWeapons.csv
+To add or remove weapons edit wantedWeapons.csv . 
+The rows indicates the type of weapon. 0 primaries, 1 shotguns, 2 pistols, 3 archguns, 4 normal melees, 5 heavy attack melees.
 
 To add or remove rolls edit wantedRolls.json
 

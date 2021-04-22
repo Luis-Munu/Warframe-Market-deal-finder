@@ -19,7 +19,7 @@ All the searches will yield some other additional results. I've taken this appro
 However this comes at a cost of speed that is greater if the user's pc isn't powerful enough. 
 May change this in the future and add some conditions so that you don't get additional data but a faster speed.
 
-There's no way to speed this up as far as I'm concerned, as warframe.market returns a size-capped response, missing results if you do a broad search.
+There's no way to speed this up as far as I'm concerned other than what I wrote below, as warframe.market returns a size-capped response, missing results if you do a broad search.
 
 To change the stats, rolls or weapons being searched for just add or remove them in the config files.
 There's a general rule to edit these files. The rows indicates the type of weapon. 0 primaries, 1 shotguns, 2 pistols, 3 archguns, 4 normal melees, 5 heavy attack melees.

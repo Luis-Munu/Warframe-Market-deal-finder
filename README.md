@@ -15,6 +15,10 @@ A slow one that will search for generic godrolls for wanted weapons along with g
 
 A terribly slow one that will search for godrolls and unrolleds for every weapon along with specific godrolls. Can take up to infinity.
 
+All the searches will yield some other additional results. I've taken this approach in order to make the user not lose additional information. 
+However this comes at a cost of speed that is greater if the user's pc isn't powerful enough. 
+May change this in the future and add some conditions so that you don't get additional data but a faster speed.
+
 There's no way to speed this up as far as I'm concerned, as warframe.market returns a size-capped response, missing results if you do a broad search.
 
 To change the stats, rolls or weapons being searched for just add or remove them in the config files.

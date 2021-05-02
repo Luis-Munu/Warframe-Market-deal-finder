@@ -6,7 +6,7 @@
           "stat2": "base_damage_/_melee_damage",
           "stat3": "critical_chance"
       },
-    "kuva_nukor": 
+    "nukor": 
       {
             "stat1": "multishot",
             "stat2": "status_chance",

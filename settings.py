@@ -23,15 +23,15 @@ deletePreviousFolder = True
 
 #Non Existant search is an untested search that last for an almost infinite amount of time.
 #It returns all the godrolls and unrolleds for both wanted and unwanted weapons.
-
-#Set all to false to get fastSearch
-
+fastSearch = False
 mediumSearch = False
 slowSearch = False
 nonExistantSearch = False
 
-#Used for debugs.
-search = True
+specificSearch = False
+specificWeapon = False
+weaponName = ""
+weaponStats = {}
 
 ########################################################################################################
 #GLOBAL VARIABLES USED AROUND ALL THE FILES
@@ -132,7 +132,6 @@ def loadData():
         f.close()
     #List with all the weapon variant names. For disposition purposes.
     with open("weaponVariants.csv") as f:
-        weaponVariants = [""]
         for weapon in reader(f): weaponVariants.append(weapon[0])
         f.close()
     """with open("decentPositives.csv") as f:

@@ -1,5 +1,5 @@
 import settings
-from utils import getWeaponType 
+from utils import getWeaponType, checkVariant
 import os
 #Class used to store all riven-related data and means to calculate it.
 
@@ -56,8 +56,7 @@ class Riven:
         for weaponName in WeaponList: 
             flag = False
             bool1 = weaponName.startswith(self.Weapon)
-            for weaponVariant in settings.weaponVariants:
-                if weaponVariant in weaponName: flag == True
+            if checkVariant(weaponName): flag = True
             bool2 = flag and self.Weapon in weaponName
             if  bool1 or bool2:
                 res.append(weaponName)

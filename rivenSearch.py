@@ -1,4 +1,5 @@
 import settings, urlCreation, rivenRequests, processData
+import userCommands
 
 
 #This Speed won't work until warframe.market uncap the auction responses.
@@ -25,4 +26,5 @@ def createEverything():
     print("Rivens searched: " + str(len(res)))
 
 settings.init()
+userCommands.greatSearch()
 createEverything()

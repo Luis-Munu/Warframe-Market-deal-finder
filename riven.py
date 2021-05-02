@@ -1,5 +1,5 @@
 import settings
-from utils import getWeaponType, checkVariant
+from utils import getWeaponType 
 import os
 #Class used to store all riven-related data and means to calculate it.
 
@@ -48,7 +48,7 @@ class Riven:
     #The conditions are:
     #1: It starts with the weapon name.
     #2: It contains the weapon name and also a a variant name.
-    #Only one condition is needed to be true.
+    #Only one condition is needed to be true
     def getOcurrences(self):
         #gets a list with all weapons that contain given weapon in the name.
         WeaponList = [weapon3 for weapon3 in settings.weaponList.keys() if self.Weapon in weapon3] 
@@ -56,20 +56,21 @@ class Riven:
         for weaponName in WeaponList: 
             flag = False
             bool1 = weaponName.startswith(self.Weapon)
-            if checkVariant(weaponName): flag = True
+            for weaponVariant in settings.weaponVariants:
+                if weaponVariant in weaponName: flag == True
             bool2 = flag and self.Weapon in weaponName
             if  bool1 or bool2:
                 res.append(weaponName)
         return res
 
-    #Rates the stats of the riven, given a weapon type and a combination of good stats for the weaponType.
+    #Rates the stats of the riven, given a weapon type and a combination of good stats for the weaponType
     #As of now the punctuation goes as follows:
-    #+25 per settings.wished positive.
-    #+10 per decent positive.
-    #-20 per wasted positive.
-    #+25 per settings.wished negative.
-    #-100 if negative is on the settings.wished positives list.
-    #-20 per wasted negative.
+    #+25 per settings.wished positive
+    #+10 per decent positive
+    #-20 per wasted positive
+    #+25 per settings.wished negative
+    #-100 if negative is on the settings.wished positives list
+    #-20 per wasted negative
     #I want to try to add different weights to the stat in the future. So that a -reload speed neg isn't as bad as -dmg.
     def rateStats(self, combination, weaponType):
         puntuacion = 0
@@ -109,9 +110,9 @@ class Riven:
     #If there is no disposition to which grades are good it returns the closest one based on a distance system.
     #The formula is: base stat value based on weapon type * disposition * stat system.
     #The system calculates res based on these rules:
-    #If the weapon has 3 positives and a negative the positives are weighted *0.947 and the negative *0.7575.
-    #If the weapon has 2 positives and a negative the positives are weighted *1.25 and the negative *0.5.
-    #If the weapon has 3 positives and no negative the positives are weighted *0.7575.
+    #If the weapon has 3 positives and a negative the positives are weighted *0.947 and the negative *0.7575
+    #If the weapon has 2 positives and a negative the positives are weighted *1.25 and the negative *0.5
+    #If the weapon has 3 positives and no negative the positives are weighted *0.7575
     #If the weapon has 2 positives and no negative the positives stay the same.
     def calculateGrades(self):
         grades = [0,0,0,0]
@@ -124,23 +125,23 @@ class Riven:
             for stat in self.Stats:
                 #Gets the base value of the stat based on the weapon Type.
                 res = abs(settings.statList[stat[1]]["value" + str(getWeaponType(self.Weapon)[0])]) * dispo
-                #If there is negative.
+                #If there is negative
                 if self.Stats[-1][0] == False: 
-                    #If the stat is negative.
+                    #If the stat is negative
                     if stat[0] == False:
-                        #If 2 positives.
+                        #If 2 positives
                         if len(self.Stats) == 3: res *= 0.5
-                        #If 3 positives.
+                        #If 3 positives
                         else: res *= 0.7575
-                    #If 2 positives.
+                    #If 2 positives
                     elif len(self.Stats) == 3: res *=  1.25 
-                    #If 3 positives.
+                    #If 3 positives
                     else: res *= 0.947 
-                #If there is no negative.
+                #If there is no negative
                 else: 
-                    #If 2 positives.
+                    #If 2 positives
                     if len(self.Stats) == 4: res *= 0.7575
-                #Puts res in a 0-1 scale. Formula is (Value - Minimum) / (Maximum - Minimum).
+                #Puts res in a 0-1 scale. Formula is (Value - Minimum) / (Maximum - Minimum) 
                 res = (abs(stat[2])-res*0.9)/(res*1.1-res*0.9) if res !=0 else 0
                 #For reader ease.
                 gradesAux.append(res*10)
@@ -156,7 +157,7 @@ class Riven:
                 grades = gradesAux
                 bestDistance = distance
         
-        if any(0 < grade < 10.5 for grade in grades): self.Outdated = True
+        if any( 0 < grade < 10.1 for grade in grades): self.Outdated = True
 
         return grades
         
@@ -193,19 +194,19 @@ class Riven:
         #Initial price + Buyout price
         #Dispositions
         for fpath in paths:
-            resultFile = open(fpath,'a+')
+            resultFile = open(fpath,'a+',encoding='utf-8')
 
             #if it's not the first riven of the file, it adds some newlines to separate it from the previous ones.
             if os.stat(fpath).st_size != 0:
                 resultFile.write("\n")
                 resultFile.write("\n")
-            #Name.
+            #Name
             resultFile.write(("Name: " + self.Weapon.capitalize().replace("_", " ") + " " + self.Name + "\n"))
-            #Riven rating.
+            #Riven rating
             resultFile.write("Experimental riven rating: " + str(self.RivenRate) + "\n")
-            #If outdated.
+            #If outdated
             if self.Outdated: resultFile.write("The stats of this riven seem outdated or it's not rank 8, grades can be incorrect\n")
-            #Stats and grades.
+            #Stats and grades
             for i in range(len(self.Stats)):
                 resultFile.write(settings.statList[self.Stats[i][1]]["name"] + ":  " + str(self.Stats[i][2]) + "\n")
                 resultFile.write("\t\tGrade (0-10): " + str(round(self.Grades[i],4)) +"\n")
@@ -218,5 +219,5 @@ class Riven:
 
             resultFile.write("Dispositions: ")
             for dispo in self.Disposition[:-1]: resultFile.write( str(dispo) + ", ")
-            resultFile.write( str(self.Disposition[-1]) + "\n")
+            resultFile.write(str(self.Disposition[-1]) + "\n")
             resultFile.close()

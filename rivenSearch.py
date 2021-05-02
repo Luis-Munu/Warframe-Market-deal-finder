@@ -1,8 +1,8 @@
 import settings, urlCreation, rivenRequests, processData, userCommands
 
 
-#Speed could be vastly improved if warframe.market responses didn't have a size cap.
-#As of now it has to do a lot of searches, being extremely limited by a rate of two per second.
+#Speed could be vastly improved if warframe.market responses didn't have a size cap or I filtered the search.
+#However I prefer information over speed, it's better to spend 30 minutes waiting than to lose thousands of plats.
 
 #Things to do: 
 #Add weight to the stats. Useful for many weapons but maybe terrible for others.

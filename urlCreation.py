@@ -1,4 +1,5 @@
 import settings
+import time
 from utils import getWeaponType, checkVariant
 
 #Can be merged into one module, just didn't thought about it too much.
@@ -124,6 +125,7 @@ def dataCreation():
         urlList.extend(weaponUrls(settings.weaponName, settings.weaponStats))
         
     urlList = list(set(urlList))
-    print(str(len(urlList)) + " possible riven combinations")
+    TimeLeft = time.strftime("%H:%M:%S", time.gmtime(len(urlList)*1.75))
+    print(str(len(urlList)) + " possible riven combinations. Estimated wait time: " + str(TimeLeft))
 
     return urlList

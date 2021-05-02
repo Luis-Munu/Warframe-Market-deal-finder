@@ -1,5 +1,4 @@
-import settings, urlCreation, rivenRequests, processData
-import userCommands
+import settings, urlCreation, rivenRequests, processData, userCommands
 
 
 #This Speed won't work until warframe.market uncap the auction responses.

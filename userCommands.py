@@ -1,7 +1,4 @@
 import settings
-def selectMode(mode):
-    if mode == 1: greatSearch()
-    elif mode == 2: editFiles()
 def greatSearch():
 
     while True:

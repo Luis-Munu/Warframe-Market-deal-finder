@@ -1,5 +1,11 @@
 import settings
-def greatSearch():
+
+#File used to ask the user for his search preferences. The code seems dirty but until python adds a switch function
+#I see no other way.
+
+
+#Asks the user which kind of search he wants to do.
+def defineSearch():
 
     while True:
         print("Which search do you want to use?:\n")
@@ -12,7 +18,7 @@ def greatSearch():
         except ValueError:
             print("Write a number between 1 and 5. \n")
         if 0 < searchType  < 6: break
-    #Python its time to give us a switch
+    #Python its time to give us a switch.
     if searchType == 1: settings.fastSearch = True
     elif searchType == 2: settings.mediumSearch = True
     elif searchType == 3: settings.slowSearch = True
@@ -35,6 +41,8 @@ def specificSearch():
         elif specific == 2: 
             settings.specificSearch = True
             break
+
+#Asks the user if he wants a broad search with generic godroll combinations or a specific one for the selected weapon.
 def weaponCombo():
     while True:
         try: weaponName = str(input("Which weapon do you want to search? Write a non variant name\n"))
@@ -58,6 +66,8 @@ def weaponCombo():
             break
         elif wantStats == 2:
             break
+
+#Asks for the stats to search for the selected weapon. Should add a restart option in case you make a mistake.
 def askForStats():
     print ("The list of stats: \n")
     statList = [value["name"] for value in settings.statList.values()]

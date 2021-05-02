@@ -9,7 +9,9 @@ def createGenericUrl(stats=[], weaponType = []):
 
 #Used for specific rolls. 
 def createSpecificUrl(weapon, stats = [], unroll = False):
+    #Specific case used to create the url of an unrolled fast.
     if unroll: return [settings.WFM_API + "/auctions/search?type=riven&weapon_url_name=" + weapon + "&polarity=any&re_rolls_max=0&sort_by=price_asc"]
+    #If the wanted riven already has a stat list it either adds a third positive or returns a list of urls for it.
     if stats:
         if "stat3" in stats: 
             if "negative" in stats: return [settings.WFM_API + "/auctions/search?type=riven&weapon_url_name=" + weapon + "&positive_stats=" + stats["stat1"] + "," + stats["stat2"] + "," + stats["stat3"] +"&negative_stats=" + stats["negative"] + "&polarity=any&sort_by=price_asc"]
@@ -23,6 +25,8 @@ def createSpecificUrl(weapon, stats = [], unroll = False):
     else:
         return addStats(weapon)
 
+#Used to create generic godrolls for a selected weapon.
+
 def addStats(weapon):
     weaponType = getWeaponType(weapon)
     res = set()
@@ -35,13 +39,13 @@ def addStats(weapon):
     return res
 #Adds specific 2 stat rivens to the url and also adds urls with a third positive and a negative.
 def addPositive(url, weaponType):    
-    resultado = [url + "," + pos + "&negative_stats=has&polarity=any&sort_by=price_asc" for wType in weaponType for pos in settings.decentPositives[wType] ]
+    result = [url + "," + pos + "&negative_stats=has&polarity=any&sort_by=price_asc" for wType in weaponType for pos in settings.decentPositives[wType] ]
     #good enough stats to have that aren't detrimental to your riven.
-    resultado = list(set(resultado))
-    resultado.append(url)
-    return resultado
+    result = list(set(result))
+    result.append(url)
+    return result
 
-
+#Extremely long search, not recommended for anyone unless you can wait for many hours.
 def immovableUrls():
     result = set()
     for weapon in list(settings.weaponList.keys()):
@@ -51,7 +55,7 @@ def immovableUrls():
                 for url in createSpecificUrl(weapon, weaponComb, False): result.add(url)
     return list(result)
 
-
+#It creates a list of urls with generic godroll combos with no explicit weapon.
 def genericUrls():
     result = set()
     for i in range(len(settings.combinations)):
@@ -60,6 +64,7 @@ def genericUrls():
                 result.add(url)
     return list(result)
 
+#It creates a list of urls with generic godroll combos for wanted weapons. It provides better accuraccy.
 def wishedUrls():
     result = set()
     for i in range(len(settings.wishedWeapons)):
@@ -68,19 +73,25 @@ def wishedUrls():
             for weaponComb in settings.combinations[i]:
                 for url in createSpecificUrl(weapon, weaponComb, False): result.add(url)
     return list(result)
+
+#It creates a list of urls for unrolleds of selected weapons.
+#Depending on the kind of search the user chooses, it searches for specific wanted weapons or all the weapons.
 def unrolledUrls():
     result = set()
-    unroll = list(settings.weaponList.keys()) if settings.nonExistantSearch or settings.slowSearch or settings.mediumSearch else settings.wishedUnrolleds
+    unroll = list(settings.weaponList.keys()) if settings.nonExistantSearch or settings.slowSearch else settings.wishedUnrolleds
     for weapon in unroll:
         for url in createSpecificUrl(weapon, [], True): result.add(url)
     return list(result)
 
+#It creates a list of urls for specific users inputted by the user in the files.
 def specificUrls():
     result = set()
     for riv in list(settings.wishedRivens.keys()):
         for url in createSpecificUrl(riv, settings.wishedRivens[riv], False): result.add(url)
     return list(result)
 
+#Module used in the specific situation the user just want to search for combos for a single weapon.
+#If a stat list is provided it searches just for it. Otherwise it searches for generic godrolls.
 def weaponUrls(weapon, stats = []):
     result = set()
     if len(stats)==0: 
@@ -93,8 +104,8 @@ def weaponUrls(weapon, stats = []):
 #Prepares the weapon list
 def dataCreation():
     urlList = []
+    #Should never be used unless you have all the time in the world. It searches for every godroll and unroll.
     if settings.nonExistantSearch:
-        #Should never be used unless you have all the time in the world.
         urlList.extend(immovableUrls())
     #Creates the url of generic rolls.
     if settings.fastSearch or settings.mediumSearch or settings.slowSearch:

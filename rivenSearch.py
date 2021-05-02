@@ -1,15 +1,15 @@
 import settings, urlCreation, rivenRequests, processData, userCommands
 
 
-#This Speed won't work until warframe.market uncap the auction responses.
+#Speed could be vastly improved if warframe.market responses didn't have a size cap.
+#As of now it has to do a lot of searches, being extremely limited by a rate of two per second.
 
 #Things to do: 
 #Add weight to the stats. Useful for many weapons but maybe terrible for others.
-#Calculate weapon grades on different ranks. 
-#Convert dirty modules into something readable.
 #Add weapon stats to weight the stats better.
-#Automatically upload results to website.
-#GUI. 
+#Calculate weapon grades on different ranks, as of now it just calculates rank 8.
+#Automatically upload results to a website.
+#Convert dirty modules into something readable.
 
 
 
@@ -25,5 +25,5 @@ def createEverything():
     print("Rivens searched: " + str(len(res)))
 
 settings.init()
-userCommands.greatSearch()
+userCommands.defineSearch()
 createEverything()

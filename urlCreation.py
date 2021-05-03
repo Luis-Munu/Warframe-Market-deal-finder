@@ -125,7 +125,7 @@ def dataCreation():
         urlList.extend(weaponUrls(settings.weaponName, settings.weaponStats))
         
     urlList = list(set(urlList))
-    TimeLeft = time.strftime("%H:%M:%S", time.gmtime(len(urlList)*1.75))
+    TimeLeft = time.strftime("%H:%M:%S", time.gmtime(len(urlList)))
     print(str(len(urlList)) + " possible riven combinations. Estimated wait time: " + str(TimeLeft))
 
     return urlList

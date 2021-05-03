@@ -18,7 +18,7 @@ def processData(response):
         #Adds the riven into the rivenList.
         rivenList.add(riven.Riven(auction["item"]["weapon_url_name"], auction["item"]["name"], 
         auction["starting_price"], auction["buyout_price"], auction["owner"]["ingame_name"], auction["item"]["polarity"], 
-        auction["item"]["re_rolls"], auction["item"]["mastery_level"], stats))
+        auction["item"]["re_rolls"], auction["item"]["mastery_level"], auction["item"]["mod_rank"], stats))
     return rivenList
 
 def exportTxt(results):

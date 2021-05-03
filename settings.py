@@ -82,8 +82,10 @@ def createDirectory():
     for fpath in [wantedPath, unwantedPath]:
         os.mkdir(fpath)
         os.mkdir(fpath + "\\Godrolls")
+        os.mkdir(fpath + "\\Personal Use")
         os.mkdir(fpath + "\\Decents")
-        os.mkdir(fpath + "\\Good_ones")
+        os.mkdir(fpath + "\\Normal ones")
+        os.mkdir(fpath + "\\Bad ones")
         os.mkdir(fpath + "\\Unrolleds")
         os.mkdir(fpath + "\\Trashcan")
 

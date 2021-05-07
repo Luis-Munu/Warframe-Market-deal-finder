@@ -1,19 +1,59 @@
-import settings
+import settings, rivenRelisting
 
 #File used to ask the user for his search preferences. The code seems dirty but until python adds a switch function
 #I see no other way.
 
+
+def chooseMode():
+    while True:
+        print("Which mode do you want to use?:\n")
+        print("1. Search rivens\n")
+        print("2. Relist my auctions\n")
+        try: mode= int(input("Introduce a number: "))
+        except ValueError:
+            print("Write a number between 1 and 2. \n")
+        if 0 < mode  < 3: break
+    if mode == 1: 
+        defineSearch()
+    elif mode == 2: 
+        askForCredentials()
+    return mode
+        
+
+def askForCredentials():
+    while True:
+        print("Do you want to relist all your auctions or only the ones without bids?:\n")
+        print("1. All the auctions\n")
+        print("2. Only the ones without bid\n")
+        try: bids= int(input("Introduce a number: "))
+        except ValueError:
+            print("Write a number between 1 and 2. \n")
+        if 0 < bids  < 3: break
+    if bids == 2: rivenRelisting.relistWithoutBids=True
+    print("Introduce your warframe.market login credentials:\n")
+    while True:
+        try: email= str(input("Introduce the email associated to your warframe.market account: "))
+        except ValueError:
+            print("An error happened when reading your email, please try again. \n")
+        if email: break
+    while True:
+        try: password= str(input("Introduce your password: "))
+        except ValueError:
+            print("An error happened when reading your password, please try again. \n")
+        if password: break
+    rivenRelisting.login(email, password)
+    rivenRelisting.relistAuctions()
 
 #Asks the user which kind of search he wants to do.
 def defineSearch():
 
     while True:
         print("Which search do you want to use?:\n")
-        print("1. Fast search (Low amount of rivens. Specific rolls, unrolleds for wanted weapons, generic godrolls\n")
-        print("2. Medium search (Medium amount of rivens. Will also search for unrolleds for unwanted weapons\n")
-        print("3. Slow search (High amount of rivens. Will also search for godrolls for the wanted weapons\n")
-        print("4. Infinite search (Great amount of rivens. Will also search for godrolls for all the weapons\n")
-        print("5. Specific search (Only searches for a weapon or your specific combinations\n")
+        print("1. Fast search (Low amount of rivens. Specific rolls, unrolleds for wanted weapons, generic godrolls)\n")
+        print("2. Medium search (Medium amount of rivens. Will also search for unrolleds for unwanted weapons)\n")
+        print("3. Slow search (High amount of rivens. Will also search for godrolls for the wanted weapons)\n")
+        print("4. Infinite search (Great amount of rivens. Will also search for godrolls for all the weapons)\n")
+        print("5. Specific search (Only searches for a weapon or your specific combinations)\n")
         try: searchType = int(input("Introduce a number\n"))
         except ValueError:
             print("Write a number between 1 and 5. \n")
@@ -40,6 +80,7 @@ def specificSearch():
             break
         elif specific == 2: 
             settings.specificSearch = True
+            scanMode()
             break
 
 #Asks the user if he wants a broad search with generic godroll combinations or a specific one for the selected weapon.
@@ -112,5 +153,17 @@ def askForStats():
                     settings.weaponStats["negative"] = statList[statnum].lower().replace(" ", "_")      
                 break
     
-        
+def scanMode():
+    while True:
+        print("Would you like the program to keep searching your specific rivens every 5 minutes?\n")
+        print("If the program finds an auction with the price below your maximum price it will save it and show a message.\n")
+        print("1. Yes\n")
+        print("2. No\n")
+        try: scan = int(input())
+        except ValueError:
+            print("Introduce a number between 1 and 2")
+        if scan == 1:
+            settings.scanMode = True
+            break
+        elif scan == 2 : break
 

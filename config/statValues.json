@@ -59,12 +59,12 @@
          "posWeigth3": -30,
          "posWeigth4": -30,
          "posWeigth5": -30,
-         "negWeigth0": 25,
-         "negWeigth1": 25,
-         "negWeigth2": 25,
-         "negWeigth3": 25,
-         "negWeigth4": 25,
-         "negWeigth5": 25
+         "negWeigth0": 30,
+         "negWeigth1": 30,
+         "negWeigth2": 30,
+         "negWeigth3": 30,
+         "negWeigth4": 30,
+         "negWeigth5": 30
       },
    "slash_damage":
       {
@@ -103,12 +103,12 @@
          "posWeigth3": -30,
          "posWeigth4": -30,
          "posWeigth5": -30,
-         "negWeigth0": 25,
-         "negWeigth1": 25,
-         "negWeigth2": 25,
-         "negWeigth3": 25,
-         "negWeigth4": 25,
-         "negWeigth5": 25 
+         "negWeigth0": 20,
+         "negWeigth1": 20,
+         "negWeigth2": 20,
+         "negWeigth3": 20,
+         "negWeigth4": 20,
+         "negWeigth5": 20
       },
    "critical_chance":
       {

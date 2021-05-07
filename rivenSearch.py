@@ -1,4 +1,4 @@
-import settings, urlCreation, rivenRequests, processData, userCommands
+import settings, urlCreation, rivenRequests, processData, userCommands, rivenRelisting
 
 
 #Speed could be vastly improved if warframe.market responses didn't have a size cap or I filtered the search.
@@ -15,15 +15,17 @@ import settings, urlCreation, rivenRequests, processData, userCommands
 
 def createEverything():
 
-    res = urlCreation.dataCreation()        #Gets the urls for the searches we have to do.
-    res = rivenRequests.massRivenRequest(res)  #Requests said searches to the server and returns them.
-    res = processData.processData(res)      #Processes the requests and converts them into Riven objects.
+    res = urlCreation.dataCreation()                        #Gets the urls for the searches we have to do.
+    if settings.scanMode:
+        rivenRequests.scanMode(res)
+    else:
+        res = rivenRequests.massRivenRequest(res)               #Requests said searches to the server and returns them.
+        res = processData.processData(res)                      #Processes the requests and converts them into Riven objects.
 
-    res = sorted(res, key=lambda riven: (riven.BuyoutPrice, riven.InitialPrice))    #Sorts them by price.
-    processData.exportTxt(res)              #Exports them into txt files.
+        res = sorted(res, key=lambda riven: (riven.BuyoutPrice, riven.InitialPrice))    #Sorts them by price.
+        processData.exportTxt(res)              #Exports them into txt files.
 
-    print("Rivens searched: " + str(len(res)))
+        print("Rivens searched: " + str(len(res)))
 
 settings.init()
-userCommands.defineSearch()
-createEverything()
+if userCommands.chooseMode()==1: createEverything()

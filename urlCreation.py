@@ -87,8 +87,10 @@ def unrolledUrls():
 #It creates a list of urls for specific users inputted by the user in the files.
 def specificUrls():
     result = set()
-    for riv in list(settings.wishedRivens.keys()):
-        for url in createSpecificUrl(riv, settings.wishedRivens[riv], False): result.add(url)
+    for riv in settings.wishedRivens:
+        for wishedRoll in settings.wishedRivens[riv]:
+            for url in createSpecificUrl(riv, wishedRoll["stats"], False): result.add(url)
+        
     return list(result)
 
 #Module used in the specific situation the user just want to search for combos for a single weapon.

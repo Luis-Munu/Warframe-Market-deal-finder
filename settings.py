@@ -33,6 +33,8 @@ specificWeapon = False
 weaponName = ""
 weaponStats = {}
 
+scanMode = False
+
 ########################################################################################################
 #GLOBAL VARIABLES USED AROUND ALL THE FILES
 
@@ -79,15 +81,18 @@ def createDirectory():
     os.mkdir(folderPath)
     wantedPath = folderPath + "\\Wanted Weapons"
     unwantedPath = folderPath + "\\Unwanted Weapons"
+    folderNames = ["\\Primaries", "\\Shotguns", "\\Pistols", "\\Archguns", "\\Melees", "\\Heavies"]
     for fpath in [wantedPath, unwantedPath]:
         os.mkdir(fpath)
-        os.mkdir(fpath + "\\Godrolls")
-        os.mkdir(fpath + "\\Personal Use")
-        os.mkdir(fpath + "\\Decents")
-        os.mkdir(fpath + "\\Normal ones")
-        os.mkdir(fpath + "\\Bad ones")
-        os.mkdir(fpath + "\\Unrolleds")
-        os.mkdir(fpath + "\\Trashcan")
+        for wpath in folderNames:
+            os.mkdir(fpath + wpath)
+            os.mkdir(fpath + wpath + "\\Godrolls")
+            os.mkdir(fpath + wpath + "\\Personal Use")
+            os.mkdir(fpath + wpath + "\\Decents")
+            os.mkdir(fpath + wpath + "\\Normal ones")
+            os.mkdir(fpath + wpath + "\\Bad ones")
+            os.mkdir(fpath + wpath + "\\Unrolleds")
+            os.mkdir(fpath + wpath + "\\Trashcan")
 
 #Load the weapon, stats, rolls and variants database.
 def loadData():
@@ -136,10 +141,4 @@ def loadData():
     with open("weaponVariants.csv") as f:
         for weapon in reader(f): weaponVariants.append(weapon[0])
         f.close()
-    """with open("decentPositives.csv") as f:
-        decentPositives = list(reader(f))
-        f.close()"""
-    """with open("decentNegatives.csv") as f:
-        decentNegatives = list(reader(f))
-        f.close()"""
     os.chdir(folderPath)

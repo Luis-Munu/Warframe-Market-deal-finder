@@ -1,7 +1,7 @@
 # WFM-Riven-Search
 A personal project that includes some warframe.market utilities. It allows you to relist all your auctions at once, search for godrolls, unrolleds and specific rolls faster and easier while showing grades and a riven rating along with the stats.
 
-It also has a scanner mode that constantly searches for specific rolls behind your price, and alerts you while it find any.
+It also has a scanner mode that constantly searches for specific rolls behind your price, and alerts you if it finds any auction.
 
 To use it you may need to install some libraries first with the command "pip3 install library", after that just write the command: "python rivenSearch.py" on a cmd/powershell and you're set up.
 
@@ -32,6 +32,9 @@ If I get the time, I'll try to add stat weighting to the riven rating system, an
 
 
 TODO LIST:
+
 Add weapon stats to get a better stat weighting, using some presets and specific cases. (Thanks Mutalist)
+
 A decent GUI.
+
 Automatically upload results to a website.

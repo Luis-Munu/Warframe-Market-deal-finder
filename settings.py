@@ -23,16 +23,18 @@ deletePreviousFolder = True
 
 #Non Existant search is an untested search that last for an almost infinite amount of time.
 #It returns all the godrolls and unrolleds for both wanted and unwanted weapons.
-
-#Set all to false to get fastSearch
-
+fastSearch = False
 mediumSearch = False
 slowSearch = False
 nonExistantSearch = False
 
-#Used for debugs.
-search = True
+specificSearch = False
+specificWeapon = False
+weaponName = ""
+weaponStats = {}
 
+scanRiven = False
+scanDucats = False
 ########################################################################################################
 #GLOBAL VARIABLES USED AROUND ALL THE FILES
 
@@ -47,6 +49,7 @@ unwantedPath=""
 #Lists used as database.
 weaponList = {}
 weaponVariants = []
+specialWeaponNames = []
 statList = {}
 combinations = {}
 
@@ -81,15 +84,17 @@ def createDirectory():
     unwantedPath = folderPath + "\\Unwanted Weapons"
     for fpath in [wantedPath, unwantedPath]:
         os.mkdir(fpath)
-        os.mkdir(fpath + "\\Godrolls")
-        os.mkdir(fpath + "\\Decents")
-        os.mkdir(fpath + "\\Good_ones")
-        os.mkdir(fpath + "\\Unrolleds")
-        os.mkdir(fpath + "\\Trashcan")
+        os.mkdir(fpath  + "\\Godrolls")
+        os.mkdir(fpath  + "\\Personal Use")
+        os.mkdir(fpath  + "\\Decents")
+        os.mkdir(fpath  + "\\Normal ones")
+        os.mkdir(fpath  + "\\Bad ones")
+        os.mkdir(fpath  + "\\Unrolleds")
+        os.mkdir(fpath  + "\\Trashcan")
 
 #Load the weapon, stats, rolls and variants database.
 def loadData():
-    global weaponList, statList, combinations, wishedWeapons
+    global weaponList, statList, combinations, wishedWeapons, specialWeaponNames
     global wishedUnrolleds, weaponVariants, wishedRivens, wishedNegatives, decentPositives
 
     os.chdir(path+"\\config")
@@ -132,13 +137,10 @@ def loadData():
         f.close()
     #List with all the weapon variant names. For disposition purposes.
     with open("weaponVariants.csv") as f:
-        weaponVariants = [""]
         for weapon in reader(f): weaponVariants.append(weapon[0])
         f.close()
-    """with open("decentPositives.csv") as f:
-        decentPositives = list(reader(f))
-        f.close()"""
-    """with open("decentNegatives.csv") as f:
-        decentNegatives = list(reader(f))
-        f.close()"""
+    #List with weapons that only exist in a variant form. For disposition purposes.
+    with open("specialWeaponNames.csv") as f:
+        for weapon in reader(f): specialWeaponNames.append(weapon[0])
+        f.close()
     os.chdir(folderPath)

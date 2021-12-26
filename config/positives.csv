@@ -2,5 +2,5 @@ multishot,base_damage_/_melee_damage,critical_chance,critical_damage, toxin_dama
 multishot,base_damage_/_melee_damage,critical_chance,critical_damage, toxin_damage
 multishot,base_damage_/_melee_damage,critical_chance,critical_damage, toxin_damage
 multishot,base_damage_/_melee_damage,critical_chance,critical_damage, toxin_damage
-toxin_damage,status_chance,critical_chance,critical_damage,base_damage_/_melee_damage,range,fire_rate_/_attack_speed
-toxin_damage,status_chance,critical_chance,critical_damage,base_damage_/_melee_damage,range,fire_rate_/_attack_speed
+toxin_damage,critical_damage,base_damage_/_melee_damage,range,fire_rate_/_attack_speed,critical_chance
+critical_chance,critical_damage,base_damage_/_melee_damage,range,fire_rate_/_attack_speed,channeling_damage

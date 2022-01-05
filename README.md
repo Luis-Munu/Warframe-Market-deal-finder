@@ -1,35 +1,33 @@
 # WFM-Riven-Search
 
-A project made to search for godrolls, unrolleds and specific rolls faster and easier, it shows grades and a riven rating along with the stats.
+A personal project created as a compilation of warframe.market tools.
+As of now it's able to search automatically for godrolls, unrolleds and specific rolls much faster and easier than manually, it's able to show additional information about the found rivens, such as stat grades and a riven rating.
 
-To use it just write the command: "python rivenSearch.py"
+It also scans the market to search for the best items to convert into ducats, into endo, best relics to buy and sell, good deals.
 
-There're 4 types of search, depending on the speed of the search, the number of rivens received increases or diminishes:
+It currently uses Python 3.9.7, install the library ratelimit using the command "pip install ratelimit" and execute the main file using "python riven_search.py" on the project folder.
 
-A fast one that will search for generic and specific godrolls and takes a minute to complete.
+There're several search modes, depending on the speed the user needs, but the number of rivens scanned greatly scales with execution time.
+As of now it's recommended to do a fast search if you need the results in 2-3 minutes and a slow search which gives a pretty accurate representation of wfm rivens in 30 minutes.
 
-A medium one that will search for generic godrolls for wanted weapons, specific godrolls and unrolleds for every weapon. Takes 5 minutes to complete.
+The user can change the wanted weapons, rolls and many other settings editing the files inside the config folder.
 
-A slow one that will search for generic godrolls for wanted weapons along with generic godrolls, specific godrolls and unrolleds for every weapon. Takes 15 minutes to complete.
-
-A terribly slow one that will search for godrolls and unrolleds for every weapon along with specific godrolls. Can take up to infinity.
-
-To change the stats, rolls or weapons being searched for just add or remove them in the config files.
-There's a general rule to edit these files. The rows indicates the type of weapon. 0 primaries, 1 shotguns, 2 pistols, 3 archguns, 4 normal melees, 5 heavy attack melees.
+The common order to use when editing rolls or weapons is this one: 0 primaries, 1 shotguns, 2 pistols, 3 normal melees, 4 archguns.
 
 To add or remove weapons edit wantedWeapons.csv
 
-To add or remove decent positives edit decentPositives.csv
-
-To add or remove negatives edit negatives.csv
-
 To add or remove rolls edit wantedRolls.json
 
-If I get the time, I'll try to add stat weighting to the riven rating system, and maybe, in the future, weight them around specific weapon stats.ie a non crit weapon don't want critical damage or critical chance.
+As of now there're several things to do, which I may continue in the following months.
 
 TODO LIST:
-User interface
-Ability to search for just one weapon or specific combo on the go.
-Stat weighting.
-Add weapon stats to get a better stat weighting.
-Automatically upload results to a website.
+Ask for math advice to upgrade the weighting system.
+
+Repair the relic search system, it currently fails at rating a relic.
+
+Create an update method to automatically update all the item databases.
+
+Implement a search to create buy orders on the items with better sell/buy diff ratio if they have decent volume.
+Slightly change the UI to let people search for statsticks or not. As of now they're searched by default, but they can be disabled by editing the lines 121, 155 and 168 removing the "st" of the file names.
+
+User interface, although this requires more time than I'm currently able to input on this.

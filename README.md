@@ -22,12 +22,8 @@ As of now there're several things to do, which I may continue in the following m
 
 TODO LIST:
 Ask for math advice to upgrade the weighting system.
-
 Repair the relic search system, it currently fails at rating a relic.
-
 Create an update method to automatically update all the item databases.
-
 Implement a search to create buy orders on the items with better sell/buy diff ratio if they have decent volume.
 Slightly change the UI to let people search for statsticks or not. As of now they're searched by default, but they can be disabled by editing the lines 121, 155 and 168 removing the "st" of the file names.
-
 User interface, although this requires more time than I'm currently able to input on this.

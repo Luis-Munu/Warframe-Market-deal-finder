@@ -1,241 +1,375 @@
-import settings,utils
-#Class used to store all riven-related data and means to calculate it.
+"""Module used to store riven-related data and means to calculate it.
+Logic and data should be separated but I'm too mongolic to do it yet"""
+
+import settings
+import utils
+import rating_profile
+
 
 class Riven:
+    """class used to store all riven-related data and means to calculate it."""
 
-    #Defines a method used by set to be able to compare rivens by hash in order to ignore possible duplicates.
-    def __eq__(self, other):
-        return self.Weapon == other.Weapon and self.Name == other.Name and self.Seller == other.Seller
-        
-    #Defines a method used by set to be able to compare rivens by hash in order to ignore possible duplicates.
-    def __hash__(self):
-        return hash((self.Weapon, self.Name, self.Seller))
+    def __init__(
+        self,
+        weapon="",
+        name="",
+        initial_price=-1,
+        buyout_price=-1,
+        seller="",
+        polarity="",
+        rerolls=-1,
+        mastery_rank=-1,
+        riven_rank=-1,
+        stats=[],
+    ):
+        self.weapon_name = weapon  # name of the weapon.
+        self.name = name.capitalize()  # name of the riven.
+        self.initial_price = initial_price  # starting price of the auction.
+        self.buyout_price = buyout_price  # buyout price of the auction.
+        self.seller = seller  # name of the seller.
+        self.stats = stats  # stats of the riven.
+        self.polarity = polarity.capitalize()  # polarity of the riven.
+        self.rerolls = rerolls  # number of rerolls.
+        self.mastery_rank = mastery_rank  # mastery rank needed to use the riven.
+        self.riven_rank = riven_rank  # rank of the riven
+        self.buyout_price = buyout_price if buyout_price else 99999  # buyout price of the riven.
+        self.riven_type = utils.get_weapon_type(self.weapon_name)
+        self.weapon = self.get_strongest_version()
+        self.outdated = False  # indicates if the stats are outdated or wrong.
+        self.disposition = [
+            self.get_disposition(x) for x in self.get_ocurrences()
+        ]  # possible riven dispositions
+        self.wantedweapon = (
+            self.check_wanted()
+        )  # indicates if the riven is in the wanted weapons list.
+        self.grades = self.get_grades()  # checks stats grades.
+        self.riven_rate = self.checkstats()  # riven rating based on checkstats algorithm.
+        self.paths = self.prepare_paths()
+        self.real_value = self.riven_rate / self.buyout_price * 100
+        self.message = self.riv_to_text()
 
-    def __init__(self, Weapon="", Name="", InitialPrice=-1, BuyoutPrice=-1, Seller="", Polarity="", Rerolls=-1, MasteryRank=-1, RivenRank=-1, Stats=[]):
-        self.Weapon = Weapon                                    #Name of the weapon.
-        self.Name= Name.capitalize()                            #Name of the riven.
-        self.InitialPrice = InitialPrice                        #Starting price of the auction.
-        self.BuyoutPrice = BuyoutPrice                          #Buyout price of the auction.
-        self.Seller = Seller                                    #Name of the seller.
-        self.Stats = Stats                                      #Stats of the riven.
-        self.Polarity = Polarity.capitalize()                   #Polarity of the riven.
-        self.Rerolls = Rerolls                                  #Number of rerolls.
-        self.MasteryRank = MasteryRank                          #Mastery rank needed to use the riven.
-        self.RivenRank = RivenRank                              #Rank of the riven
-        self.BuyoutPrice = BuyoutPrice if BuyoutPrice else 99999#Buyout price of the riven.
-        self.RivenType = utils.getWeaponType(self.Weapon)
-        self.Outdated = False                                   #Indicates if the stats are outdated or wrong.
-        self.Disposition = [self.getDisposition(x) for x in self.getOcurrences()] #Riven possible dispositions
-        self.WantedWeapon = self.checkWanted()                   #Indicates if the riven is in the wanted Weapons list.
-        self.RivenRate = self.checkStats()                      #Riven rating based on checkStats algorithm.
-        self.getGrades()                                        #Checks stats grades.
-        self.Paths = self.preparePaths()
+    def get_disposition(self, weapon):
+        """Gets the disposition of a weapon given the name."""
 
+        return settings.weapon_list[self.riven_type][weapon]["disposition"]
 
-    #Returns the disposition of a weapon given the name.
-    def getDisposition(self, weapon):
-        return settings.weaponList[weapon]["disposition"]
+    def check_wanted(self):
+        """checks if the weapon is wanted for godrolls, specific rolls and unrolleds."""
 
-    #Checks if the weapon is wanted for godrolls, specific rolls and unrolleds.
-    def checkWanted(self):
-        if self.Weapon in settings.wishedUnrolleds: return True 
-        if any(self.Weapon == x for x  in settings.wishedRivens): return True 
-        for i in self.RivenType:
-            if len(settings.wishedWeapons) < i: continue
-            if self.Weapon in settings.wishedWeapons[i]: return True 
+        if self.weapon_name in settings.wished_unrolleds:
+            return True
+        if any(self.weapon_name == x for x in settings.wished_rivens):
+            return True
+        if self.weapon_name in settings.wished_weapons[self.riven_type]:
+            return True
         return False
 
+    def get_ocurrences(self):
 
-    #Finds any variants a weapon may have. Dirty but fast code.
-    #Check conditions for each weapon that has self.Weapon inside their name.
-    #The conditions are:
-    #1: It starts with the weapon name.
-    #2: It contains the weapon name and also a a variant name.
-    #Only one condition is needed to be true.
-    def getOcurrences(self):
-        #first gets a list with all weapons that contain given weapon in the name.
-        WeaponList = [weapon3 for weapon3 in settings.weaponList.keys() if self.Weapon in weapon3] 
-        return [weaponName for weaponName in WeaponList if weaponName.startswith(self.Weapon) or 
-        (utils.checkVariant(weaponName) and self.Weapon in weaponName)]
+        """Finds any variants a weapon may have. dirty but fast code.
+        check conditions for each weapon that has self.weapon_name inside their name.
+        the conditions are:
+        1: it starts with the weapon name.
+        2: it contains the weapon name and also a a variant name.
+        only one condition is needed to be True."""
+        # first gets a list with all weapons that contain given weapon in the name.
+        weapon_list = [
+            weapon
+            for category in settings.weapon_list
+            for weapon in category.keys()
+            if self.weapon_name in weapon and self.weapon_name in category
+        ]
+        return [
+            weaponname
+            for weaponname in weapon_list
+            if weaponname == self.weapon_name
+            or (utils.check_variant(weaponname) and self.weapon_name in (weaponname))
+        ]
 
-    #Rates the stats of the riven, given a weapon type and a combination of good stats for the weaponType.
-    #As of now the punctuation goes as follows:
-    #+25 per settings.wished positive.
-    #+10 per decent positive.
-    #-20 per wasted positive.
-    #+25 per settings.wished negative.
-    #-100 if negative is on the settings.wished positives list.
-    #-20 per wasted negative.
-    #I want to try to add different weights to the stat in the future. So that a -reload speed neg isn't as bad as -dmg.
-    def rateStats(self, stats, weaponType):
-        punctuation = 0
-        for stat in stats:
-            if stat[0] == True:
-                punctuation+=settings.statList[stat[1]]["posWeigth" + str(weaponType)]
-            else: punctuation+=settings.statList[stat[1]]["negWeigth" + str(weaponType)]
-        #If 2 pos 1 neg
-        if stats[-1][0]== False:
-            if len(stats) == 3 and punctuation >= 75: punctuation += 10
-        else: 
-            punctuation -= 20
+    def get_strongest_version(self):
+        """Finds the best version of the weapon, useful to weight stats when rating rivens"""
+
+        versions = self.get_ocurrences()
+        strongest = utils.get_weapon(self.weapon_name)
+        for version in versions:
+            if utils.get_weapon(version)["critical_chance"] > strongest["critical_chance"]:
+                strongest = utils.get_weapon(version)
+        return strongest
+
+    def ratestats(self):
+        """Rates the stats of the riven based on the profiles of the weapon."""
+        self.punctuations = rating_profile.rate_riven(self)
+        return self.punctuations[0][1]
+
+    def checkstats(self):
+        """Punctuation system. it checks how good the riven stats are against
+        settings.wished or decent combinations of they type."""
+
+        punctuation = self.ratestats()
+
+        if self.weapon_name in settings.wished_rivens:
+            for wished_roll in settings.wished_rivens[self.weapon_name]:
+                stats = [stat[1] for stat in self.stats]
+                if utils.compare_stats(list(wished_roll["stats"].values()), stats):
+                    punctuation = 80
+                    if self.stats[-1][0] is False:
+                        punctuation += max(
+                            settings.weights_list[self.riven_type][key][self.stats[-1][1]][1]
+                            for key in settings.weights_list[self.riven_type].keys()
+                        )
+                    break
+
         return punctuation
- 
 
-    #Punctuation system. It checks how good the riven stats are against settings.wished or decent combinations of they type.
-    def checkStats(self):
-        bestPunctuation = -9999
-        for weaponType in self.RivenType:
-            #Little band-aid for heavy attack weapons.
-            for i in range(4,5):
-                if weaponType == i and len(settings.wishedWeapons) >= i and self.Weapon not in settings.wishedWeapons[i]: continue
-            punctuation = self.rateStats(self.Stats, weaponType)
-            if self.Weapon in settings.wishedRivens:
-                for wishedRoll in settings.wishedRivens[self.Weapon]:
-                    stats = [stat[1] for stat in self.Stats]
-                    if utils.compareStats(list(wishedRoll["stats"].values()), stats):
-                        punctuation = 100
-                        if self.Stats[-1][0] == False: punctuation += self.rateStats([self.Stats[-1]], weaponType)
-                        break
-                    
-            if punctuation > bestPunctuation: bestPunctuation = punctuation 
+    def calculate_grade(self, stat, dispo, fakerank):
+        """Gets the proper grade of the stat,
+        trying every disposition and also checks for fake ranks"""
 
-        return bestPunctuation
-
-    def calculateGrade(self, stat, dispo, fakeRank):
-        #Gets the base value of the stat based on the weapon Type.
-        res = abs(settings.statList[stat[1]]["value" + str(self.RivenType[0])]) * dispo
-        res = (res/9)*(self.RivenRank+1) if fakeRank == False else res
-        #If there is negative.
-        if self.Stats[-1][0] == False: 
-            #If the stat is negative.
-            if stat[0] == False:
-                #If 2 positives.
-                if len(self.Stats) == 3: res *= 0.5
-                #If 3 positives.
-                else: res *= 0.7575
-            #If 2 positives.
-            elif len(self.Stats) == 3: res *=  1.25 
-            #If 3 positives.
-            else: res *= 0.947 
-        #If there is no negative.
-        else: 
-            #If 2 positives.
-            if len(self.Stats) == 3: res *= 0.7575
-        #Puts res in a 0-1 scale. Formula is (Value - Minimum) / (Maximum - Minimum).
-        res = (abs(stat[2])-res*0.9)/(res*1.1-res*0.9) if res !=0 else 0
-        #Above calculations should be changed based on the new scale, however it's easier to work with this one.
-        if stat[1] == "range" and res > 1 and res <1.1: res = 1
-        elif stat[1] == "range" and (res < 0 and res > -0.1): res = 0
+        # gets the base value of the stat based on the weapon type.
+        res = abs(settings.stat_list[stat[1]]["value" + str(self.riven_type)]) * dispo
+        res = (res / 9) * (self.riven_rank + 1) if not fakerank else res
+        # if there is negative.
+        if self.stats[-1][0] is False:
+            # if the stat is negative.
+            if stat[0] is False:
+                # if 2 positives.
+                if len(self.stats) == 3:
+                    res *= 0.5
+                # if 3 positives.
+                else:
+                    res *= 0.7575
+            # if 2 positives.
+            elif len(self.stats) == 3:
+                res *= 1.25
+            # if 3 positives.
+            else:
+                res *= 0.947
+        # if there is no negative.
+        else:
+            # if 2 positives.
+            if len(self.stats) == 3:
+                res *= 0.7575
+        # puts res in a 0-1 scale. formula is (value - minimum) / (maximum - minimum).
+        res = (abs(stat[2]) - res * 0.9) / (res * 1.1 - res * 0.9) if res != 0 else 0
+        # above calculations should be changed based on the new scale
+        # however it's easier to work with this one.
+        if stat[1] == "range" and (1.1 > res > 1):
+            res = 1
+        elif stat[1] == "range" and (0 > res > -0.1):
+            res = 0
         return res
 
-    #Calculates the grade of the stat of a riven. 
-    #If the grades aren't compatible with a given disposition it tries with other ones, if the weapon has any variant.
-    #If there is no disposition to which grades are good it returns the closest one based on a distance system.
-    #The formula is: base stat value based on weapon type * disposition * stat system.
-    #The system calculates res based on these rules:
-    #If the weapon has 3 positives and a negative the positives are weighted *0.947 and the negative *0.7575.
-    #If the weapon has 2 positives and a negative the positives are weighted *1.25 and the negative *0.5.
-    #If the weapon has 3 positives and no negative the positives are weighted *0.7575.
-    #If the weapon has 2 positives and no negative the positives stay the same.
-    def calculateGrades(self,fakeRank):
-        grades = [0,0,0,0]
-        bestDistance = 9999
+    def calculate_grades(self, fakerank):
+        """Calculates the grade of the stat of a riven.
+        if the grades aren't compatible with a given disposition it tries with other ones,
+        if the weapon has any variant.
+        if there is no disposition to which grades are good it returns the closest one
+        based on a distance system.
+        the formula is: base stat value based on weapon type * disposition * stat system.
+        the system calculates res based on these rules:
+        if the weapon has 3 positives and a negative the positives are
+        weighted *0.947 and the negative *0.7575.
+        if the weapon has 2 positives and a negative the positives are
+        weighted *1.25 and the negative *0.5.
+        if the weapon has 3 positives and no negative the positives are weighted *0.7575.
+        if the weapon has 2 positives and no negative the positives stay the same."""
 
-        for dispo in self.Disposition:
-            distance, buenGrade = 0, 0
-            gradesAux = []
-            for stat in self.Stats:
-                res = self.calculateGrade(stat, dispo, fakeRank)
-                gradesAux.append(res)
-                #If res is within the 0-1 scale then the grade is good.Otherwise we get the distance to said range.
-                if res < 1 and res > 0 : buenGrade+=1
-                else: 
-                    if res < 0: distance += abs(res)
-                    else: distance+= res - 1
-            #If all the stats have grades within 0-1 scale it returns them. 
-            #Else if the distance is less than the current best distance it updates the grades and the distance.
-            if buenGrade == len(self.Stats): return gradesAux
-            elif distance < bestDistance:
-                grades = gradesAux
-                bestDistance = distance
-        
-        if bestDistance > 30 and fakeRank == False: return self.calculateGrades(True)
-        if any(0 > grade or grade > 1.1 for grade in grades): self.Outdated = True
+        grades = [0, 0, 0, 0]
+        best_distance = 9999
+
+        for dispo in self.disposition:
+            distance, buen_grade = 0, 0
+            grades_aux = []
+            for stat in self.stats:
+                res = self.calculate_grade(stat, dispo, fakerank)
+                grades_aux.append(res)
+                # if res is within the 0-1 scale then the grade is good.
+                # otherwise we get the distance to said range.
+                if 0 < res < 1:
+                    buen_grade += 1
+                else:
+                    if res < 0:
+                        distance += abs(res)
+                    else:
+                        distance += res - 1
+            # if all the stats have grades within 0-1 scale it returns them.
+            # else if the distance is less than the current best
+            # distance it updates the grades and the distance.
+            if buen_grade == len(self.stats):
+                self.disposition = dispo
+                return grades_aux
+            if distance < best_distance:
+                grades = grades_aux
+                best_distance = distance
+
+        if best_distance > 30 and fakerank is False:
+            return self.calculate_grades(True)
+        if any(0 > grade or grade > 1.1 for grade in grades):
+            self.outdated = True
+        self.disposition = self.disposition[0]
         return grades
-    #This module normalizes the grades then calculates its punctuation based on Simodeus bot's.
-    def getGrades(self):
-        self.Grades = [(grade - 0)/ (1 - 0)*(10 - -10) + -10 for grade in self.calculateGrades(False)]
-        self.GradeLetters = []
-        for grade in self.Grades:
-            if grade > 9.5: self.GradeLetters.append("S")
-            elif grade > 7.5: self.GradeLetters.append("A+")
-            elif grade > 5.5: self.GradeLetters.append("A")
-            elif grade > 3.5: self.GradeLetters.append("A-")
-            elif grade > 1.5: self.GradeLetters.append("B+")
-            elif grade > -1.5: self.GradeLetters.append("B")
-            elif grade > -3.5: self.GradeLetters.append("B-")
-            elif grade > -5.5: self.GradeLetters.append("C+")
-            elif grade > -7.5: self.GradeLetters.append("C")
-            elif grade > -9.5: self.GradeLetters.append("C-")
-            else: self.GradeLetters.append("F")
-    def preparePaths(self):
+
+    def get_grades(self):
+        """This module normalizes the grades then calculates
+        its punctuation based on simodeus bot's."""
+
+        grades = [utils.scale_range(grade, 0, 1, -10, 10) for grade in self.calculate_grades(False)]
+        self.grade_letters = []
+        for grade in grades:
+            if grade > 9.5:
+                self.grade_letters.append("S")
+            elif grade > 7.5:
+                self.grade_letters.append("A+")
+            elif grade > 5.5:
+                self.grade_letters.append("A")
+            elif grade > 3.5:
+                self.grade_letters.append("A-")
+            elif grade > 1.5:
+                self.grade_letters.append("B+")
+            elif grade > -1.5:
+                self.grade_letters.append("B")
+            elif grade > -3.5:
+                self.grade_letters.append("B-")
+            elif grade > -5.5:
+                self.grade_letters.append("C+")
+            elif grade > -7.5:
+                self.grade_letters.append("C")
+            elif grade > -9.5:
+                self.grade_letters.append("C-")
+            else:
+                self.grade_letters.append("F")
+        return grades
+
+    def prepare_paths(self):
+        """Creates the paths and files that the riven will write its information in"""
+
         paths = []
-        if self.WantedWeapon == True:
-            path = settings.wantedPath  
-        else: path = settings.unwantedPath
+        if self.wantedweapon is True:
+            path = settings.wanted_path
+        else:
+            path = settings.unwanted_path
         paths.append(path + "\\All rivens.txt")
-        if self.Rerolls == 0: 
+        if self.rerolls == 0:
             paths.append(path + "\\Unrolleds\\Unrolled list.txt")
-            paths.append(path + "\\Unrolleds\\Unrolled " + self.Weapon.capitalize().replace("_", " ") + ".txt")
-        if self.RivenRate >= 100: 
-            paths.append(path + "\\Godrolls\\Godrolls.txt")
-            paths.append(path + "\\Godrolls\\" + self.Weapon.capitalize().replace("_", " ") + " godrolls.txt")
-        elif self.RivenRate >= 85: 
-            paths.append(path + "\\Personal Use\\Usables.txt")
-            paths.append(path + "\\Personal Use\\Usable " + self.Weapon.capitalize().replace("_", " ") + ".txt")
-        elif self.RivenRate >= 75: 
+            paths.append(
+                path
+                + "\\Unrolleds\\Unrolled "
+                + self.weapon_name.capitalize().replace("_", " ")
+                + ".txt"
+            )
+        if self.riven_rate >= 95:
+            paths.append(path + "\\godrolls\\Godrolls.txt")
+            paths.append(
+                path
+                + "\\Godrolls\\"
+                + self.weapon_name.capitalize().replace("_", " ")
+                + " Godrolls.txt"
+            )
+        elif self.riven_rate >= 85:
+            paths.append(path + "\\Personal use\\Usables.txt")
+            paths.append(
+                path
+                + "\\Personal use\\Usable "
+                + self.weapon_name.capitalize().replace("_", " ")
+                + ".txt"
+            )
+        elif self.riven_rate >= 70:
             paths.append(path + "\\Decents\\Decents.txt")
-            paths.append(path + "\\Decents\\Decent " + self.Weapon.capitalize().replace("_", " ") + ".txt")
-        elif self.RivenRate >= 60: 
+            paths.append(
+                path
+                + "\\Decents\\Decent "
+                + self.weapon_name.capitalize().replace("_", " ")
+                + ".txt"
+            )
+        elif self.riven_rate >= 60:
             paths.append(path + "\\Normal ones\\Normal ones.txt")
-            paths.append(path + "\\Normal ones\\Normal " + self.Weapon.capitalize().replace("_", " ") + ".txt")
-        elif self.RivenRate >= 40: 
+            paths.append(
+                path
+                + "\\Normal ones\\Normal "
+                + self.weapon_name.capitalize().replace("_", " ")
+                + ".txt"
+            )
+        elif self.riven_rate >= 40:
             paths.append(path + "\\Bad ones\\Bad ones.txt")
-            paths.append(path + "\\Bad ones\\Bad " + self.Weapon.capitalize().replace("_", " ") + ".txt")
-        elif self.RivenRate < 40: 
+            paths.append(
+                path + "\\Bad ones\\Bad " + self.weapon_name.capitalize().replace("_", " ") + ".txt"
+            )
+        elif self.riven_rate < 40:
             paths.append(path + "\\Trashcan\\Trash.txt")
-            paths.append(path + "\\Trashcan\\" + self.Weapon.capitalize().replace("_", " ") + " trash.txt")
+            paths.append(
+                path
+                + "\\Trashcan\\"
+                + self.weapon_name.capitalize().replace("_", " ")
+                + " Trash.txt"
+            )
         return paths
-    #Writes the riven data in specified folders depending on the riven caracteristics.
-    def rivToText(self):
-        #The format is:
-        #Riven name
-        #Riven rating
-        #Shows if stats are outdated
-        #Stats + grades
-        #Polarity + Rerolls + MR
-        #Initial price + Buyout price
-        #Dispositions
-        self.Message = "\n\n"
-        #Name.
-        self.Message+="Name: " + self.Weapon.capitalize().replace("_", " ") + " " + self.Name + "\n"
-        #Riven rating.
-        self.Message+="Experimental riven rating: " + str(self.RivenRate) + "\n"
-        #If outdated.
-        if self.Outdated: self.Message+="The stats of this riven don't match its rank, they may be outdated or wrong.\n"
-        #Stats and grades.
-        self.Message+="\nRiven stats: \n"
-        for i in range(len(self.Stats)):
-            self.Message+=settings.statList[self.Stats[i][1]]["name"] + ":  " + str(self.Stats[i][2]) + "\n"
-            if self.Outdated == False: self.Message+="\t\tGrade: " + self.GradeLetters[i] + " (" +str(round(self.Grades[i],2)) +"%)\n"
 
-        self.Message+="\nPolarity: " + self.Polarity + "   Rerolls: " + str(self.Rerolls) + "   MR: " + str(self.MasteryRank) + "\n"
-        self.Message+="Riven rank : " + str(self.RivenRank) + "\n"
-        if self.BuyoutPrice != 99999: self.Message+="Initial Price:  " + str(self.InitialPrice) + "   Buyout price: " + str(self.BuyoutPrice) + "\n"
-        else: self.Message+="Initial Price:  " + str(self.InitialPrice) + "   Buyout price: " +" Infinite \n"
-        self.Message+="Seller: " + self.Seller + "\n"
+    def riv_to_text(self):
+        """Writes the riven data in specified folders depending on the riven caracteristics.
+        the format it wollows is:
+        Riven name
+        Riven rating
+        Shows if stats are outdated
+        Stats + grades
+        Polarity + rerolls + mr
+        Initial price + buyout price
+        Dispositions        message = "\n\n"
+        Name."""
+        message = (
+            "Name: " + self.weapon_name.capitalize().replace("_", " ") + " " + self.name + "\n"
+        )
+        # riven rating.
+        message += "Experimental riven rating: " + str(round(self.riven_rate, 2)) + "\n"
+        # best rating profile
+        message += "Best profile: " + self.punctuations[0][0] + "\n"
+        # other profiles
+        for profile, rating in self.punctuations[1:]:
+            message += profile + ": " + str(rating) + ", "
+        # if outdated.
+        if self.outdated:
+            message += (
+                "\nThe stats of this riven don't match its rank, they may be outdated or wrong.\n"
+            )
+        # stats and grades.
+        message += "\nRiven stats: \n"
+        for i, stat in enumerate(self.stats):
+            message += settings.stat_list[stat[1]]["name"] + ":  " + str(stat[2]) + "\n"
+            if self.outdated is False:
+                message += (
+                    "\t\tGrade: "
+                    + self.grade_letters[i]
+                    + " ("
+                    + str(round(self.grades[i], 2))
+                    + "%)\n"
+                )
 
-        self.Message+="Dispositions: "
-        for dispo in self.Disposition[:-1]: self.Message+= str(dispo) + ", "
-        self.Message+= str(self.Disposition[-1]) + "\n"
-
+        message += (
+            "\nPolarity: "
+            + self.polarity
+            + "   Rerolls: "
+            + str(self.rerolls)
+            + "   MR: "
+            + str(self.mastery_rank)
+            + "\n"
+        )
+        message += "Riven rank : " + str(self.riven_rank) + "\n"
+        if self.buyout_price != 99999:
+            message += (
+                "Initial price:  "
+                + str(self.initial_price)
+                + "   Buyout price: "
+                + str(self.buyout_price)
+                + "\n"
+            )
+        else:
+            message += (
+                "Initial price:  " + str(self.initial_price) + "   Buyout price: " + " infinite \n"
+            )
+        message += "Seller: " + self.seller + "\n"
+        message += "Value/Plat: " + str(round(self.real_value, 2)) + "\n"
+        message += "Used disposition: "
+        message += (
+            str(round(self.disposition, 2))
+            + "\n--------------------------------------------------\n"
+        )
+        return message

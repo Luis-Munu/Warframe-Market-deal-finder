@@ -1,0 +1,225 @@
+{"Primary":{
+	"catchmoon":{
+		"disposition": 1.05, 
+		"critical_chance": 0.35, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.13, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 191, 
+					"heat": 269
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"gaze":{
+		"disposition": 1, 
+		"critical_chance": 0.39, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.17, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"puncture": 8, 
+					"radiation": 12
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"rattleguts":{
+		"disposition": 1, 
+		"critical_chance": 0.33, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.11, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 6.8, 
+					"puncture": 14.8,
+					"slash": 12.8
+				}, 
+				"slashPercent": 0.372
+			}
+		}
+	}, 
+		"sporelacer":{
+		"disposition": 1, 
+		"critical_chance": 0.35, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.13, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 261
+				}, 
+				"slashPercent": 0
+			},
+			"Radial Attack": {
+				"damageTypes": {
+					"toxin": 403
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"tombfinger":{
+		"disposition": 0.85, 
+		"critical_chance": 0.38, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.16, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 20
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"vermisplicer":{
+		"disposition": 0.85, 
+		"critical_chance": 0.39, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.34, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 2, 
+					"puncture": 4,
+					"slash": 5,
+					"toxin": 5
+				}, 
+				"slashPercent": 0.3125
+			}
+		}
+	}
+},
+"Secondary":{
+	"catchmoon":{
+		"disposition": 0.5, 
+		"critical_chance": 0.35, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.13, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 191, 
+					"heat": 269
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"gaze":{
+		"disposition": 0.9, 
+		"critical_chance": 0.39, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.17, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"puncture": 8, 
+					"radiation": 12
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"rattleguts":{
+		"disposition": 0.75, 
+		"critical_chance": 0.33, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.11, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 6.8, 
+					"puncture": 14.8,
+					"slash": 12.8
+				}, 
+				"slashPercent": 0.372
+			}
+		}
+	}, 
+	"sporelacer":{
+		"disposition": 1, 
+		"critical_chance": 0.35, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.13, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 261
+				}, 
+				"slashPercent": 0
+			},
+			"Radial Attack": {
+				"damageTypes": {
+					"toxin": 403
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"tombfinger":{
+		"disposition": 0.65, 
+		"critical_chance": 0.38, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.16, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 20
+				}, 
+				"slashPercent": 0
+			}
+		}
+	}, 
+	"vermisplicer":{
+		"disposition": 1, 
+		"critical_chance": 0.39, 
+		"critical_damage": 2.3, 
+		"status_chance": 0.34, 
+		"type": "Rifle", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {
+					"impact": 2, 
+					"puncture": 4,
+					"slash": 5,
+					"toxin": 5
+				}, 
+				"slashPercent": 0.3125
+			}
+		}
+	}
+},
+"Melee": {
+	"dark_split_sword_(dual_swords)":{
+		"disposition": 1.3, 
+		"critical_chance": 0, 
+		"critical_damage": 2, 
+		"status_chance": 0.10000002, 
+		"type": "Melee", 
+		"Attacks": {
+			"Normal Attack": {
+				"damageTypes": {}, 
+				"slashPercent": 0.2413
+			}
+		}
+	}
+}}

@@ -33,3 +33,5 @@ Implement a search to create buy orders on the items with better sell/buy diff r
 Slightly change the UI to let people search for statsticks or not. As of now they're searched by default, but they can be disabled by editing the lines 121, 155 and 168 removing the "st" of the file names.
 
 User interface, although this requires more time than I'm currently able to input on this.
+
+Also there's a need to upgrade the quality of data storage and access, it's difficult to get what the program needs at a certain moment.

@@ -1,0 +1,290 @@
+{
+   "multishot":
+      {
+         "name" : "Multishot",
+         "value0": 89.1,
+         "value1": 118.55,
+         "value2": 118.55,
+         "value3": 0,
+         "value4": 59.7
+      },
+   "base_damage_/_melee_damage":
+      {
+         "name": "Damage",
+         "value0": 163.1,
+         "value1": 163.1,
+         "value2": 217.4,
+         "value3": 163.1,
+         "value4": 98.9
+      },
+   "impact_damage":
+      {
+         "name" : "Impact",
+         "value0": 118.8,
+         "value1": 118.8,
+         "value2": 118.8,
+         "value3": 118.8,
+         "value4": 89.1
+      },
+   "slash_damage":
+      {
+         "name" : "Slash",
+         "value0": 118.8,
+         "value1": 118.8,
+         "value2": 118.8,
+         "value3": 118.8,
+         "value4": 89.1
+      },
+   "puncture_damage":
+      {
+         "name" : "Puncture",
+         "value0": 118.8,
+         "value1": 118.8,
+         "value2": 118.8,
+         "value3": 118.8,
+         "value4": 89.1
+      },
+   "critical_chance":
+      {
+         "name" : "Critical Chance",
+         "value0": 148.45,
+         "value1": 89.1,
+         "value2": 148.45,
+         "value3": 178.2,
+         "value4": 98.9
+      },
+   "critical_damage":
+      {
+         "name" : "Critical Damage",
+         "value0": 118.8,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 79.3
+      },
+   "toxin_damage":
+      {
+         "name" : "Toxin",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 118.55
+      },
+   "heat_damage":
+      {
+         "name" : "Heat",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 118.55
+      },
+   "electric_damage":
+      {
+         "name" : "Electricity",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 118.55
+      },
+   "cold_damage":
+      {
+         "name" : "Cold",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 118.55
+      },
+   "status_chance":
+      {
+         "name" : "Status Chance",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 89.1,
+         "value4": 59.7
+      },
+   "status_duration":
+      {
+         "name" : "Status Duration",
+         "value0": 99,
+         "value1": 99,
+         "value2": 99,
+         "value3": 99,
+         "value4": 99
+      },
+   "damage_vs_infested":
+      {
+         "name" : "Damage vs Infested",
+         "value0": 44.55,
+         "value1": 44.55,
+         "value2": 44.55,
+         "value3": 44.55,
+         "value4": 44.55
+      },
+   "damage_vs_grineer":
+      {
+         "name" : "Damage vs Grineer",
+         "value0": 44.55,
+         "value1": 44.55,
+         "value2": 44.55,
+         "value3": 44.55,
+         "value4": 44.55
+      },
+   "damage_vs_corpus":
+      {
+         "name" : "Damage vs Corpus",
+         "value0": 44.55,
+         "value1": 44.55,
+         "value2": 44.55,
+         "value3": 44.55,
+         "value4": 44.55
+      },
+   "fire_rate_/_attack_speed":
+      {
+         "name" : "Fire Rate / Attack Speed",
+         "value0": 59.45,
+         "value1": 89.1,
+         "value2": 73.9,
+         "value3": 54.35,
+         "value4": 59.45
+      },
+   "magazine_capacity":
+      {
+         "name" : "Magazine Capacity",
+         "value0": 49.45,
+         "value1": 49.45,
+         "value2": 49.45,
+         "value3": 0,
+         "value4": 59.7
+      },
+   "ammo_maximum":
+      {
+         "name" : "Ammo Maximum",
+         "value0": 49.45,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 0,
+         "value4": 98.9
+      },
+   "projectile_speed":
+      {
+         "name" : "Projectile Speed",
+         "value0": 89.1,
+         "value1": 89.1,
+         "value2": 89.1,
+         "value3": 0,
+         "value4": 89.1
+      },
+   "reload_speed":
+      {
+         "name" : "Reload Speed",
+         "value0": 49.45,
+         "value1": 49.45,
+         "value2": 49.45,
+         "value3": 0,
+         "value4": 98.9
+      },
+   "recoil":
+      {
+         "name" : "Recoil",
+         "value0": -89.1,
+         "value1": -89.1,
+         "value2": -89.1,
+         "value3": 0,
+         "value4": -89.1
+      },
+   "zoom":
+      {
+         "name" : "Zoom",
+         "value0": 59.4,
+         "value1": 0,
+         "value2": 79.3,
+         "value3": 0,
+         "value4": 59.4
+      },
+   "punch_through":
+      {
+         "name" : "Punch Through",
+         "value0": 2.65,
+         "value1": 2.65,
+         "value2": 2.65,
+         "value3": 0,
+         "value4": 2.65
+      },
+   "finisher_damage":
+      {
+         "name" : "Finisher Damage",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 118.55,
+         "value4": 0
+      },
+   "critical_chance_on_slide_attack":
+      {
+         "name" : "Critical Chance on Slide",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 118.8,
+         "value4": 0
+      },
+   "combo_duration":
+      {
+         "name" : "Combo Duration",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 8,
+         "value4": 0
+      },
+   "channeling_efficiency":
+      {
+         "name" : "Heavy attack efficiency",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 72.7,
+         "value4": 0
+      },
+   "channeling_damage":
+      {
+         "name" : "Initial combo",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 24.3,
+         "value4": 0
+      },
+   "chance_to_gain_extra_combo_count":
+      {
+         "name" : "Chance to gain extra combo count",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 58.2,
+         "value4": 0
+      },
+   "chance_to_gain_combo_count":
+      {
+         "name" : "Chance to gain extra combo count",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 58.2,
+         "value4": 0
+      },
+   "range":
+      {
+         "name" : "Range",
+         "value0": 0,
+         "value1": 0,
+         "value2": 0,
+         "value3": 1.9,
+         "value4": 0
+      }
+}

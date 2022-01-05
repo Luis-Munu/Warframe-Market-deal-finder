@@ -21,6 +21,7 @@ To add or remove rolls edit wantedRolls.json
 As of now there're several things to do, which I may continue in the following months.
 
 TODO LIST:
+
 Ask for math advice to upgrade the weighting system.
 
 Repair the relic search system, it currently fails at rating a relic.

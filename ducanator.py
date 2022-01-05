@@ -1,89 +1,117 @@
-import requests, settings, os
-WFM_API = "https://api.warframe.market/v1"
-#Method used to get the list of prime parts or sets of wfm.
-def retrieveList():
-    stringSet = set()
-    result=requests.get(WFM_API + "/items",stream=True)
-    if result.status_code == 200: 
-        itemList = [x["url_name"] for x in result.json()["payload"]["items"]]
-        resultFile = open("itemList.csv",'w',encoding='utf-8')
-        for x in itemList:
-            if "prime" in x and "set" not in x and "primed" not in x: 
-                if x + "\n" not in stringSet: resultFile.write(x + "\n")
-                stringSet.add(x + "\n")
-        resultFile.close()
-        
-#Method used to get the value in ducats of the items list.
-def retrieveDucats():
-    itemList = open("itemList.csv",'r',encoding='utf-8')
-    ducatList = open("ducatList.csv",'w',encoding='utf-8')
-    stringSet = set()     
-    lines = itemList.readlines()
-    urlList = []
-    for line in lines: urlList.append(WFM_API + "/items/" + line.replace("\n", ""))
-    for url in urlList:
-        result=requests.get(url,stream=True)
-        if result.status_code == 200:
-            result = result.json()["payload"]["item"]["items_in_set"]
-            for setItem in result:
-                if setItem["url_name"] not in stringSet:
-                    if setItem["ducats"] >= 45: 
-                        ducatList.write(setItem["url_name"] +"," + str(setItem["ducats"])+"\n")
-                        stringSet.add(setItem["url_name"])
-    itemList.close()
-    ducatList.close()
+"""Module used to scan the market in search of good ducat/plat ratio items"""
 
-#Method used to get the ducats/plat value of the items.
-#We create a dict in order to save the data of each item. We also save the seller and the price.
-#The scanItems parameter makes it instantly write good deals on the file and print them in console.
-#Otherwise it will write the list of all the items with their ducat/plat, seller and price values.
-def getOrders(scanItems):
-    ducatDict = {}
+from datetime import datetime
+import os
+import settings
+import utils
 
-    ducatList = open("ducatList.csv",'r',encoding='utf-8')
-    ducanator = open("ducanated.csv",'a+',encoding='utf-8') if scanItems else open("ducanated.csv",'w',encoding='utf-8')
-    for line in ducatList.readlines():
-        itemName, ducats = line.replace("\n", "").split(",")
-        if itemName not in ducatDict: ducatDict[itemName] = {}
-        ducatDict[itemName]["ducats"] = int(ducats)
-        result=requests.get(WFM_API + "/items/" + itemName +"/orders",stream=True)
-        if result.status_code == 200:
-            result = result.json()["payload"]["orders"]
-            for order in result:
-                if order["user"]["status"] == "ingame" and order["order_type"] == "sell":
-                    if "sell" not in ducatDict[itemName]: ducatDict[itemName]["sell"] = []
-                    ducatDict[itemName]["sell"].append([order["platinum"], order["user"]["ingame_name"]])
-            if len(ducatDict[itemName]["sell"]) >= 1:
-                ducatDict[itemName]["prices"] = sorted(ducatDict[itemName]["sell"] ,key=lambda x: x[0])[0]
-            else: 
-                ducatDict[itemName]["value"] = 0
-                continue
-            ducatDict[itemName]["value"] = ducatDict[itemName]["ducats"] / ducatDict[itemName]["prices"][0]
-            if scanItems and ducatDict[itemName]["value"] > 30: 
-                line = itemName.capitalize().replace("_", " ") + " Ducats/Plat: " + str(ducatDict[itemName]["value"]) + " Price: " + str(ducatDict[itemName]["prices"][0]) + " Seller: " + ducatDict[itemName]["prices"][1] + "\n"
-                print(line)
-                ducanator.write(line)
-    if not scanItems:
-        listxd = [[x, ducatDict[x]["value"], ducatDict[x]["prices"][0], ducatDict[x]["prices"][1]] for x in ducatDict]
-        listxd = sorted(listxd, key=lambda x: x[1], reverse=True)
-            
-        for item in listxd: ducanator.write(item[0].capitalize().replace("_", " ") + " Ducats/Plat: " +  
-        str(item[1]) + " Price: " + str(item[2]) + " Seller: " + item[3] + "\n")
+
+def use_ducanator(options):
+    """It starts the search based on the scan option introduced by the user"""
+    os.chdir(settings.path + "\\config")
+    if options[0] is False:
+        while True:
+            get_orders(options[1])
+    else:
+        get_orders(options[1])
+
+
+def get_orders(limit):
+    """Method used to get the ducats/plat value of the items.
+    A dict is created in order to save the data of each item,
+    some other useful data is also stored"""
+
+    ducat_dict = {}
+
+    ducat_list = open("ducat_list.csv", "r", encoding="utf-8")
+    ducanator = open("ducanated.csv", "a+", encoding="utf-8")
+    for line in ducat_list.readlines():
+        item_name, ducats = line.replace("\n", "").split(",")
+        if item_name not in ducat_dict:
+            ducat_dict[item_name] = {}
+        ducat_dict[item_name]["ducats"] = int(ducats)
+        item_dict = ducat_dict[item_name]
+        result = utils.get_request("items/" + item_name + "/orders")
+        if not result:
+            continue
+        result = sorted(result["orders"], key=lambda ord: ord["platinum"])
+        for order in result:
+            if order["user"]["status"] == "ingame" and order["order_type"] == "sell":
+                if "sell" not in item_dict:
+                    item_dict["sell"] = []
+                item_dict["sell"].append(
+                    [order["platinum"], order["user"]["ingame_name"], order["quantity"]]
+                )
+        if "sell" in item_dict and len(item_dict["sell"]) >= 1:
+            item_dict["prices"] = sorted(item_dict["sell"], key=lambda x: x[0])[0]
+        else:
+            continue
+        item_dict["value"] = item_dict["ducats"] / item_dict["prices"][0]
+        if item_dict["value"] >= limit:
+            line = (
+                datetime.now().strftime("%H:%M:%S")
+                + " item: "
+                + item_name.title().replace("_", " ")
+                + " ducats/plat: "
+                + str(item_dict["value"])
+                + " price: "
+                + str(item_dict["prices"][0])
+                + " quantity: "
+                + str(item_dict["prices"][2])
+                + " seller: "
+                + item_dict["prices"][1]
+            )
+            print(line)
+            utils.wfm_string(item_name, item_dict["prices"][1], item_dict["prices"][0])
+            ducanator.write(line)
     ducanator.close()
-    ducatList.close()
-def updateDucats():
+    ducat_list.close()
+
+
+def retrieve_list():
+    """Method used to get the list of prime parts or sets of wfm."""
+
+    string_set = set()
+    result = utils.get_request("items")
+    if result:
+        item_list = [item["url_name"] for item in result["items"]]
+        result_file = open("item_list.csv", "w", encoding="utf-8")
+        for item in item_list:
+            if "prime" in item and "set" not in item and "primed" not in item:
+                if item + "\n" not in string_set:
+                    result_file.write(item + "\n")
+                string_set.add(item + "\n")
+        result_file.close()
+
+
+def retrieve_ducats():
+    """Method used to get the value in ducats of the item list."""
+
+    item_list = open("item_list.csv", "r", encoding="utf-8")
+    ducat_list = open("ducat_list.csv", "w", encoding="utf-8")
+    string_set = set()
+    lines = item_list.readlines()
+    url_list = []
+    for line in lines:
+        url_list.append("/items/" + line.replace("\n", ""))
+    for url in url_list:
+        result = utils.get_request(url)
+        if result:
+            result = result["item"]["items_in_set"]
+            for set_item in result:
+                if set_item["url_name"] not in string_set:
+                    if set_item["ducats"] >= 45:
+                        ducat_list.write(
+                            set_item["url_name"] + "," + str(set_item["ducats"]) + "\n"
+                        )
+                        string_set.add(set_item["url_name"])
+    item_list.close()
+    ducat_list.close()
+
+
+def update_ducats():
+    """Method used to update the item and ducat lists"""
+
     os.chdir(settings.path + "\\config")
-    retrieveList()
-    retrieveDucats()
-def scanDucats():
-    while(True):
-        getOrders(True)
-def useDucanator():
-    os.chdir(settings.path + "\\config")
-    if settings.scanDucats: 
-        while(True):
-            getOrders(True)
-    else: getOrders(False)
-
-
-
+    retrieve_list()
+    retrieve_ducats()

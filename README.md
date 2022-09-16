@@ -16,8 +16,6 @@ The weapon type order used when editing rolls or weapons is this one: 0 primarie
 
 To add or remove weapons edit wantedWeapons.csv. To add or remove rolls edit wantedRolls.json
 
-It's also possible to update the weapon database by running retrieve_weapons.py to
-
 ## How to use
 
 It currently uses Python 3.9.7, install the library ratelimit using the command "pip3 install ratelimit" and execute the main file using "python deal_finder.py" on the project folder.

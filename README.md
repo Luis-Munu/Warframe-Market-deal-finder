@@ -1,35 +1,33 @@
-# WFM-Riven-Search
+# Warframe Market deal finder
 
-A project made to search for godrolls, unrolleds and specific rolls faster and easier, it shows grades and a riven rating along with the stats.
+A personal project created as a compilation of warframe.market tools to learn python.
 
-To use it just write the command: "python rivenSearch.py"
+It's able to scan the market in order to find the best items to convert into ducats, into endo, spare parts to sell in sets, best relics to buy and sell... overall good deals.
 
-There're 4 types of search, depending on the speed of the search, the number of rivens received increases or diminishes:
+It also comes with an experimental deal finder for Rivens, being able to provide a rating based on its stats and grades by using a profile system.
 
-A fast one that will search for generic and specific godrolls and takes a minute to complete.
+There're several search modes, depending on the speed and accuracy that is needed, however the execution speed is greatly limited (+95%) by the API limits of the website. The recommended modes are the fast search (1-2 minutes, around 8000 rivens) and the slow one (25-30 minutes, 25000-50000 rivens).
 
-A medium one that will search for generic godrolls for wanted weapons, specific godrolls and unrolleds for every weapon. Takes 5 minutes to complete.
+## Customization
 
-A slow one that will search for generic godrolls for wanted weapons along with generic godrolls, specific godrolls and unrolleds for every weapon. Takes 15 minutes to complete.
+The user can customize the wanted weapons, rolls and many other settings by editing the files inside the config folder.
 
-A terribly slow one that will search for godrolls and unrolleds for every weapon along with specific godrolls. Can take up to infinity.
+The weapon type order used when editing rolls or weapons is this one: 0 primaries, 1 shotguns, 2 pistols, 3 melees, 4 archguns.
 
-To change the stats, rolls or weapons being searched for just add or remove them in the config files.
-There's a general rule to edit these files. The rows indicates the type of weapon. 0 primaries, 1 shotguns, 2 pistols, 3 archguns, 4 normal melees, 5 heavy attack melees.
+To add or remove weapons edit wantedWeapons.csv. To add or remove rolls edit wantedRolls.json
 
-To add or remove weapons edit wantedWeapons.csv
+## How to use
 
-To add or remove decent positives edit decentPositives.csv
+It currently uses Python 3.9.7, install the library ratelimit using the command "pip3 install ratelimit" and execute the main file using "python deal_finder.py" on the project folder.
 
-To add or remove negatives edit negatives.csv
 
-To add or remove rolls edit wantedRolls.json
+## TODO
 
-If I get the time, I'll try to add stat weighting to the riven rating system, and maybe, in the future, weight them around specific weapon stats.ie a non crit weapon don't want critical damage or critical chance.
-
-TODO LIST:
-User interface
-Ability to search for just one weapon or specific combo on the go.
-Stat weighting.
-Add weapon stats to get a better stat weighting.
-Automatically upload results to a website.
+- As of now there're several things to do, which I may continue in the following months.
+- Ask for mathematical advice to upgrade the weighting system., may use Xikto's DPS calculator to improve the current profiles.
+- Update the GUI with QT to make the tool usable. 
+- Create an update method to automatically update all the item databases instead of just weapons.
+- Implement a search to create buy orders on the items with better buy/sell ratio if they have decent volume. Buy low, sell high.
+- Slightly change the UI to let people search for statsticks or not. As of now they're searched by default, but they can be disabled by editing the lines 121, 155 and 168 removing the "st" of the file names.
+- Support for riven.market and rivenhunter.com, the latest being able to provide tons of useful information.
+- Convert spaghetti code into real code, a problem to be dealt with in the future, not to gain a speed increase but knowledge.

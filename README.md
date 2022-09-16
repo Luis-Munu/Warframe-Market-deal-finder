@@ -6,7 +6,7 @@ It's able to scan the market in order to find the best items to convert into duc
 
 It also comes with an experimental deal finder for Rivens, being able to provide a rating based on its stats and grades by using a profile system.
 
-There're several search modes, depending on the speed and accuracy that is needed, however the execution speed is greatly limited (+95%) by the API limits of the website. The recommended modes are the fast search (1-2 minutes, around 8000 rivens) and the slow one (25-30 minutes, 50000 rivens).
+There're several search modes, depending on the speed and accuracy that is needed, however the execution speed is greatly limited (+95%) by the API limits of the website. The recommended modes are the fast search (1-2 minutes, around 8000 rivens) and the slow one (25-30 minutes, 25000-50000 rivens).
 
 ## Customization
 

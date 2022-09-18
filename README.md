@@ -1,6 +1,8 @@
 ## WARNING
 
-Due to changes in the WFM API the Deal Finder is getting an extreme amount of results these days, making searches run much slower, it is advised to run ONLY fast search as of now.
+Due to a small mistake during WFM's contract migration the Deal Finder is getting an extreme amount of results today, making searches run much slower, if you really want to search for rivens it is advised to run ONLY fast search as of now and even then, most of the results will be from offline users.
+
+The issue will be resolved in the next few hours.
 
 # Warframe Market deal finder
 

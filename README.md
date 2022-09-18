@@ -1,3 +1,7 @@
+## WARNING
+
+Due to changes in the WFM API the Deal Finder is getting an extreme amount of results these days, making searches run much slower, it is advised to run ONLY fast search as of now.
+
 # Warframe Market deal finder
 
 A personal project created as a compilation of warframe.market tools to learn python.

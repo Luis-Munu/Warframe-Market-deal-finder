@@ -23,11 +23,11 @@ It currently uses Python 3.9.7, install the library ratelimit using the command 
 
 ## TODO
 
-- As of now there're several things to do, which I may continue in the following months.
-- Ask for mathematical advice to upgrade the weighting system., may use Xikto's DPS calculator to improve the current profiles.
-- Update the GUI with QT to make the tool usable. 
-- Create an update method to automatically update all the item databases instead of just weapons.
+As of now there're several things to do, which I may continue in the following months.
+- Ask for mathematical advice to upgrade the weighting system, may use Xikto's DPS calculator to improve the current profiles.
+- Update the GUI to make the tool usable for normal people. 
+- Create an update method to automatically update and cache all the item databases instead of just weapons.
 - Implement a search to create buy orders on the items with better buy/sell ratio if they have decent volume. Buy low, sell high.
-- Slightly change the UI to let people search for statsticks or not. As of now they're searched by default, but they can be disabled by editing the lines 121, 155 and 168 removing the "st" of the file names.
+- Change the way ot storing and accesing data with pandas to make it faster to use and more modular. 
 - Support for riven.market and rivenhunter.com, the latest being able to provide tons of useful information.
-- Convert spaghetti code into real code, a problem to be dealt with in the future, not to gain a speed increase but knowledge.
+- Upgrade the code quality. 

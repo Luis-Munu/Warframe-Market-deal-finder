@@ -24,10 +24,15 @@ It currently uses Python 3.9.7, install the library ratelimit using the command 
 ## TODO
 
 As of now there're several things to do, which I may continue in the following months.
-- Ask for mathematical advice to upgrade the weighting system, may use Xikto's DPS calculator to improve the current profiles.
+- Add support for rivenhunter.com and riven.market.
+   - Translation system for URLs of WFM to the other websites. 
+   - Multiprocessing for each website in order to shorten waiting times. 
+   - Slight editions on request processing and riven object creation. 
+- Change the way of storing and accesing data with pandas to make it faster to use and more modular. 
 - Update the GUI to make the tool usable for normal people. 
+   - Finish the remaining screens with Sigma. 
+   - Add functionality to the UI. 
 - Create an update method to automatically update and cache all the item databases instead of just weapons.
+- Ask for mathematical advice to upgrade the weighting system, may use Xikto's DPS calculator to improve the current profiles.
 - Implement a search to create buy orders on the items with better buy/sell ratio if they have decent volume. Buy low, sell high.
-- Change the way ot storing and accesing data with pandas to make it faster to use and more modular. 
-- Support for riven.market and rivenhunter.com, the latest being able to provide tons of useful information.
-- Upgrade the code quality. 
+- Upgrade the code spaghetti quality. 

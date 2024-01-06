@@ -1,0 +1,195 @@
+Name: Amprex Crita-ignitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 6.22, 
+Riven stats: 
+Critical Chance:  117.1
+		Grade: B- (-2.0%)
+Critical Damage:  88.8
+		Grade: C (-7.14%)
+Heat:  69.6
+		Grade: B- (-2.96%)
+Fire Rate_Attack Speed:  -36.6
+		Grade: C+ (-4.38%)
+
+Polarity: Naramon   Rerolls: 3   MR: 9
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: Eco0710
+Value/Plat: 1.82
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -8.78, 
+Riven stats: 
+Status Duration:  83.4
+		Grade: A- (4.66%)
+Critical Chance:  109.4
+		Grade: C- (-8.45%)
+Critical Damage:  88.4
+		Grade: C- (-7.56%)
+Reload Speed:  -32.4
+		Grade: B+ (1.76%)
+
+Polarity: Vazarin   Rerolls: 18   MR: 10
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: CraftyCraff
+Value/Plat: 1.82
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.94, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  131.4
+		Grade: S (9.96%)
+Critical Damage:  102.3
+		Grade: A (6.98%)
+Status Duration:  85.7
+		Grade: A+ (7.54%)
+Zoom:  -36.5
+		Grade: C+ (-4.57%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 15
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: DS_12
+Value/Plat: 1.65
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Crita-lexitis
+Experimental riven rating: 33.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  130.0
+		Grade: A+ (8.79%)
+Critical Damage:  96.1
+		Grade: B (0.49%)
+Punch Through:  2.3
+		Grade: A+ (7.82%)
+Status Chance:  -55.0
+		Grade: C+ (-4.13%)
+
+Polarity: Madurai   Rerolls: 23   MR: 14
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: wsasjfiaejfioef
+Value/Plat: 2.05
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.64, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  98.0
+		Grade: B+ (2.48%)
+Status Duration:  87.5
+		Grade: S (9.8%)
+Critical Chance:  114.5
+		Grade: C+ (-4.18%)
+Zoom:  -35.6
+		Grade: C (-6.92%)
+
+Polarity: Vazarin   Rerolls: 18   MR: 14
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: Pugnarok
+Value/Plat: 1.49
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.22, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  76.4
+		Grade: A (6.52%)
+Critical Damage:  88.0
+		Grade: C- (-7.98%)
+Critical Chance:  108.4
+		Grade: C- (-9.28%)
+Reload Speed:  -34.2
+		Grade: A (7.41%)
+
+Polarity: Madurai   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: ASH.UMBRA
+Value/Plat: 1.39
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -71.15, 
+Riven stats: 
+Status Duration:  78.0
+		Grade: B- (-2.12%)
+Critical Damage:  94.8
+		Grade: B (-0.87%)
+Critical Chance:  118.6
+		Grade: B (-0.75%)
+Damage:  -106.0
+		Grade: B (0.94%)
+
+Polarity: Vazarin   Rerolls: 17   MR: 15
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: CsataLeves
+Value/Plat: 1.32
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -5.18, 
+Riven stats: 
+Critical Chance:  126.1
+		Grade: A (5.53%)
+Critical Damage:  95.1
+		Grade: B (-0.55%)
+Status Duration:  79.1
+		Grade: B (-0.74%)
+Magazine Capacity:  -34.1
+		Grade: A (7.1%)
+
+Polarity: Madurai   Rerolls: 3   MR: 16
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: rizkysyarif3
+Value/Plat: 1.32
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Visi-critatis
+Experimental riven rating: 36.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  67.4
+Critical Chance:  86.2
+Damage:  100.1
+
+Polarity: Vazarin   Rerolls: 11   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: Katzurou
+Value/Plat: 0.3
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

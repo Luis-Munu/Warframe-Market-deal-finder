@@ -1,0 +1,42 @@
+Name: Karak Visi-saticron
+Experimental riven rating: 49.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  227.5
+Critical Chance:  181.9
+Multishot:  113.1
+Damage vs Corpus":  -0.5
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  990   Buyout price: 990
+Seller: shaloon.
+Value/Plat: 2.19
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Karak Acri-saticron
+Experimental riven rating: 40.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  110.9
+		Grade: B- (-2.64%)
+Critical Damage:  151.6
+		Grade: B (-0.18%)
+Critical Chance:  176.5
+		Grade: C (-7.0%)
+Reload Speed:  -53.0
+		Grade: A- (4.81%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: 55yw22
+Value/Plat: 0.27
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

@@ -1,0 +1,22 @@
+Name: Vulkar Croni-acricron
+Experimental riven rating: 69.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  88.0
+		Grade: A+ (7.8%)
+Critical Chance:  187.0
+		Grade: C- (-8.26%)
+Critical Damage:  155.3
+		Grade: C+ (-4.8%)
+Impact:  -126.7
+		Grade: B- (-2.9%)
+
+Polarity: Naramon   Rerolls: 1   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price:  infinite 
+Seller: tianmo289
+Value/Plat: 0.16
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

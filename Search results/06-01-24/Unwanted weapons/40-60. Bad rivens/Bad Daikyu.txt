@@ -1,0 +1,44 @@
+Name: Daikyu Visi-acridra
+Experimental riven rating: 42.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  63.7
+		Grade: C- (-9.48%)
+Critical Damage:  127.3
+		Grade: C- (-9.48%)
+Damage:  192.4
+		Grade: B (-0.35%)
+Damage vs Corpus":  -40.8
+		Grade: B- (-3.28%)
+
+Polarity: Naramon   Rerolls: 18   MR: 16
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: -Scipion-
+Value/Plat: 2.89
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Daikyu Visi-saticron
+Experimental riven rating: 56.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  207.0
+		Grade: A (7.22%)
+Multishot:  95.7
+		Grade: C- (-9.27%)
+Critical Chance:  167.1
+		Grade: C+ (-4.91%)
+Ammo Maximum:  -47.3
+		Grade: B (1.02%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Mr.King-
+Value/Plat: 2.1
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

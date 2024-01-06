@@ -1,0 +1,194 @@
+Name: Snipetron Crita-acridra
+Experimental riven rating: 45.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  17.2
+		Grade: A (5.84%)
+Fire Rate_Attack Speed:  8.3
+		Grade: B+ (2.06%)
+Critical Chance:  22.3
+		Grade: S (9.82%)
+Damage vs Grineer":  -4.6
+		Grade: C (-5.63%)
+
+Polarity: Madurai   Rerolls: 9   MR: 9
+Riven rank : 0
+Initial price:  20   Buyout price: 20
+Seller: Kyle
+Value/Plat: 11.9
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-toxitis
+Experimental riven rating: 41.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.8
+		Grade: B- (-2.77%)
+Critical Chance:  21.5
+		Grade: A (5.88%)
+Toxin:  12.7
+		Grade: A- (4.2%)
+Reload Speed:  -5.0
+		Grade: C- (-7.59%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  60   Buyout price: 60
+Seller: warworldquailty
+Value/Plat: 5.69
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-satidra
+Experimental riven rating: 45.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  105.1
+		Grade: C+ (-4.19%)
+Fire Rate_Attack Speed:  69.9
+		Grade: C+ (-4.49%)
+Critical Chance:  198.8
+		Grade: A+ (8.78%)
+Magazine Capacity:  -47.6
+		Grade: B- (-2.25%)
+
+Polarity: Madurai   Rerolls: 10   MR: 9
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: Triv-
+Value/Plat: 5.78
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Croni-acriata
+Experimental riven rating: 41.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  72.5
+		Grade: B (-0.94%)
+Damage:  198.4
+		Grade: B (-1.19%)
+Critical Damage:  144.7
+		Grade: B (-1.06%)
+Ammo Maximum:  -45.3
+		Grade: C (-6.97%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  240   Buyout price: 240
+Seller: Ash-Rui
+Value/Plat: 3.22
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-acridra
+Experimental riven rating: 49.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  174.0
+		Grade: B (-0.98%)
+Critical Damage:  130.0
+		Grade: C- (-7.56%)
+Fire Rate_Attack Speed:  74.0
+		Grade: A- (5.15%)
+Ammo Maximum:  -50.0
+		Grade: A (6.79%)
+
+Polarity: Madurai   Rerolls: 16   MR: 12
+Riven rank : 8
+Initial price:  380   Buyout price: 380
+Seller: Vicktec
+Value/Plat: 3.56
+Used disposition: 1.25
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Toxi-acricron
+Experimental riven rating: 46.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  184.6
+Critical Damage:  138.3
+Toxin:  112.0
+Damage vs Corpus":  -0.6
+
+Polarity: Madurai   Rerolls: 50   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Chihro
+Value/Plat: 2.83
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Acri-cronican
+Experimental riven rating: 46.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  103.1
+Critical Damage:  150.9
+Fire Rate_Attack Speed:  70.9
+Damage vs Corpus":  -52.0
+
+Polarity: Madurai   Rerolls: 2   MR: 14
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: -Bv-Fir3xIc3
+Value/Plat: 2.6
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Sati-critatis
+Experimental riven rating: 40.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  104.1
+		Grade: C+ (-5.1%)
+Critical Chance:  170.9
+		Grade: C (-6.49%)
+Critical Damage:  132.8
+		Grade: C- (-9.2%)
+Damage vs Grineer":  -40.8
+		Grade: C (-7.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: XShongye
+Value/Plat: 1.33
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-satitis
+Experimental riven rating: 54.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  104.0
+		Grade: C+ (-5.19%)
+Critical Damage:  142.0
+		Grade: B- (-2.91%)
+Critical Chance:  187.0
+		Grade: B+ (2.32%)
+Damage vs Corpus":  -47.0
+		Grade: A (7.13%)
+
+Polarity: Naramon   Rerolls: 8   MR: 8
+Riven rank : 8
+Initial price:  2300   Buyout price: 2300
+Seller: -Sa.
+Value/Plat: 1.61
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

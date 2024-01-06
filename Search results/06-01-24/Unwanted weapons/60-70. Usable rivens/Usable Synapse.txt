@@ -1,0 +1,20 @@
+Name: Synapse Sati-acridra
+Experimental riven rating: 63.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  67.6
+Multishot:  118.2
+Critical Damage:  152.0
+Damage vs Infested":  -0.4
+
+Polarity: Vazarin   Rerolls: 10   MR: 16
+Riven rank : 8
+Initial price:  2800   Buyout price: 2800
+Seller: -Qorvex-
+Value/Plat: 1.69
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------

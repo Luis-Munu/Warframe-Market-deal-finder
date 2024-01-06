@@ -1,0 +1,108 @@
+Name: Penta Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.2, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  206.9
+		Grade: A+ (9.02%)
+Critical Damage:  153.5
+		Grade: B (1.07%)
+Heat:  112.0
+		Grade: B- (-1.68%)
+Reload Speed:  -51.6
+		Grade: B+ (2.04%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: ye1shang
+Value/Plat: 1.95
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.07, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  18.3
+		Grade: A+ (8.44%)
+Status Chance:  13.7
+		Grade: A+ (8.24%)
+Critical Chance:  21.4
+		Grade: B (1.48%)
+Reload Speed:  -6.1
+		Grade: A+ (8.56%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Rahlzel
+Value/Plat: 1.65
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.81, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  185.1
+		Grade: B- (-2.47%)
+Critical Damage:  161.6
+		Grade: A (6.4%)
+Status Chance:  119.4
+		Grade: A- (4.82%)
+Ammo Maximum:  -50.8
+		Grade: B (0.46%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 9
+Riven rank : 8
+Initial price:  450   Buyout price: 650
+Seller: ----Vay_Hek----
+Value/Plat: 1.37
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Sati-critaata
+Experimental riven rating: 38.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  174.9
+		Grade: C- (-7.84%)
+Multishot:  119.8
+		Grade: A- (5.17%)
+Damage:  188.5
+		Grade: F (-9.6%)
+Magazine Capacity:  -55.4
+		Grade: S (9.55%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 15
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: WANRXY
+Value/Plat: 1.77
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 1.33, 
+Riven stats: 
+Heat:  90.2
+		Grade: B (-1.01%)
+Critical Damage:  123.9
+		Grade: B+ (1.99%)
+Critical Chance:  147.9
+		Grade: B- (-2.57%)
+
+Polarity: Naramon   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: Frondus
+Value/Plat: 0.41
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------

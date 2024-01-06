@@ -1,0 +1,44 @@
+Name: Vulkar Crita-satidra
+Experimental riven rating: 78.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  211.5
+		Grade: A (7.46%)
+Multishot:  125.1
+		Grade: A (5.9%)
+Fire Rate_Attack Speed:  71.8
+		Grade: C- (-8.9%)
+Impact:  -122.0
+		Grade: B- (-3.16%)
+
+Polarity: Madurai   Rerolls: 10   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Nataruk
+Value/Plat: 2.9
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Visi-acricron
+Experimental riven rating: 72.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  245.3
+		Grade: S (9.53%)
+Critical Chance:  215.1
+		Grade: A (5.52%)
+Critical Damage:  177.4
+		Grade: A+ (8.75%)
+Recoil:  95.5
+		Grade: B- (-2.42%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: tongcc
+Value/Plat: 0.15
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

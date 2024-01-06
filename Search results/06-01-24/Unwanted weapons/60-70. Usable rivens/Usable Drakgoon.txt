@@ -1,0 +1,44 @@
+Name: Drakgoon Sati-critadra
+Experimental riven rating: 60.17
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  127.5
+		Grade: A+ (7.93%)
+Fire Rate_Attack Speed:  109.4
+		Grade: C (-7.39%)
+Multishot:  172.0
+		Grade: A+ (9.43%)
+Recoil:  102.8
+		Grade: A+ (8.79%)
+
+Polarity: Vazarin   Rerolls: 45   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Artorias7473
+Value/Plat: 2.94
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Croni-acrican
+Experimental riven rating: 60.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  146.5
+		Grade: C (-6.79%)
+Critical Damage:  111.3
+		Grade: C (-5.78%)
+Fire Rate_Attack Speed:  125.7
+		Grade: A (6.41%)
+Recoil:  86.4
+		Grade: C- (-8.56%)
+
+Polarity: Vazarin   Rerolls: 12   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Gremlin
+Value/Plat: 0.18
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

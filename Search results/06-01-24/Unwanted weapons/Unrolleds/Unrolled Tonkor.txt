@@ -1,0 +1,40 @@
+Name: Tonkor Crita-acritox
+Experimental riven rating: 56.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  128.0
+Critical Damage:  97.3
+Toxin:  74.8
+Damage vs Corpus":  -0.7
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: exinferis.42
+Value/Plat: 3.02
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acrido
+Experimental riven rating: 27.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Cold:  69.9
+Critical Damage:  96.8
+Critical Chance:  124.6
+Damage vs Grineer":  -0.3
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1700   Buyout price:  infinite 
+Seller: shenrenxingxiang
+Value/Plat: 0.37
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------

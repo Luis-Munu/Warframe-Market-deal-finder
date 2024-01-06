@@ -1,0 +1,108 @@
+Name: Trumna Hexa-acricron
+Experimental riven rating: 67.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  87.3
+Status Chance:  67.8
+Critical Chance:  103.7
+Projectile Speed:  -57.7
+
+Polarity: Naramon   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: liar_ex
+Value/Plat: 6.78
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-visican
+Experimental riven rating: 66.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  118.8
+		Grade: B (-0.58%)
+Damage:  140.6
+		Grade: A (7.09%)
+Multishot:  72.3
+		Grade: B (0.81%)
+Ammo Maximum:  -33.0
+		Grade: A- (3.64%)
+
+Polarity: Madurai   Rerolls: 17   MR: 15
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: WeirdOo.
+Value/Plat: 2.96
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-satidra
+Experimental riven rating: 60.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  110.0
+		Grade: C- (-7.95%)
+Multishot:  76.9
+		Grade: A (7.22%)
+Fire Rate_Attack Speed:  45.4
+		Grade: C+ (-5.13%)
+Reload Speed:  -33.4
+		Grade: A- (4.9%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: crane_1178
+Value/Plat: 2.31
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Croni-visitis
+Experimental riven rating: 63.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  92.2
+		Grade: C+ (-3.58%)
+Damage:  128.7
+		Grade: B- (-1.97%)
+Fire Rate_Attack Speed:  49.8
+		Grade: A- (4.07%)
+Projectile Speed:  -61.1
+		Grade: A (6.5%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: BBCsauce
+Value/Plat: 2.52
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Hexa-cronitis
+Experimental riven rating: 61.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  68.6
+		Grade: C+ (-4.35%)
+Fire Rate_Attack Speed:  43.8
+		Grade: C- (-8.47%)
+Critical Damage:  86.6
+		Grade: C- (-9.44%)
+Zoom:  -42.0
+		Grade: S (9.81%)
+
+Polarity: Madurai   Rerolls: 28   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: AR3_s
+Value/Plat: 0.18
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

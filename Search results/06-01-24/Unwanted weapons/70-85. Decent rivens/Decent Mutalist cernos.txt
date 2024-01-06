@@ -1,0 +1,66 @@
+Name: Mutalist cernos Sati-acridra
+Experimental riven rating: 76.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.6
+		Grade: B+ (3.11%)
+Multishot:  124.1
+		Grade: A+ (8.95%)
+Fire Rate_Attack Speed:  78.3
+		Grade: B+ (3.02%)
+Zoom:  -60.5
+		Grade: B (-0.4%)
+
+Polarity: Naramon   Rerolls: 3   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Amperu209
+Value/Plat: 5.56
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Acri-satidra
+Experimental riven rating: 73.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.7
+		Grade: B+ (3.17%)
+Multishot:  123.8
+		Grade: A+ (8.68%)
+Fire Rate_Attack Speed:  80.6
+		Grade: A (6.05%)
+Zoom:  -66.5
+		Grade: A+ (9.48%)
+
+Polarity: Naramon   Rerolls: 3   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Ning-Ci-
+Value/Plat: 3.79
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Sati-critatis
+Experimental riven rating: 77.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  117.9
+		Grade: A- (3.5%)
+Critical Chance:  192.5
+		Grade: B (1.43%)
+Critical Damage:  146.9
+		Grade: B- (-3.28%)
+Zoom:  -57.5
+		Grade: C+ (-5.34%)
+
+Polarity: Vazarin   Rerolls: 33   MR: 12
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: -Sopa
+Value/Plat: 0.14
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

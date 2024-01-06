@@ -1,0 +1,66 @@
+Name: Quanta Visi-cronitis
+Experimental riven rating: 59.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  80.1
+		Grade: B+ (1.63%)
+Critical Damage:  157.1
+		Grade: B (-0.26%)
+Damage:  236.1
+		Grade: A+ (9.19%)
+Recoil:  92.4
+		Grade: B- (-2.21%)
+
+Polarity: Madurai   Rerolls: 18   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Maple.Lee
+Value/Plat: 2.92
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Croni-critatis
+Experimental riven rating: 47.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  198.2
+		Grade: B (0.7%)
+Critical Damage:  144.0
+		Grade: C- (-8.57%)
+Fire Rate_Attack Speed:  75.3
+		Grade: C+ (-4.46%)
+Projectile Speed:  -90.8
+		Grade: C+ (-3.91%)
+
+Polarity: Vazarin   Rerolls: 80   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: 55yw22
+Value/Plat: 1.92
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Crita-satitis
+Experimental riven rating: 40.69
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  117.0
+		Grade: B (-0.96%)
+Critical Chance:  213.1
+		Grade: A+ (8.27%)
+Critical Damage:  154.2
+		Grade: B- (-2.1%)
+Reload Speed:  -50.0
+		Grade: C+ (-4.66%)
+
+Polarity: Naramon   Rerolls: 1   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: -Qorvex-
+Value/Plat: 0.27
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

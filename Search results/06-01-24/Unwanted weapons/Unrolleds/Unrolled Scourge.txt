@@ -1,0 +1,174 @@
+Name: Scourge Acri-critaata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.92, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.1
+		Grade: C (-5.69%)
+Critical Damage:  128.9
+		Grade: C+ (-4.52%)
+Damage:  173.7
+		Grade: C (-6.28%)
+Fire Rate_Attack Speed:  -57.1
+		Grade: A (5.66%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: skyper
+Value/Plat: 1.46
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-satitis
+Experimental riven rating: 39.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  133.4
+		Grade: B (-1.19%)
+Multishot:  101.5
+		Grade: B (0.24%)
+Critical Chance:  184.6
+		Grade: A+ (9.43%)
+Magazine Capacity:  -44.7
+		Grade: B (-0.56%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: TJSN99
+Value/Plat: 2.07
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Acri-saticron
+Experimental riven rating: 63.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  16.2
+		Grade: A+ (8.0%)
+Multishot:  11.2
+		Grade: B (-0.45%)
+Critical Chance:  17.6
+		Grade: C (-6.1%)
+Status Duration:  -10.9
+		Grade: A+ (9.01%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: -Past-
+Value/Plat: 3.21
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-acrican
+Experimental riven rating: 59.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  157.7
+Critical Damage:  142.1
+Multishot:  111.3
+Damage vs Infested":  -63.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rester.natural
+Value/Plat: 2.61
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-cronican
+Experimental riven rating: 63.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  19.7
+		Grade: A- (5.1%)
+Multishot:  11.1
+		Grade: B (-1.34%)
+Fire Rate_Attack Speed:  7.7
+		Grade: B+ (2.58%)
+Recoil:  9.6
+		Grade: A (6.68%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  800   Buyout price: 1500
+Seller: MyshkinThePrince
+Value/Plat: 2.5
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Sati-critatis
+Experimental riven rating: 59.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  107.0
+		Grade: A (5.68%)
+Critical Damage:  132.2
+		Grade: B- (-2.08%)
+Critical Chance:  171.4
+		Grade: B+ (1.6%)
+Damage vs Infested":  -39.8
+		Grade: B- (-1.72%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Dcaa712
+Value/Plat: 1.91
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-satitis
+Experimental riven rating: 64.86
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  135.0
+		Grade: B (-0.0%)
+Multishot:  101.6
+		Grade: B (0.34%)
+Critical Chance:  179.0
+		Grade: A (6.11%)
+Projectile Speed:  -73.7
+		Grade: C- (-9.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: -Qorvex-
+Value/Plat: 0.17
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 8.88, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  183.1
+		Grade: A+ (8.54%)
+Critical Damage:  146.4
+		Grade: A+ (8.44%)
+Punch Through:  2.8
+		Grade: C (-7.02%)
+Status Duration:  -89.5
+		Grade: B (-0.55%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1   Buyout price:  infinite 
+Seller: woaimeibao
+Value/Plat: 0.41
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

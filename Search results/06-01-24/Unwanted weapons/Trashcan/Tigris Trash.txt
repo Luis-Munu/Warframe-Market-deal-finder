@@ -1,0 +1,108 @@
+Name: Tigris Acri-toxicron
+Experimental riven rating: 33.42
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  73.9
+		Grade: C- (-7.81%)
+Critical Damage:  85.5
+		Grade: A (6.66%)
+Toxin:  75.2
+		Grade: C (-6.19%)
+Magazine Capacity:  -38.1
+		Grade: A (7.07%)
+
+Polarity: Naramon   Rerolls: 15   MR: 16
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: elitss
+Value/Plat: 2.82
+Used disposition: 0.95
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Acri-visicron
+Experimental riven rating: 33.65
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  83.6
+Critical Damage:  95.3
+Damage:  162.1
+Status Chance:  -80.0
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Daikyu
+Value/Plat: 1.9
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Acri-visidra
+Experimental riven rating: 28.92
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  171.0
+		Grade: C+ (-3.73%)
+Fire Rate_Attack Speed:  93.0
+		Grade: C+ (-4.16%)
+Critical Damage:  98.0
+		Grade: B (1.0%)
+Magazine Capacity:  -43.0
+		Grade: B (-0.18%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 10
+Riven rank : 0
+Initial price:  650   Buyout price: 650
+Seller: zy_zy
+Value/Plat: 1.54
+Used disposition: 1.15
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.23, 
+Riven stats: 
+Critical Chance:  93.6
+		Grade: C+ (-3.54%)
+Damage:  178.1
+		Grade: B (0.27%)
+Critical Damage:  98.4
+		Grade: B (1.41%)
+Status Duration:  -81.9
+		Grade: C+ (-5.03%)
+
+Polarity: Madurai   Rerolls: 29   MR: 8
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: 3DMaX-DesIGn
+Value/Plat: 1.23
+Used disposition: 1.15
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Crita-toxitis
+Experimental riven rating: 34.42
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Toxin:  88.9
+		Grade: A- (5.36%)
+Critical Chance:  94.1
+		Grade: S (11.52%)
+Critical Damage:  87.4
+		Grade: A- (3.58%)
+Magazine Capacity:  -37.6
+		Grade: B (0.38%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: ZerNacK
+Value/Plat: 1.44
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

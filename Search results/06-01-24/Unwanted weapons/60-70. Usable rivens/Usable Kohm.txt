@@ -1,0 +1,130 @@
+Name: Kohm Croni-acrican
+Experimental riven rating: 63.52
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  147.4
+Multishot:  112.0
+Fire Rate_Attack Speed:  115.9
+Projectile Speed:  -92.5
+
+Polarity: Vazarin   Rerolls: 10   MR: 15
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: 0WMVMW0
+Value/Plat: 6.95
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Kohm Crita-visican
+Experimental riven rating: 65.16
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  119.0
+		Grade: A+ (8.49%)
+Damage:  215.7
+		Grade: A (7.42%)
+Multishot:  149.9
+		Grade: B+ (2.71%)
+Projectile Speed:  -89.1
+		Grade: B+ (1.55%)
+
+Polarity: Madurai   Rerolls: 110   MR: 14
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Chikane-
+Value/Plat: 4.73
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Kohm Crita-satidra
+Experimental riven rating: 64.09
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  118.8
+		Grade: A+ (8.3%)
+Multishot:  153.4
+		Grade: A- (5.11%)
+Fire Rate_Attack Speed:  109.4
+		Grade: B (-0.27%)
+Recoil:  92.1
+		Grade: A- (4.97%)
+
+Polarity: Vazarin   Rerolls: 76   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Vyro8816
+Value/Plat: 3.79
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Kohm Croni-acrican
+Experimental riven rating: 60.21
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  142.8
+		Grade: B- (-2.16%)
+Fire Rate_Attack Speed:  119.1
+		Grade: A+ (8.58%)
+Critical Damage:  109.6
+		Grade: B (-0.08%)
+Damage vs Infested":  -43.5
+		Grade: B (-0.84%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1222   Buyout price: 1222
+Seller: -Apathy
+Value/Plat: 2.61
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Kohm Sati-cronitis
+Experimental riven rating: 63.74
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  159.0
+		Grade: A+ (8.94%)
+Fire Rate_Attack Speed:  111.0
+		Grade: B (1.19%)
+Critical Damage:  112.0
+		Grade: B+ (2.1%)
+Damage vs Infested":  -40.0
+		Grade: C- (-8.82%)
+
+Polarity: Naramon   Rerolls: 10   MR: 14
+Riven rank : 8
+Initial price:  1399   Buyout price: 1399
+Seller: James-chan
+Value/Plat: 2.63
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Kohm Visi-critacan
+Experimental riven rating: 60.04
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  143.6
+		Grade: B+ (3.3%)
+Multishot:  100.7
+		Grade: B (-0.34%)
+Critical Chance:  75.8
+		Grade: B (-0.18%)
+Recoil:  64.4
+		Grade: A (6.02%)
+
+Polarity: Naramon   Rerolls: 48   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 1500
+Seller: Tesleitor
+Value/Plat: 2.3
+Used disposition: 0.9
+Real disposition: 1.3
+--------------------------------------------------

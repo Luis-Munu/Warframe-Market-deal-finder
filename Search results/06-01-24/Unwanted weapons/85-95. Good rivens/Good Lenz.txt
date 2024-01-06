@@ -1,0 +1,22 @@
+Name: Lenz Crita-satitis
+Experimental riven rating: 90.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  146.2
+		Grade: A- (4.0%)
+Critical Damage:  108.3
+		Grade: C+ (-3.74%)
+Multishot:  84.7
+		Grade: B (0.38%)
+Zoom:  -41.1
+		Grade: C- (-8.66%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  312312   Buyout price:  infinite 
+Seller: -Hoshimachi.Suisei-
+Value/Plat: 0.11
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

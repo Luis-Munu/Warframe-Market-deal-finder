@@ -1,0 +1,44 @@
+Name: Grinlok Sati-critadra
+Experimental riven rating: 46.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  18.8
+		Grade: C (-7.42%)
+Multishot:  12.2
+		Grade: B (0.1%)
+Fire Rate_Attack Speed:  7.5
+		Grade: C- (-7.77%)
+Reload Speed:  -5.7
+		Grade: A- (5.35%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: ShinyTheDark
+Value/Plat: 2.03
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Grinlok Sati-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.29, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  115.2
+		Grade: S (9.66%)
+Damage:  198.9
+		Grade: B+ (3.43%)
+Critical Chance:  174.0
+		Grade: B (-0.59%)
+Status Chance:  -77.9
+		Grade: C (-7.29%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Kamikia
+Value/Plat: 1.18
+Used disposition: 1.25
+Real disposition: 1.3
+--------------------------------------------------

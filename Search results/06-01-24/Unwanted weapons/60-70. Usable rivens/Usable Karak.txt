@@ -1,0 +1,22 @@
+Name: Karak Visi-cronitis
+Experimental riven rating: 61.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  25.1
+		Grade: A+ (8.34%)
+Critical Damage:  16.8
+		Grade: B (-0.45%)
+Fire Rate_Attack Speed:  9.0
+		Grade: A (6.57%)
+Recoil:  9.7
+		Grade: C+ (-4.19%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 12
+Riven rank : 0
+Initial price:  300   Buyout price: 800
+Seller: huyanquoc
+Value/Plat: 3.52
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

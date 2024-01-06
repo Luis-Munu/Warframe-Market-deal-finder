@@ -1,0 +1,44 @@
+Name: Tiberon Crita-satidra
+Experimental riven rating: 81.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  93.4
+		Grade: B (0.63%)
+Fire Rate_Attack Speed:  59.7
+		Grade: C+ (-3.6%)
+Critical Chance:  159.4
+		Grade: B+ (3.08%)
+Zoom:  -47.8
+		Grade: B- (-3.42%)
+
+Polarity: Madurai   Rerolls: 50   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Disturbia
+Value/Plat: 3.95
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-satidra
+Experimental riven rating: 71.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  125.5
+		Grade: B (1.41%)
+Multishot:  94.0
+		Grade: B (1.28%)
+Fire Rate_Attack Speed:  59.5
+		Grade: C+ (-3.92%)
+Puncture:  -103.9
+		Grade: A- (4.96%)
+
+Polarity: Naramon   Rerolls: 12   MR: 14
+Riven rank : 8
+Initial price:  4000   Buyout price:  infinite 
+Seller: Nataruk
+Value/Plat: 0.15
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

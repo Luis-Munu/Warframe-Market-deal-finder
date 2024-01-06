@@ -1,0 +1,432 @@
+Name: Cedo Lexi-acricron
+Experimental riven rating: 47.15
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  5.8
+		Grade: C+ (-4.82%)
+Punch Through:  0.2
+		Grade: S (10.35%)
+Critical Damage:  6.3
+		Grade: B+ (3.38%)
+Recoil:  4.8
+		Grade: B- (-1.53%)
+
+Polarity: Madurai   Rerolls: 2   MR: 10
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: youmu158188
+Value/Plat: 4.44
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-toxitis
+Experimental riven rating: 55.9
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  52.5
+		Grade: C+ (-4.28%)
+Critical Chance:  60.3
+		Grade: S (9.95%)
+Toxin:  58.5
+		Grade: A (6.66%)
+Damage vs Grineer":  -22.0
+		Grade: B (0.29%)
+
+Polarity: Madurai   Rerolls: 30   MR: 16
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: Honkai.Impact-2020
+Value/Plat: 6.43
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Hexa-critatis
+Experimental riven rating: 47.85
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Status Chance:  59.4
+		Grade: A+ (8.3%)
+Critical Chance:  56.4
+		Grade: B+ (2.83%)
+Critical Damage:  53.5
+		Grade: B- (-2.45%)
+Puncture:  -58.9
+		Grade: B (0.69%)
+
+Polarity: Naramon   Rerolls: 13   MR: 10
+Riven rank : 0
+Initial price:  290   Buyout price: 290
+Seller: rok623
+Value/Plat: 3.82
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Hexa-critatis
+Experimental riven rating: 47.02
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  59.7
+Critical Chance:  58.8
+Critical Damage:  57.3
+Damage vs Infested":  -0.8
+
+Polarity: Madurai   Rerolls: 3   MR: 9
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: down96
+Value/Plat: 3.65
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Sati-visicron
+Experimental riven rating: 58.27
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  5.6
+		Grade: C- (-8.11%)
+Multishot:  8.4
+		Grade: A- (3.6%)
+Damage:  10.5
+		Grade: C (-5.87%)
+Status Duration:  -5.3
+		Grade: B- (-2.14%)
+
+Polarity: Naramon   Rerolls: 11   MR: 14
+Riven rank : 0
+Initial price:  460   Buyout price: 460
+Seller: VAP810
+Value/Plat: 4.39
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-ignicron
+Experimental riven rating: 44.02
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  51.7
+		Grade: C (-5.74%)
+Critical Damage:  56.5
+		Grade: B+ (3.02%)
+Heat:  53.8
+		Grade: B- (-1.91%)
+Puncture:  -53.6
+		Grade: C- (-8.37%)
+
+Polarity: Naramon   Rerolls: 6   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Paidari
+Value/Plat: 2.61
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-visitis
+Experimental riven rating: 50.66
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  50.5
+		Grade: C- (-7.92%)
+Damage:  97.8
+		Grade: B- (-2.59%)
+Critical Damage:  59.0
+		Grade: A+ (7.57%)
+Status Duration:  -51.4
+		Grade: A- (5.45%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Lucky_Dog76
+Value/Plat: 3.23
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-acritox
+Experimental riven rating: 40.65
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  55.4
+		Grade: B (1.01%)
+Critical Damage:  49.6
+		Grade: F (-9.56%)
+Toxin:  59.7
+		Grade: A+ (8.85%)
+Fire Rate_Attack Speed:  -44.5
+		Grade: B (1.43%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: zuudPrime
+Value/Plat: 2.18
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-visitis
+Experimental riven rating: 42.89
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  108.8
+		Grade: A+ (8.37%)
+Critical Damage:  55.9
+		Grade: B+ (1.92%)
+Critical Chance:  59.9
+		Grade: A+ (9.22%)
+Fire Rate_Attack Speed:  -42.5
+		Grade: B- (-3.12%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 14
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: natior
+Value/Plat: 2.11
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-acridra
+Experimental riven rating: 48.97
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  52.4
+Critical Damage:  53.1
+Fire Rate_Attack Speed:  53.2
+Damage vs Grineer":  -0.8
+
+Polarity: Vazarin   Rerolls: 17   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: JOKER.KK
+Value/Plat: 2.43
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-satidra
+Experimental riven rating: 55.2
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  55.7
+Multishot:  78.6
+Fire Rate_Attack Speed:  57.3
+Damage vs Grineer":  -0.8
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  850   Buyout price: 850
+Seller: Sentinelets
+Value/Plat: 2.81
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Sati-visicron
+Experimental riven rating: 47.74
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  95.7
+		Grade: C+ (-4.68%)
+Critical Chance:  51.1
+		Grade: C (-6.83%)
+Multishot:  73.0
+		Grade: B (0.04%)
+Magazine Capacity:  -24.7
+		Grade: B (1.45%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 9
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: autissmo
+Value/Plat: 2.22
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-visican
+Experimental riven rating: 45.96
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  49.4
+		Grade: F (-9.93%)
+Damage:  98.2
+		Grade: B- (-2.19%)
+Multishot:  67.3
+		Grade: C- (-7.77%)
+Magazine Capacity:  -25.7
+		Grade: A (5.55%)
+
+Polarity: Naramon   Rerolls: 50   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: qPsychoo_
+Value/Plat: 2.02
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-cronican
+Experimental riven rating: 54.09
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  55.3
+Fire Rate_Attack Speed:  53.2
+Multishot:  79.2
+Damage vs Grineer":  -0.8
+
+Polarity: Naramon   Rerolls: 1   MR: 13
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: AK47__Prime
+Value/Plat: 2.49
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Sati-acricron
+Experimental riven rating: 52.32
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  5.7
+		Grade: C (-6.46%)
+Critical Damage:  6.1
+		Grade: B (0.1%)
+Multishot:  8.4
+		Grade: A- (3.6%)
+Magazine Capacity:  -2.5
+		Grade: C- (-7.59%)
+
+Polarity: Naramon   Rerolls: 4   MR: 8
+Riven rank : 0
+Initial price:  800   Buyout price: 1300
+Seller: Sc17
+Value/Plat: 2.07
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Sati-critatis
+Experimental riven rating: 47.25
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  54.1
+		Grade: B (-1.36%)
+Critical Damage:  53.3
+		Grade: B- (-2.82%)
+Multishot:  75.8
+		Grade: A- (3.87%)
+Fire Rate_Attack Speed:  -43.4
+		Grade: B (-1.07%)
+
+Polarity: Madurai   Rerolls: 7   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: FakeCasting
+Value/Plat: 1.72
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-saticron
+Experimental riven rating: 49.59
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  69.1
+		Grade: C+ (-5.31%)
+Critical Chance:  51.4
+		Grade: C (-6.28%)
+Critical Damage:  59.1
+		Grade: A+ (7.76%)
+Status Duration:  -48.5
+		Grade: B (-0.5%)
+
+Polarity: Madurai   Rerolls: 41   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Katherine-
+Value/Plat: 1.81
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-acrican
+Experimental riven rating: 54.31
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  57.2
+		Grade: A- (4.29%)
+Critical Damage:  56.5
+		Grade: B+ (3.02%)
+Multishot:  71.3
+		Grade: B- (-2.29%)
+Magazine Capacity:  -22.3
+		Grade: C- (-8.41%)
+
+Polarity: Vazarin   Rerolls: 11   MR: 11
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: -Ning-Ci-
+Value/Plat: 1.82
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-critacan
+Experimental riven rating: 44.54
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  55.6
+		Grade: B (1.38%)
+Critical Damage:  56.2
+		Grade: B+ (2.47%)
+Multishot:  71.2
+		Grade: B- (-2.43%)
+Fire Rate_Attack Speed:  -40.8
+		Grade: C (-7.0%)
+
+Polarity: Vazarin   Rerolls: 26   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Jay_Se7en
+Value/Plat: 1.43
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-saticron
+Experimental riven rating: 54.45
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  69.7
+		Grade: C+ (-4.49%)
+Critical Chance:  51.5
+		Grade: C (-6.1%)
+Critical Damage:  54.3
+		Grade: B (-0.99%)
+Magazine Capacity:  -26.2
+		Grade: A+ (7.61%)
+
+Polarity: Vazarin   Rerolls: 20   MR: 14
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: Soksar.
+Value/Plat: 1.64
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

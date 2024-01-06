@@ -1,0 +1,42 @@
+Name: Gotva prime Crita-acridra
+Experimental riven rating: 73.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  8.7
+Fire Rate_Attack Speed:  3.7
+Critical Chance:  11.1
+Damage vs Infested":  -1.0
+
+Polarity: Madurai   Rerolls: 9   MR: 10
+Riven rank : 0
+Initial price:  350   Buyout price: 350
+Seller: yami93
+Value/Plat: 9.32
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Gotva prime Sati-critadra
+Experimental riven rating: 82.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  93.2
+		Grade: B+ (1.99%)
+Fire Rate_Attack Speed:  33.6
+		Grade: C- (-8.18%)
+Multishot:  56.3
+		Grade: B+ (2.65%)
+Puncture:  -54.1
+		Grade: C- (-7.51%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Kuva
+Value/Plat: 4.06
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

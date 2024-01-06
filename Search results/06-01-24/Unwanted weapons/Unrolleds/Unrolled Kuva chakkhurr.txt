@@ -1,0 +1,22 @@
+Name: Kuva chakkhurr Acri-cronican
+Experimental riven rating: 73.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  93.8
+		Grade: B- (-1.91%)
+Multishot:  65.6
+		Grade: C- (-8.53%)
+Fire Rate_Attack Speed:  46.3
+		Grade: B- (-3.25%)
+Impact:  -79.3
+		Grade: A- (3.67%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: -Apathy
+Value/Plat: 1.95
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

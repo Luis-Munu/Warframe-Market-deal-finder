@@ -1,0 +1,146 @@
+Name: Nataruk Lexi-critatis
+Experimental riven rating: 63.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  66.8
+Punch Through:  1.8
+Critical Chance:  83.6
+Damage vs Infested":  -0.8
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: wo040102
+Value/Plat: 9.09
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Sati-cronicron
+Experimental riven rating: 63.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  82.7
+		Grade: C- (-9.5%)
+Multishot:  54.8
+		Grade: B (-0.08%)
+Fire Rate_Attack Speed:  34.0
+		Grade: C (-7.09%)
+Ammo Maximum:  -22.2
+		Grade: C- (-8.82%)
+
+Polarity: Madurai   Rerolls: 72   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: alyrch99
+Value/Plat: 3.49
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Crita-cronican
+Experimental riven rating: 64.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  84.6
+Multishot:  44.5
+Fire Rate_Attack Speed:  33.0
+Ammo Maximum:  -21.7
+
+Polarity: Vazarin   Rerolls: 2   MR: 15
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: Sdreavmer
+Value/Plat: 2.29
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Acri-saticron
+Experimental riven rating: 60.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  70.6
+Multishot:  54.6
+Critical Chance:  84.5
+Damage vs Grineer":  -0.7
+
+Polarity: Naramon   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -D.K_Lost-
+Value/Plat: 1.95
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Acri-satidra
+Experimental riven rating: 69.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  76.3
+		Grade: A- (4.34%)
+Multishot:  56.8
+		Grade: A- (3.56%)
+Fire Rate_Attack Speed:  34.0
+		Grade: C (-7.09%)
+Damage vs Infested":  -22.0
+		Grade: B (0.29%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: S.A_Kilora
+Value/Plat: 2.39
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Crita-acridex
+Experimental riven rating: 69.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  67.9
+Critical Damage:  50.9
+Status Chance:  94.8
+Damage vs Infested":  -0.8
+
+Polarity: Madurai   Rerolls: 6   MR: 14
+Riven rank : 8
+Initial price:  2100   Buyout price: 2100
+Seller: 1_NiNo
+Value/Plat: 2.31
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Sati-acridra
+Experimental riven rating: 64.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  76.1
+		Grade: A- (4.07%)
+Multishot:  59.2
+		Grade: A+ (7.94%)
+Fire Rate_Attack Speed:  35.8
+		Grade: B- (-2.17%)
+Ammo Maximum:  -26.2
+		Grade: A+ (7.61%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: ---Tinara---
+Value/Plat: 0.17
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

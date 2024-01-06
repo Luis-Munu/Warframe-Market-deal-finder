@@ -1,0 +1,66 @@
+Name: Sybaris Crita-acrinok
+Experimental riven rating: 43.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  150.9
+		Grade: A (7.3%)
+Critical Chance:  191.1
+		Grade: A+ (8.75%)
+Punch Through:  3.2
+		Grade: B+ (2.01%)
+Magazine Capacity:  -48.6
+		Grade: A- (3.8%)
+
+Polarity: Madurai   Rerolls: 55   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -N7-Ronin
+Value/Plat: 1.89
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Lexi-critatis
+Experimental riven rating: 48.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  183.6
+		Grade: B (0.46%)
+Punch Through:  3.3
+		Grade: B (1.15%)
+Critical Damage:  133.9
+		Grade: C- (-8.45%)
+Damage vs Corpus":  -48.0
+		Grade: A+ (9.41%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: BARTYDE
+Value/Plat: 2.14
+Used disposition: 1.3
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Crita-satitis
+Experimental riven rating: 53.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  102.8
+		Grade: C (-6.28%)
+Critical Chance:  192.7
+		Grade: A- (5.44%)
+Critical Damage:  134.1
+		Grade: C- (-8.31%)
+Damage vs Grineer":  -47.8
+		Grade: A+ (8.96%)
+
+Polarity: Naramon   Rerolls: 5   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: henealal
+Value/Plat: 1.69
+Used disposition: 1.3
+Real disposition: 1.25
+--------------------------------------------------

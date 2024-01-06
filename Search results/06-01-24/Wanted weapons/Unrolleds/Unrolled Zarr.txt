@@ -1,0 +1,132 @@
+Name: Zarr Acri-critadra
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -12.75, 
+Riven stats: 
+Critical Damage:  124.4
+		Grade: C+ (-3.85%)
+Critical Chance:  165.3
+		Grade: B+ (2.25%)
+Fire Rate_Attack Speed:  68.5
+		Grade: A (5.8%)
+Damage:  -141.1
+		Grade: B (-0.69%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  50   Buyout price: 50
+Seller: TheOneHighAbove
+Value/Plat: 2.53
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-cronitis
+Experimental riven rating: 63.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.7
+		Grade: B+ (2.26%)
+Fire Rate_Attack Speed:  7.6
+		Grade: A (5.65%)
+Critical Chance:  19.6
+		Grade: A+ (9.11%)
+Reload Speed:  -4.5
+		Grade: C (-5.98%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: PinkRhyno
+Value/Plat: 5.69
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-toxitis
+Experimental riven rating: 70.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  10.3
+		Grade: C+ (-4.47%)
+Critical Damage:  13.2
+		Grade: C- (-8.18%)
+Critical Chance:  19.6
+		Grade: A+ (9.11%)
+Status Duration:  -10.0
+		Grade: A- (4.36%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: McKiwiin
+Value/Plat: 6.53
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-acridra
+Experimental riven rating: 79.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.9
+		Grade: B (-0.37%)
+Critical Chance:  162.2
+		Grade: B (0.33%)
+Fire Rate_Attack Speed:  64.1
+		Grade: B (-0.99%)
+Recoil:  76.6
+		Grade: B (-1.31%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  100   Buyout price: 500
+Seller: NuubPrime
+Value/Plat: 9.03
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-acripha
+Experimental riven rating: 41.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  147.7
+		Grade: C- (-8.64%)
+Critical Damage:  124.0
+		Grade: C+ (-4.16%)
+Heat:  88.0
+		Grade: C- (-9.31%)
+Projectile Speed:  -82.0
+		Grade: A (5.65%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: Poor-Forma
+Value/Plat: 2.23
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-lexitis
+Experimental riven rating: 50.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  19.6
+		Grade: A+ (9.11%)
+Critical Damage:  14.2
+		Grade: B (-1.22%)
+Punch Through:  0.3
+		Grade: C (-6.44%)
+Magazine Capacity:  -5.2
+		Grade: A+ (8.64%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  10   Buyout price:  infinite 
+Seller: JiangQi521
+Value/Plat: 0.22
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------

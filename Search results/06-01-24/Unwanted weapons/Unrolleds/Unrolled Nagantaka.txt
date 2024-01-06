@@ -1,0 +1,108 @@
+Name: Nagantaka Croni-visitis
+Experimental riven rating: 46.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  8.4
+		Grade: B+ (3.29%)
+Damage:  22.0
+		Grade: B (-1.39%)
+Critical Damage:  15.9
+		Grade: B- (-2.16%)
+Damage vs Corpus":  -4.6
+		Grade: C (-5.63%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: Rival__Reborn
+Value/Plat: 2.86
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Visi-saticron
+Experimental riven rating: 59.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  111.9
+		Grade: B+ (2.01%)
+Damage:  206.4
+		Grade: B+ (2.79%)
+Critical Chance:  166.9
+		Grade: C- (-8.68%)
+Damage vs Infested":  -46.5
+		Grade: A (5.99%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Im_Palo
+Value/Plat: 4.31
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Croni-critacan
+Experimental riven rating: 55.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  58.4
+		Grade: B (-1.21%)
+Critical Chance:  154.1
+		Grade: A- (4.4%)
+Multishot:  90.5
+		Grade: B+ (2.15%)
+Damage vs Corpus":  -36.0
+		Grade: B+ (1.6%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: liuwj666
+Value/Plat: 2.9
+Used disposition: 1.05
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Crita-acridex
+Experimental riven rating: 68.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  198.2
+		Grade: A+ (8.45%)
+Critical Damage:  157.7
+		Grade: A+ (7.83%)
+Status Chance:  107.7
+		Grade: B- (-1.82%)
+Zoom:  -60.9
+		Grade: A- (4.11%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: F3bbiez
+Value/Plat: 3.7
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Acri-saticron
+Experimental riven rating: 45.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  102.4
+Critical Chance:  167.5
+Critical Damage:  156.4
+Damage vs Grineer":  -55.0
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  900   Buyout price: 1250
+Seller: Dmellex
+Value/Plat: 1.79
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

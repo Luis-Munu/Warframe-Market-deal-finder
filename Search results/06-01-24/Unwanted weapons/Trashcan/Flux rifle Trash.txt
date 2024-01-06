@@ -1,0 +1,238 @@
+Name: Flux rifle Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -9.08, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  18.2
+Critical Chance:  24.5
+Status Duration:  16.4
+Damage vs Infested":  -0.9
+
+Polarity: Vazarin   Rerolls: 6   MR: 11
+Riven rank : 0
+Initial price:  50   Buyout price: 50
+Seller: ErebosTM
+Value/Plat: 2.53
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.52, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  174.0
+		Grade: B (-0.22%)
+Critical Chance:  229.6
+		Grade: A- (5.37%)
+Heat:  126.9
+		Grade: B- (-2.97%)
+Reload Speed:  -60.3
+		Grade: A- (3.86%)
+
+Polarity: Madurai   Rerolls: 15   MR: 11
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: Ejevika1
+Value/Plat: 1.95
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Sati-cronicron
+Experimental riven rating: 35.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  140.9
+Fire Rate_Attack Speed:  59.3
+Multishot:  94.3
+Damage vs Grineer":  -0.4
+
+Polarity: Madurai   Rerolls: 16   MR: 8
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: LuIB_Prime
+Value/Plat: 2.43
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.68, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  151.3
+		Grade: B- (-2.16%)
+Damage:  170.5
+		Grade: B (0.35%)
+Critical Damage:  126.1
+		Grade: B+ (1.9%)
+Status Chance:  -73.7
+		Grade: B (-0.73%)
+
+Polarity: Naramon   Rerolls: 59   MR: 13
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: iPhone14-Promax
+Value/Plat: 1.49
+Used disposition: 1.1
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -22.36, 
+Riven stats: 
+Critical Damage:  172.2
+		Grade: B (-1.25%)
+Critical Chance:  201.4
+		Grade: C- (-7.57%)
+Status Duration:  138.4
+		Grade: C+ (-4.76%)
+Damage vs Grineer":  -53.0
+		Grade: B (1.32%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 10
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: tremor23177232
+Value/Plat: 1.46
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Visi-acricron
+Experimental riven rating: 38.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  263.6
+		Grade: S (10.11%)
+Critical Chance:  198.8
+		Grade: C- (-8.77%)
+Critical Damage:  168.0
+		Grade: C+ (-3.66%)
+Reload Speed:  -61.7
+		Grade: A (6.27%)
+
+Polarity: Naramon   Rerolls: 5   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Shibuya
+Value/Plat: 2.18
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-hexatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 5.45, 
+Riven stats: 
+Critical Chance:  26.1
+		Grade: A+ (7.8%)
+Critical Damage:  18.2
+		Grade: C (-6.07%)
+Status Chance:  14.3
+		Grade: B- (-1.59%)
+Fire Rate_Attack Speed:  -8.5
+		Grade: S (9.6%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 0
+Initial price:  666   Buyout price: 666
+Seller: Dumbledore778
+Value/Plat: 1.36
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -20.66, 
+Riven stats: 
+Critical Chance:  157.3
+		Grade: C (-7.19%)
+Critical Damage:  130.0
+		Grade: C+ (-4.15%)
+Status Duration:  116.0
+		Grade: B+ (2.63%)
+Ammo Maximum:  -41.3
+		Grade: C- (-8.54%)
+
+Polarity: Madurai   Rerolls: 10   MR: 9
+Riven rank : 6
+Initial price:  900   Buyout price: 900
+Seller: IBb30
+Value/Plat: 1.27
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Sati-critaata
+Experimental riven rating: 38.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  140.3
+		Grade: A (7.27%)
+Critical Chance:  218.7
+		Grade: B (0.37%)
+Damage:  228.4
+		Grade: C+ (-4.6%)
+Magazine Capacity:  -62.4
+		Grade: A (7.47%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  750   Buyout price: 1100
+Seller: StxyyHigh
+Value/Plat: 1.64
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-satiata
+Experimental riven rating: 30.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  228.5
+		Grade: A- (4.86%)
+Multishot:  139.4
+		Grade: A (6.59%)
+Damage:  263.0
+		Grade: S (9.86%)
+Status Chance:  -111.4
+		Grade: A (6.49%)
+
+Polarity: Madurai   Rerolls: 77   MR: 15
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: kiritoz21
+Value/Plat: 1.34
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Acri-saticron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 4.0, 
+Riven stats: 
+Critical Chance:  221.0
+		Grade: B (1.42%)
+Multishot:  142.2
+		Grade: A+ (8.73%)
+Critical Damage:  191.0
+		Grade: S (9.53%)
+Status Duration:  -108.0
+		Grade: C (-7.09%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 13
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: kawaikotto
+Value/Plat: 1.04
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

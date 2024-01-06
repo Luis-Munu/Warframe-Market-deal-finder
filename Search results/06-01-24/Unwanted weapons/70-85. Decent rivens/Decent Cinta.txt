@@ -1,0 +1,84 @@
+Name: Cinta Acri-critaata
+Experimental riven rating: 75.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  103.4
+Critical Damage:  86.0
+Damage:  99.7
+Projectile Speed:  -48.5
+
+Polarity: Vazarin   Rerolls: 10   MR: 15
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: sclpds
+Value/Plat: 6.88
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Cinta Visi-saticron
+Experimental riven rating: 81.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  77.0
+		Grade: A (7.36%)
+Critical Chance:  121.9
+		Grade: B+ (2.01%)
+Damage:  143.1
+		Grade: A+ (9.0%)
+Projectile Speed:  -54.4
+		Grade: C+ (-5.18%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: XxDEMGIRLxX
+Value/Plat: 8.53
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Cinta Sati-cronicron
+Experimental riven rating: 76.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  93.1
+Multishot:  62.5
+Fire Rate_Attack Speed:  40.8
+Projectile Speed:  -45.3
+
+Polarity: Vazarin   Rerolls: 1   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Be_A_Badwoman
+Value/Plat: 3.46
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Cinta Acri-cronican
+Experimental riven rating: 79.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  49.8
+		Grade: A- (4.07%)
+Critical Damage:  103.6
+		Grade: A+ (8.34%)
+Multishot:  68.1
+		Grade: C+ (-5.05%)
+Recoil:  54.5
+		Grade: C+ (-5.0%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Drifter
+Value/Plat: 0.13
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

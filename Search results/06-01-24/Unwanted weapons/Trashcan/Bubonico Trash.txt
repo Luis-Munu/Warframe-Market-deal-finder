@@ -1,0 +1,139 @@
+Name: Bubonico Crita-acridex
+Experimental riven rating: 36.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  6.5
+Critical Damage:  6.7
+Status Chance:  7.2
+Damage vs Corpus":  -3.0
+
+Polarity: Madurai   Rerolls: 18   MR: 16
+Riven rank : 0
+Initial price:  199   Buyout price: 199
+Seller: CAPTAIN145
+Value/Plat: 2.91
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -15.92, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  68.9
+Status Duration:  69.0
+Critical Damage:  66.2
+Fire Rate_Attack Speed:  -54.3
+
+Polarity: Naramon   Rerolls: 34   MR: 15
+Riven rank : 8
+Initial price:  210   Buyout price: 210
+Seller: asaigi
+Value/Plat: 1.79
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-ignicron
+Experimental riven rating: 31.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  58.9
+Critical Damage:  63.5
+Heat:  59.7
+Damage vs Corpus":  -25.0
+
+Polarity: Naramon   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: czl2345617
+Value/Plat: 1.9
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Croni-critatis
+Experimental riven rating: 34.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  68.9
+Critical Chance:  64.7
+Critical Damage:  66.8
+Status Duration:  -53.0
+
+Polarity: Vazarin   Rerolls: 37   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Okusama-3.3
+Value/Plat: 1.94
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-croniata
+Experimental riven rating: 39.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  62.9
+Damage:  110.1
+Critical Damage:  66.9
+Magazine Capacity:  -26.5
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  50   Buyout price: 500
+Seller: W4fty
+Value/Plat: 2.25
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acrican
+Experimental riven rating: 37.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  67.9
+Critical Damage:  64.7
+Multishot:  82.5
+Status Duration:  -51.7
+
+Polarity: Naramon   Rerolls: 4   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Be_A_Batman
+Value/Plat: 1.26
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-cronitis
+Experimental riven rating: 39.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  5.5
+Critical Chance:  5.6
+Fire Rate_Attack Speed:  5.6
+
+Polarity: Madurai   Rerolls: 34   MR: 13
+Riven rank : 0
+Initial price:  400   Buyout price:  infinite 
+Seller: Dodge2304
+Value/Plat: 0.28
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

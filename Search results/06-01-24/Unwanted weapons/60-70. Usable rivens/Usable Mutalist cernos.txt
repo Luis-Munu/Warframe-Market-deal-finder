@@ -1,0 +1,44 @@
+Name: Mutalist cernos Visi-cronitis
+Experimental riven rating: 63.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.7
+		Grade: C (-6.97%)
+Damage:  25.5
+		Grade: S (10.06%)
+Fire Rate_Attack Speed:  8.3
+		Grade: B- (-1.72%)
+Zoom:  -7.2
+		Grade: A (6.68%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Aurora-borealis
+Value/Plat: 5.82
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Sati-critadra
+Experimental riven rating: 61.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  21.0
+		Grade: B (-0.41%)
+Multishot:  13.3
+		Grade: A- (5.08%)
+Fire Rate_Attack Speed:  7.9
+		Grade: C (-6.45%)
+Damage vs Infested":  -4.6
+		Grade: C- (-9.13%)
+
+Polarity: Madurai   Rerolls: 254   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Hala1968
+Value/Plat: 3.06
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

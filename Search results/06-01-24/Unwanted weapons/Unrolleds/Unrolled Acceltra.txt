@@ -1,0 +1,66 @@
+Name: Acceltra Crita-acripha
+Experimental riven rating: 45.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  88.0
+		Grade: A- (4.33%)
+Critical Damage:  68.0
+		Grade: B (0.74%)
+Heat:  47.0
+		Grade: C (-7.16%)
+Damage vs Infested":  -21.0
+		Grade: A- (3.71%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  499   Buyout price: 499
+Seller: NaiYou_Jz
+Value/Plat: 2.73
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Croni-critacan
+Experimental riven rating: 85.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  36.2
+		Grade: A (7.17%)
+Critical Chance:  82.5
+		Grade: B- (-2.19%)
+Multishot:  45.6
+		Grade: F (-9.93%)
+Zoom:  -25.7
+		Grade: C+ (-4.81%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Dynamica_Extreme
+Value/Plat: 3.49
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Acri-satidra
+Experimental riven rating: 77.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  69.2
+		Grade: B+ (2.52%)
+Multishot:  49.8
+		Grade: B- (-1.63%)
+Fire Rate_Attack Speed:  31.3
+		Grade: C (-7.34%)
+Recoil:  42.5
+		Grade: A- (4.95%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  3500   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.14
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

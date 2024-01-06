@@ -1,0 +1,132 @@
+Name: Grakata Sati-visicron
+Experimental riven rating: 77.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  118.7
+		Grade: A- (4.21%)
+Damage:  206.8
+		Grade: B (-0.82%)
+Critical Chance:  179.5
+		Grade: C+ (-5.42%)
+Zoom:  -58.9
+		Grade: B- (-3.04%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Disturbia
+Value/Plat: 4.19
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Crita-visican
+Experimental riven rating: 75.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.6
+		Grade: A (5.7%)
+Damage:  210.9
+		Grade: B (1.14%)
+Multishot:  107.5
+		Grade: C (-5.63%)
+Impact:  -125.5
+		Grade: B+ (3.3%)
+
+Polarity: Vazarin   Rerolls: 22   MR: 10
+Riven rank : 8
+Initial price:  1555   Buyout price: 1555
+Seller: Acceptance
+Value/Plat: 3.32
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Acri-saticron
+Experimental riven rating: 75.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  184.9
+		Grade: B- (-2.57%)
+Critical Damage:  161.2
+		Grade: A (6.14%)
+Multishot:  116.8
+		Grade: B+ (2.54%)
+Puncture:  -125.6
+		Grade: B+ (3.38%)
+
+Polarity: Naramon   Rerolls: 3   MR: 8
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: Be_A_Batman
+Value/Plat: 0.14
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Acri-satidra
+Experimental riven rating: 75.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  151.2
+		Grade: B (-0.45%)
+Multishot:  119.0
+		Grade: A- (4.47%)
+Fire Rate_Attack Speed:  74.4
+		Grade: B- (-2.11%)
+Impact:  -112.3
+		Grade: C- (-7.56%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  8888   Buyout price:  infinite 
+Seller: Franky
+Value/Plat: 0.14
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Crita-acrican
+Experimental riven rating: 73.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  182.8
+		Grade: C+ (-3.68%)
+Critical Damage:  140.1
+		Grade: C- (-7.76%)
+Multishot:  121.0
+		Grade: A (6.22%)
+Recoil:  92.1
+		Grade: B (1.08%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.15
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Sati-acricron
+Experimental riven rating: 73.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  171.9
+		Grade: C- (-9.42%)
+Critical Damage:  138.3
+		Grade: C- (-8.94%)
+Multishot:  119.2
+		Grade: A- (4.64%)
+Puncture:  -110.4
+		Grade: C- (-9.13%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: FendigheeRicch
+Value/Plat: 0.15
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

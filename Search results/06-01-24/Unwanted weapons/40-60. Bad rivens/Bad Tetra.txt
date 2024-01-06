@@ -1,0 +1,154 @@
+Name: Tetra Croni-visitis
+Experimental riven rating: 47.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  19.2
+		Grade: B+ (2.4%)
+Damage:  27.3
+		Grade: A (6.05%)
+Fire Rate_Attack Speed:  10.2
+		Grade: A+ (8.71%)
+Damage vs Corpus":  -5.5
+		Grade: B- (-2.21%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: cikespeim
+Value/Plat: 5.27
+Used disposition: 1.5
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Croni-saticron
+Experimental riven rating: 47.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  13.7
+		Grade: B (0.78%)
+Fire Rate_Attack Speed:  9.2
+		Grade: B (1.43%)
+Critical Chance:  22.3
+		Grade: B- (-1.54%)
+Damage vs Corpus":  -5.2
+		Grade: C+ (-4.36%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Waxy001
+Value/Plat: 3.77
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Visi-saticron
+Experimental riven rating: 41.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  192.2
+		Grade: C- (-8.86%)
+Damage:  250.7
+		Grade: A+ (8.21%)
+Multishot:  117.8
+		Grade: C (-6.93%)
+Reload Speed:  -60.0
+		Grade: A (6.79%)
+
+Polarity: Madurai   Rerolls: 43   MR: 16
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: FakeCasting
+Value/Plat: 2.55
+Used disposition: 1.5
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Sati-cronicron
+Experimental riven rating: 45.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  191.7
+		Grade: C (-5.96%)
+Fire Rate_Attack Speed:  86.7
+		Grade: A (6.21%)
+Multishot:  134.4
+		Grade: S (9.85%)
+Damage vs Grineer":  -53.8
+		Grade: S (9.95%)
+
+Polarity: Naramon   Rerolls: 142   MR: 12
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: Gaz_TTV
+Value/Plat: 2.24
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Visi-critatis
+Experimental riven rating: 53.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  122.0
+		Grade: F (-9.63%)
+Critical Chance:  158.0
+		Grade: C (-6.34%)
+Damage:  190.0
+		Grade: B+ (2.51%)
+Projectile Speed:  -77.6
+		Grade: C+ (-4.19%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: frodoka48
+Value/Plat: 2.42
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Acri-critatox
+Experimental riven rating: 51.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  168.1
+		Grade: B+ (3.05%)
+Critical Chance:  215.3
+		Grade: A (5.62%)
+Toxin:  123.7
+		Grade: B (1.11%)
+Projectile Speed:  -105.3
+		Grade: A+ (7.6%)
+
+Polarity: Naramon   Rerolls: 10   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: XiaoLuoboSQ
+Value/Plat: 2.13
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Croni-acrican
+Experimental riven rating: 58.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  138.6
+		Grade: B+ (2.66%)
+Multishot:  95.3
+		Grade: C (-5.88%)
+Fire Rate_Attack Speed:  72.5
+		Grade: A (7.31%)
+Damage vs Infested":  -41.2
+		Grade: B+ (1.74%)
+
+Polarity: Madurai   Rerolls: 18   MR: 15
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: FendigheeRicch
+Value/Plat: 1.65
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------

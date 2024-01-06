@@ -1,0 +1,340 @@
+Name: Bubonico Acri-lexicron
+Experimental riven rating: 42.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  7.5
+Critical Chance:  6.7
+Punch Through:  0.2
+Status Duration:  -5.7
+
+Polarity: Vazarin   Rerolls: 15   MR: 16
+Riven rank : 0
+Initial price:  80   Buyout price: 80
+Seller: xzy1218425227
+Value/Plat: 5.33
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acrinok
+Experimental riven rating: 52.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  6.7
+Critical Damage:  7.6
+Punch Through:  0.2
+Status Duration:  -6.1
+
+Polarity: Madurai   Rerolls: 10   MR: 16
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: TSH.CN
+Value/Plat: 3.83
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-lexicron
+Experimental riven rating: 54.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  6.5
+Critical Damage:  7.0
+Punch Through:  0.2
+Ammo Maximum:  -6.0
+
+Polarity: Madurai   Rerolls: 11   MR: 15
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: killdielll
+Value/Plat: 4.16
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-critapha
+Experimental riven rating: 46.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Heat:  6.4
+Critical Chance:  6.5
+Critical Damage:  7.6
+Puncture:  -7.8
+
+Polarity: Madurai   Rerolls: 70   MR: 14
+Riven rank : 0
+Initial price:  480   Buyout price: 480
+Seller: Bandalf_Le_Gland
+Value/Plat: 2.89
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acritox
+Experimental riven rating: 50.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  64.7
+Critical Damage:  57.8
+Toxin:  62.9
+Damage vs Grineer":  -25.0
+
+Polarity: Naramon   Rerolls: 33   MR: 9
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: iwasking66
+Value/Plat: 2.93
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-critatox
+Experimental riven rating: 59.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  7.3
+Critical Damage:  7.7
+Toxin:  7.4
+Status Duration:  -6.2
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  100   Buyout price: 680
+Seller: 2kun..
+Value/Plat: 3.67
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-toxitis
+Experimental riven rating: 49.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  58.2
+Critical Chance:  60.7
+Toxin:  59.3
+Damage vs Grineer":  -25.0
+
+Polarity: Naramon   Rerolls: 7   MR: 10
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: xhcyg29
+Value/Plat: 2.66
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Igni-critatis
+Experimental riven rating: 47.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  58.1
+Critical Damage:  62.8
+Heat:  62.9
+Puncture:  -66.2
+
+Polarity: Madurai   Rerolls: 6   MR: 15
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: Kiyohimeme
+Value/Plat: 2.4
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Visi-critacan
+Experimental riven rating: 45.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  123.5
+Critical Chance:  59.6
+Multishot:  79.0
+Fire Rate_Attack Speed:  -48.3
+
+Polarity: Vazarin   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: SoMi
+Value/Plat: 2.18
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acritox
+Experimental riven rating: 47.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Toxin:  64.0
+Critical Damage:  64.8
+Critical Chance:  69.4
+Status Duration:  -59.3
+
+Polarity: Naramon   Rerolls: 77   MR: 14
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: MrChoonga
+Value/Plat: 2.12
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Croni-critatis
+Experimental riven rating: 55.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  61.2
+Critical Chance:  68.2
+Fire Rate_Attack Speed:  68.3
+Status Chance:  -52.4
+
+Polarity: Vazarin   Rerolls: 14   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Oppai_chan
+Value/Plat: 2.58
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acridra
+Experimental riven rating: 56.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  65.0
+Critical Chance:  65.0
+Fire Rate_Attack Speed:  64.0
+Reload Speed:  -48.0
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -NTB-Dybik
+Value/Plat: 2.69
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-satitis
+Experimental riven rating: 46.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  87.2
+Critical Chance:  66.5
+Critical Damage:  61.7
+Fire Rate_Attack Speed:  -51.7
+
+Polarity: Vazarin   Rerolls: 80   MR: 14
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: L_u_s_t
+Value/Plat: 1.76
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Croni-saticron
+Experimental riven rating: 54.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  59.7
+Multishot:  78.9
+Critical Chance:  59.3
+Magazine Capacity:  -30.5
+
+Polarity: Vazarin   Rerolls: 10   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: FendigheeRicch
+Value/Plat: 2.02
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-cronican
+Experimental riven rating: 56.08
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  66.5
+Multishot:  78.8
+Fire Rate_Attack Speed:  62.9
+Reload Speed:  -34.0
+
+Polarity: Naramon   Rerolls: 34   MR: 10
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: epsil0n00
+Value/Plat: 2.09
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Sati-acricron
+Experimental riven rating: 58.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  66.9
+Critical Chance:  57.5
+Multishot:  92.0
+Damage vs Grineer":  -0.7
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  2000   Buyout price: 2010
+Seller: ------VENOM------
+Value/Plat: 1.88
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Geli-acridra
+Experimental riven rating: 47.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  53.2
+Critical Damage:  57.4
+Cold:  61.5
+Ammo Maximum:  -46.0
+
+Polarity: Madurai   Rerolls: 33   MR: 10
+Riven rank : 0
+Initial price:  1000   Buyout price:  infinite 
+Seller: 1363826312
+Value/Plat: 0.23
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

@@ -1,0 +1,88 @@
+Name: Burston Croni-acricron
+Experimental riven rating: 31.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  84.4
+		Grade: B+ (3.39%)
+Critical Chance:  199.7
+		Grade: B- (-2.03%)
+Critical Damage:  161.5
+		Grade: B (-1.0%)
+Damage vs Grineer":  -51.2
+		Grade: A- (4.63%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Popsmoke
+Value/Plat: 1.35
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Sati-cronicron
+Experimental riven rating: 62.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  130.3
+		Grade: A (6.5%)
+Fire Rate_Attack Speed:  82.2
+		Grade: B (0.69%)
+Critical Chance:  190.5
+		Grade: C (-6.55%)
+Recoil:  96.3
+		Grade: B- (-1.6%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: xinsuanlaobaprime
+Value/Plat: 2.16
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -19.94, 
+Riven stats: 
+Critical Chance:  191.5
+		Grade: C (-6.06%)
+Critical Damage:  160.7
+		Grade: B (-1.49%)
+Status Duration:  131.2
+		Grade: B- (-3.49%)
+Damage vs Corpus":  -47.0
+		Grade: C+ (-3.95%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  2400   Buyout price: 2400
+Seller: huayushiyi2
+Value/Plat: 1.0
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Crita-gelitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -13.77, 
+Riven stats: 
+Critical Chance:  216.6
+		Grade: A (6.26%)
+Cold:  121.4
+		Grade: B (-0.77%)
+Critical Damage:  156.9
+		Grade: C+ (-3.82%)
+Slash:  -127.8
+		Grade: B- (-2.06%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: 0esolate
+Value/Plat: 0.41
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

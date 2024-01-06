@@ -1,0 +1,44 @@
+Name: Harpak Crita-acridra
+Experimental riven rating: 50.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  82.8
+		Grade: C+ (-5.12%)
+Critical Damage:  172.9
+		Grade: B (-0.85%)
+Critical Chance:  227.2
+		Grade: A- (4.27%)
+Ammo Maximum:  -53.8
+		Grade: C (-7.34%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 14
+Riven rank : 8
+Initial price:  80   Buyout price: 500
+Seller: KevinNgu
+Value/Plat: 3.25
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Harpak Crita-satitis
+Experimental riven rating: 56.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  129.1
+		Grade: B (-1.29%)
+Critical Damage:  159.9
+		Grade: C- (-8.3%)
+Critical Chance:  235.4
+		Grade: A+ (8.03%)
+Damage vs Corpus":  -47.5
+		Grade: C- (-9.19%)
+
+Polarity: Naramon   Rerolls: 5   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -Disturbia
+Value/Plat: 2.68
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

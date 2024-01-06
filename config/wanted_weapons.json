@@ -1,0 +1,17 @@
+{
+  "Primary": [
+    "rubico",
+    "kuva_bramma",
+    "ogris"
+  ],
+  "Shotgun": ["kohm", "astilla", "cedo", "bubonico"],
+  "Secondary": ["nukor", "brakk", "kuva_twin_stubbas"],
+  "Melee": [
+    "broken_war",
+    "kronen",
+    "orthos",
+    "nikana"
+  ],
+  "Arch-gun": ["mausolon"],
+  "wanted_unroll": ["vectis", "rubico", "nataruk", "kronen", "zarr", "ogris"]
+}

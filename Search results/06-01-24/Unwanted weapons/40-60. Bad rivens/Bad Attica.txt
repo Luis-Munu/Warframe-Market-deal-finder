@@ -1,0 +1,62 @@
+Name: Attica Acri-critanok
+Experimental riven rating: 58.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  18.6
+Critical Chance:  22.1
+Punch Through:  0.4
+Damage vs Infested":  -0.1
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: xjzj60
+Value/Plat: 10.95
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-satiata
+Experimental riven rating: 58.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  207.6
+Multishot:  122.4
+Critical Chance:  216.9
+Damage vs Corpus":  -0.5
+
+Polarity: Vazarin   Rerolls: 4   MR: 10
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: litter69
+Value/Plat: 3.79
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-satitis
+Experimental riven rating: 53.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.0
+		Grade: C+ (-4.52%)
+Critical Damage:  157.0
+		Grade: B (-1.38%)
+Critical Chance:  208.0
+		Grade: A- (4.56%)
+Damage vs Grineer":  -48.0
+		Grade: B (0.52%)
+
+Polarity: Madurai   Rerolls: 17   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Sa.
+Value/Plat: 1.96
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

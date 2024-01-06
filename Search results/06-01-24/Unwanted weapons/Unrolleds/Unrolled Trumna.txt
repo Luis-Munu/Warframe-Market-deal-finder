@@ -1,0 +1,110 @@
+Name: Trumna Acri-croniata
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -1.52, 
+Riven stats: 
+Damage:  126.0
+		Grade: C+ (-4.03%)
+Fire Rate_Attack Speed:  48.0
+		Grade: B (0.3%)
+Critical Damage:  102.1
+		Grade: A (6.77%)
+Status Chance:  -57.8
+		Grade: B (0.75%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: ahcyq
+Value/Plat: 1.39
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-satidra
+Experimental riven rating: 60.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  110.0
+		Grade: C- (-7.95%)
+Multishot:  76.9
+		Grade: A (7.22%)
+Fire Rate_Attack Speed:  45.4
+		Grade: C+ (-5.13%)
+Reload Speed:  -33.4
+		Grade: A- (4.9%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: crane_1178
+Value/Plat: 2.31
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Croni-visitis
+Experimental riven rating: 63.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  92.2
+		Grade: C+ (-3.58%)
+Damage:  128.7
+		Grade: B- (-1.97%)
+Fire Rate_Attack Speed:  49.8
+		Grade: A- (4.07%)
+Projectile Speed:  -61.1
+		Grade: A (6.5%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: BBCsauce
+Value/Plat: 2.52
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-lexitis
+Experimental riven rating: 73.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  91.3
+		Grade: C+ (-4.53%)
+Punch Through:  2.1
+		Grade: B- (-1.55%)
+Critical Chance:  116.8
+		Grade: B- (-2.26%)
+Zoom:  -39.5
+		Grade: B+ (3.28%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1999
+Seller: wujiahong1
+Value/Plat: 2.58
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Acri-satidra
+Experimental riven rating: 75.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  101.0
+		Grade: A (5.62%)
+Multishot:  70.7
+		Grade: B (-1.42%)
+Fire Rate_Attack Speed:  43.5
+		Grade: C- (-9.1%)
+Recoil:  55.5
+		Grade: B- (-3.26%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.14
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

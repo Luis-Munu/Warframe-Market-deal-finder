@@ -1,0 +1,152 @@
+Name: Snipetron Crita-toxitis
+Experimental riven rating: 41.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.8
+		Grade: B- (-2.77%)
+Critical Chance:  21.5
+		Grade: A (5.88%)
+Toxin:  12.7
+		Grade: A- (4.2%)
+Reload Speed:  -5.0
+		Grade: C- (-7.59%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  60   Buyout price: 60
+Seller: warworldquailty
+Value/Plat: 5.69
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Acri-critadex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.57, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  176.4
+Critical Damage:  142.0
+Status Chance:  100.4
+Damage vs Grineer":  -0.6
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: qumingtian
+Value/Plat: 1.95
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.2, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.2
+		Grade: B (-1.4%)
+Critical Damage:  139.1
+		Grade: C+ (-4.89%)
+Status Chance:  116.8
+		Grade: A (6.48%)
+Reload Speed:  -48.9
+		Grade: B (0.42%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: wwe36D
+Value/Plat: 1.95
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Lexi-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.33, 
+Riven stats: 
+Critical Chance:  176.8
+		Grade: B- (-3.26%)
+Punch Through:  3.6
+		Grade: S (10.35%)
+Critical Damage:  148.1
+		Grade: B (1.26%)
+Status Duration:  -89.9
+		Grade: C- (-7.79%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: AYWC-ERROR-404
+Value/Plat: 1.82
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Croni-acriata
+Experimental riven rating: 41.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  72.5
+		Grade: B (-0.94%)
+Damage:  198.4
+		Grade: B (-1.19%)
+Critical Damage:  144.7
+		Grade: B (-1.06%)
+Ammo Maximum:  -45.3
+		Grade: C (-6.97%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  240   Buyout price: 240
+Seller: Ash-Rui
+Value/Plat: 3.22
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Acri-satidra
+Experimental riven rating: 60.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  11.6
+		Grade: C+ (-4.82%)
+Fire Rate_Attack Speed:  7.6
+		Grade: C (-6.54%)
+Critical Damage:  16.7
+		Grade: B+ (2.77%)
+Recoil:  10.5
+		Grade: A+ (7.7%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: ActuallyWo
+Value/Plat: 2.96
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Sati-critatis
+Experimental riven rating: 40.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  104.1
+		Grade: C+ (-5.1%)
+Critical Chance:  170.9
+		Grade: C (-6.49%)
+Critical Damage:  132.8
+		Grade: C- (-9.2%)
+Damage vs Grineer":  -40.8
+		Grade: C (-7.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: XShongye
+Value/Plat: 1.33
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

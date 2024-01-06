@@ -1,0 +1,66 @@
+Name: Attica Visi-acridra
+Experimental riven rating: 67.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  8.1
+		Grade: C- (-8.49%)
+Critical Damage:  16.7
+		Grade: C (-5.59%)
+Damage:  23.5
+		Grade: B- (-3.23%)
+Zoom:  -6.5
+		Grade: C- (-8.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Wolverine53671
+Value/Plat: 6.74
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-acriata
+Experimental riven rating: 66.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.4
+		Grade: C- (-9.31%)
+Critical Damage:  166.3
+		Grade: A- (4.46%)
+Damage:  233.1
+		Grade: A (6.66%)
+Projectile Speed:  -95.0
+		Grade: B (-0.53%)
+
+Polarity: Vazarin   Rerolls: 57   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Su_xun
+Value/Plat: 4.53
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-satidra
+Experimental riven rating: 60.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  216.8
+		Grade: A+ (8.99%)
+Multishot:  128.0
+		Grade: A (7.21%)
+Fire Rate_Attack Speed:  75.4
+		Grade: C+ (-5.35%)
+Ammo Maximum:  -56.1
+		Grade: A (5.84%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: -Sakura-xh-
+Value/Plat: 2.42
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

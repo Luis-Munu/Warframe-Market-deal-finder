@@ -1,0 +1,154 @@
+Name: Paris Lexi-acricron
+Experimental riven rating: 35.59
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  189.2
+		Grade: C (-7.18%)
+Critical Damage:  157.9
+		Grade: B- (-3.21%)
+Punch Through:  3.6
+		Grade: B (-1.07%)
+Magazine Capacity:  -53.2
+		Grade: B- (-2.05%)
+
+Polarity: Naramon   Rerolls: 2   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: OxBowPrime
+Value/Plat: 2.18
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 13.98, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  189.6
+		Grade: B (-0.1%)
+Critical Damage:  140.5
+		Grade: C (-7.49%)
+Status Duration:  124.3
+		Grade: B- (-1.79%)
+Recoil:  93.9
+		Grade: B+ (3.06%)
+
+Polarity: Madurai   Rerolls: 23   MR: 12
+Riven rank : 0
+Initial price:  420   Buyout price: 420
+Seller: gongzongbao
+Value/Plat: 1.52
+Used disposition: 1.35
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Acri-cronicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -34.76, 
+Riven stats: 
+Fire Rate_Attack Speed:  73.9
+		Grade: C- (-9.47%)
+Critical Damage:  162.8
+		Grade: B (-0.2%)
+Critical Chance:  184.1
+		Grade: F (-9.69%)
+Damage:  -166.7
+		Grade: C (-6.95%)
+
+Polarity: Naramon   Rerolls: 32   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: -Qorvex-
+Value/Plat: 1.46
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Acri-critaata
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -28.98, 
+Riven stats: 
+Critical Chance:  193.2
+		Grade: C+ (-5.22%)
+Critical Damage:  169.3
+		Grade: A- (3.78%)
+Damage:  203.5
+		Grade: C- (-9.14%)
+Multishot:  -93.1
+		Grade: C+ (-4.87%)
+
+Polarity: Madurai   Rerolls: 2   MR: 11
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Takeoreat
+Value/Plat: 1.23
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Crita-toxitis
+Experimental riven rating: 27.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.7
+		Grade: A (5.75%)
+Toxin:  107.9
+		Grade: C+ (-5.28%)
+Critical Damage:  143.3
+		Grade: C (-5.65%)
+Status Chance:  -84.2
+		Grade: C- (-7.59%)
+
+Polarity: Madurai   Rerolls: 1   MR: 11
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Kesitel
+Value/Plat: 1.21
+Used disposition: 1.35
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Acri-saticron
+Experimental riven rating: 36.22
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  176.7
+		Grade: A+ (8.32%)
+Critical Chance:  194.6
+		Grade: C+ (-4.53%)
+Multishot:  128.6
+		Grade: A- (5.11%)
+Status Duration:  -118.2
+		Grade: A+ (8.7%)
+
+Polarity: Madurai   Rerolls: 15   MR: 8
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: tangrenquq
+Value/Plat: 0.3
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Acri-toxicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -36.13, 
+Riven stats: 
+Critical Damage:  169.4
+		Grade: A+ (7.55%)
+Critical Chance:  177.9
+		Grade: F (-9.61%)
+Toxin:  123.8
+		Grade: A- (4.8%)
+Damage:  -161.1
+		Grade: C (-6.86%)
+
+Polarity: Madurai   Rerolls: 61   MR: 15
+Riven rank : 8
+Initial price:  2100   Buyout price:  infinite 
+Seller: KitMeHarder
+Value/Plat: 0.41
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------

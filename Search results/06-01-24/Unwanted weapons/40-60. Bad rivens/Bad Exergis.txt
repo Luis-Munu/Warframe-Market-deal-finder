@@ -1,0 +1,86 @@
+Name: Exergis Sati-visicron
+Experimental riven rating: 40.25
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  127.7
+Critical Chance:  88.2
+Damage:  166.0
+Damage vs Grineer":  -0.3
+
+Polarity: Madurai   Rerolls: 5   MR: 15
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: krazox
+Value/Plat: 1.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Exergis Crita-satitis
+Experimental riven rating: 44.57
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  93.0
+		Grade: B (0.2%)
+Multishot:  115.0
+		Grade: C (-6.88%)
+Critical Damage:  85.0
+		Grade: C- (-8.42%)
+Ammo Maximum:  -78.0
+		Grade: A- (5.06%)
+
+Polarity: Naramon   Rerolls: 12   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Ramabay
+Value/Plat: 1.62
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Exergis Crita-acrican
+Experimental riven rating: 57.14
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  84.6
+		Grade: C- (-8.85%)
+Critical Damage:  85.7
+		Grade: C- (-7.67%)
+Multishot:  131.8
+		Grade: A (6.73%)
+Recoil:  77.3
+		Grade: A- (4.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.19
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Exergis Sati-critatis
+Experimental riven rating: 55.28
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  84.5
+		Grade: C- (-8.96%)
+Critical Chance:  88.4
+		Grade: C+ (-4.76%)
+Multishot:  134.9
+		Grade: A+ (9.24%)
+Damage vs Infested":  -38.6
+		Grade: A- (3.98%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  23333   Buyout price:  infinite 
+Seller: Miaoxiaojian.233
+Value/Plat: 0.2
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

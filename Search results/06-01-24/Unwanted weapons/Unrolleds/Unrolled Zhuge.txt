@@ -1,0 +1,22 @@
+Name: Zhuge Toxi-acricron
+Experimental riven rating: 68.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.2
+		Grade: C+ (-4.44%)
+Toxin:  108.9
+		Grade: A+ (7.55%)
+Critical Damage:  144.5
+		Grade: A (7.03%)
+Zoom:  -56.3
+		Grade: A- (4.27%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  875   Buyout price: 875
+Seller: Almond__ChoCo
+Value/Plat: 4.08
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

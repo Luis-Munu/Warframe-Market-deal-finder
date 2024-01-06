@@ -1,0 +1,62 @@
+Name: Ferrox Toxi-critatis
+Experimental riven rating: 44.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  95.3
+		Grade: B- (-1.79%)
+Critical Chance:  162.2
+		Grade: B (0.33%)
+Critical Damage:  120.5
+		Grade: C (-6.86%)
+Status Chance:  -77.1
+		Grade: B (-0.67%)
+
+Polarity: Madurai   Rerolls: 102   MR: 10
+Riven rank : 8
+Initial price:  333   Buyout price: 666
+Seller: YQing_H
+Value/Plat: 2.3
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Ferrox Visi-acricron
+Experimental riven rating: 56.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  149.4
+Critical Damage:  121.6
+Damage:  190.2
+Damage vs Corpus":  -0.6
+
+Polarity: Madurai   Rerolls: 3   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: zczcwei
+Value/Plat: 2.66
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Ferrox Hexa-acricron
+Experimental riven rating: 53.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  86.0
+Critical Chance:  131.0
+Critical Damage:  112.0
+Puncture:  -85.0
+
+Polarity: Vazarin   Rerolls: 7   MR: 14
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: Forsaken-xiao
+Value/Plat: 1.69
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

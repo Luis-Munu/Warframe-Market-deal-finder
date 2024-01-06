@@ -1,0 +1,152 @@
+Name: Battacor Hexa-acricron
+Experimental riven rating: 53.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  102.1
+		Grade: S (10.0%)
+Critical Chance:  151.0
+		Grade: B- (-2.35%)
+Critical Damage:  133.9
+		Grade: A+ (8.2%)
+Recoil:  74.6
+		Grade: B (0.48%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: ShuheiMiyagi
+Value/Plat: 3.72
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Crita-acriata
+Experimental riven rating: 55.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  163.1
+Critical Damage:  127.1
+Damage:  172.0
+Damage vs Grineer":  -64.0
+
+Polarity: Naramon   Rerolls: 109   MR: 14
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Godzilla-Prime
+Value/Plat: 3.14
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Crita-lexitis
+Experimental riven rating: 58.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  167.8
+		Grade: A+ (8.51%)
+Punch Through:  2.9
+		Grade: A- (5.05%)
+Critical Damage:  129.0
+		Grade: A- (4.24%)
+Slash:  -91.9
+		Grade: C (-7.16%)
+
+Polarity: Vazarin   Rerolls: 15   MR: 12
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: Sy.Nice
+Value/Plat: 3.17
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Visi-acricron
+Experimental riven rating: 48.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.0
+		Grade: C (-6.88%)
+Critical Damage:  124.1
+		Grade: B (0.28%)
+Damage:  175.7
+		Grade: B+ (3.41%)
+Magazine Capacity:  -43.5
+		Grade: A (5.57%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 14
+Riven rank : 8
+Initial price:  1234   Buyout price: 1234
+Seller: evenescence-_-V
+Value/Plat: 1.96
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Sati-critatis
+Experimental riven rating: 42.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.6
+		Grade: C- (-9.08%)
+Critical Damage:  111.6
+		Grade: F (-9.82%)
+Multishot:  99.6
+		Grade: A (7.31%)
+Status Duration:  -87.8
+		Grade: A (6.43%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price: 1500
+Seller: -Hong-Kong-Doll-
+Value/Plat: 1.57
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Acri-cronican
+Experimental riven rating: 56.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.3
+		Grade: A- (4.0%)
+Multishot:  10.2
+		Grade: B (-1.09%)
+Fire Rate_Attack Speed:  7.1
+		Grade: B+ (3.18%)
+Reload Speed:  -4.7
+		Grade: B+ (2.66%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1800   Buyout price: 1800
+Seller: narcissist66
+Value/Plat: 1.89
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Sati-acridra
+Experimental riven rating: 49.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  98.4
+		Grade: A (6.02%)
+Critical Damage:  126.6
+		Grade: B+ (2.3%)
+Fire Rate_Attack Speed:  56.8
+		Grade: C- (-8.28%)
+Magazine Capacity:  -44.0
+		Grade: A (6.79%)
+
+Polarity: Madurai   Rerolls: 5   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Balancoire
+Value/Plat: 1.56
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

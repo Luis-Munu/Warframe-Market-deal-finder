@@ -1,0 +1,104 @@
+Name: Tigris Acri-visicron
+Experimental riven rating: 33.65
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  83.6
+Critical Damage:  95.3
+Damage:  162.1
+Status Chance:  -80.0
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Daikyu
+Value/Plat: 1.9
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Crita-toxitis
+Experimental riven rating: 34.42
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Toxin:  88.9
+		Grade: A- (5.36%)
+Critical Chance:  94.1
+		Grade: S (11.52%)
+Critical Damage:  87.4
+		Grade: A- (3.58%)
+Magazine Capacity:  -37.6
+		Grade: B (0.38%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: ZerNacK
+Value/Plat: 1.44
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Sati-visicron
+Experimental riven rating: 56.29
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  135.2
+Critical Chance:  84.2
+Damage:  182.5
+Ammo Maximum:  -73.2
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Qorvex-
+Value/Plat: 2.39
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Acri-satidra
+Experimental riven rating: 59.29
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  98.8
+Multishot:  129.9
+Fire Rate_Attack Speed:  101.0
+Damage vs Infested":  -33.6
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: kaiwen99
+Value/Plat: 2.58
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Crita-acrican
+Experimental riven rating: 53.19
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  120.2
+		Grade: C (-6.9%)
+Critical Chance:  100.6
+		Grade: A- (3.67%)
+Critical Damage:  96.8
+		Grade: B (-0.24%)
+Ammo Maximum:  -72.6
+		Grade: C (-6.46%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: -Qorvex-
+Value/Plat: 0.21
+Used disposition: 1.15
+Real disposition: 1.0
+--------------------------------------------------

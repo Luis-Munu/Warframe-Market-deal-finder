@@ -1,0 +1,66 @@
+Name: Stradavar Croni-critacan
+Experimental riven rating: 51.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  167.1
+		Grade: A+ (8.06%)
+Multishot:  91.1
+		Grade: B- (-1.85%)
+Fire Rate_Attack Speed:  67.5
+		Grade: A+ (9.0%)
+Magazine Capacity:  -41.3
+		Grade: B (0.23%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: BingNiao
+Value/Plat: 2.64
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Croni-critacan
+Experimental riven rating: 58.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  63.4
+		Grade: B+ (2.38%)
+Multishot:  89.7
+		Grade: B- (-3.36%)
+Critical Chance:  149.6
+		Grade: B- (-3.26%)
+Ammo Maximum:  -41.5
+		Grade: B (0.72%)
+
+Polarity: Madurai   Rerolls: 20   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rhegaly
+Value/Plat: 2.53
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Visi-saticron
+Experimental riven rating: 42.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  184.2
+		Grade: A+ (8.42%)
+Multishot:  93.3
+		Grade: B (0.52%)
+Critical Chance:  151.0
+		Grade: B- (-2.35%)
+Status Chance:  -69.2
+		Grade: C (-6.79%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: SordidDreams
+Value/Plat: 1.56
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

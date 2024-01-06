@@ -1,0 +1,392 @@
+Name: Soma Crita-hexatis
+Experimental riven rating: 43.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  96.8
+		Grade: B (-0.24%)
+Critical Damage:  124.9
+		Grade: B- (-3.46%)
+Critical Chance:  165.9
+		Grade: B+ (2.62%)
+Recoil:  72.5
+		Grade: C (-6.59%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price: 300
+Seller: skyrimisnotthatgood
+Value/Plat: 3.17
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-visidra
+Experimental riven rating: 46.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  13.3
+		Grade: C (-7.48%)
+Damage:  18.2
+		Grade: C- (-7.78%)
+Fire Rate_Attack Speed:  6.5
+		Grade: F (-9.64%)
+Status Chance:  -8.5
+		Grade: B (-1.44%)
+
+Polarity: Madurai   Rerolls: 20   MR: 10
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: huntiandinb
+Value/Plat: 3.62
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-critanok
+Experimental riven rating: 41.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  129.9
+		Grade: B (0.4%)
+Punch Through:  2.8
+		Grade: B- (-2.98%)
+Critical Chance:  159.8
+		Grade: B (-1.16%)
+Reload Speed:  -45.6
+		Grade: A (5.86%)
+
+Polarity: Madurai   Rerolls: 20   MR: 8
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: _Lyzenia
+Value/Plat: 2.82
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Visi-saticron
+Experimental riven rating: 42.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  155.8
+		Grade: C+ (-3.63%)
+Multishot:  100.6
+		Grade: A- (3.67%)
+Damage:  187.6
+		Grade: A (5.62%)
+Magazine Capacity:  -45.1
+		Grade: A- (4.7%)
+
+Polarity: Madurai   Rerolls: 183   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Wartexva
+Value/Plat: 2.48
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Sati-visicron
+Experimental riven rating: 52.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  189.4
+		Grade: A (6.63%)
+Multishot:  106.2
+		Grade: A+ (9.45%)
+Critical Chance:  147.5
+		Grade: C- (-8.76%)
+Damage vs Corpus":  -37.0
+		Grade: C+ (-4.66%)
+
+Polarity: Madurai   Rerolls: 33   MR: 11
+Riven rank : 8
+Initial price:  620   Buyout price: 620
+Seller: MrAnderson
+Value/Plat: 3.12
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-satidra
+Experimental riven rating: 57.86
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  125.1
+Multishot:  93.0
+Fire Rate_Attack Speed:  61.1
+Damage vs Corpus":  -0.4
+
+Polarity: Vazarin   Rerolls: 13   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: krazox
+Value/Plat: 3.14
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Toxi-critatis
+Experimental riven rating: 43.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  127.3
+		Grade: B- (-1.61%)
+Critical Chance:  159.3
+		Grade: B (-1.47%)
+Toxin:  95.8
+		Grade: B (-1.27%)
+Status Chance:  -73.1
+		Grade: C (-5.82%)
+
+Polarity: Madurai   Rerolls: 1   MR: 14
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Revnege
+Value/Plat: 2.0
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Crita-toxitis
+Experimental riven rating: 49.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  14.0
+Toxin:  10.4
+Critical Chance:  18.2
+Damage vs Corpus":  -1.0
+
+Polarity: Vazarin   Rerolls: 13   MR: 10
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: changsheng666
+Value/Plat: 2.18
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Crita-acrican
+Experimental riven rating: 57.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  157.9
+		Grade: B+ (2.11%)
+Critical Damage:  112.4
+		Grade: C- (-9.17%)
+Multishot:  87.9
+		Grade: C+ (-5.3%)
+Status Chance:  -77.7
+		Grade: A- (4.66%)
+
+Polarity: Naramon   Rerolls: 9   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: STYANAX_PRIME
+Value/Plat: 2.73
+Used disposition: 1.1
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Crita-satiata
+Experimental riven rating: 52.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  18.1
+		Grade: C- (-8.29%)
+Multishot:  11.3
+		Grade: A- (4.81%)
+Critical Chance:  19.0
+		Grade: A (5.77%)
+Ammo Maximum:  -4.4
+		Grade: C- (-8.07%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1350   Buyout price: 1350
+Seller: epsil0n00
+Value/Plat: 2.06
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Visi-acridra
+Experimental riven rating: 57.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  181.0
+		Grade: B+ (1.9%)
+Critical Damage:  121.7
+		Grade: C (-5.94%)
+Fire Rate_Attack Speed:  60.5
+		Grade: C (-6.56%)
+Damage vs Infested":  -39.0
+		Grade: B (0.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: hoot1
+Value/Plat: 2.16
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Croni-critacan
+Experimental riven rating: 50.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  86.6
+		Grade: C (-6.7%)
+Critical Chance:  145.1
+		Grade: C (-6.17%)
+Fire Rate_Attack Speed:  61.4
+		Grade: B (-0.85%)
+Status Chance:  -76.9
+		Grade: A- (3.58%)
+
+Polarity: Madurai   Rerolls: 11   MR: 9
+Riven rank : 0
+Initial price:  1300   Buyout price: 1600
+Seller: MirazuSato
+Value/Plat: 1.78
+Used disposition: 1.1
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-cronican
+Experimental riven rating: 53.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  64.6
+		Grade: B (-0.22%)
+Critical Damage:  135.6
+		Grade: A- (4.81%)
+Multishot:  87.9
+		Grade: C- (-9.41%)
+Status Chance:  -72.9
+		Grade: C (-6.08%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: -Qorvex-
+Value/Plat: 1.93
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-critadex
+Experimental riven rating: 46.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  155.4
+		Grade: C+ (-3.88%)
+Status Chance:  91.3
+		Grade: C (-5.91%)
+Critical Damage:  141.7
+		Grade: S (9.52%)
+Zoom:  -51.8
+		Grade: B (0.11%)
+
+Polarity: Madurai   Rerolls: 49   MR: 11
+Riven rank : 8
+Initial price:  1900   Buyout price: 1900
+Seller: MammothEgo
+Value/Plat: 1.51
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Sati-critadra
+Experimental riven rating: 54.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  58.8
+		Grade: C- (-9.18%)
+Critical Chance:  173.6
+		Grade: A (7.38%)
+Multishot:  106.1
+		Grade: A+ (9.34%)
+Slash:  -95.9
+		Grade: C (-7.33%)
+
+Polarity: Naramon   Rerolls: 129   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Qorvex-
+Value/Plat: 1.73
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-satidra
+Experimental riven rating: 57.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  132.1
+		Grade: B+ (2.1%)
+Multishot:  102.9
+		Grade: A (6.04%)
+Fire Rate_Attack Speed:  70.5
+		Grade: A+ (8.89%)
+Reload Speed:  -41.9
+		Grade: B- (-2.73%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Goblin9Mu
+Value/Plat: 0.19
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Acri-cronicron
+Experimental riven rating: 56.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.7
+		Grade: C (-6.43%)
+Fire Rate_Attack Speed:  60.8
+		Grade: B- (-1.82%)
+Critical Damage:  123.7
+		Grade: B (-0.04%)
+Damage vs Infested":  -37.7
+		Grade: B+ (1.56%)
+
+Polarity: Madurai   Rerolls: 18   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price:  infinite 
+Seller: Ryanx
+Value/Plat: 0.2
+Used disposition: 1.1
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Croni-acricron
+Experimental riven rating: 50.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.5
+		Grade: C- (-7.53%)
+Fire Rate_Attack Speed:  70.8
+		Grade: A+ (9.35%)
+Critical Damage:  134.1
+		Grade: A- (3.65%)
+Slash:  -94.7
+		Grade: C- (-8.49%)
+
+Polarity: Naramon   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price:  infinite 
+Seller: Nyrre
+Value/Plat: 0.22
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

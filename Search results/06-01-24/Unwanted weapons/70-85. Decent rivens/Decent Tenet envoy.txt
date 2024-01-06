@@ -1,0 +1,436 @@
+Name: Tenet envoy Lexi-critatis
+Experimental riven rating: 77.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  95.5
+		Grade: A- (4.51%)
+Punch Through:  1.8
+		Grade: S (10.35%)
+Critical Damage:  68.8
+		Grade: C (-5.92%)
+Zoom:  -30.1
+		Grade: B+ (2.92%)
+
+Polarity: Madurai   Rerolls: 134   MR: 8
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: killa8483
+Value/Plat: 12.46
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Croni-visitis
+Experimental riven rating: 72.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  40.2
+		Grade: S (9.85%)
+Damage:  98.8
+		Grade: B- (-1.59%)
+Critical Damage:  67.5
+		Grade: C- (-7.7%)
+Recoil:  42.9
+		Grade: B- (-2.21%)
+
+Polarity: Madurai   Rerolls: 178   MR: 8
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Lky-DearlyDream
+Value/Plat: 8.23
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Lexi-critatis
+Experimental riven rating: 78.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  89.0
+		Grade: B- (-2.6%)
+Critical Damage:  68.1
+		Grade: C (-6.87%)
+Punch Through:  1.7
+		Grade: A- (4.22%)
+Impact:  -53.7
+		Grade: C- (-8.2%)
+
+Polarity: Vazarin   Rerolls: 17   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: kafeibuaitang
+Value/Plat: 10.19
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Acri-critanok
+Experimental riven rating: 78.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  88.7
+		Grade: B- (-2.93%)
+Punch Through:  1.6
+		Grade: B- (-1.91%)
+Critical Damage:  79.7
+		Grade: A+ (8.99%)
+Zoom:  -29.8
+		Grade: B+ (1.89%)
+
+Polarity: Vazarin   Rerolls: 35   MR: 9
+Riven rank : 8
+Initial price:  300   Buyout price: 500
+Seller: VlaDiSlavovich2.0
+Value/Plat: 8.56
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Visi-critacan
+Experimental riven rating: 82.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  97.0
+		Grade: A (6.15%)
+Multishot:  56.2
+		Grade: B+ (2.47%)
+Damage:  108.6
+		Grade: A+ (8.17%)
+Projectile Speed:  -42.6
+		Grade: B- (-2.9%)
+
+Polarity: Naramon   Rerolls: 104   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: mangguo2
+Value/Plat: 10.04
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Croni-critatis
+Experimental riven rating: 77.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  38.2
+		Grade: A- (4.39%)
+Critical Chance:  94.3
+		Grade: B+ (3.2%)
+Critical Damage:  73.8
+		Grade: B (0.92%)
+Projectile Speed:  -44.7
+		Grade: B+ (1.89%)
+
+Polarity: Madurai   Rerolls: 70   MR: 16
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: MarketWhite
+Value/Plat: 6.82
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-acridra
+Experimental riven rating: 71.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  83.1
+		Grade: C- (-9.06%)
+Critical Damage:  66.3
+		Grade: C- (-9.34%)
+Fire Rate_Attack Speed:  33.3
+		Grade: C- (-9.0%)
+Recoil:  45.5
+		Grade: A- (3.71%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: chengxicrz
+Value/Plat: 4.84
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Acri-visicron
+Experimental riven rating: 74.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  92.0
+		Grade: B (0.68%)
+Critical Damage:  77.6
+		Grade: A (6.12%)
+Damage:  103.8
+		Grade: B+ (3.39%)
+Damage vs Infested":  -21.0
+		Grade: C+ (-4.26%)
+
+Polarity: Madurai   Rerolls: 24   MR: 16
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: wlvovl
+Value/Plat: 5.01
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-acridra
+Experimental riven rating: 79.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  83.1
+		Grade: C- (-9.06%)
+Critical Damage:  76.5
+		Grade: A- (4.61%)
+Fire Rate_Attack Speed:  38.9
+		Grade: A (6.3%)
+Recoil:  43.4
+		Grade: B (-1.07%)
+
+Polarity: Vazarin   Rerolls: 83   MR: 16
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: feifei.aini
+Value/Plat: 4.8
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Sati-critaata
+Experimental riven rating: 70.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  58.7
+		Grade: A (7.03%)
+Critical Chance:  98.7
+		Grade: A+ (8.01%)
+Damage:  103.4
+		Grade: B+ (2.99%)
+Ammo Maximum:  -22.8
+		Grade: C (-6.36%)
+
+Polarity: Vazarin   Rerolls: 95   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Aorefsprime
+Value/Plat: 3.47
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Sati-cronitis
+Experimental riven rating: 78.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  55.8
+		Grade: B+ (1.74%)
+Fire Rate_Attack Speed:  34.9
+		Grade: C+ (-4.63%)
+Critical Damage:  69.7
+		Grade: C+ (-4.69%)
+Recoil:  41.5
+		Grade: C+ (-5.4%)
+
+Polarity: Naramon   Rerolls: 6   MR: 9
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: meimeijiawo
+Value/Plat: 4.33
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Sati-acridra
+Experimental riven rating: 80.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  58.0
+		Grade: A (5.75%)
+Fire Rate_Attack Speed:  36.5
+		Grade: B (-0.26%)
+Critical Damage:  74.7
+		Grade: B+ (2.15%)
+Recoil:  44.3
+		Grade: B (0.98%)
+
+Polarity: Naramon   Rerolls: 97   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Kalaay
+Value/Plat: 4.62
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Visi-critatis
+Experimental riven rating: 82.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  107.9
+		Grade: A (7.47%)
+Critical Chance:  91.5
+		Grade: B (0.13%)
+Critical Damage:  68.9
+		Grade: C (-5.78%)
+Impact:  -61.2
+		Grade: A- (4.63%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: swemn
+Value/Plat: 4.88
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-visitis
+Experimental riven rating: 82.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  99.7
+		Grade: A+ (9.11%)
+Critical Damage:  66.3
+		Grade: C- (-9.34%)
+Damage:  106.3
+		Grade: A (5.88%)
+Recoil:  41.5
+		Grade: C+ (-5.4%)
+
+Polarity: Naramon   Rerolls: 452   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: czl2345617
+Value/Plat: 4.95
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-satiata
+Experimental riven rating: 71.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  98.4
+		Grade: A+ (7.68%)
+Damage:  101.7
+		Grade: B (1.3%)
+Multishot:  58.7
+		Grade: A (7.03%)
+Ammo Maximum:  -26.4
+		Grade: A+ (8.43%)
+
+Polarity: Vazarin   Rerolls: 312   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Cold_39
+Value/Plat: 3.02
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-satiata
+Experimental riven rating: 71.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  89.7
+Multishot:  50.1
+Damage:  107.2
+Damage vs Infested":  -0.8
+
+Polarity: Naramon   Rerolls: 83   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: sleapinsummer
+Value/Plat: 3.05
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-visican
+Experimental riven rating: 76.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  96.1
+Damage:  97.4
+Multishot:  50.8
+Projectile Speed:  -29.8
+
+Polarity: Madurai   Rerolls: 501   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: laoniuchicao
+Value/Plat: 3.45
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Croni-critacan
+Experimental riven rating: 83.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  35.1
+		Grade: C+ (-4.08%)
+Critical Chance:  84.4
+		Grade: C- (-7.64%)
+Multishot:  52.2
+		Grade: C+ (-4.82%)
+Zoom:  -26.7
+		Grade: C- (-8.71%)
+
+Polarity: Madurai   Rerolls: 56   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: --She-won-t--come-aodi--
+Value/Plat: 4.19
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Sati-critadra
+Experimental riven rating: 76.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  93.4
+		Grade: B+ (2.21%)
+Fire Rate_Attack Speed:  33.2
+		Grade: C- (-9.28%)
+Multishot:  56.5
+		Grade: B+ (3.02%)
+Projectile Speed:  -45.6
+		Grade: A- (3.94%)
+
+Polarity: Madurai   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: jiuban180
+Value/Plat: 2.36
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Tenet envoy Crita-acrican
+Experimental riven rating: 77.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  95.3
+		Grade: A- (4.29%)
+Critical Damage:  73.2
+		Grade: B (0.1%)
+Multishot:  52.0
+		Grade: C+ (-5.19%)
+Damage vs Infested":  -22.9
+		Grade: A- (4.4%)
+
+Polarity: Madurai   Rerolls: 17   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: Albraleliepor
+Value/Plat: 0.14
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

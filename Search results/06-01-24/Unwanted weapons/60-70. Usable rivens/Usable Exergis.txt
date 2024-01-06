@@ -1,0 +1,22 @@
+Name: Exergis Crita-satidra
+Experimental riven rating: 60.71
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  86.5
+		Grade: C (-6.8%)
+Multishot:  133.7
+		Grade: A+ (8.26%)
+Fire Rate_Attack Speed:  89.9
+		Grade: B- (-3.14%)
+Puncture:  -101.3
+		Grade: B+ (2.33%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Nataruk
+Value/Plat: 2.34
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

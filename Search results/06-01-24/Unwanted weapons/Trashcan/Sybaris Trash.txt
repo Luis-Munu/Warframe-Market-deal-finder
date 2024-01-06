@@ -1,0 +1,106 @@
+Name: Sybaris Toxi-acricron
+Experimental riven rating: 34.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.7
+		Grade: B (0.48%)
+Critical Chance:  19.7
+		Grade: B (0.89%)
+Toxin:  11.9
+		Grade: B+ (1.54%)
+Fire Rate_Attack Speed:  -6.7
+		Grade: A (7.12%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: lixad
+Value/Plat: 2.64
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.63, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Heat:  109.0
+Critical Damage:  154.8
+Critical Chance:  192.9
+Damage vs Grineer":  -0.5
+
+Polarity: Vazarin   Rerolls: 5   MR: 8
+Riven rank : 8
+Initial price:  499   Buyout price: 499
+Seller: heylzl
+Value/Plat: 1.46
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 3.56, 
+Riven stats: 
+Status Duration:  119.6
+		Grade: B- (-1.87%)
+Critical Damage:  159.0
+		Grade: A+ (8.71%)
+Critical Chance:  199.1
+		Grade: A+ (8.94%)
+Damage vs Corpus":  -43.9
+		Grade: B (0.07%)
+
+Polarity: Madurai   Rerolls: 11   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: CephalonSinisite
+Value/Plat: 1.37
+Used disposition: 1.3
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Visi-critatis
+Experimental riven rating: 32.9
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  143.1
+		Grade: B+ (1.76%)
+Damage:  211.8
+		Grade: S (9.7%)
+Critical Chance:  184.8
+		Grade: A- (5.16%)
+Slash:  -115.1
+		Grade: B+ (2.32%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Zeenie
+Value/Plat: 1.66
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Hexa-critatis
+Experimental riven rating: 30.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  20.3
+Critical Damage:  15.5
+Status Chance:  13.8
+Ammo Maximum:  -5.9
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1   Buyout price: 1000
+Seller: nanshaoyang
+Value/Plat: 1.4
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

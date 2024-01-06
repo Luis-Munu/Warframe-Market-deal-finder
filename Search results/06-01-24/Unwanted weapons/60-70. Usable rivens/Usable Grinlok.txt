@@ -1,0 +1,22 @@
+Name: Grinlok Crita-lexitis
+Experimental riven rating: 65.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  198.2
+		Grade: A+ (8.45%)
+Punch Through:  3.5
+		Grade: A (7.28%)
+Critical Damage:  135.0
+		Grade: C- (-7.7%)
+Zoom:  -61.0
+		Grade: A- (4.28%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 0
+Initial price:  1900   Buyout price: 1900
+Seller: Melinoia
+Value/Plat: 2.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

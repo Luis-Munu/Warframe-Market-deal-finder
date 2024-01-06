@@ -1,0 +1,22 @@
+Name: Astilla Crita-satidra
+Experimental riven rating: 76.47
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  113.0
+		Grade: A (7.14%)
+Multishot:  151.1
+		Grade: A+ (7.67%)
+Fire Rate_Attack Speed:  108.8
+		Grade: B+ (3.16%)
+Impact:  -119.0
+		Grade: A (5.79%)
+
+Polarity: Madurai   Rerolls: 14   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: 114511bb
+Value/Plat: 3.47
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

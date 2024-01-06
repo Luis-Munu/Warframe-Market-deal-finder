@@ -1,0 +1,66 @@
+Name: Grinlok Croni-saticron
+Experimental riven rating: 57.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  174.5
+		Grade: C+ (-4.52%)
+Multishot:  105.0
+		Grade: C+ (-4.28%)
+Fire Rate_Attack Speed:  71.8
+		Grade: B- (-1.9%)
+Damage vs Infested":  -44.6
+		Grade: B+ (1.66%)
+
+Polarity: Madurai   Rerolls: 12   MR: 13
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Pandaahh
+Value/Plat: 3.4
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Grinlok Crita-toxitis
+Experimental riven rating: 47.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.0
+		Grade: B- (-1.51%)
+Toxin:  112.8
+		Grade: B+ (2.83%)
+Critical Damage:  154.7
+		Grade: A (5.77%)
+Ammo Maximum:  -52.3
+		Grade: A (7.4%)
+
+Polarity: Madurai   Rerolls: 5   MR: 13
+Riven rank : 0
+Initial price:  999   Buyout price: 999
+Seller: .HarleyQuinn
+Value/Plat: 2.09
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Grinlok Sati-critadra
+Experimental riven rating: 46.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  18.8
+		Grade: C (-7.42%)
+Multishot:  12.2
+		Grade: B (0.1%)
+Fire Rate_Attack Speed:  7.5
+		Grade: C- (-7.77%)
+Reload Speed:  -5.7
+		Grade: A- (5.35%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: ShinyTheDark
+Value/Plat: 2.03
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

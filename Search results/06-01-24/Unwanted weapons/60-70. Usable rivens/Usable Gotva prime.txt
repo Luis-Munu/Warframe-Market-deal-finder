@@ -1,0 +1,20 @@
+Name: Gotva prime Crita-toxitis
+Experimental riven rating: 60.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  93.2
+Toxin:  57.3
+Critical Damage:  66.4
+Damage vs Corpus":  -0.7
+
+Polarity: Madurai   Rerolls: 31   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price: 1100
+Seller: ElCor0nel
+Value/Plat: 2.82
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

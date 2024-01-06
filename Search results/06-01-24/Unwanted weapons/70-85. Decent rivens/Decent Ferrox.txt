@@ -1,0 +1,44 @@
+Name: Ferrox Visi-saticron
+Experimental riven rating: 71.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  192.7
+		Grade: A+ (8.49%)
+Critical Chance:  148.7
+		Grade: C- (-8.02%)
+Multishot:  95.3
+		Grade: B- (-1.79%)
+Projectile Speed:  -73.8
+		Grade: C+ (-4.92%)
+
+Polarity: Vazarin   Rerolls: 28   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Trirrardo
+Value/Plat: 4.08
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Ferrox Acri-critaata
+Experimental riven rating: 75.59
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  169.2
+		Grade: A- (4.66%)
+Critical Damage:  140.3
+		Grade: A+ (8.44%)
+Damage:  178.2
+		Grade: B (0.32%)
+Projectile Speed:  -72.7
+		Grade: C (-6.34%)
+
+Polarity: Vazarin   Rerolls: 2   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: WizardVictor
+Value/Plat: 4.61
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

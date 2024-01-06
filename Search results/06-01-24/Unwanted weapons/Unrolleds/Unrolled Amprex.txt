@@ -1,0 +1,44 @@
+Name: Amprex Croni-saticron
+Experimental riven rating: 89.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  75.1
+		Grade: A- (4.71%)
+Fire Rate_Attack Speed:  51.3
+		Grade: A (7.2%)
+Critical Chance:  121.3
+		Grade: B+ (1.51%)
+Zoom:  -35.1
+		Grade: C- (-8.23%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: Gamer
+Value/Plat: 4.46
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Sati-acridra
+Experimental riven rating: 46.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  74.2
+		Grade: B+ (3.46%)
+Fire Rate_Attack Speed:  43.9
+		Grade: C- (-8.26%)
+Critical Damage:  95.0
+		Grade: B (-0.66%)
+Magazine Capacity:  -32.9
+		Grade: B+ (3.33%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: FendigheeRicch
+Value/Plat: 1.57
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

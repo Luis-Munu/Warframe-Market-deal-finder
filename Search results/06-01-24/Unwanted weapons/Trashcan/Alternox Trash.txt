@@ -1,0 +1,84 @@
+Name: Alternox Crita-hexatis
+Experimental riven rating: 31.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  9.9
+Critical Chance:  17.5
+Critical Damage:  11.9
+Damage vs Grineer":  -1.0
+
+Polarity: Madurai   Rerolls: 47   MR: 14
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: TheGingerAndBoots1234
+Value/Plat: 2.57
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 12.24, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Heat:  10.7
+Critical Chance:  15.7
+Critical Damage:  11.8
+Ammo Maximum:  -4.6
+
+Polarity: Vazarin   Rerolls: 3   MR: 13
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: derlaxa
+Value/Plat: 1.39
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Crita-acriata
+Experimental riven rating: 38.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  147.6
+		Grade: C- (-8.99%)
+Critical Damage:  108.5
+		Grade: C- (-8.15%)
+Critical Chance:  141.8
+		Grade: C+ (-3.94%)
+Damage vs Corpus":  -32.6
+		Grade: C- (-8.0%)
+
+Polarity: Vazarin   Rerolls: 35   MR: 16
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: DrkPa1n
+Value/Plat: 1.86
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Crita-satitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.11, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.4
+		Grade: B- (-2.18%)
+Multishot:  81.4
+		Grade: C- (-8.12%)
+Critical Damage:  107.9
+		Grade: C- (-8.66%)
+Status Duration:  -73.9
+		Grade: C (-6.15%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: ButchCassidy
+Value/Plat: 1.18
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

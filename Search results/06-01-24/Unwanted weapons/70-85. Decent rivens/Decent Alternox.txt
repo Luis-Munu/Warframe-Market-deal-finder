@@ -1,0 +1,22 @@
+Name: Alternox Acri-cronican
+Experimental riven rating: 72.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.3
+		Grade: A+ (8.95%)
+Multishot:  9.0
+		Grade: C- (-8.57%)
+Fire Rate_Attack Speed:  6.9
+		Grade: A- (5.05%)
+Zoom:  -5.8
+		Grade: S (10.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1600   Buyout price: 1600
+Seller: darknessumustnothaveseen
+Value/Plat: 2.99
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

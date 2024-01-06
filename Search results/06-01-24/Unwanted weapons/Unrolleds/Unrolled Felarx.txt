@@ -1,0 +1,104 @@
+Name: Felarx Croni-acricron
+Experimental riven rating: 55.6
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  5.9
+Critical Damage:  6.0
+Fire Rate_Attack Speed:  6.2
+Damage vs Grineer":  -1.0
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  175   Buyout price: 175
+Seller: Sh8dy.
+Value/Plat: 6.84
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Acri-visicron
+Experimental riven rating: 56.97
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  47.2
+		Grade: C (-6.77%)
+Critical Damage:  52.3
+		Grade: B+ (3.31%)
+Damage:  94.1
+		Grade: B+ (1.54%)
+Status Chance:  -42.1
+		Grade: A- (3.96%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: jiuqianqiw28
+Value/Plat: 4.54
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Visi-critatis
+Experimental riven rating: 56.15
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  54.9
+		Grade: A+ (8.44%)
+Critical Damage:  46.7
+		Grade: C- (-7.76%)
+Damage:  100.5
+		Grade: A+ (8.45%)
+Reload Speed:  -21.3
+		Grade: C+ (-5.23%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: shuiyi88
+Value/Plat: 2.8
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acriata
+Experimental riven rating: 49.45
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  47.2
+Critical Chance:  52.8
+Damage:  86.3
+Damage vs Grineer":  -0.8
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Super_Perra_RD
+Value/Plat: 2.2
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Croni-acriata
+Experimental riven rating: 26.67
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  38.7
+		Grade: C+ (-4.43%)
+Damage:  68.7
+		Grade: C (-7.32%)
+Fire Rate_Attack Speed:  42.8
+		Grade: A (5.69%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: AbdulAzizF15
+Value/Plat: 0.38
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

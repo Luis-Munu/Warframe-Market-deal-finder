@@ -1,0 +1,44 @@
+Name: Sybaris Crita-acridra
+Experimental riven rating: 78.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  181.5
+		Grade: B+ (3.28%)
+Fire Rate_Attack Speed:  71.2
+		Grade: B (1.17%)
+Critical Damage:  145.1
+		Grade: B+ (3.18%)
+Zoom:  -54.9
+		Grade: B- (-2.39%)
+
+Polarity: Naramon   Rerolls: 5   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Pierre05
+Value/Plat: 8.59
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Sybaris Crita-cronican
+Experimental riven rating: 81.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  75.5
+		Grade: A (7.28%)
+Multishot:  107.7
+		Grade: B+ (2.11%)
+Critical Chance:  191.4
+		Grade: A+ (8.92%)
+Impact:  -122.9
+		Grade: A+ (9.26%)
+
+Polarity: Madurai   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Sakazak-
+Value/Plat: 3.96
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

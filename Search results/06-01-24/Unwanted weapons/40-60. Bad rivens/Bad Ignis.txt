@@ -1,0 +1,368 @@
+Name: Ignis Acri-critadex
+Experimental riven rating: 43.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  86.3
+Critical Damage:  74.1
+Status Chance:  48.3
+Damage vs Infested":  -0.8
+
+Polarity: Naramon   Rerolls: 11   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: DarkSupremeQueen
+Value/Plat: 2.79
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-visidra
+Experimental riven rating: 43.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  73.6
+		Grade: A+ (9.03%)
+Damage:  98.0
+		Grade: A (5.75%)
+Fire Rate_Attack Speed:  32.2
+		Grade: C+ (-4.68%)
+Status Duration:  -45.1
+		Grade: B (0.23%)
+
+Polarity: Naramon   Rerolls: 70   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: HunZiWukongGeiYeSi
+Value/Plat: 2.82
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Sati-acridra
+Experimental riven rating: 59.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  55.0
+		Grade: A+ (8.64%)
+Critical Damage:  65.2
+		Grade: B- (-3.41%)
+Fire Rate_Attack Speed:  31.4
+		Grade: C (-7.04%)
+Status Duration:  -48.9
+		Grade: A+ (8.68%)
+
+Polarity: Naramon   Rerolls: 8   MR: 8
+Riven rank : 8
+Initial price:  1   Buyout price: 450
+Seller: FrankHook
+Value/Plat: 4.67
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-toxicron
+Experimental riven rating: 49.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  74.0
+		Grade: S (9.63%)
+Critical Chance:  81.7
+		Grade: B- (-3.14%)
+Toxin:  55.0
+		Grade: A+ (8.64%)
+Damage vs Grineer":  -20.0
+		Grade: B (-1.22%)
+
+Polarity: Madurai   Rerolls: 2   MR: 13
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: GenjiNikana
+Value/Plat: 2.81
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-visicron
+Experimental riven rating: 53.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  10.4
+		Grade: B (1.0%)
+Critical Damage:  7.6
+		Grade: B (1.33%)
+Critical Chance:  8.6
+		Grade: C- (-8.24%)
+Damage vs Corpus":  -2.3
+		Grade: B+ (2.23%)
+
+Polarity: Madurai   Rerolls: 30   MR: 10
+Riven rank : 0
+Initial price:  750   Buyout price: 750
+Seller: Dirkaik
+Value/Plat: 2.83
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Toxi-acricron
+Experimental riven rating: 47.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  64.5
+		Grade: C+ (-4.45%)
+Toxin:  53.0
+		Grade: A- (4.69%)
+Critical Chance:  79.2
+		Grade: C (-6.1%)
+Reload Speed:  -20.5
+		Grade: C- (-8.79%)
+
+Polarity: Madurai   Rerolls: 23   MR: 16
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: Agent_Neko
+Value/Plat: 2.24
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-critatox
+Experimental riven rating: 43.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  48.1
+		Grade: C+ (-4.99%)
+Critical Damage:  70.8
+		Grade: A- (4.89%)
+Critical Chance:  80.2
+		Grade: C+ (-4.92%)
+Magazine Capacity:  -23.7
+		Grade: A- (5.45%)
+
+Polarity: Naramon   Rerolls: 19   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: HAMSTER_ARMOR_FK
+Value/Plat: 1.91
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Toxi-critatis
+Experimental riven rating: 46.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  68.5
+		Grade: B (1.48%)
+Toxin:  54.7
+		Grade: A+ (8.05%)
+Critical Chance:  88.6
+		Grade: A- (5.04%)
+Magazine Capacity:  -22.5
+		Grade: B (0.11%)
+
+Polarity: Vazarin   Rerolls: 42   MR: 8
+Riven rank : 8
+Initial price:  40   Buyout price: 1000
+Seller: e1dar1
+Value/Plat: 2.02
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-saticron
+Experimental riven rating: 41.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  72.6
+		Grade: A+ (7.55%)
+Multishot:  47.7
+		Grade: C (-5.78%)
+Critical Chance:  79.2
+		Grade: C (-6.1%)
+Fire Rate_Attack Speed:  -28.5
+		Grade: A- (5.48%)
+
+Polarity: Vazarin   Rerolls: 22   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1001
+Seller: Thoro8
+Value/Plat: 1.81
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Crita-satiata
+Experimental riven rating: 57.59
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  49.6
+		Grade: B- (-2.03%)
+Critical Chance:  87.1
+		Grade: B+ (3.26%)
+Damage:  85.9
+		Grade: C (-7.31%)
+Ammo Maximum:  -21.4
+		Grade: C+ (-4.78%)
+
+Polarity: Madurai   Rerolls: 2   MR: 8
+Riven rank : 8
+Initial price:  1350   Buyout price: 1350
+Seller: Ecustom
+Value/Plat: 2.31
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Sati-critatis
+Experimental riven rating: 53.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  52.0
+Critical Chance:  67.5
+Critical Damage:  84.6
+Damage vs Grineer":  -20.0
+
+Polarity: Naramon   Rerolls: 126   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: GoD_iVaaaa__
+Value/Plat: 1.98
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Croni-critacan
+Experimental riven rating: 55.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  45.8
+		Grade: F (-9.53%)
+Critical Chance:  87.4
+		Grade: A- (3.62%)
+Fire Rate_Attack Speed:  36.2
+		Grade: A (7.17%)
+Reload Speed:  -23.4
+		Grade: A- (4.12%)
+
+Polarity: Madurai   Rerolls: 163   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: DeathGun960
+Value/Plat: 2.05
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Croni-satitis
+Experimental riven rating: 57.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  60.9
+		Grade: F (-9.78%)
+Fire Rate_Attack Speed:  37.1
+		Grade: S (9.83%)
+Multishot:  52.7
+		Grade: A- (4.1%)
+Reload Speed:  -21.7
+		Grade: B- (-3.45%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Blackspell1998
+Value/Plat: 2.15
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Acri-saticron
+Experimental riven rating: 50.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  65.2
+		Grade: B- (-3.41%)
+Multishot:  47.4
+		Grade: C (-6.37%)
+Critical Chance:  79.0
+		Grade: C (-6.34%)
+Damage vs Grineer":  -21.9
+		Grade: A+ (8.16%)
+
+Polarity: Madurai   Rerolls: 22   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Ande.
+Value/Plat: 1.58
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Sati-critatis
+Experimental riven rating: 50.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  66.3
+		Grade: B- (-1.78%)
+Critical Chance:  85.0
+		Grade: B (0.77%)
+Multishot:  55.3
+		Grade: A+ (9.23%)
+Magazine Capacity:  -21.9
+		Grade: B- (-2.56%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Dan_Ranprime
+Value/Plat: 1.61
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Sati-acricron
+Experimental riven rating: 55.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  53.0
+Critical Damage:  70.0
+Critical Chance:  84.9
+Damage vs Grineer":  -0.8
+
+Polarity: Madurai   Rerolls: 68   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Cleanse-
+Value/Plat: 1.77
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Croni-critacan
+Experimental riven rating: 55.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  45.6
+		Grade: F (-9.93%)
+Fire Rate_Attack Speed:  34.9
+		Grade: B+ (3.32%)
+Critical Chance:  82.8
+		Grade: B- (-1.84%)
+Ammo Maximum:  -20.3
+		Grade: F (-9.68%)
+
+Polarity: Naramon   Rerolls: 63   MR: 16
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: V-Stray
+Value/Plat: 1.55
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

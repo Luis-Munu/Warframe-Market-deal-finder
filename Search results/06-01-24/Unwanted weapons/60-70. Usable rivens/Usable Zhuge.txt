@@ -1,0 +1,66 @@
+Name: Zhuge Toxi-acricron
+Experimental riven rating: 68.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.2
+		Grade: C+ (-4.44%)
+Toxin:  108.9
+		Grade: A+ (7.55%)
+Critical Damage:  144.5
+		Grade: A (7.03%)
+Zoom:  -56.3
+		Grade: A- (4.27%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  875   Buyout price: 875
+Seller: Almond__ChoCo
+Value/Plat: 4.08
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Zhuge Crita-toxitis
+Experimental riven rating: 67.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  96.2
+		Grade: B (-0.86%)
+Critical Damage:  122.8
+		Grade: C+ (-5.09%)
+Critical Chance:  170.4
+		Grade: A- (5.4%)
+Recoil:  70.3
+		Grade: C- (-9.43%)
+
+Polarity: Madurai   Rerolls: 35   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: P1anetes.
+Value/Plat: 3.6
+Used disposition: 1.15
+Real disposition: 1.2
+--------------------------------------------------
+Name: Zhuge Sati-critadra
+Experimental riven rating: 62.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  17.4
+		Grade: C (-7.17%)
+Multishot:  11.4
+		Grade: B (1.33%)
+Fire Rate_Attack Speed:  6.9
+		Grade: C- (-8.08%)
+Damage vs Infested":  -4.4
+		Grade: B- (-2.21%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 12
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: gen_g_teacher
+Value/Plat: 2.03
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

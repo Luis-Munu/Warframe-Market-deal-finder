@@ -1,0 +1,22 @@
+Name: Harpak Acri-critadex
+Experimental riven rating: 24.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  127.3
+		Grade: B- (-2.67%)
+Critical Chance:  215.8
+		Grade: B (-0.96%)
+Critical Damage:  191.6
+		Grade: S (9.87%)
+Reload Speed:  -56.8
+		Grade: B- (-2.17%)
+
+Polarity: Naramon   Rerolls: 32   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: JWsama
+Value/Plat: 1.19
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

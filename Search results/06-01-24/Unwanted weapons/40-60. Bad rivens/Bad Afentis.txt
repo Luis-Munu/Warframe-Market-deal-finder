@@ -1,0 +1,64 @@
+Name: Afentis Sati-acricron
+Experimental riven rating: 57.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  102.7
+		Grade: C+ (-3.91%)
+Multishot:  84.5
+		Grade: A- (5.42%)
+Critical Chance:  122.1
+		Grade: C- (-8.58%)
+Reload Speed:  -33.4
+		Grade: C (-6.14%)
+
+Polarity: Madurai   Rerolls: 61   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Relax30
+Value/Plat: 3.09
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Afentis Sati-critatis
+Experimental riven rating: 56.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  75.2
+Critical Damage:  53.0
+Multishot:  46.1
+Damage vs Grineer":  -16.1
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1100   Buyout price: 1100
+Seller: fk_ye
+Value/Plat: 2.51
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Afentis Crita-acrican
+Experimental riven rating: 42.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.1
+		Grade: A (7.15%)
+Critical Damage:  110.5
+		Grade: B+ (3.39%)
+Multishot:  72.5
+		Grade: F (-9.55%)
+Fire Rate_Attack Speed:  -41.3
+		Grade: B- (-3.46%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: --MakiseKurisu--
+Value/Plat: 1.38
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

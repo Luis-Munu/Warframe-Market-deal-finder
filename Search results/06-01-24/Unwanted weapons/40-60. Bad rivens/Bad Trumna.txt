@@ -1,0 +1,218 @@
+Name: Trumna Lexi-critatis
+Experimental riven rating: 44.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  125.5
+Critical Damage:  98.9
+Punch Through:  2.4
+Magazine Capacity:  -29.8
+
+Polarity: Naramon   Rerolls: 160   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 1000
+Seller: Ampheta_min
+Value/Plat: 1.94
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Sati-critaata
+Experimental riven rating: 46.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  108.6
+		Grade: C- (-9.12%)
+Multishot:  78.8
+		Grade: S (9.87%)
+Damage:  130.3
+		Grade: B (-0.75%)
+Fire Rate_Attack Speed:  -39.7
+		Grade: A- (3.71%)
+
+Polarity: Naramon   Rerolls: 29   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: LianyiPoKIn
+Value/Plat: 2.05
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Croni-visitis
+Experimental riven rating: 48.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  50.0
+		Grade: A- (4.48%)
+Critical Damage:  95.3
+		Grade: B (-0.34%)
+Damage:  137.1
+		Grade: A- (4.43%)
+Damage vs Grineer":  -31.0
+		Grade: A+ (8.07%)
+
+Polarity: Vazarin   Rerolls: 18   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Stranger-S
+Value/Plat: 2.17
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Lexi-acricron
+Experimental riven rating: 52.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  108.1
+		Grade: F (-9.54%)
+Punch Through:  2.2
+		Grade: B+ (3.14%)
+Critical Damage:  93.0
+		Grade: B- (-2.75%)
+Damage vs Corpus":  -28.1
+		Grade: B- (-2.04%)
+
+Polarity: Vazarin   Rerolls: 23   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: tma_hwk
+Value/Plat: 2.39
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-cronitis
+Experimental riven rating: 58.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  89.1
+		Grade: C (-6.83%)
+Critical Chance:  116.3
+		Grade: B- (-2.67%)
+Fire Rate_Attack Speed:  45.1
+		Grade: C (-5.76%)
+Ammo Maximum:  -32.6
+		Grade: B+ (2.39%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Heyl
+Value/Plat: 2.82
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-satiata
+Experimental riven rating: 55.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  129.0
+		Grade: A+ (7.95%)
+Damage:  124.4
+		Grade: C+ (-5.25%)
+Multishot:  73.9
+		Grade: B+ (3.04%)
+Magazine Capacity:  -32.1
+		Grade: B (0.82%)
+
+Polarity: Naramon   Rerolls: 8   MR: 9
+Riven rank : 0
+Initial price:  1100   Buyout price: 1100
+Seller: AiroBigStar
+Value/Plat: 2.45
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-satidra
+Experimental riven rating: 56.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  73.4
+		Grade: B+ (2.34%)
+Critical Chance:  129.1
+		Grade: A+ (8.04%)
+Fire Rate_Attack Speed:  45.0
+		Grade: C (-5.96%)
+Magazine Capacity:  -33.3
+		Grade: A- (4.59%)
+
+Polarity: Madurai   Rerolls: 1   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price: 1500
+Seller: aMDouglas
+Value/Plat: 2.1
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Visi-cronitis
+Experimental riven rating: 47.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  95.5
+		Grade: B (-0.13%)
+Damage:  143.7
+		Grade: A+ (9.45%)
+Fire Rate_Attack Speed:  48.6
+		Grade: B+ (1.56%)
+Damage vs Grineer":  -28.4
+		Grade: B (-0.99%)
+
+Polarity: Naramon   Rerolls: 102   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price: 2000
+Seller: Myura18
+Value/Plat: 1.5
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-acrican
+Experimental riven rating: 53.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  129.9
+		Grade: A+ (8.71%)
+Critical Damage:  87.3
+		Grade: C- (-8.71%)
+Multishot:  77.7
+		Grade: A+ (8.34%)
+Fire Rate_Attack Speed:  -39.6
+		Grade: B+ (3.45%)
+
+Polarity: Naramon   Rerolls: 26   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Jamison
+Value/Plat: 1.68
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Trumna Crita-satitis
+Experimental riven rating: 55.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  74.9
+		Grade: A- (4.43%)
+Critical Chance:  129.2
+		Grade: A+ (8.12%)
+Critical Damage:  99.3
+		Grade: A- (3.84%)
+Fire Rate_Attack Speed:  -40.1
+		Grade: A- (4.76%)
+
+Polarity: Naramon   Rerolls: 8   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Jay_Se7en
+Value/Plat: 1.76
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

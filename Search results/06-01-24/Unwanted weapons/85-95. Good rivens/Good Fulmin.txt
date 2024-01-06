@@ -1,0 +1,22 @@
+Name: Fulmin Crita-satitis
+Experimental riven rating: 85.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  95.7
+		Grade: B (0.08%)
+Critical Chance:  130.8
+		Grade: A+ (9.46%)
+Multishot:  73.5
+		Grade: B+ (2.48%)
+Recoil:  59.3
+		Grade: B+ (3.37%)
+
+Polarity: Naramon   Rerolls: 11   MR: 15
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Thomas878
+Value/Plat: 0.12
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

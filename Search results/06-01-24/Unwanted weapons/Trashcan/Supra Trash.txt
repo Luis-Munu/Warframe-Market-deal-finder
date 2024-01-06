@@ -1,0 +1,66 @@
+Name: Supra Visi-cronitis
+Experimental riven rating: 39.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.9
+		Grade: A- (4.16%)
+Fire Rate_Attack Speed:  66.4
+		Grade: A (7.22%)
+Damage:  184.7
+		Grade: A+ (8.71%)
+Magazine Capacity:  -41.5
+		Grade: B (0.72%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: PoiioqPrime
+Value/Plat: 2.78
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.71, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.3
+		Grade: B- (-3.45%)
+Critical Damage:  121.0
+		Grade: B- (-2.23%)
+Damage:  165.0
+		Grade: B- (-2.88%)
+Status Chance:  -77.1
+		Grade: A- (3.85%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Mammon_Prime
+Value/Plat: 1.46
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Crita-acrican
+Experimental riven rating: 26.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  133.2
+		Grade: A+ (7.63%)
+Critical Chance:  168.6
+		Grade: A+ (9.03%)
+Multishot:  93.0
+		Grade: B (0.2%)
+Status Chance:  -73.6
+		Grade: B (-0.87%)
+
+Polarity: Madurai   Rerolls: 54   MR: 14
+Riven rank : 8
+Initial price:  2400   Buyout price: 2400
+Seller: -Katherine-
+Value/Plat: 1.03
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

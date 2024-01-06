@@ -1,0 +1,108 @@
+Name: Vulkar Lexi-critatis
+Experimental riven rating: 40.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  147.9
+		Grade: C- (-9.34%)
+Critical Chance:  191.8
+		Grade: C (-5.91%)
+Punch Through:  3.9
+		Grade: A (7.18%)
+Damage vs Corpus":  -46.2
+		Grade: C (-5.58%)
+
+Polarity: Madurai   Rerolls: 7   MR: 10
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: Dr.Deagles
+Value/Plat: 3.82
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Acri-toxicron
+Experimental riven rating: 44.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  158.8
+Critical Damage:  191.1
+Toxin:  116.6
+Ammo Maximum:  -59.3
+
+Polarity: Naramon   Rerolls: 9   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 1000
+Seller: MacValken
+Value/Plat: 1.96
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Crita-acridra
+Experimental riven rating: 45.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  191.2
+		Grade: C (-6.2%)
+Critical Damage:  150.7
+		Grade: C- (-7.62%)
+Fire Rate_Attack Speed:  74.1
+		Grade: C- (-9.23%)
+Ammo Maximum:  -58.9
+		Grade: A+ (8.44%)
+
+Polarity: Madurai   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  1   Buyout price: 1000
+Seller: ORaphtalia
+Value/Plat: 2.0
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Sati-critaata
+Experimental riven rating: 51.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  195.9
+		Grade: C+ (-3.9%)
+Multishot:  122.9
+		Grade: B (0.45%)
+Damage:  207.0
+		Grade: C- (-7.57%)
+Damage vs Corpus":  -44.6
+		Grade: C- (-8.85%)
+
+Polarity: Naramon   Rerolls: 39   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Joey.Hmg
+Value/Plat: 2.31
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Crita-visican
+Experimental riven rating: 59.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  232.1
+		Grade: A- (3.63%)
+Critical Chance:  220.8
+		Grade: A+ (8.32%)
+Multishot:  124.6
+		Grade: B+ (1.84%)
+Ammo Maximum:  -59.7
+		Grade: S (9.92%)
+
+Polarity: Naramon   Rerolls: 1   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: White
+Value/Plat: 2.26
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

@@ -1,0 +1,44 @@
+Name: Phenmor Sati-critatis
+Experimental riven rating: 86.69
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  84.0
+		Grade: B (-0.41%)
+Critical Damage:  67.0
+		Grade: B (-0.74%)
+Multishot:  54.0
+		Grade: A (6.66%)
+Recoil:  37.0
+		Grade: C- (-8.63%)
+
+Polarity: Vazarin   Rerolls: 36   MR: 14
+Riven rank : 8
+Initial price:  2280   Buyout price: 2280
+Seller: Chtholly.Nota
+Value/Plat: 3.18
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Crita-acrican
+Experimental riven rating: 85.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  81.8
+		Grade: B- (-3.02%)
+Critical Damage:  67.1
+		Grade: B (-0.6%)
+Multishot:  55.5
+		Grade: S (9.63%)
+Recoil:  39.0
+		Grade: C+ (-3.69%)
+
+Polarity: Naramon   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.12
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

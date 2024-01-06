@@ -1,0 +1,22 @@
+Name: Steflos Visi-saticron
+Experimental riven rating: 52.83
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  9.3
+		Grade: A- (4.42%)
+Damage:  17.9
+		Grade: S (9.79%)
+Multishot:  12.4
+		Grade: A- (4.64%)
+Damage vs Grineer":  -3.8
+		Grade: A (6.68%)
+
+Polarity: Naramon   Rerolls: 2   MR: 14
+Riven rank : 0
+Initial price:  225   Buyout price: 225
+Seller: xXNosjetXx
+Value/Plat: 5.3
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

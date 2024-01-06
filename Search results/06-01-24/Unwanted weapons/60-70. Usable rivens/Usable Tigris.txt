@@ -1,0 +1,40 @@
+Name: Tigris Sati-critadra
+Experimental riven rating: 62.87
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  85.5
+Multishot:  129.4
+Fire Rate_Attack Speed:  85.3
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 1   MR: 14
+Riven rank : 8
+Initial price:  210   Buyout price: 210
+Seller: BarajasGDJ2
+Value/Plat: 8.47
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Tigris Sati-critadra
+Experimental riven rating: 66.59
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  92.4
+Multishot:  131.5
+Fire Rate_Attack Speed:  84.3
+Recoil:  74.1
+
+Polarity: Naramon   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Katherine-
+Value/Plat: 2.23
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

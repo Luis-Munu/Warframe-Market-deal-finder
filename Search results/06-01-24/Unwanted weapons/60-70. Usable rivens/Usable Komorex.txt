@@ -1,0 +1,22 @@
+Name: Komorex Crita-toxitis
+Experimental riven rating: 60.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.0
+		Grade: A+ (8.25%)
+Critical Damage:  122.0
+		Grade: C (-5.7%)
+Toxin:  92.0
+		Grade: C+ (-5.19%)
+Projectile Speed:  -73.0
+		Grade: C (-5.95%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: mn12sdkl
+Value/Plat: 4.57
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

@@ -1,0 +1,128 @@
+Name: Sporothrix Toxi-critatis
+Experimental riven rating: 31.08
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  167.2
+Critical Damage:  127.2
+Toxin:  100.8
+Projectile Speed:  -86.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: gordon2018
+Value/Plat: 1.76
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Sporothrix Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.48, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  103.8
+		Grade: C+ (-5.37%)
+Critical Damage:  140.7
+		Grade: C+ (-3.8%)
+Critical Chance:  176.7
+		Grade: B- (-3.31%)
+Magazine Capacity:  -51.0
+		Grade: A- (4.73%)
+
+Polarity: Naramon   Rerolls: 117   MR: 9
+Riven rank : 8
+Initial price:  300   Buyout price: 800
+Seller: Cenourao4
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Sporothrix Visi-saticron
+Experimental riven rating: 38.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  219.6
+		Grade: A+ (9.37%)
+Multishot:  105.7
+		Grade: C+ (-3.64%)
+Critical Chance:  170.6
+		Grade: C (-6.65%)
+Projectile Speed:  -91.9
+		Grade: A- (4.74%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price: 999
+Seller: marical007
+Value/Plat: 1.66
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Sporothrix Crita-visican
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 0.53, 
+Riven stats: 
+Damage:  184.1
+		Grade: C- (-8.31%)
+Critical Chance:  169.5
+		Grade: C (-7.25%)
+Multishot:  99.3
+		Grade: C- (-9.47%)
+Fire Rate_Attack Speed:  -57.7
+		Grade: B (-1.44%)
+
+Polarity: Madurai   Rerolls: 38   MR: 8
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: maxiXDking
+Value/Plat: 1.16
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Sporothrix Sati-acricron
+Experimental riven rating: 37.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  106.6
+		Grade: B- (-2.82%)
+Critical Chance:  172.7
+		Grade: C (-5.5%)
+Critical Damage:  139.9
+		Grade: C+ (-4.34%)
+Damage vs Infested":  -47.7
+		Grade: A+ (8.73%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  100   Buyout price:  infinite 
+Seller: -Just_Hunter-
+Value/Plat: 0.29
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Sporothrix Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -19.39, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  140.7
+Critical Damage:  180.0
+Status Duration:  116.6
+Damage vs Grineer":  -0.6
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  100   Buyout price:  infinite 
+Seller: calorifer69
+Value/Plat: 0.41
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

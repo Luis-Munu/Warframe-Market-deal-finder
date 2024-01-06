@@ -1,0 +1,1786 @@
+Name: Rubico Sati-critadra
+Experimental riven rating: 40.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 14.78, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  14.2
+		Grade: C+ (-4.31%)
+Multishot:  8.8
+		Grade: B (-1.2%)
+Fire Rate_Attack Speed:  5.8
+		Grade: B- (-2.4%)
+Reload Speed:  -4.3
+		Grade: A+ (8.75%)
+
+Polarity: Madurai   Rerolls: 90   MR: 8
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: ImlPrince
+Value/Plat: 2.89
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-satidra
+Experimental riven rating: 41.32
+Best profile: General use
+Eidolon hunting - Rubico: 35.6, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  13.6
+Multishot:  8.7
+Fire Rate_Attack Speed:  5.9
+Damage vs Corpus":  -1.0
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: 00yearspyy
+Value/Plat: 2.96
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 51.55
+Best profile: General use
+Eidolon hunting - Rubico: 32.35, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  48.4
+		Grade: C+ (-4.4%)
+Critical Chance:  76.1
+		Grade: F (-9.78%)
+Fire Rate_Attack Speed:  36.8
+		Grade: A+ (8.94%)
+Zoom:  -27.3
+		Grade: B (1.12%)
+
+Polarity: Naramon   Rerolls: 13   MR: 13
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: --OS--Marcusf0X--ES--
+Value/Plat: 4.33
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acrinok
+Experimental riven rating: 49.49
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 15.72, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.4
+		Grade: A (7.37%)
+Punch Through:  2.3
+		Grade: C+ (-3.53%)
+Critical Damage:  104.9
+		Grade: B- (-1.85%)
+Recoil:  60.0
+		Grade: C (-6.42%)
+
+Polarity: Madurai   Rerolls: 99   MR: 15
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: .Ming1314
+Value/Plat: 3.71
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acrinok
+Experimental riven rating: 50.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 13.92, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  2.4
+		Grade: B (0.67%)
+Critical Damage:  112.4
+		Grade: A- (5.17%)
+Critical Chance:  140.9
+		Grade: A (5.5%)
+Zoom:  -46.5
+		Grade: A+ (8.78%)
+
+Polarity: Madurai   Rerolls: 32   MR: 8
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: -DopeDylan-
+Value/Plat: 3.54
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 52.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: -17.76, 
+Riven stats: 
+Fire Rate_Attack Speed:  35.3
+		Grade: A- (4.5%)
+Multishot:  46.7
+		Grade: C- (-7.76%)
+Critical Damage:  67.8
+		Grade: B (0.44%)
+Impact:  -50.6
+		Grade: C (-6.29%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 10
+Riven rank : 8
+Initial price:  420   Buyout price: 420
+Seller: XuxuSS
+Value/Plat: 3.75
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Lexi-critatis
+Experimental riven rating: 41.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 11.3, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  2.5
+		Grade: A- (4.86%)
+Critical Chance:  138.2
+		Grade: B+ (3.48%)
+Critical Damage:  112.0
+		Grade: A- (4.79%)
+Ammo Maximum:  -38.0
+		Grade: A (6.79%)
+
+Polarity: Vazarin   Rerolls: 19   MR: 12
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: CientoCincuenta
+Value/Plat: 2.51
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acridra
+Experimental riven rating: 42.54
+Best profile: Eidolon hunting - Rubico
+Beam: 24.0, General use: 23.8, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  50.6
+Critical Chance:  102.8
+Critical Damage:  138.0
+Status Duration:  -64.4
+
+Polarity: Vazarin   Rerolls: 22   MR: 16
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: Eltiodellanka
+Value/Plat: 2.6
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 50.35
+Best profile: Eidolon hunting - Rubico
+General use: 43.16, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  54.0
+Critical Chance:  120.0
+Multishot:  80.0
+Damage vs Corpus":  -70.0
+
+Polarity: Vazarin   Rerolls: 120   MR: 8
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: THHJSW
+Value/Plat: 3.37
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acriata
+Experimental riven rating: 52.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: -14.69, 
+Riven stats: 
+Fire Rate_Attack Speed:  4.0
+		Grade: A (6.57%)
+Critical Damage:  8.1
+		Grade: A+ (8.0%)
+Damage:  10.4
+		Grade: B (1.0%)
+Impact:  -5.4
+		Grade: F (-9.99%)
+
+Polarity: Naramon   Rerolls: 33   MR: 15
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: Milu992
+Value/Plat: 3.62
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 50.21
+Best profile: Eidolon hunting - Rubico
+General use: 48.26, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  127.8
+		Grade: C+ (-4.31%)
+Multishot:  85.3
+		Grade: A (6.41%)
+Fire Rate_Attack Speed:  58.5
+		Grade: A+ (9.38%)
+Damage vs Infested":  -33.0
+		Grade: B+ (2.93%)
+
+Polarity: Vazarin   Rerolls: 35   MR: 14
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: baoziruqinssr
+Value/Plat: 3.18
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-satiata
+Experimental riven rating: 51.73
+Best profile: General use
+Eidolon hunting - Rubico: 40.88, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  78.6
+		Grade: C (-6.82%)
+Multishot:  50.7
+		Grade: B (0.14%)
+Damage:  96.5
+		Grade: A- (4.13%)
+Impact:  -56.4
+		Grade: A- (4.45%)
+
+Polarity: Madurai   Rerolls: 492   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Panda_Yoyo
+Value/Plat: 3.35
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-cronican
+Experimental riven rating: 51.81
+Best profile: General use
+Eidolon hunting - Rubico: 46.46, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.3
+		Grade: A+ (8.05%)
+Fire Rate_Attack Speed:  55.0
+		Grade: B+ (2.83%)
+Multishot:  80.7
+		Grade: B (0.68%)
+Recoil:  69.3
+		Grade: A+ (8.08%)
+
+Polarity: Madurai   Rerolls: 322   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Morran-Prime
+Value/Plat: 3.36
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-satidra
+Experimental riven rating: 54.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: 1.7, 
+Riven stats: 
+Critical Chance:  83.3
+		Grade: B (-1.24%)
+Multishot:  53.1
+		Grade: A- (4.89%)
+Fire Rate_Attack Speed:  34.0
+		Grade: B (0.65%)
+Impact:  -51.6
+		Grade: C+ (-4.43%)
+
+Polarity: Naramon   Rerolls: 386   MR: 13
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Kuva_
+Value/Plat: 3.67
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 48.89
+Best profile: Eidolon hunting - Rubico
+General use: 47.61, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  81.6
+Critical Chance:  127.6
+Fire Rate_Attack Speed:  58.5
+Damage vs Infested":  -0.7
+
+Polarity: Vazarin   Rerolls: 51   MR: 13
+Riven rank : 8
+Initial price:  540   Buyout price: 540
+Seller: rainsuzero
+Value/Plat: 2.94
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 50.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: -11.61, 
+Riven stats: 
+Critical Chance:  13.5
+		Grade: C- (-9.02%)
+Multishot:  8.5
+		Grade: C+ (-4.56%)
+Fire Rate_Attack Speed:  6.4
+		Grade: A+ (7.7%)
+Impact:  -10.0
+		Grade: A- (5.27%)
+
+Polarity: Madurai   Rerolls: 9   MR: 8
+Riven rank : 0
+Initial price:  550   Buyout price: 550
+Seller: Febi
+Value/Plat: 3.1
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-critacan
+Experimental riven rating: 42.29
+Best profile: Eidolon hunting - Rubico
+General use: 35.43, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  129.0
+		Grade: B- (-3.41%)
+Multishot:  73.7
+		Grade: C- (-8.06%)
+Fire Rate_Attack Speed:  55.9
+		Grade: A- (4.52%)
+Status Duration:  -77.7
+		Grade: A+ (9.06%)
+
+Polarity: Vazarin   Rerolls: 66   MR: 9
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: datrickstar
+Value/Plat: 2.28
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acridra
+Experimental riven rating: 43.53
+Best profile: General use
+Eidolon hunting - Rubico: 42.08, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  136.0
+		Grade: B+ (1.83%)
+Critical Damage:  109.7
+		Grade: B+ (2.64%)
+Fire Rate_Attack Speed:  55.6
+		Grade: A- (3.96%)
+Ammo Maximum:  -32.2
+		Grade: F (-9.51%)
+
+Polarity: Madurai   Rerolls: 10   MR: 11
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: aiju-prime
+Value/Plat: 2.37
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-satidra
+Experimental riven rating: 51.34
+Best profile: Eidolon hunting - Rubico
+General use: 37.38, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  108.9
+		Grade: B+ (1.89%)
+Multishot:  78.8
+		Grade: B- (-1.7%)
+Fire Rate_Attack Speed:  50.0
+		Grade: C (-6.51%)
+Damage vs Grineer":  -32.0
+		Grade: B (-0.18%)
+
+Polarity: Madurai   Rerolls: 7   MR: 9
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: WayneWY6
+Value/Plat: 3.01
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-cronican
+Experimental riven rating: 53.27
+Best profile: General use
+Eidolon hunting - Rubico: 34.88, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  92.5
+		Grade: S (9.66%)
+Multishot:  49.4
+		Grade: B- (-2.42%)
+Fire Rate_Attack Speed:  36.5
+		Grade: A+ (8.05%)
+Recoil:  39.8
+		Grade: B- (-1.72%)
+
+Polarity: Naramon   Rerolls: 22   MR: 11
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: -SW-Howl
+Value/Plat: 3.2
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-cronitis
+Experimental riven rating: 53.83
+Best profile: General use
+Eidolon hunting - Rubico: 36.66, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  101.9
+		Grade: C+ (-4.66%)
+Fire Rate_Attack Speed:  58.0
+		Grade: A+ (8.44%)
+Critical Chance:  146.2
+		Grade: A+ (9.47%)
+Recoil:  58.1
+		Grade: C- (-9.39%)
+
+Polarity: Madurai   Rerolls: 24   MR: 14
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: zhijn-.skdel
+Value/Plat: 3.26
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Toxi-acricron
+Experimental riven rating: 43.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.96, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  107.1
+		Grade: B (0.21%)
+Critical Chance:  120.5
+		Grade: F (-9.77%)
+Toxin:  82.3
+		Grade: B+ (2.67%)
+Damage vs Infested":  -33.7
+		Grade: A- (5.12%)
+
+Polarity: Naramon   Rerolls: 177   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Firestarter422
+Value/Plat: 2.28
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-cronitis
+Experimental riven rating: 41.72
+Best profile: General use
+Eidolon hunting - Rubico: 31.13, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  53.3
+		Grade: B (-0.34%)
+Critical Damage:  106.0
+		Grade: B (-0.82%)
+Multishot:  86.0
+		Grade: A (7.29%)
+Reload Speed:  -38.2
+		Grade: A (7.35%)
+
+Polarity: Naramon   Rerolls: 70   MR: 9
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: masker01
+Value/Plat: 2.11
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-ignicron
+Experimental riven rating: 44.08
+Best profile: Eidolon hunting - Rubico
+Beam: 24.0, General use: 23.57, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  121.5
+		Grade: C- (-9.02%)
+Critical Damage:  102.1
+		Grade: C+ (-4.47%)
+Heat:  73.7
+		Grade: C- (-8.06%)
+Reload Speed:  -32.6
+		Grade: C- (-8.39%)
+
+Polarity: Vazarin   Rerolls: 105   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: xuewutianran
+Value/Plat: 2.25
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acricron
+Experimental riven rating: 48.23
+Best profile: General use
+Eidolon hunting - Rubico: 41.16, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  52.9
+Critical Chance:  141.9
+Critical Damage:  110.8
+Damage vs Infested":  -0.7
+
+Polarity: Naramon   Rerolls: 23   MR: 10
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: AcllsT
+Value/Plat: 2.54
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Toxi-acricron
+Experimental riven rating: 49.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 11.5, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  81.5
+		Grade: B+ (1.67%)
+Critical Damage:  106.2
+		Grade: B (-0.63%)
+Critical Chance:  125.0
+		Grade: C (-6.4%)
+Zoom:  -43.2
+		Grade: B (1.06%)
+
+Polarity: Madurai   Rerolls: 100   MR: 14
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: AKK0504
+Value/Plat: 2.66
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-saticron
+Experimental riven rating: 49.93
+Best profile: Eidolon hunting - Rubico
+General use: 34.14, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  150.1
+		Grade: B+ (2.29%)
+Multishot:  87.3
+		Grade: A+ (8.91%)
+Critical Chance:  138.2
+		Grade: B+ (3.48%)
+Fire Rate_Attack Speed:  -40.7
+		Grade: C+ (-4.87%)
+
+Polarity: Madurai   Rerolls: 145   MR: 9
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: suiyuelao
+Value/Plat: 2.67
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acricron
+Experimental riven rating: 46.96
+Best profile: General use
+Eidolon hunting - Rubico: 36.39, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  54.0
+		Grade: B (0.96%)
+Critical Damage:  116.6
+		Grade: A+ (9.1%)
+Critical Chance:  127.4
+		Grade: C+ (-4.61%)
+Damage vs Infested":  -35.2
+		Grade: S (9.8%)
+
+Polarity: Naramon   Rerolls: 64   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: MMcr123
+Value/Plat: 2.3
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-cronicron
+Experimental riven rating: 47.41
+Best profile: Eidolon hunting - Rubico
+General use: 30.74, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  76.6
+		Grade: C+ (-4.44%)
+Fire Rate_Attack Speed:  49.1
+		Grade: C- (-8.2%)
+Critical Chance:  126.5
+		Grade: C+ (-5.28%)
+Status Duration:  -73.7
+		Grade: B+ (3.45%)
+
+Polarity: Naramon   Rerolls: 95   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: onecser
+Value/Plat: 2.32
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acriata
+Experimental riven rating: 49.01
+Best profile: General use
+Eidolon hunting - Rubico: 36.05, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  104.8
+		Grade: B- (-1.94%)
+Damage:  139.2
+		Grade: C+ (-5.13%)
+Fire Rate_Attack Speed:  56.7
+		Grade: A (6.01%)
+Zoom:  -42.6
+		Grade: B (-0.34%)
+
+Polarity: Naramon   Rerolls: 82   MR: 14
+Riven rank : 8
+Initial price:  799   Buyout price: 800
+Seller: ultraman.seven
+Value/Plat: 2.43
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-satitis
+Experimental riven rating: 49.45
+Best profile: Eidolon hunting - Rubico
+General use: 41.88, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  50.3
+		Grade: B (-0.65%)
+Critical Damage:  65.4
+		Grade: B- (-3.11%)
+Fire Rate_Attack Speed:  34.8
+		Grade: B+ (3.02%)
+Ammo Maximum:  -22.2
+		Grade: B (-1.22%)
+
+Polarity: Vazarin   Rerolls: 98   MR: 8
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: captain.JA
+Value/Plat: 2.46
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-visitis
+Experimental riven rating: 49.53
+Best profile: General use
+Eidolon hunting - Rubico: 36.59, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  110.0
+		Grade: B+ (2.92%)
+Damage:  157.8
+		Grade: A+ (7.54%)
+Fire Rate_Attack Speed:  58.2
+		Grade: A+ (8.82%)
+Zoom:  -46.9
+		Grade: S (9.72%)
+
+Polarity: Vazarin   Rerolls: 33   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: TheMachine_
+Value/Plat: 2.47
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-saticron
+Experimental riven rating: 52.56
+Best profile: General use
+Eidolon hunting - Rubico: 31.33, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  14.4
+		Grade: B- (-2.96%)
+Multishot:  9.1
+		Grade: B+ (2.17%)
+Damage:  17.0
+		Grade: A- (4.27%)
+Impact:  -10.0
+		Grade: A- (5.27%)
+
+Polarity: Vazarin   Rerolls: 162   MR: 15
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: --UMBRA--Papa_Krampus
+Value/Plat: 2.69
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-ignitis
+Experimental riven rating: 53.13
+Best profile: Eidolon hunting - Rubico
+General use: 26.26, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  104.3
+		Grade: B- (-2.41%)
+Critical Chance:  144.9
+		Grade: A+ (8.5%)
+Heat:  86.4
+		Grade: A+ (7.79%)
+Reload Speed:  -33.8
+		Grade: C+ (-5.02%)
+
+Polarity: Vazarin   Rerolls: 127   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: godt1er
+Value/Plat: 2.73
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acripha
+Experimental riven rating: 55.58
+Best profile: Eidolon hunting - Rubico
+Beam: 24.0, General use: 22.26, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  63.6
+		Grade: C (-5.78%)
+Heat:  47.1
+		Grade: C (-6.97%)
+Critical Chance:  84.5
+		Grade: B (0.18%)
+Status Chance:  -40.4
+		Grade: B (-0.24%)
+
+Polarity: Madurai   Rerolls: 12   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Hellsatano
+Value/Plat: 2.94
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 41.63
+Best profile: General use
+Eidolon hunting - Rubico: 26.31, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  111.8
+		Grade: A- (4.6%)
+Multishot:  77.6
+		Grade: B- (-3.19%)
+Fire Rate_Attack Speed:  57.7
+		Grade: A+ (7.88%)
+Reload Speed:  -38.7
+		Grade: A+ (8.75%)
+
+Polarity: Madurai   Rerolls: 118   MR: 9
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: -Thenex-
+Value/Plat: 1.89
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-visidra
+Experimental riven rating: 48.73
+Best profile: General use
+Eidolon hunting - Rubico: 38.25, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  101.1
+Damage:  161.0
+Fire Rate_Attack Speed:  557.0
+Zoom:  -44.6
+
+Polarity: Madurai   Rerolls: 4   MR: 13
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: slave20
+Value/Plat: 2.28
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-critacan
+Experimental riven rating: 49.13
+Best profile: General use
+Eidolon hunting - Rubico: 35.26, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  145.1
+		Grade: B (-1.11%)
+Critical Chance:  121.3
+		Grade: C- (-9.17%)
+Multishot:  72.7
+		Grade: C- (-9.31%)
+Impact:  -90.3
+		Grade: A (5.62%)
+
+Polarity: Naramon   Rerolls: 19   MR: 14
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: SuperPumpkinPrime
+Value/Plat: 2.3
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-satidra
+Experimental riven rating: 49.51
+Best profile: Eidolon hunting - Rubico
+General use: 43.81, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  100.6
+		Grade: C (-5.87%)
+Multishot:  75.7
+		Grade: C (-5.56%)
+Fire Rate_Attack Speed:  48.7
+		Grade: C- (-8.95%)
+Damage vs Infested":  -30.5
+		Grade: C+ (-4.86%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 14
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: BorrelswordDragon
+Value/Plat: 2.33
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critaata
+Experimental riven rating: 51.59
+Best profile: Eidolon hunting - Rubico
+General use: 41.65, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  71.0
+		Grade: A- (5.18%)
+Critical Chance:  88.0
+		Grade: A- (4.33%)
+Damage:  89.0
+		Grade: C+ (-3.96%)
+Reload Speed:  -22.0
+		Grade: B- (-2.11%)
+
+Polarity: Vazarin   Rerolls: 90   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price: 950
+Seller: Anku128
+Value/Plat: 2.39
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-saticron
+Experimental riven rating: 52.35
+Best profile: General use
+Eidolon hunting - Rubico: 46.47, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  79.0
+		Grade: B (-1.45%)
+Critical Chance:  123.0
+		Grade: C- (-7.9%)
+Fire Rate_Attack Speed:  58.0
+		Grade: A+ (8.44%)
+Zoom:  -43.0
+		Grade: B (0.59%)
+
+Polarity: Madurai   Rerolls: 25   MR: 14
+Riven rank : 8
+Initial price:  998   Buyout price: 998
+Seller: Q_Zbiubiubiu
+Value/Plat: 2.38
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-critacan
+Experimental riven rating: 57.15
+Best profile: General use
+Eidolon hunting - Rubico: 37.34, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  80.1
+		Grade: B (-0.07%)
+Damage:  161.6
+		Grade: S (10.13%)
+Critical Chance:  146.5
+		Grade: S (9.69%)
+Impact:  -77.5
+		Grade: C- (-9.35%)
+
+Polarity: Naramon   Rerolls: 134   MR: 9
+Riven rank : 8
+Initial price:  700   Buyout price: 999
+Seller: KonunacT
+Value/Plat: 2.71
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acridra
+Experimental riven rating: 41.41
+Best profile: General use
+Eidolon hunting - Rubico: 38.79, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  62.0
+Fire Rate_Attack Speed:  30.6
+Critical Chance:  86.6
+Damage vs Corpus":  -0.8
+
+Polarity: Naramon   Rerolls: 60   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: WOLFYANOO
+Value/Plat: 1.8
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critatox
+Experimental riven rating: 44.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 20.39, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  123.5
+		Grade: C- (-7.53%)
+Critical Damage:  110.0
+		Grade: B+ (2.92%)
+Toxin:  74.1
+		Grade: C- (-7.56%)
+Damage vs Infested":  -30.0
+		Grade: C (-6.42%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: JosephTTV
+Value/Plat: 1.92
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-croniata
+Experimental riven rating: 47.17
+Best profile: General use
+Eidolon hunting - Rubico: 38.46, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  68.0
+		Grade: B (0.74%)
+Fire Rate_Attack Speed:  30.5
+		Grade: F (-9.71%)
+Damage:  97.7
+		Grade: A- (5.42%)
+Recoil:  39.1
+		Grade: B- (-3.45%)
+
+Polarity: Naramon   Rerolls: 104   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: __WaackinG__
+Value/Plat: 2.08
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critatox
+Experimental riven rating: 50.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 19.15, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  74.6
+		Grade: C (-6.93%)
+Critical Damage:  112.5
+		Grade: A- (5.26%)
+Critical Chance:  128.6
+		Grade: C+ (-3.71%)
+Zoom:  -43.1
+		Grade: B (0.83%)
+
+Polarity: Vazarin   Rerolls: 52   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Gaz_TTV
+Value/Plat: 2.27
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-cronican
+Experimental riven rating: 50.59
+Best profile: General use
+Eidolon hunting - Rubico: 46.2, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  77.9
+		Grade: B- (-2.82%)
+Fire Rate_Attack Speed:  52.1
+		Grade: B- (-2.59%)
+Critical Chance:  131.1
+		Grade: B- (-1.84%)
+Recoil:  61.5
+		Grade: C+ (-4.08%)
+
+Polarity: Naramon   Rerolls: 9   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: franky0596
+Value/Plat: 2.27
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-satidra
+Experimental riven rating: 50.93
+Best profile: Eidolon hunting - Rubico
+General use: 42.26, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  114.3
+		Grade: A (6.94%)
+Multishot:  75.5
+		Grade: C (-5.81%)
+Fire Rate_Attack Speed:  56.4
+		Grade: A- (5.45%)
+Ammo Maximum:  -33.0
+		Grade: C (-7.27%)
+
+Polarity: Naramon   Rerolls: 10   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: asdnqwav1
+Value/Plat: 2.29
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-satidra
+Experimental riven rating: 55.35
+Best profile: Eidolon hunting - Rubico
+General use: 30.32, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.7
+		Grade: A+ (7.6%)
+Fire Rate_Attack Speed:  55.0
+		Grade: B+ (2.83%)
+Multishot:  83.6
+		Grade: A- (4.29%)
+Status Duration:  -68.3
+		Grade: C+ (-4.13%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: LittleWhiteHorse
+Value/Plat: 2.58
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-cronitis
+Experimental riven rating: 55.84
+Best profile: Eidolon hunting - Rubico
+General use: 37.89, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  33.0
+		Grade: B- (-2.31%)
+Multishot:  55.0
+		Grade: A+ (8.64%)
+Critical Damage:  64.0
+		Grade: C+ (-5.19%)
+Damage vs Grineer":  -19.0
+		Grade: C (-6.16%)
+
+Polarity: Madurai   Rerolls: 242   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Corn
+Value/Plat: 2.61
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-satidra
+Experimental riven rating: 56.34
+Best profile: Eidolon hunting - Rubico
+General use: 42.47, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  32.4
+		Grade: C+ (-4.08%)
+Critical Damage:  73.7
+		Grade: A+ (9.18%)
+Multishot:  50.7
+		Grade: B (0.14%)
+Ammo Maximum:  -20.5
+		Grade: C- (-8.79%)
+
+Polarity: Madurai   Rerolls: 40   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Nico996
+Value/Plat: 2.65
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-cronicron
+Experimental riven rating: 53.29
+Best profile: General use
+Eidolon hunting - Rubico: 35.82, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  101.0
+		Grade: C (-5.5%)
+Fire Rate_Attack Speed:  57.6
+		Grade: A+ (7.7%)
+Critical Chance:  146.6
+		Grade: S (9.77%)
+Recoil:  60.3
+		Grade: C (-5.96%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 8
+Riven rank : 8
+Initial price:  1148   Buyout price: 1148
+Seller: Melanie__
+Value/Plat: 2.27
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-cronicron
+Experimental riven rating: 52.17
+Best profile: Eidolon hunting - Rubico
+General use: 39.25, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  82.6
+		Grade: B- (-2.07%)
+Fire Rate_Attack Speed:  35.5
+		Grade: A- (5.09%)
+Multishot:  54.5
+		Grade: A+ (7.65%)
+Status Duration:  -46.1
+		Grade: B+ (2.45%)
+
+Polarity: Naramon   Rerolls: 210   MR: 10
+Riven rank : 8
+Initial price:  1199   Buyout price: 1199
+Seller: KIWIYA
+Value/Plat: 2.15
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Toxi-acricron
+Experimental riven rating: 40.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 11.02, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  80.8
+		Grade: B (0.8%)
+Critical Chance:  130.6
+		Grade: B- (-2.21%)
+Critical Damage:  105.1
+		Grade: B- (-1.66%)
+Damage vs Corpus":  -34.2
+		Grade: A (6.68%)
+
+Polarity: Madurai   Rerolls: 57   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Gamer_D367
+Value/Plat: 1.65
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-acridra
+Experimental riven rating: 42.22
+Best profile: General use
+Eidolon hunting - Rubico: 33.68, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  51.2
+		Grade: C+ (-4.27%)
+Multishot:  86.7
+		Grade: A+ (8.16%)
+Critical Damage:  115.5
+		Grade: A+ (8.07%)
+Reload Speed:  -36.8
+		Grade: B+ (3.41%)
+
+Polarity: Madurai   Rerolls: 87   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Jaku
+Value/Plat: 1.7
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Toxi-critatis
+Experimental riven rating: 47.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: 5.74, 
+Riven stats: 
+Critical Damage:  98.6
+		Grade: C- (-7.75%)
+Critical Chance:  124.1
+		Grade: C (-7.08%)
+Toxin:  83.2
+		Grade: A- (3.79%)
+Recoil:  61.1
+		Grade: C+ (-4.71%)
+
+Polarity: Madurai   Rerolls: 33   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Qorvex-
+Value/Plat: 1.94
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critatox
+Experimental riven rating: 48.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 16.58, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  128.0
+		Grade: C+ (-4.16%)
+Toxin:  72.2
+		Grade: F (-9.93%)
+Critical Damage:  103.7
+		Grade: B- (-2.97%)
+Zoom:  -46.3
+		Grade: A+ (8.31%)
+
+Polarity: Madurai   Rerolls: 3   MR: 13
+Riven rank : 8
+Initial price:  500   Buyout price: 1200
+Seller: Lazlum
+Value/Plat: 1.95
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-satitis
+Experimental riven rating: 52.0
+Best profile: Eidolon hunting - Rubico
+General use: 37.59, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  82.8
+		Grade: B+ (3.29%)
+Critical Damage:  100.5
+		Grade: C (-5.97%)
+Fire Rate_Attack Speed:  55.5
+		Grade: A- (3.77%)
+Damage vs Grineer":  -30.2
+		Grade: C (-5.8%)
+
+Polarity: Vazarin   Rerolls: 22   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Volta.QvQ
+Value/Plat: 2.14
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-critatis
+Experimental riven rating: 58.67
+Best profile: Eidolon hunting - Rubico
+General use: 36.98, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  84.3
+		Grade: B (-0.06%)
+Critical Damage:  66.4
+		Grade: B- (-1.63%)
+Damage:  94.5
+		Grade: B+ (1.97%)
+Status Chance:  -39.3
+		Grade: B- (-2.95%)
+
+Polarity: Madurai   Rerolls: 87   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: ITS-BigWeirdo
+Value/Plat: 2.54
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 52.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: -5.74, 
+Riven stats: 
+Fire Rate_Attack Speed:  56.0
+		Grade: A- (4.7%)
+Multishot:  73.9
+		Grade: C- (-7.81%)
+Critical Damage:  107.4
+		Grade: B (0.49%)
+Impact:  -80.2
+		Grade: C (-6.19%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 10
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: fellamoment
+Value/Plat: 2.12
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acritox
+Experimental riven rating: 48.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 16.84, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  124.9
+		Grade: C (-6.48%)
+Critical Damage:  102.9
+		Grade: C+ (-3.72%)
+Toxin:  73.3
+		Grade: C- (-8.56%)
+Zoom:  -43.8
+		Grade: B+ (2.47%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1300   Buyout price: 1300
+Seller: ALEXandwiu
+Value/Plat: 1.9
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-satidra
+Experimental riven rating: 51.34
+Best profile: Eidolon hunting - Rubico
+General use: 45.06, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  64.0
+		Grade: C+ (-5.19%)
+Multishot:  50.3
+		Grade: B (-0.65%)
+Fire Rate_Attack Speed:  32.1
+		Grade: C+ (-4.97%)
+Damage vs Infested":  -19.3
+		Grade: C+ (-4.68%)
+
+Polarity: Madurai   Rerolls: 151   MR: 8
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: eawqar
+Value/Plat: 1.95
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-satitis
+Experimental riven rating: 46.95
+Best profile: Eidolon hunting - Rubico
+General use: 33.94, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  36.3
+		Grade: A (7.46%)
+Multishot:  50.1
+		Grade: B (-1.04%)
+Critical Damage:  61.2
+		Grade: C- (-9.34%)
+Status Duration:  -44.6
+		Grade: B (-0.88%)
+
+Polarity: Madurai   Rerolls: 86   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price: 1500
+Seller: Deadly_Venomz
+Value/Plat: 1.71
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-cronican
+Experimental riven rating: 47.92
+Best profile: Eidolon hunting - Rubico
+General use: 34.81, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  103.1
+		Grade: C+ (-3.54%)
+Fire Rate_Attack Speed:  51.2
+		Grade: C+ (-4.27%)
+Multishot:  72.2
+		Grade: F (-9.93%)
+Damage vs Grineer":  -29.8
+		Grade: C (-7.05%)
+
+Polarity: Madurai   Rerolls: 8   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 1500
+Seller: 0kuu
+Value/Plat: 1.74
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-critacan
+Experimental riven rating: 51.11
+Best profile: Eidolon hunting - Rubico
+General use: 40.26, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  138.1
+Multishot:  80.9
+Fire Rate_Attack Speed:  56.0
+Damage vs Grineer":  -0.7
+
+Polarity: Madurai   Rerolls: 26   MR: 9
+Riven rank : 8
+Initial price:  400   Buyout price: 1500
+Seller: Monkey.D.Luffy007
+Value/Plat: 1.87
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 49.07
+Best profile: Eidolon hunting - Rubico
+General use: 46.68, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  36.2
+Critical Damage:  67.3
+Multishot:  50.3
+Damage vs Infested":  -0.8
+
+Polarity: Vazarin   Rerolls: 57   MR: 13
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: -Katherine-
+Value/Plat: 1.73
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-cronican
+Experimental riven rating: 50.49
+Best profile: General use
+Eidolon hunting - Rubico: 33.52, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  69.6
+		Grade: B+ (3.11%)
+Multishot:  46.5
+		Grade: C- (-8.15%)
+Fire Rate_Attack Speed:  34.3
+		Grade: B+ (1.54%)
+Zoom:  -28.4
+		Grade: A- (5.2%)
+
+Polarity: Madurai   Rerolls: 164   MR: 11
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: -CAG-Ley_Ley
+Value/Plat: 1.68
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critacan
+Experimental riven rating: 58.21
+Best profile: Eidolon hunting - Rubico
+General use: 42.19, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  108.8
+		Grade: B+ (1.8%)
+Critical Chance:  124.8
+		Grade: C (-6.55%)
+Multishot:  72.7
+		Grade: C- (-9.31%)
+Reload Speed:  -38.3
+		Grade: A+ (7.63%)
+
+Polarity: Vazarin   Rerolls: 69   MR: 13
+Riven rank : 8
+Initial price:  1888   Buyout price: 1888
+Seller: LastSakura
+Value/Plat: 1.93
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-cronican
+Experimental riven rating: 44.64
+Best profile: Eidolon hunting - Rubico
+General use: 29.96, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  123.0
+		Grade: C- (-7.9%)
+Fire Rate_Attack Speed:  49.2
+		Grade: C- (-8.01%)
+Multishot:  73.3
+		Grade: C- (-8.56%)
+Status Duration:  -74.0
+		Grade: A- (3.87%)
+
+Polarity: Vazarin   Rerolls: 67   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: 13.17
+Value/Plat: 1.43
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Visi-cronitis
+Experimental riven rating: 50.51
+Best profile: General use
+Eidolon hunting - Rubico: 38.79, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  57.9
+		Grade: A+ (8.26%)
+Damage:  159.6
+		Grade: A+ (8.77%)
+Critical Damage:  107.1
+		Grade: B (0.21%)
+Zoom:  -43.6
+		Grade: B+ (2.0%)
+
+Polarity: Madurai   Rerolls: 56   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price: 2000
+Seller: MaLou_Curry
+Value/Plat: 1.6
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critacan
+Experimental riven rating: 56.44
+Best profile: General use
+Eidolon hunting - Rubico: 41.27, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  124.0
+		Grade: C (-7.15%)
+Critical Damage:  114.2
+		Grade: A (6.85%)
+Multishot:  84.6
+		Grade: A (5.54%)
+Impact:  -85.6
+		Grade: B (0.13%)
+
+Polarity: Vazarin   Rerolls: 62   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Aoshine6
+Value/Plat: 1.8
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acrican
+Experimental riven rating: 47.06
+Best profile: Eidolon hunting - Rubico
+General use: 36.44, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  135.1
+		Grade: B (1.16%)
+Critical Damage:  109.2
+		Grade: B+ (2.17%)
+Multishot:  77.5
+		Grade: B- (-3.32%)
+Fire Rate_Attack Speed:  -43.9
+		Grade: B+ (2.61%)
+
+Polarity: Naramon   Rerolls: 136   MR: 16
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: Kawai_Ani
+Value/Plat: 1.43
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critacan
+Experimental riven rating: 56.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 20.47, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  84.7
+		Grade: B (0.42%)
+Critical Damage:  71.3
+		Grade: A (5.63%)
+Multishot:  47.0
+		Grade: C (-7.16%)
+Impact:  -50.5
+		Grade: C (-6.47%)
+
+Polarity: Madurai   Rerolls: 158   MR: 16
+Riven rank : 8
+Initial price:  2300   Buyout price: 2300
+Seller: kttk
+Value/Plat: 1.66
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critanok
+Experimental riven rating: 46.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Vectis: 8.0, Eidolon hunting - Rubico: 4.72, 
+Riven stats: 
+Critical Damage:  97.2
+		Grade: C- (-9.06%)
+Critical Chance:  124.9
+		Grade: C (-6.48%)
+Punch Through:  2.5
+		Grade: A- (4.86%)
+Zoom:  -46.8
+		Grade: A+ (9.48%)
+
+Polarity: Vazarin   Rerolls: 2   MR: 8
+Riven rank : 8
+Initial price:  1   Buyout price: 2345
+Seller: Resignde
+Value/Plat: 1.37
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 44.31
+Best profile: Eidolon hunting - Rubico
+General use: 41.88, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  73.9
+		Grade: C- (-7.81%)
+Critical Damage:  108.1
+		Grade: B (1.14%)
+Fire Rate_Attack Speed:  57.1
+		Grade: A (6.76%)
+Damage vs Corpus":  -33.8
+		Grade: A- (5.43%)
+
+Polarity: Vazarin   Rerolls: 27   MR: 9
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: ArabTeam
+Value/Plat: 1.29
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Acri-critacan
+Experimental riven rating: 59.62
+Best profile: General use
+Eidolon hunting - Rubico: 42.3, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  89.8
+		Grade: A (6.46%)
+Critical Damage:  72.8
+		Grade: A+ (7.85%)
+Multishot:  53.9
+		Grade: A (6.47%)
+Impact:  -51.6
+		Grade: C+ (-4.43%)
+
+Polarity: Naramon   Rerolls: 2   MR: 9
+Riven rank : 8
+Initial price:  4500   Buyout price:  infinite 
+Seller: Jected-DE-politicaL
+Value/Plat: 0.19
+Used disposition: 0.6
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-satitis
+Experimental riven rating: 53.64
+Best profile: General use
+Eidolon hunting - Rubico: 33.77, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  97.8
+		Grade: C- (-8.49%)
+Critical Chance:  128.5
+		Grade: C+ (-3.78%)
+Multishot:  77.0
+		Grade: C+ (-3.94%)
+Impact:  -85.5
+		Grade: B (0.01%)
+
+Polarity: Naramon   Rerolls: 78   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: TheMachine_
+Value/Plat: 0.21
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-acrican
+Experimental riven rating: 49.31
+Best profile: General use
+Eidolon hunting - Rubico: 43.82, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  103.6
+		Grade: B- (-3.07%)
+Fire Rate_Attack Speed:  55.2
+		Grade: B+ (3.21%)
+Multishot:  79.9
+		Grade: B (-0.32%)
+Recoil:  67.8
+		Grade: A (5.74%)
+
+Polarity: Madurai   Rerolls: 71   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price:  infinite 
+Seller: skskskikun
+Value/Plat: 0.23
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-visitis
+Experimental riven rating: 48.49
+Best profile: General use
+Eidolon hunting - Rubico: 34.87, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  144.2
+		Grade: B- (-1.73%)
+Critical Damage:  102.1
+		Grade: C+ (-4.47%)
+Fire Rate_Attack Speed:  57.1
+		Grade: A (6.76%)
+Zoom:  -44.3
+		Grade: A- (3.64%)
+
+Polarity: Vazarin   Rerolls: 81   MR: 13
+Riven rank : 8
+Initial price:  750   Buyout price:  infinite 
+Seller: Tanghaha155
+Value/Plat: 0.23
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Sati-critatis
+Experimental riven rating: 47.76
+Best profile: Eidolon hunting - Rubico
+General use: 36.22, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  79.4
+		Grade: B (-0.95%)
+Critical Chance:  122.3
+		Grade: C- (-8.43%)
+Critical Damage:  117.5
+		Grade: S (9.94%)
+Fire Rate_Attack Speed:  -43.9
+		Grade: B+ (2.61%)
+
+Polarity: Madurai   Rerolls: 7   MR: 13
+Riven rank : 0
+Initial price:  2000   Buyout price:  infinite 
+Seller: kart0728
+Value/Plat: 0.23
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Crita-acridra
+Experimental riven rating: 44.08
+Best profile: General use
+Eidolon hunting - Rubico: 39.36, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  141.6
+		Grade: A (6.03%)
+Fire Rate_Attack Speed:  51.6
+		Grade: C+ (-3.52%)
+Critical Damage:  109.8
+		Grade: B+ (2.73%)
+Ammo Maximum:  -37.7
+		Grade: A (5.94%)
+
+Polarity: Madurai   Rerolls: 69   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price:  infinite 
+Seller: 6291
+Value/Plat: 0.25
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Rubico Croni-critatis
+Experimental riven rating: 43.12
+Best profile: General use
+Eidolon hunting - Rubico: 35.9, Beam: 24.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  57.2
+		Grade: A (6.95%)
+Critical Chance:  137.1
+		Grade: B+ (2.66%)
+Critical Damage:  98.5
+		Grade: C- (-7.84%)
+Damage vs Corpus":  -32.4
+		Grade: B (1.06%)
+
+Polarity: Naramon   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: OvO_SUUUUU
+Value/Plat: 0.26
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

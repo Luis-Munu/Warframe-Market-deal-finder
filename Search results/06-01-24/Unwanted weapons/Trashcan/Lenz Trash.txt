@@ -1,0 +1,230 @@
+Name: Lenz Acri-ignicron
+Experimental riven rating: 31.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  122.5
+		Grade: B- (-1.97%)
+Critical Damage:  104.7
+		Grade: A- (4.7%)
+Heat:  75.4
+		Grade: B (0.53%)
+Ammo Maximum:  -35.0
+		Grade: A- (5.12%)
+
+Polarity: Naramon   Rerolls: 2   MR: 12
+Riven rank : 7
+Initial price:  180   Buyout price: 180
+Seller: lilcrow9011
+Value/Plat: 2.48
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acripha
+Experimental riven rating: 28.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  115.4
+		Grade: B+ (2.57%)
+Heat:  83.3
+		Grade: B (-1.28%)
+Critical Chance:  151.9
+		Grade: A+ (8.05%)
+Status Chance:  -62.1
+		Grade: C- (-7.99%)
+
+Polarity: Naramon   Rerolls: 13   MR: 13
+Riven rank : 8
+Initial price:  240   Buyout price: 240
+Seller: MauriceB
+Value/Plat: 2.01
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.34, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Duration:  95.9
+		Grade: B+ (2.29%)
+Critical Chance:  140.7
+		Grade: B (0.08%)
+Critical Damage:  104.7
+		Grade: C (-6.94%)
+Zoom:  -46.9
+		Grade: A- (4.23%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  699   Buyout price: 699
+Seller: -CS.RL-Loki
+Value/Plat: 1.34
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.43, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  86.3
+Critical Chance:  123.7
+Critical Damage:  100.4
+Fire Rate_Attack Speed:  -45.9
+
+Polarity: Madurai   Rerolls: 120   MR: 15
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: YueFu_
+Value/Plat: 1.32
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Igni-acricron
+Experimental riven rating: 27.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  114.1
+		Grade: B (1.42%)
+Critical Chance:  138.7
+		Grade: B (-1.34%)
+Heat:  91.5
+		Grade: A+ (8.44%)
+Reload Speed:  -40.4
+		Grade: A+ (7.85%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Les-Gauss_Umbra
+Value/Plat: 1.4
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Croni-acrican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.38, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  102.8
+		Grade: C- (-8.63%)
+Fire Rate_Attack Speed:  57.4
+		Grade: B+ (1.96%)
+Multishot:  76.1
+		Grade: F (-9.81%)
+Status Duration:  -72.8
+		Grade: B- (-2.92%)
+
+Polarity: Madurai   Rerolls: 71   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Doomelf
+Value/Plat: 1.23
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acriata
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -15.2, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  75.2
+Critical Damage:  52.6
+Damage:  71.4
+Multishot:  -31.0
+
+Polarity: Vazarin   Rerolls: 111   MR: 12
+Riven rank : 8
+Initial price:  1111   Buyout price: 1111
+Seller: 1ove2G5
+Value/Plat: 1.2
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acri-toxicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.72, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  83.6
+		Grade: B (-0.92%)
+Critical Damage:  118.2
+		Grade: A- (5.06%)
+Critical Chance:  127.4
+		Grade: C- (-9.38%)
+Status Duration:  -72.0
+		Grade: C+ (-3.99%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 1300
+Seller: Sunstarry
+Value/Plat: 1.16
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acri-critanok
+Experimental riven rating: 36.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  131.5
+		Grade: C (-6.46%)
+Critical Damage:  112.4
+		Grade: B (-0.09%)
+Punch Through:  2.4
+		Grade: C+ (-4.37%)
+Status Duration:  -80.7
+		Grade: A+ (7.61%)
+
+Polarity: Madurai   Rerolls: 5   MR: 8
+Riven rank : 0
+Initial price:  1500   Buyout price: 2000
+Seller: dianjing_skr
+Value/Plat: 1.24
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Cronitis
+Experimental riven rating: 24.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.0
+		Grade: A (6.06%)
+Fire Rate_Attack Speed:  7.1
+		Grade: A (7.49%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 16
+Riven rank : 0
+Initial price:  150   Buyout price:  infinite 
+Seller: Wudugog
+Value/Plat: 0.4
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Cronitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.91, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  101.8
+Fire Rate_Attack Speed:  56.2
+
+Polarity: Vazarin   Rerolls: 13   MR: 16
+Riven rank : 8
+Initial price:  200   Buyout price:  infinite 
+Seller: Chee5ee
+Value/Plat: 0.41
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

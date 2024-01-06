@@ -1,0 +1,110 @@
+Name: Buzlok Acri-cronican
+Experimental riven rating: 61.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  177.2
+		Grade: A+ (8.62%)
+Fire Rate_Attack Speed:  83.2
+		Grade: B+ (1.92%)
+Multishot:  118.7
+		Grade: B- (-2.98%)
+Damage vs Infested":  -50.4
+		Grade: B+ (3.0%)
+
+Polarity: Naramon   Rerolls: 120   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Pudge
+Value/Plat: 4.71
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Toxi-acricron
+Experimental riven rating: 61.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  191.1
+		Grade: C (-6.25%)
+Critical Damage:  160.2
+		Grade: B- (-1.8%)
+Toxin:  133.3
+		Grade: A+ (8.95%)
+Puncture:  -128.7
+		Grade: B (-1.37%)
+
+Polarity: Naramon   Rerolls: 138   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Valwow
+Value/Plat: 3.1
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Sati-critadra
+Experimental riven rating: 63.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  189.9
+		Grade: C (-6.84%)
+Fire Rate_Attack Speed:  76.3
+		Grade: C (-6.53%)
+Multishot:  117.2
+		Grade: C+ (-4.21%)
+Projectile Speed:  -92.3
+		Grade: C (-5.69%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Orange-soda
+Value/Plat: 2.07
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Croni-saticron
+Experimental riven rating: 67.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  196.6
+		Grade: C+ (-3.55%)
+Fire Rate_Attack Speed:  86.3
+		Grade: A (5.72%)
+Multishot:  126.5
+		Grade: B+ (3.39%)
+Projectile Speed:  -100.1
+		Grade: B+ (2.28%)
+
+Polarity: Madurai   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: Antique.FSY
+Value/Plat: 1.97
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Crita-toxitis
+Experimental riven rating: 67.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  122.4
+		Grade: B (0.04%)
+Critical Damage:  159.5
+		Grade: B- (-2.23%)
+Critical Chance:  219.1
+		Grade: A (7.48%)
+Recoil:  88.3
+		Grade: F (-9.77%)
+
+Polarity: Vazarin   Rerolls: 20   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: placebo0729
+Value/Plat: 0.16
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

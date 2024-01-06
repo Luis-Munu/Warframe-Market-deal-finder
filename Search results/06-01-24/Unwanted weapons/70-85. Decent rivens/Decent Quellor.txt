@@ -1,0 +1,66 @@
+Name: Quellor Sati-critaata
+Experimental riven rating: 78.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  165.6
+		Grade: C (-6.77%)
+Multishot:  106.5
+		Grade: S (9.75%)
+Critical Chance:  171.3
+		Grade: A (5.96%)
+Puncture:  -113.6
+		Grade: S (9.77%)
+
+Polarity: Madurai   Rerolls: 6   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: BananaBicClown
+Value/Plat: 5.08
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Quellor Visi-critacan
+Experimental riven rating: 74.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  93.6
+		Grade: C+ (-3.54%)
+Damage:  180.4
+		Grade: B+ (1.56%)
+Critical Chance:  156.7
+		Grade: B- (-3.07%)
+Puncture:  -107.7
+		Grade: A- (4.07%)
+
+Polarity: Vazarin   Rerolls: 53   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1400
+Seller: hattl
+Value/Plat: 3.49
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Quellor Croni-saticron
+Experimental riven rating: 75.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.4
+		Grade: C- (-7.59%)
+Multishot:  93.3
+		Grade: C+ (-3.85%)
+Fire Rate_Attack Speed:  66.8
+		Grade: B+ (3.18%)
+Zoom:  -55.7
+		Grade: A+ (7.64%)
+
+Polarity: Madurai   Rerolls: 50   MR: 12
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Rhegaly
+Value/Plat: 2.75
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

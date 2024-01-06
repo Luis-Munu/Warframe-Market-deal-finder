@@ -1,0 +1,252 @@
+Name: Perigale Visi-cronitis
+Experimental riven rating: 53.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  150.9
+Fire Rate_Attack Speed:  48.4
+Critical Damage:  116.3
+Damage vs Corpus":  -0.7
+
+Polarity: Naramon   Rerolls: 179   MR: 13
+Riven rank : 8
+Initial price:  555   Buyout price: 555
+Seller: H-C-C-M
+Value/Plat: 3.37
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Croni-satitis
+Experimental riven rating: 43.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  64.2
+Critical Damage:  74.8
+Fire Rate_Attack Speed:  43.3
+Status Chance:  -48.0
+
+Polarity: Vazarin   Rerolls: 4   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price: 800
+Seller: RicoLuX
+Value/Plat: 2.09
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Acri-critatox
+Experimental riven rating: 43.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  130.9
+		Grade: B- (-1.99%)
+Critical Damage:  105.6
+		Grade: B (-1.2%)
+Toxin:  72.5
+		Grade: F (-9.55%)
+Magazine Capacity:  -37.1
+		Grade: A- (4.26%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: LYJZZX
+Value/Plat: 2.1
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Acri-satidra
+Experimental riven rating: 51.08
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  83.9
+		Grade: A- (4.67%)
+Critical Damage:  113.3
+		Grade: A (6.01%)
+Fire Rate_Attack Speed:  50.6
+		Grade: C+ (-5.39%)
+Damage vs Grineer":  -30.0
+		Grade: C (-6.42%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: czttty
+Value/Plat: 2.58
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Crita-ignitis
+Experimental riven rating: 49.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  86.0
+		Grade: A (7.29%)
+Critical Damage:  101.5
+		Grade: C+ (-5.03%)
+Critical Chance:  146.3
+		Grade: S (9.54%)
+Zoom:  -44.7
+		Grade: A- (4.57%)
+
+Polarity: Vazarin   Rerolls: 82   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: D_Dante
+Value/Plat: 2.23
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Visi-critacan
+Experimental riven rating: 50.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  136.0
+		Grade: B+ (1.83%)
+Multishot:  80.4
+		Grade: B (0.3%)
+Damage:  151.7
+		Grade: B+ (3.39%)
+Magazine Capacity:  -34.4
+		Grade: B- (-3.33%)
+
+Polarity: Madurai   Rerolls: 10   MR: 14
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: Yusheng130
+Value/Plat: 1.97
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Crita-satidra
+Experimental riven rating: 59.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  115.0
+Multishot:  69.8
+Fire Rate_Attack Speed:  48.7
+Ammo Maximum:  -33.3
+
+Polarity: Naramon   Rerolls: 1   MR: 10
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Kuva_
+Value/Plat: 2.37
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Crita-acrican
+Experimental riven rating: 49.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.8
+		Grade: A+ (8.42%)
+Critical Damage:  103.4
+		Grade: B- (-3.25%)
+Multishot:  75.4
+		Grade: C (-5.94%)
+Fire Rate_Attack Speed:  -46.2
+		Grade: A+ (7.99%)
+
+Polarity: Madurai   Rerolls: 3   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: L-A-X
+Value/Plat: 1.82
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Croni-critacan
+Experimental riven rating: 52.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  135.5
+		Grade: B (1.46%)
+Multishot:  74.0
+		Grade: C- (-7.68%)
+Fire Rate_Attack Speed:  58.2
+		Grade: A+ (8.82%)
+Damage vs Grineer":  -30.0
+		Grade: C (-6.42%)
+
+Polarity: Madurai   Rerolls: 13   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Evilfk4r
+Value/Plat: 1.65
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Lexi-acricron
+Experimental riven rating: 59.86
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Punch Through:  2.5
+Critical Chance:  121.5
+Critical Damage:  108.3
+Damage vs Infested":  -0.7
+
+Polarity: Naramon   Rerolls: 36   MR: 13
+Riven rank : 8
+Initial price:  200   Buyout price:  infinite 
+Seller: derderka
+Value/Plat: 0.19
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Sati-acridra
+Experimental riven rating: 46.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  65.1
+Critical Damage:  88.3
+Fire Rate_Attack Speed:  44.2
+Magazine Capacity:  -29.0
+
+Polarity: Naramon   Rerolls: 13   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price:  infinite 
+Seller: Machado-dev
+Value/Plat: 0.24
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Crita-acrican
+Experimental riven rating: 42.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  126.7
+Critical Damage:  98.8
+Multishot:  72.0
+Fire Rate_Attack Speed:  -37.8
+
+Polarity: Naramon   Rerolls: 6   MR: 14
+Riven rank : 8
+Initial price:  1988   Buyout price:  infinite 
+Seller: .HarleyQuinn
+Value/Plat: 0.26
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

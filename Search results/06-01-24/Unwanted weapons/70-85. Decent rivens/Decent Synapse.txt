@@ -1,0 +1,44 @@
+Name: Synapse Sati-cronicron
+Experimental riven rating: 77.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  105.2
+		Grade: C+ (-5.19%)
+Fire Rate_Attack Speed:  77.3
+		Grade: A- (4.41%)
+Critical Chance:  190.2
+		Grade: B+ (2.89%)
+Zoom:  -62.5
+		Grade: A (5.63%)
+
+Polarity: Madurai   Rerolls: 25   MR: 15
+Riven rank : 0
+Initial price:  1800   Buyout price: 1800
+Seller: SittingCluck
+Value/Plat: 3.11
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-saticron
+Experimental riven rating: 77.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.7
+		Grade: C+ (-4.96%)
+Critical Damage:  146.1
+		Grade: B (-1.25%)
+Multishot:  108.7
+		Grade: B- (-2.03%)
+Recoil:  87.7
+		Grade: B (-1.19%)
+
+Polarity: Naramon   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: -Qorvex-
+Value/Plat: 0.14
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------

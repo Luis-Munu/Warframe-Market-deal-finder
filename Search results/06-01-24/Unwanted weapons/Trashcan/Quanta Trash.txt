@@ -1,0 +1,172 @@
+Name: Quanta Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -7.68, 
+Riven stats: 
+Critical Damage:  17.0
+		Grade: B- (-2.86%)
+Critical Chance:  21.0
+		Grade: C+ (-3.97%)
+Status Chance:  12.0
+		Grade: C- (-8.57%)
+Fire Rate_Attack Speed:  -7.0
+		Grade: B (-0.07%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: heokoy
+Value/Plat: 1.46
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Visi-saticron
+Experimental riven rating: 34.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  110.6
+Damage:  223.2
+Critical Chance:  184.1
+Damage vs Grineer":  -0.5
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: pwlolwp
+Value/Plat: 1.58
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Acri-critadra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.45, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  211.0
+		Grade: A (7.21%)
+Critical Damage:  170.3
+		Grade: A+ (8.12%)
+Fire Rate_Attack Speed:  71.7
+		Grade: C- (-9.03%)
+Status Chance:  -99.6
+		Grade: A- (5.41%)
+
+Polarity: Madurai   Rerolls: 26   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Chensir49
+Value/Plat: 1.23
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Croni-visitis
+Experimental riven rating: 27.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  209.9
+		Grade: B- (-2.93%)
+Fire Rate_Attack Speed:  84.7
+		Grade: A (7.46%)
+Critical Damage:  146.4
+		Grade: C (-7.05%)
+Magazine Capacity:  -50.7
+		Grade: B- (-3.32%)
+
+Polarity: Madurai   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: Les-Gauss_Umbra
+Value/Plat: 1.28
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Crita-acridra
+Experimental riven rating: 32.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  207.5
+Critical Damage:  159.3
+Fire Rate_Attack Speed:  83.2
+Damage vs Grineer":  -0.6
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: Excalilbur-Prime
+Value/Plat: 1.35
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Crita-visican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.1, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.3
+		Grade: B- (-3.24%)
+Damage:  214.8
+		Grade: B (-0.66%)
+Critical Chance:  196.6
+		Grade: B (-0.11%)
+Fire Rate_Attack Speed:  -57.4
+		Grade: C- (-8.96%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Eternity_time
+Value/Plat: 1.14
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Sati-visicron
+Experimental riven rating: 35.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  122.0
+		Grade: B+ (3.28%)
+Critical Chance:  187.4
+		Grade: C+ (-4.78%)
+Damage:  231.9
+		Grade: A (7.24%)
+Magazine Capacity:  -54.4
+		Grade: A- (3.73%)
+
+Polarity: Madurai   Rerolls: 40   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: maomie
+Value/Plat: 1.36
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Quanta Visi-critatis
+Experimental riven rating: 31.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.5
+		Grade: C- (-8.29%)
+Damage:  211.8
+		Grade: B- (-2.05%)
+Critical Damage:  142.9
+		Grade: C- (-9.27%)
+Ammo Maximum:  -50.2
+		Grade: C+ (-4.27%)
+
+Polarity: Naramon   Rerolls: 8   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: Cterben.
+Value/Plat: 0.33
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

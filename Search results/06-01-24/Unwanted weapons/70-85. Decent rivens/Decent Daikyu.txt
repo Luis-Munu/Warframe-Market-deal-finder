@@ -1,0 +1,44 @@
+Name: Daikyu Acri-hexacron
+Experimental riven rating: 71.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  150.1
+		Grade: A (6.73%)
+Status Chance:  110.7
+		Grade: A- (4.96%)
+Critical Chance:  161.6
+		Grade: C- (-8.04%)
+Impact:  -108.9
+		Grade: B- (-3.19%)
+
+Polarity: Naramon   Rerolls: 7   MR: 13
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: Msadu.Ykui
+Value/Plat: 4.03
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Daikyu Sati-critaata
+Experimental riven rating: 71.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  184.0
+		Grade: A- (4.71%)
+Damage:  200.0
+		Grade: A- (3.59%)
+Multishot:  114.0
+		Grade: A+ (8.09%)
+Damage vs Infested":  -45.0
+		Grade: A (6.68%)
+
+Polarity: Naramon   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: HuaHuaDGZ
+Value/Plat: 3.06
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

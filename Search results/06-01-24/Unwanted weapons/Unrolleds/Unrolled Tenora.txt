@@ -1,0 +1,88 @@
+Name: Tenora Acri-critaata
+Experimental riven rating: 43.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.9
+		Grade: A+ (8.36%)
+Critical Chance:  17.8
+		Grade: A- (3.6%)
+Damage:  19.0
+		Grade: B (0.65%)
+Fire Rate_Attack Speed:  -5.4
+		Grade: B- (-1.89%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  750   Buyout price: 750
+Seller: yuanxiaomeng
+Value/Plat: 2.12
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tenora Crita-acriata
+Experimental riven rating: 57.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  152.8
+		Grade: B (-1.19%)
+Critical Damage:  114.6
+		Grade: C (-7.4%)
+Damage:  158.1
+		Grade: C (-6.95%)
+Ammo Maximum:  -44.0
+		Grade: A (6.79%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: StarLordWithGun
+Value/Plat: 2.36
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tenora Croni-acricron
+Experimental riven rating: 72.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  64.1
+		Grade: A- (3.51%)
+Critical Damage:  120.4
+		Grade: B- (-2.71%)
+Critical Chance:  143.3
+		Grade: C (-7.33%)
+Recoil:  79.1
+		Grade: A (6.54%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Thomas878
+Value/Plat: 0.15
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tenora Acri-satidra
+Experimental riven rating: 71.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  120.4
+		Grade: A (7.02%)
+Multishot:  81.7
+		Grade: B- (-3.17%)
+Fire Rate_Attack Speed:  53.6
+		Grade: C+ (-4.79%)
+Puncture:  -98.6
+		Grade: S (9.57%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: Nataruk
+Value/Plat: 0.15
+Used disposition: 1.0
+Real disposition: 1.1
+--------------------------------------------------

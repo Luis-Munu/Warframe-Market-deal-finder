@@ -1,0 +1,64 @@
+Name: Boltor Crita-acritox
+Experimental riven rating: 30.22
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  160.5
+Critical Damage:  166.3
+Toxin:  120.0
+Status Chance:  -93.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1488   Buyout price: 1488
+Seller: Nicolas_Colins
+Value/Plat: 1.24
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Visi-saticron
+Experimental riven rating: 59.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  169.7
+		Grade: C (-7.14%)
+Multishot:  117.5
+		Grade: A (7.12%)
+Damage:  220.1
+		Grade: S (9.62%)
+Damage vs Infested":  -44.5
+		Grade: B (1.43%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1550   Buyout price: 1550
+Seller: JM.Comic
+Value/Plat: 2.24
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -34.03, 
+Riven stats: 
+Critical Damage:  153.9
+		Grade: A- (5.23%)
+Critical Chance:  199.5
+		Grade: A+ (9.16%)
+Punch Through:  3.3
+		Grade: B (1.15%)
+Damage:  -159.9
+		Grade: B (-0.44%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  300   Buyout price:  infinite 
+Seller: FazeABS
+Value/Plat: 0.41
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

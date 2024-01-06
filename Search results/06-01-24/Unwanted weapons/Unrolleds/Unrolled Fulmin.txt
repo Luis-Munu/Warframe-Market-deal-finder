@@ -1,0 +1,85 @@
+Name: Fulmin Acri-hexacron
+Experimental riven rating: 49.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  13.3
+		Grade: B (0.17%)
+Critical Damage:  11.5
+		Grade: A+ (8.23%)
+Status Chance:  8.5
+		Grade: A (6.66%)
+Projectile Speed:  -6.6
+		Grade: A- (3.54%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1200
+Seller: DropOfHoney
+Value/Plat: 2.03
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Crita-hexatis
+Experimental riven rating: 52.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  13.7
+		Grade: B+ (3.18%)
+Critical Damage:  10.3
+		Grade: B- (-3.06%)
+Status Chance:  8.0
+		Grade: B (0.39%)
+Recoil:  6.3
+		Grade: B (-1.17%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: hrh0904
+Value/Plat: 2.18
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Croni-armatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -20.36, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  7.3
+Magazine Capacity:  3.2
+Fire Rate_Attack Speed:  4.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  99   Buyout price:  infinite 
+Seller: petrosd1000
+Value/Plat: 0.41
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Crita-acritin
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.64, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  126.0
+		Grade: A- (5.44%)
+Critical Damage:  89.9
+		Grade: C (-5.99%)
+Magazine Capacity:  40.0
+		Grade: B (0.49%)
+Impact:  -80.0
+		Grade: A- (4.59%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: Suzuka_Utak0
+Value/Plat: 0.41
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Name: Baza Acri-hexacron
+Experimental riven rating: 49.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  15.4
+		Grade: C (-6.1%)
+Critical Damage:  13.7
+		Grade: A- (4.38%)
+Status Chance:  9.3
+		Grade: C (-5.53%)
+Puncture:  -10.8
+		Grade: B+ (2.87%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: Simonirico
+Value/Plat: 2.82
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Baza Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.73, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  152.3
+		Grade: B+ (3.18%)
+Heat:  84.0
+		Grade: C+ (-5.19%)
+Critical Damage:  124.7
+		Grade: A (5.56%)
+Status Chance:  -69.4
+		Grade: B- (-2.07%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: hoot1
+Value/Plat: 1.23
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Baza Crita-satidra
+Experimental riven rating: 39.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  153.6
+		Grade: A- (4.06%)
+Multishot:  92.9
+		Grade: A- (4.86%)
+Fire Rate_Attack Speed:  64.7
+		Grade: A+ (9.45%)
+Slash:  -98.1
+		Grade: A- (3.82%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: kaiwen99
+Value/Plat: 1.6
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

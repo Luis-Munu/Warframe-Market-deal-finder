@@ -1,0 +1,110 @@
+Name: Lanka Croni-acrican
+Experimental riven rating: 38.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  84.3
+		Grade: C+ (-4.85%)
+Critical Damage:  120.9
+		Grade: B+ (2.35%)
+Fire Rate_Attack Speed:  63.4
+		Grade: A (7.25%)
+Status Duration:  -84.9
+		Grade: A+ (7.82%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  160   Buyout price: 160
+Seller: SiReiI
+Value/Plat: 3.39
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Lanka Acri-satidra
+Experimental riven rating: 54.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  13.2
+		Grade: B (0.57%)
+Fire Rate_Attack Speed:  6.2
+		Grade: C (-5.61%)
+Multishot:  9.8
+		Grade: B (-0.45%)
+Damage vs Corpus":  -4.1
+		Grade: A- (4.14%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  350   Buyout price: 350
+Seller: NightTorrent
+Value/Plat: 4.48
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Lanka Acri-cronican
+Experimental riven rating: 51.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  115.5
+		Grade: B- (-2.23%)
+Fire Rate_Attack Speed:  54.5
+		Grade: C- (-7.81%)
+Multishot:  81.2
+		Grade: C- (-8.35%)
+Ammo Maximum:  -42.6
+		Grade: A+ (8.31%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: lnlrgringnvngksngkbgk
+Value/Plat: 2.78
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Lanka Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.13, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  91.7
+		Grade: A- (3.5%)
+Critical Chance:  141.6
+		Grade: C+ (-4.07%)
+Critical Damage:  119.5
+		Grade: B (1.16%)
+Damage vs Grineer":  -34.3
+		Grade: B- (-3.2%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1   Buyout price: 900
+Seller: Aaron-Parator
+Value/Plat: 1.27
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Lanka Sati-cronicron
+Experimental riven rating: 59.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  58.9
+		Grade: B (-0.36%)
+Critical Chance:  145.4
+		Grade: B (-1.5%)
+Multishot:  88.4
+		Grade: B (-0.22%)
+Damage vs Corpus":  -33.6
+		Grade: C+ (-5.18%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: forever-destiny
+Value/Plat: 2.57
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

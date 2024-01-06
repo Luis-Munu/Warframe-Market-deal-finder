@@ -1,0 +1,22 @@
+Name: Rauta Crita-satitis
+Experimental riven rating: 74.8
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  54.3
+		Grade: F (-10.0%)
+Critical Damage:  48.7
+		Grade: F (-10.0%)
+Multishot:  68.2
+		Grade: F (-10.0%)
+Damage vs Corpus":  -19.3
+		Grade: F (-10.0%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 12
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Dr_Victorr
+Value/Plat: 6.22
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------

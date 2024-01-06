@@ -1,0 +1,42 @@
+Name: Cinta Visi-acricron
+Experimental riven rating: 43.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  7.2
+Critical Damage:  6.4
+Damage:  9.4
+Fire Rate_Attack Speed:  -2.5
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  250   Buyout price: 250
+Seller: HeIIY
+Value/Plat: 3.53
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Cinta Acri-satidra
+Experimental riven rating: 49.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  94.8
+		Grade: B (-0.87%)
+Multishot:  70.2
+		Grade: B- (-2.12%)
+Fire Rate_Attack Speed:  44.9
+		Grade: C (-6.17%)
+Status Duration:  -69.5
+		Grade: A+ (9.03%)
+
+Polarity: Madurai   Rerolls: 23   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: AlmightyNog
+Value/Plat: 3.15
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

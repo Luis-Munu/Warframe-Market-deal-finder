@@ -1,0 +1,66 @@
+Name: Gorgon Croni-critacan
+Experimental riven rating: 61.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  184.3
+		Grade: B- (-2.89%)
+Multishot:  108.6
+		Grade: C+ (-4.66%)
+Fire Rate_Attack Speed:  77.9
+		Grade: B+ (2.49%)
+Damage vs Infested":  -42.5
+		Grade: C (-6.71%)
+
+Polarity: Naramon   Rerolls: 38   MR: 8
+Riven rank : 8
+Initial price:  1450   Buyout price: 1450
+Seller: ASAPdrewrich
+Value/Plat: 2.46
+Used disposition: 1.35
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Sati-critadra
+Experimental riven rating: 69.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  71.7
+		Grade: C- (-9.03%)
+Multishot:  118.0
+		Grade: B (-0.11%)
+Critical Chance:  186.2
+		Grade: C+ (-5.39%)
+Recoil:  88.2
+		Grade: C (-6.66%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: amogus
+Value/Plat: 2.89
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Sati-acridra
+Experimental riven rating: 66.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  124.2
+		Grade: A- (5.14%)
+Critical Damage:  148.8
+		Grade: C (-5.53%)
+Fire Rate_Attack Speed:  72.6
+		Grade: C- (-7.89%)
+Recoil:  89.2
+		Grade: C (-5.6%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Thicky
+Value/Plat: 2.22
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

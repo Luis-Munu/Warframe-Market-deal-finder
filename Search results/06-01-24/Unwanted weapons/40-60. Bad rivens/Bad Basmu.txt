@@ -1,0 +1,238 @@
+Name: Basmu Acri-croniata
+Experimental riven rating: 56.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  7.2
+		Grade: C+ (-4.08%)
+Damage:  19.4
+		Grade: C (-5.8%)
+Critical Damage:  14.6
+		Grade: B- (-2.67%)
+Projectile Speed:  -9.1
+		Grade: B (1.12%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Yan___
+Value/Plat: 5.31
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Crita-satiata
+Experimental riven rating: 43.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  181.5
+		Grade: A+ (7.59%)
+Damage:  172.8
+		Grade: C (-6.77%)
+Multishot:  96.4
+		Grade: C+ (-4.79%)
+Magazine Capacity:  -47.3
+		Grade: A- (5.23%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Macaron007
+Value/Plat: 1.9
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Acri-saticron
+Experimental riven rating: 49.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  143.7
+Critical Chance:  157.7
+Multishot:  106.9
+Damage vs Grineer":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: shaloon.
+Value/Plat: 1.81
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Sati-critaata
+Experimental riven rating: 49.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  158.7
+		Grade: C (-5.93%)
+Multishot:  98.3
+		Grade: B- (-2.92%)
+Damage:  167.6
+		Grade: F (-9.57%)
+Damage vs Corpus":  -41.3
+		Grade: B+ (1.99%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: Solitude_x
+Value/Plat: 1.82
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Crita-satidra
+Experimental riven rating: 54.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  62.4
+		Grade: C- (-7.64%)
+Critical Chance:  182.8
+		Grade: A+ (8.36%)
+Multishot:  109.6
+		Grade: A+ (8.24%)
+Reload Speed:  -45.1
+		Grade: B (0.33%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 2.01
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Sati-visicron
+Experimental riven rating: 59.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  196.7
+		Grade: A (6.13%)
+Multishot:  107.7
+		Grade: A (6.37%)
+Critical Chance:  177.3
+		Grade: A- (5.1%)
+Ammo Maximum:  -44.4
+		Grade: B (-1.22%)
+
+Polarity: Naramon   Rerolls: 19   MR: 16
+Riven rank : 8
+Initial price:  99   Buyout price: 1500
+Seller: Nero
+Value/Plat: 2.25
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Croni-critacan
+Experimental riven rating: 53.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  68.9
+		Grade: B+ (1.98%)
+Multishot:  98.1
+		Grade: B- (-3.11%)
+Critical Chance:  163.6
+		Grade: B- (-3.02%)
+Ammo Maximum:  -46.6
+		Grade: A- (3.67%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: -Qorvex-
+Value/Plat: 1.78
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Acri-saticron
+Experimental riven rating: 41.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  136.1
+Multishot:  96.9
+Critical Chance:  149.4
+Magazine Capacity:  -42.4
+
+Polarity: Vazarin   Rerolls: 50   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: gundamMC
+Value/Plat: 1.35
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Croni-acrican
+Experimental riven rating: 49.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  131.3
+		Grade: B- (-2.74%)
+Multishot:  93.4
+		Grade: C- (-7.76%)
+Fire Rate_Attack Speed:  66.6
+		Grade: B (-1.42%)
+Ammo Maximum:  -43.6
+		Grade: B- (-3.0%)
+
+Polarity: Naramon   Rerolls: 26   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Franky
+Value/Plat: 1.58
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Croni-visitis
+Experimental riven rating: 52.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  73.7
+		Grade: A+ (9.09%)
+Critical Damage:  137.2
+		Grade: B+ (1.63%)
+Damage:  201.2
+		Grade: A+ (8.55%)
+Ammo Maximum:  -48.2
+		Grade: A (7.23%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price:  infinite 
+Seller: JinChaoMoDai
+Value/Plat: 0.21
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Acri-critacan
+Experimental riven rating: 51.86
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  162.6
+		Grade: C+ (-3.62%)
+Critical Damage:  130.3
+		Grade: B- (-3.48%)
+Multishot:  93.4
+		Grade: C- (-7.76%)
+Ammo Maximum:  -44.6
+		Grade: B (-0.78%)
+
+Polarity: Madurai   Rerolls: 2   MR: 10
+Riven rank : 8
+Initial price:  9999   Buyout price:  infinite 
+Seller: Franky
+Value/Plat: 0.22
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

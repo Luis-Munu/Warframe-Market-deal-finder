@@ -1,0 +1,150 @@
+Name: Tonkor Croni-satitis
+Experimental riven rating: 74.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  158.8
+		Grade: A+ (8.58%)
+Fire Rate_Attack Speed:  80.0
+		Grade: A+ (9.31%)
+Multishot:  119.1
+		Grade: A+ (8.58%)
+Damage vs Infested":  -41.3
+		Grade: C (-5.86%)
+
+Polarity: Naramon   Rerolls: 5   MR: 14
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Better_late_than_never
+Value/Plat: 6.45
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acridra
+Experimental riven rating: 71.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  194.0
+Critical Damage:  157.9
+Fire Rate_Attack Speed:  70.0
+Damage vs Infested":  -57.0
+
+Polarity: Naramon   Rerolls: 18   MR: 14
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Evileye52
+Value/Plat: 4.8
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Croni-critatis
+Experimental riven rating: 77.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  51.9
+		Grade: B+ (2.43%)
+Critical Chance:  123.3
+		Grade: B- (-2.55%)
+Critical Damage:  96.4
+		Grade: C+ (-4.79%)
+Recoil:  55.3
+		Grade: C- (-8.96%)
+
+Polarity: Vazarin   Rerolls: 15   MR: 9
+Riven rank : 8
+Initial price:  860   Buyout price: 860
+Seller: zdrhd
+Value/Plat: 5.45
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-satidra
+Experimental riven rating: 72.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  50.3
+Multishot:  84.8
+Critical Damage:  116.7
+Recoil:  66.7
+
+Polarity: Vazarin   Rerolls: 10   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: optadel
+Value/Plat: 4.2
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-satidra
+Experimental riven rating: 75.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.1
+		Grade: A- (4.02%)
+Critical Chance:  191.3
+		Grade: A- (4.67%)
+Fire Rate_Attack Speed:  67.4
+		Grade: C- (-7.91%)
+Projectile Speed:  -91.1
+		Grade: A- (3.83%)
+
+Polarity: Madurai   Rerolls: 42   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: majkel.80
+Value/Plat: 4.59
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-satidra
+Experimental riven rating: 75.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  66.0
+		Grade: F (-9.82%)
+Multishot:  101.9
+		Grade: C (-7.1%)
+Critical Chance:  174.7
+		Grade: C+ (-4.41%)
+Recoil:  79.3
+		Grade: F (-9.62%)
+
+Polarity: Madurai   Rerolls: 51   MR: 13
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: SkylarMoo
+Value/Plat: 3.08
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Sati-acricron
+Experimental riven rating: 73.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  173.6
+		Grade: C+ (-5.01%)
+Critical Damage:  141.3
+		Grade: B- (-3.39%)
+Multishot:  116.3
+		Grade: A (6.03%)
+Damage vs Infested":  -48.2
+		Grade: S (9.87%)
+
+Polarity: Naramon   Rerolls: 65   MR: 9
+Riven rank : 8
+Initial price:  3000   Buyout price:  infinite 
+Seller: Yuggs
+Value/Plat: 0.15
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------

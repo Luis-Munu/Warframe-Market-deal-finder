@@ -1,0 +1,106 @@
+Name: Braton Acri-toxicron
+Experimental riven rating: 63.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  158.5
+Toxin:  119.6
+Critical Chance:  185.7
+Damage vs Infested":  -0.5
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Hadopelagic
+Value/Plat: 3.19
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Crita-satidra
+Experimental riven rating: 62.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  180.5
+Multishot:  113.8
+Fire Rate_Attack Speed:  75.1
+Damage vs Corpus":  -3.9
+
+Polarity: Naramon   Rerolls: 3   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: tzxiaoshu
+Value/Plat: 2.78
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Acri-satidra
+Experimental riven rating: 64.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  159.1
+		Grade: A- (4.75%)
+Multishot:  117.2
+		Grade: B+ (2.89%)
+Fire Rate_Attack Speed:  69.7
+		Grade: C- (-8.29%)
+Damage vs Infested":  -42.0
+		Grade: C- (-7.81%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: FendigheeRicch
+Value/Plat: 2.12
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Croni-critacan
+Experimental riven rating: 66.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  195.0
+		Grade: B+ (2.75%)
+Multishot:  111.0
+		Grade: B- (-2.55%)
+Fire Rate_Attack Speed:  79.0
+		Grade: A- (3.94%)
+Damage vs Infested":  -44.0
+		Grade: B- (-3.42%)
+
+Polarity: Madurai   Rerolls: 62   MR: 15
+Riven rank : 8
+Initial price:  2250   Buyout price: 2250
+Seller: Invasive_Zim
+Value/Plat: 2.06
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Sati-critatis
+Experimental riven rating: 66.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  108.2
+		Grade: C+ (-5.01%)
+Critical Chance:  180.3
+		Grade: C+ (-5.0%)
+Critical Damage:  139.5
+		Grade: C- (-8.15%)
+Damage vs Infested":  -43.0
+		Grade: C (-5.61%)
+
+Polarity: Naramon   Rerolls: 28   MR: 10
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: KimTaeyeon309
+Value/Plat: 0.17
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

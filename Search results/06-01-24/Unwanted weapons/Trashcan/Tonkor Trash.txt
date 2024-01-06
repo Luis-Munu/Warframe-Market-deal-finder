@@ -1,0 +1,366 @@
+Name: Tonkor Crita-acrides
+Experimental riven rating: 27.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  137.4
+		Grade: A+ (8.6%)
+Critical Damage:  109.5
+		Grade: A+ (8.14%)
+Status Duration:  81.5
+		Grade: B- (-3.41%)
+Recoil:  56.4
+		Grade: C (-7.15%)
+
+Polarity: Madurai   Rerolls: 17   MR: 8
+Riven rank : 8
+Initial price:  233   Buyout price: 233
+Seller: QQ2420277362
+Value/Plat: 1.95
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Croni-visitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 7.68, 
+Riven stats: 
+Damage:  192.2
+		Grade: C+ (-4.28%)
+Fire Rate_Attack Speed:  72.7
+		Grade: B (-0.67%)
+Critical Damage:  139.2
+		Grade: C+ (-4.82%)
+Status Duration:  -90.9
+		Grade: C (-6.76%)
+
+Polarity: Naramon   Rerolls: 40   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: Smile_like_flower
+Value/Plat: 1.65
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -33.14, 
+Riven stats: 
+Critical Chance:  198.2
+		Grade: A+ (8.45%)
+Critical Damage:  151.3
+		Grade: B+ (3.45%)
+Status Chance:  114.6
+		Grade: A- (4.48%)
+Multishot:  -89.1
+		Grade: B+ (1.55%)
+
+Polarity: Madurai   Rerolls: 77   MR: 11
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: WDGPrime
+Value/Plat: 1.65
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-hexacron
+Experimental riven rating: 28.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  165.3
+		Grade: F (-9.55%)
+Critical Damage:  139.4
+		Grade: C+ (-4.69%)
+Status Chance:  99.9
+		Grade: C- (-8.93%)
+Reload Speed:  -50.6
+		Grade: A- (3.91%)
+
+Polarity: Vazarin   Rerolls: 109   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price: 400
+Seller: Chitose_
+Value/Plat: 1.76
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Croni-visitis
+Experimental riven rating: 39.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  143.0
+		Grade: B- (-2.23%)
+Damage:  212.0
+		Grade: A (5.58%)
+Fire Rate_Attack Speed:  78.0
+		Grade: A (6.57%)
+Magazine Capacity:  -44.0
+		Grade: F (-9.64%)
+
+Polarity: Madurai   Rerolls: 3   MR: 13
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: cook12138
+Value/Plat: 2.5
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-critatox
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.39, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  132.9
+		Grade: C- (-9.13%)
+Critical Chance:  172.3
+		Grade: C (-5.72%)
+Toxin:  105.4
+		Grade: C+ (-3.91%)
+Status Duration:  -100.4
+		Grade: B+ (2.98%)
+
+Polarity: Naramon   Rerolls: 52   MR: 13
+Riven rank : 8
+Initial price:  587   Buyout price: 587
+Seller: pig-q
+Value/Plat: 1.4
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 3.26, 
+Riven stats: 
+Critical Chance:  127.8
+		Grade: B (1.01%)
+Critical Damage:  96.7
+		Grade: C+ (-4.5%)
+Status Chance:  82.5
+		Grade: A+ (8.64%)
+Status Duration:  -62.4
+		Grade: C- (-7.55%)
+
+Polarity: Naramon   Rerolls: 11   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Xian0yu1
+Value/Plat: 1.39
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.71, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  108.9
+Critical Damage:  133.1
+Heat:  81.1
+Damage vs Grineer":  -31.2
+
+Polarity: Vazarin   Rerolls: 9   MR: 9
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: Demolyst
+Value/Plat: 1.3
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 12.62, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  146.4
+		Grade: B (0.1%)
+Critical Chance:  180.0
+		Grade: B- (-1.51%)
+Heat:  103.3
+		Grade: C (-5.83%)
+Fire Rate_Attack Speed:  -61.0
+		Grade: A- (4.2%)
+
+Polarity: Madurai   Rerolls: 40   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: ORBES2
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.97, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.3
+		Grade: C+ (-4.08%)
+Critical Damage:  159.3
+		Grade: A+ (8.92%)
+Status Duration:  111.6
+		Grade: C- (-8.43%)
+Recoil:  90.9
+		Grade: A- (3.6%)
+
+Polarity: Vazarin   Rerolls: 46   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: 1011583968
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Igni-acricron
+Experimental riven rating: 34.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  194.7
+Critical Damage:  159.1
+Heat:  120.0
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 172   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Jojo_Aimy
+Value/Plat: 1.64
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Croni-acricron
+Experimental riven rating: 37.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  154.7
+		Grade: A (5.77%)
+Critical Chance:  167.8
+		Grade: C- (-8.18%)
+Fire Rate_Attack Speed:  77.5
+		Grade: A (5.89%)
+Status Duration:  -107.0
+		Grade: S (9.75%)
+
+Polarity: Madurai   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: zhdwal
+Value/Plat: 1.78
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Sati-acridra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.78, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  160.0
+		Grade: A+ (9.4%)
+Multishot:  120.0
+		Grade: A+ (9.4%)
+Fire Rate_Attack Speed:  72.6
+		Grade: B (-0.8%)
+Status Duration:  -93.2
+		Grade: C+ (-4.4%)
+
+Polarity: Madurai   Rerolls: 25   MR: 8
+Riven rank : 0
+Initial price:  800   Buyout price: 1201
+Seller: hzq.sang
+Value/Plat: 1.18
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Hexa-acricron
+Experimental riven rating: 25.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  97.7
+Critical Damage:  117.9
+Status Chance:  82.5
+Magazine Capacity:  -33.7
+
+Polarity: Madurai   Rerolls: 11   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Melancollie
+Value/Plat: 1.06
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acrides
+Experimental riven rating: 29.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  190.2
+		Grade: A- (4.07%)
+Critical Damage:  138.6
+		Grade: C+ (-5.23%)
+Status Duration:  113.9
+		Grade: C (-6.55%)
+Zoom:  -53.1
+		Grade: C- (-9.22%)
+
+Polarity: Madurai   Rerolls: 70   MR: 11
+Riven rank : 8
+Initial price:  4000   Buyout price: 4000
+Seller: SLG.CalmpinkNopainNogain
+Value/Plat: 0.92
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Crita-acrido
+Experimental riven rating: 27.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Cold:  69.9
+Critical Damage:  96.8
+Critical Chance:  124.6
+Damage vs Grineer":  -0.3
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1700   Buyout price:  infinite 
+Seller: shenrenxingxiang
+Value/Plat: 0.37
+Used disposition: 0.9
+Real disposition: 0.9
+--------------------------------------------------
+Name: Tonkor Acri-fevacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.71, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  153.4
+		Grade: A- (4.89%)
+Reload Speed:  61.3
+		Grade: B (0.69%)
+Critical Chance:  176.5
+		Grade: B- (-3.42%)
+Puncture:  -109.8
+		Grade: C (-6.14%)
+
+Polarity: Naramon   Rerolls: 47   MR: 16
+Riven rank : 8
+Initial price:  6500   Buyout price:  infinite 
+Seller: SVAXRO
+Value/Plat: 0.41
+Used disposition: 1.3
+Real disposition: 0.9
+--------------------------------------------------

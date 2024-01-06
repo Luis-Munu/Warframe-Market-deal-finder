@@ -1,0 +1,108 @@
+Name: Alternox Sati-critadra
+Experimental riven rating: 46.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  10.1
+		Grade: B+ (2.6%)
+Critical Chance:  15.7
+		Grade: C+ (-4.28%)
+Fire Rate_Attack Speed:  6.4
+		Grade: B- (-2.56%)
+Damage vs Corpus":  -4.0
+		Grade: B+ (1.6%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: czl2345617
+Value/Plat: 3.18
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Acri-critaata
+Experimental riven rating: 55.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  124.3
+		Grade: A- (5.22%)
+Critical Chance:  138.1
+		Grade: C (-6.44%)
+Damage:  177.3
+		Grade: A+ (9.32%)
+Projectile Speed:  -77.4
+		Grade: A+ (9.22%)
+
+Polarity: Naramon   Rerolls: 21   MR: 10
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: SVAXRO
+Value/Plat: 3.28
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Acri-satidra
+Experimental riven rating: 46.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  125.7
+		Grade: A (6.41%)
+Multishot:  87.4
+		Grade: B (-1.35%)
+Fire Rate_Attack Speed:  58.2
+		Grade: B- (-1.55%)
+Magazine Capacity:  -41.8
+		Grade: A (6.28%)
+
+Polarity: Naramon   Rerolls: 2   MR: 14
+Riven rank : 0
+Initial price:  999   Buyout price: 999
+Seller: L-A-X
+Value/Plat: 2.03
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Crita-acrican
+Experimental riven rating: 44.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  141.4
+Critical Damage:  98.8
+Multishot:  72.8
+Reload Speed:  -32.2
+
+Polarity: Madurai   Rerolls: 71   MR: 14
+Riven rank : 8
+Initial price:  800   Buyout price: 1500
+Seller: Old_Cotton_Machine
+Value/Plat: 1.62
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Sati-acricron
+Experimental riven rating: 51.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.2
+		Grade: A+ (8.53%)
+Critical Chance:  133.1
+		Grade: F (-9.83%)
+Multishot:  97.0
+		Grade: A+ (9.49%)
+Damage vs Corpus":  -36.2
+		Grade: B+ (2.16%)
+
+Polarity: Madurai   Rerolls: 11   MR: 12
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: -Qorvex-
+Value/Plat: 1.56
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

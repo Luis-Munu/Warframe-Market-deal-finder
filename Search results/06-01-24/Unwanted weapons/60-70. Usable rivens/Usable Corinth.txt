@@ -1,0 +1,110 @@
+Name: Corinth Croni-acriata
+Experimental riven rating: 62.89
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  87.4
+		Grade: A- (3.58%)
+Critical Damage:  88.4
+		Grade: A- (4.77%)
+Damage:  168.7
+		Grade: A+ (9.22%)
+Recoil:  64.9
+		Grade: C+ (-3.84%)
+
+Polarity: Madurai   Rerolls: 200   MR: 9
+Riven rank : 8
+Initial price:  300   Buyout price: 500
+Seller: SecretFriend_Ajeossi
+Value/Plat: 4.92
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Croni-saticron
+Experimental riven rating: 67.3
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  93.1
+		Grade: C+ (-4.05%)
+Multishot:  123.9
+		Grade: C+ (-4.03%)
+Fire Rate_Attack Speed:  106.6
+		Grade: S (9.86%)
+Puncture:  -113.1
+		Grade: A+ (9.29%)
+
+Polarity: Madurai   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: -Kaito-
+Value/Plat: 3.1
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-satidra
+Experimental riven rating: 66.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  80.2
+		Grade: C+ (-4.95%)
+Multishot:  111.1
+		Grade: B (-1.04%)
+Fire Rate_Attack Speed:  82.0
+		Grade: B- (-2.82%)
+Recoil:  73.4
+		Grade: A+ (8.75%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: No-response-from-networ
+Value/Plat: 2.66
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Croni-acrican
+Experimental riven rating: 62.16
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  104.5
+		Grade: A+ (7.69%)
+Multishot:  116.9
+		Grade: C- (-9.45%)
+Critical Damage:  102.9
+		Grade: A (6.04%)
+Damage vs Infested":  -41.6
+		Grade: A (7.19%)
+
+Polarity: Naramon   Rerolls: 31   MR: 10
+Riven rank : 8
+Initial price:  100   Buyout price: 3000
+Seller: -Just_Hunter-
+Value/Plat: 1.57
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Toxi-critatis
+Experimental riven rating: 63.1
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  100.3
+		Grade: B+ (3.37%)
+Critical Damage:  95.7
+		Grade: B (-1.38%)
+Toxin:  102.2
+		Grade: A- (5.32%)
+Damage vs Infested":  -39.7
+		Grade: B+ (2.3%)
+
+Polarity: Vazarin   Rerolls: 57   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: StealthHooker
+Value/Plat: 0.17
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

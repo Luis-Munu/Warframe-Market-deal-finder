@@ -1,0 +1,110 @@
+Name: Vectis Crita-acrican
+Experimental riven rating: 85.3
+Best profile: Eidolon hunting - Vectis
+General use: 43.9, Beam: 24.0, Eidolon hunting - Rubico: 8.0, 
+Riven stats: 
+Critical Chance:  168.5
+		Grade: A+ (8.96%)
+Critical Damage:  135.9
+		Grade: S (9.81%)
+Multishot:  85.4
+		Grade: C- (-7.99%)
+Damage vs Corpus":  -35.0
+		Grade: C (-5.71%)
+
+Polarity: Naramon   Rerolls: 51   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: qx888
+Value/Plat: 5.33
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Vectis Crita-acrican
+Experimental riven rating: 86.79
+Best profile: Eidolon hunting - Vectis
+General use: 48.67, Beam: 24.0, Eidolon hunting - Rubico: 8.0, 
+Riven stats: 
+Critical Chance:  131.4
+		Grade: S (9.96%)
+Critical Damage:  97.2
+		Grade: B+ (1.64%)
+Multishot:  70.4
+		Grade: B- (-1.84%)
+Damage vs Infested":  -26.0
+		Grade: C- (-9.36%)
+
+Polarity: Vazarin   Rerolls: 72   MR: 8
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: Hallernumb
+Value/Plat: 5.38
+Used disposition: 0.85
+Real disposition: 1.1
+--------------------------------------------------
+Name: Vectis Crita-acrican
+Experimental riven rating: 86.86
+Best profile: Eidolon hunting - Vectis
+General use: 38.35, Beam: 24.0, Eidolon hunting - Rubico: 8.0, 
+Riven stats: 
+Critical Chance:  167.5
+		Grade: A+ (8.32%)
+Critical Damage:  124.0
+		Grade: B (0.2%)
+Multishot:  88.1
+		Grade: C+ (-5.08%)
+Magazine Capacity:  -43.8
+		Grade: A (6.3%)
+
+Polarity: Vazarin   Rerolls: 83   MR: 8
+Riven rank : 8
+Initial price:  50000   Buyout price:  infinite 
+Seller: LegionNemesis
+Value/Plat: 0.12
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Vectis Sati-critatis
+Experimental riven rating: 86.56
+Best profile: Eidolon hunting - Vectis
+General use: 34.12, Beam: 24.0, Eidolon hunting - Rubico: 8.0, 
+Riven stats: 
+Critical Damage:  87.0
+		Grade: C- (-9.02%)
+Critical Chance:  112.1
+		Grade: C (-6.19%)
+Multishot:  71.8
+		Grade: B (0.11%)
+Magazine Capacity:  -30.6
+		Grade: C+ (-3.89%)
+
+Polarity: Naramon   Rerolls: 296   MR: 11
+Riven rank : 8
+Initial price:  56688   Buyout price:  infinite 
+Seller: MouseJin
+Value/Plat: 0.12
+Used disposition: 0.85
+Real disposition: 1.1
+--------------------------------------------------
+Name: Vectis Crita-ignitis
+Experimental riven rating: 86.46
+Best profile: Eidolon hunting - Vectis
+Beam: 24.0, General use: 18.42, Eidolon hunting - Rubico: 8.0, 
+Riven stats: 
+Critical Chance:  164.7
+		Grade: A (6.51%)
+Critical Damage:  122.1
+		Grade: B (-1.34%)
+Heat:  95.8
+		Grade: B+ (3.22%)
+Magazine Capacity:  -38.3
+		Grade: C (-7.05%)
+
+Polarity: Madurai   Rerolls: 7   MR: 14
+Riven rank : 8
+Initial price:  3000   Buyout price:  infinite 
+Seller: yearsyear
+Value/Plat: 0.12
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

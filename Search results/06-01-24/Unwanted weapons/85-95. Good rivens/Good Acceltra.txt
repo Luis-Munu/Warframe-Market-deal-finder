@@ -1,0 +1,66 @@
+Name: Acceltra Sati-cronicron
+Experimental riven rating: 85.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  55.6
+		Grade: S (9.82%)
+Critical Chance:  78.2
+		Grade: C (-7.29%)
+Fire Rate_Attack Speed:  33.9
+		Grade: B (0.36%)
+Recoil:  37.2
+		Grade: C- (-8.14%)
+
+Polarity: Madurai   Rerolls: 45   MR: 12
+Riven rank : 8
+Initial price:  988   Buyout price: 988
+Seller: -Lmx-
+Value/Plat: 6.34
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Croni-critacan
+Experimental riven rating: 85.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  36.2
+		Grade: A (7.17%)
+Critical Chance:  82.5
+		Grade: B- (-2.19%)
+Multishot:  45.6
+		Grade: F (-9.93%)
+Zoom:  -25.7
+		Grade: C+ (-4.81%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Dynamica_Extreme
+Value/Plat: 3.49
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Crita-satitis
+Experimental riven rating: 88.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  62.4
+		Grade: C- (-7.56%)
+Critical Chance:  87.1
+		Grade: B+ (3.26%)
+Multishot:  47.1
+		Grade: C (-6.97%)
+Impact:  -54.4
+		Grade: B (0.75%)
+
+Polarity: Vazarin   Rerolls: 54   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Henk-Prank2
+Value/Plat: 0.12
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

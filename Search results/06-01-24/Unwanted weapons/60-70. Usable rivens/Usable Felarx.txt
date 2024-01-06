@@ -1,0 +1,370 @@
+Name: Felarx Sati-visicron
+Experimental riven rating: 64.0
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  93.4
+		Grade: B (0.78%)
+Multishot:  70.3
+		Grade: A- (4.36%)
+Critical Chance:  50.9
+		Grade: B (0.54%)
+Damage vs Corpus":  -19.0
+		Grade: C (-6.16%)
+
+Polarity: Vazarin   Rerolls: 100   MR: 8
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: fch_lonely
+Value/Plat: 7.09
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acridra
+Experimental riven rating: 68.45
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  52.4
+		Grade: A- (3.5%)
+Critical Damage:  51.4
+		Grade: B+ (1.53%)
+Fire Rate_Attack Speed:  46.9
+		Grade: C (-7.36%)
+Slash:  -58.5
+		Grade: A+ (8.34%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 12
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: War_YiMEL
+Value/Plat: 6.0
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Visi-acricron
+Experimental riven rating: 62.43
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  47.6
+		Grade: C (-5.98%)
+Damage:  95.2
+		Grade: B+ (2.73%)
+Critical Damage:  51.2
+		Grade: B (1.13%)
+Slash:  -54.7
+		Grade: B (1.31%)
+
+Polarity: Madurai   Rerolls: 202   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Y42Ha
+Value/Plat: 4.11
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-acricron
+Experimental riven rating: 64.32
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  45.7
+Critical Damage:  41.0
+Multishot:  67.7
+Ammo Maximum:  -42.9
+
+Polarity: Madurai   Rerolls: 103   MR: 10
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: 7000Fang
+Value/Plat: 4.16
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Acri-visicron
+Experimental riven rating: 68.64
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  48.5
+		Grade: C+ (-4.2%)
+Damage:  87.7
+		Grade: C+ (-5.37%)
+Critical Chance:  48.1
+		Grade: C+ (-4.99%)
+Puncture:  -49.6
+		Grade: C- (-8.14%)
+
+Polarity: Madurai   Rerolls: 210   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Morran-Prime
+Value/Plat: 4.37
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acriata
+Experimental riven rating: 66.89
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  51.6
+		Grade: B+ (1.92%)
+Critical Damage:  49.6
+		Grade: B- (-2.03%)
+Damage:  88.2
+		Grade: C+ (-4.83%)
+Damage vs Infested":  -18.4
+		Grade: C- (-9.13%)
+
+Polarity: Naramon   Rerolls: 21   MR: 10
+Riven rank : 8
+Initial price:  888   Buyout price: 888
+Seller: 11hash
+Value/Plat: 3.86
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acrican
+Experimental riven rating: 62.2
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  61.2
+		Grade: C- (-9.15%)
+Critical Chance:  50.6
+		Grade: B (-0.05%)
+Critical Damage:  46.0
+		Grade: C- (-9.14%)
+Damage vs Corpus":  -21.6
+		Grade: A (6.68%)
+
+Polarity: Vazarin   Rerolls: 218   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Dcaa712
+Value/Plat: 3.12
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-critatis
+Experimental riven rating: 66.86
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  49.2
+		Grade: B- (-2.82%)
+Multishot:  73.2
+		Grade: A+ (8.67%)
+Critical Damage:  46.6
+		Grade: C- (-7.95%)
+Ammo Maximum:  -41.0
+		Grade: B (1.24%)
+
+Polarity: Madurai   Rerolls: 19   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -FC-Nichine
+Value/Plat: 3.56
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acritox
+Experimental riven rating: 69.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Toxin:  48.1
+		Grade: C+ (-4.99%)
+Critical Chance:  49.0
+		Grade: B- (-3.21%)
+Critical Damage:  48.9
+		Grade: B- (-3.41%)
+Recoil:  43.2
+		Grade: A (6.68%)
+
+Polarity: Vazarin   Rerolls: 317   MR: 10
+Riven rank : 8
+Initial price:  1   Buyout price: 1000
+Seller: RIVEN_Collector
+Value/Plat: 3.82
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-acricron
+Experimental riven rating: 69.58
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  51.1
+Critical Damage:  51.4
+Multishot:  71.8
+Damage vs Corpus":  -0.8
+
+Polarity: Madurai   Rerolls: 159   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ooodibooo
+Value/Plat: 3.86
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-critatis
+Experimental riven rating: 63.63
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  5.4
+		Grade: C+ (-4.0%)
+Critical Damage:  5.3
+		Grade: C (-5.78%)
+Multishot:  7.2
+		Grade: C+ (-3.8%)
+Ammo Maximum:  -4.9
+		Grade: A+ (8.9%)
+
+Polarity: Vazarin   Rerolls: 2   MR: 12
+Riven rank : 0
+Initial price:  1199   Buyout price: 1199
+Seller: -CG-Maku
+Value/Plat: 2.89
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Crita-acrican
+Experimental riven rating: 63.17
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  54.2
+		Grade: A (7.06%)
+Critical Damage:  51.3
+		Grade: B (1.33%)
+Multishot:  71.1
+		Grade: A (5.55%)
+Status Duration:  -46.9
+		Grade: A- (4.23%)
+
+Polarity: Madurai   Rerolls: 45   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Fate_is_so
+Value/Plat: 2.86
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-critatis
+Experimental riven rating: 64.72
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  48.0
+		Grade: C+ (-5.19%)
+Critical Damage:  46.1
+		Grade: C- (-8.94%)
+Multishot:  70.2
+		Grade: A- (4.22%)
+Ammo Maximum:  -42.4
+		Grade: A- (4.7%)
+
+Polarity: Naramon   Rerolls: 97   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: muyi2509758
+Value/Plat: 2.58
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Sati-acricron
+Experimental riven rating: 65.81
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  74.0
+		Grade: S (9.86%)
+Critical Chance:  48.9
+		Grade: B- (-3.41%)
+Critical Damage:  55.3
+		Grade: A+ (9.23%)
+Reload Speed:  -20.7
+		Grade: C- (-7.9%)
+
+Polarity: Naramon   Rerolls: 46   MR: 10
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: HappinessAboveAll
+Value/Plat: 2.54
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Acri-critacan
+Experimental riven rating: 67.23
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  50.9
+		Grade: B (0.54%)
+Critical Chance:  54.8
+		Grade: A+ (8.24%)
+Multishot:  65.9
+		Grade: B- (-2.17%)
+Status Chance:  -41.3
+		Grade: B+ (1.99%)
+
+Polarity: Madurai   Rerolls: 100   MR: 13
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: Mobius_Prime
+Value/Plat: 2.43
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Acri-satidra
+Experimental riven rating: 65.5
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  50.6
+		Grade: B (-0.05%)
+Multishot:  65.0
+		Grade: C+ (-3.5%)
+Fire Rate_Attack Speed:  48.8
+		Grade: C+ (-3.61%)
+Damage vs Infested":  -19.2
+		Grade: C+ (-5.18%)
+
+Polarity: Naramon   Rerolls: 1   MR: 9
+Riven rank : 8
+Initial price:  100   Buyout price: 1900
+Seller: -Just_Hunter-
+Value/Plat: 2.25
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Felarx Acri-critacan
+Experimental riven rating: 63.51
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  52.7
+		Grade: A- (4.1%)
+Critical Chance:  47.5
+		Grade: C (-6.18%)
+Multishot:  61.4
+		Grade: C- (-8.85%)
+Ammo Maximum:  -43.2
+		Grade: A (6.68%)
+
+Polarity: Madurai   Rerolls: 249   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: QingRuxian
+Value/Plat: 2.08
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

@@ -1,0 +1,22 @@
+Name: Argonak Crita-acrican
+Experimental riven rating: 74.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  168.2
+		Grade: C+ (-4.28%)
+Critical Damage:  144.3
+		Grade: B+ (2.61%)
+Multishot:  104.2
+		Grade: B (-1.21%)
+Recoil:  89.0
+		Grade: A- (5.49%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.14
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

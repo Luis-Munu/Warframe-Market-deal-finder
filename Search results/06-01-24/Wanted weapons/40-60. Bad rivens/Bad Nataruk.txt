@@ -1,0 +1,190 @@
+Name: Nataruk Acri-lexicron
+Experimental riven rating: 42.22
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  83.3
+		Grade: C- (-8.84%)
+Punch Through:  1.7
+		Grade: A- (4.22%)
+Critical Damage:  78.2
+		Grade: A (6.94%)
+Fire Rate_Attack Speed:  -31.3
+		Grade: A (6.93%)
+
+Polarity: Naramon   Rerolls: 10   MR: 15
+Riven rank : 8
+Initial price:  180   Buyout price: 180
+Seller: .jacket16
+Value/Plat: 3.79
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Crita-acrinok
+Experimental riven rating: 59.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  91.7
+		Grade: B (0.35%)
+Critical Damage:  70.0
+		Grade: C+ (-4.28%)
+Punch Through:  1.8
+		Grade: S (10.35%)
+Damage vs Corpus":  -22.0
+		Grade: B (0.29%)
+
+Polarity: Vazarin   Rerolls: 37   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: SATTAN-NA4
+Value/Plat: 5.01
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Hexa-critatis
+Experimental riven rating: 55.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  91.7
+		Grade: B (0.35%)
+Critical Damage:  69.0
+		Grade: C (-5.64%)
+Status Chance:  56.7
+		Grade: B+ (3.38%)
+Reload Speed:  -23.0
+		Grade: C (-5.54%)
+
+Polarity: Madurai   Rerolls: 61   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Mongliapeime
+Value/Plat: 3.84
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Hexa-acricron
+Experimental riven rating: 44.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  6.4
+		Grade: A- (5.02%)
+Critical Chance:  9.3
+		Grade: C- (-8.4%)
+Critical Damage:  7.9
+		Grade: B- (-2.77%)
+Magazine Capacity:  -2.5
+		Grade: C- (-7.59%)
+
+Polarity: Madurai   Rerolls: 41   MR: 8
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: PrimeTeilab
+Value/Plat: 2.42
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Sati-cronitis
+Experimental riven rating: 50.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  62.4
+Multishot:  52.6
+Fire Rate_Attack Speed:  31.4
+Damage vs Grineer":  -20.8
+
+Polarity: Vazarin   Rerolls: 4   MR: 14
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: Kamikia
+Value/Plat: 2.38
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Crita-acritox
+Experimental riven rating: 50.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  93.4
+		Grade: B+ (2.21%)
+Critical Damage:  68.7
+		Grade: C (-6.05%)
+Toxin:  60.1
+		Grade: S (9.58%)
+Fire Rate_Attack Speed:  -32.2
+		Grade: S (10.0%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: cjs..
+Value/Plat: 2.14
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Acri-satidra
+Experimental riven rating: 56.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  65.3
+Multishot:  50.6
+Fire Rate_Attack Speed:  33.5
+Damage vs Corpus":  -20.0
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: .Aurora-
+Value/Plat: 2.37
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Critatis
+Experimental riven rating: 55.32
+Two stats!
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  95.8
+Critical Damage:  72.3
+Damage vs Infested":  -12.0
+
+Polarity: Naramon   Rerolls: 12   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: 1nc0nc13v4b13
+Value/Plat: 0.2
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Nataruk Sati-critatis
+Experimental riven rating: 51.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  52.2
+Multishot:  45.7
+Critical Chance:  72.5
+Fire Rate_Attack Speed:  -22.5
+
+Polarity: Vazarin   Rerolls: 11   MR: 8
+Riven rank : 8
+Initial price:  3000   Buyout price:  infinite 
+Seller: wirecard
+Value/Plat: 0.22
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

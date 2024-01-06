@@ -1,0 +1,172 @@
+Name: Stahlta Crita-acrinok
+Experimental riven rating: 63.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  136.8
+		Grade: B- (-2.69%)
+Critical Damage:  118.0
+		Grade: A- (4.89%)
+Punch Through:  2.3
+		Grade: C- (-8.35%)
+Damage vs Infested":  -36.0
+		Grade: A (6.68%)
+
+Polarity: Vazarin   Rerolls: 51   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: KZPCDRZQJG
+Value/Plat: 5.1
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-saticron
+Experimental riven rating: 60.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  57.0
+		Grade: B (1.24%)
+Multishot:  86.5
+		Grade: B+ (2.52%)
+Critical Chance:  136.4
+		Grade: B- (-2.97%)
+Reload Speed:  -39.4
+		Grade: A- (5.18%)
+
+Polarity: Vazarin   Rerolls: 97   MR: 12
+Riven rank : 8
+Initial price:  799   Buyout price: 799
+Seller: HCC88
+Value/Plat: 3.37
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Sati-visicron
+Experimental riven rating: 63.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  154.7
+		Grade: B (0.16%)
+Multishot:  89.0
+		Grade: A- (5.48%)
+Critical Chance:  130.9
+		Grade: C (-6.89%)
+Damage vs Corpus":  -35.2
+		Grade: A- (4.31%)
+
+Polarity: Madurai   Rerolls: 57   MR: 10
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: -Sakura-xh-
+Value/Plat: 3.01
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-visican
+Experimental riven rating: 60.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.0
+		Grade: B+ (1.72%)
+Damage:  149.0
+		Grade: C+ (-3.53%)
+Multishot:  78.0
+		Grade: C- (-7.56%)
+Ammo Maximum:  -35.0
+		Grade: C (-6.56%)
+
+Polarity: Naramon   Rerolls: 68   MR: 12
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Art-is-immortal
+Value/Plat: 2.4
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-satiata
+Experimental riven rating: 63.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  145.2
+		Grade: B+ (3.28%)
+Multishot:  86.9
+		Grade: B+ (2.99%)
+Damage:  143.8
+		Grade: C (-6.9%)
+Ammo Maximum:  -35.6
+		Grade: C+ (-4.96%)
+
+Polarity: Vazarin   Rerolls: 68   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -CHN-Huitt_Ethereal-L
+Value/Plat: 2.5
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-cronican
+Experimental riven rating: 69.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  77.2
+Fire Rate_Attack Speed:  54.8
+Critical Chance:  146.8
+Damage vs Infested":  -0.7
+
+Polarity: Madurai   Rerolls: 119   MR: 12
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: -CNT-DeathKnight
+Value/Plat: 2.55
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-satidra
+Experimental riven rating: 69.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  143.7
+Multishot:  78.9
+Fire Rate_Attack Speed:  55.0
+Damage vs Infested":  -0.6
+
+Polarity: Vazarin   Rerolls: 45   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: CNZYPrime
+Value/Plat: 2.37
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Acri-satidra
+Experimental riven rating: 68.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  54.4
+		Grade: B- (-3.37%)
+Critical Damage:  118.8
+		Grade: A (5.6%)
+Multishot:  84.7
+		Grade: B (0.38%)
+Damage vs Infested":  -35.1
+		Grade: A- (4.01%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 16
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: tianzuotianming
+Value/Plat: 1.75
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

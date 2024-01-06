@@ -1,0 +1,42 @@
+Name: Stradavar Croni-critatis
+Experimental riven rating: 65.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  131.0
+Critical Damage:  164.0
+Fire Rate_Attack Speed:  66.0
+Damage vs Infested":  -0.6
+
+Polarity: Madurai   Rerolls: 13   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Primed.Panda
+Value/Plat: 3.95
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Visi-cronitis
+Experimental riven rating: 62.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  175.9
+		Grade: A- (3.53%)
+Critical Damage:  118.1
+		Grade: C+ (-4.57%)
+Fire Rate_Attack Speed:  60.7
+		Grade: B- (-1.98%)
+Puncture:  -107.0
+		Grade: A+ (8.09%)
+
+Polarity: Naramon   Rerolls: 8   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: AR3E
+Value/Plat: 3.11
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

@@ -1,0 +1,194 @@
+Name: Burston Croni-acriata
+Experimental riven rating: 59.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  218.8
+		Grade: B- (-2.3%)
+Fire Rate_Attack Speed:  87.2
+		Grade: A (6.82%)
+Critical Damage:  163.4
+		Grade: B (0.17%)
+Recoil:  94.0
+		Grade: C+ (-3.95%)
+
+Polarity: Madurai   Rerolls: 2   MR: 11
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: PCiddy
+Value/Plat: 3.41
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Croni-acriata
+Experimental riven rating: 54.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  75.2
+		Grade: C- (-7.88%)
+Critical Damage:  156.8
+		Grade: C+ (-3.88%)
+Damage:  222.2
+		Grade: B (-0.79%)
+Puncture:  -133.9
+		Grade: B+ (2.62%)
+
+Polarity: Naramon   Rerolls: 16   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: G-1-Baiyun
+Value/Plat: 2.81
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Sati-cronitis
+Experimental riven rating: 49.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  145.5
+Multishot:  124.8
+Fire Rate_Attack Speed:  76.7
+Damage vs Corpus":  -41.0
+
+Polarity: Vazarin   Rerolls: 14   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: crane_1178
+Value/Plat: 2.02
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Crita-cronican
+Experimental riven rating: 50.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  88.4
+		Grade: A+ (8.29%)
+Critical Chance:  221.5
+		Grade: A+ (8.66%)
+Multishot:  126.6
+		Grade: B+ (3.48%)
+Ammo Maximum:  -52.3
+		Grade: C+ (-3.71%)
+
+Polarity: Vazarin   Rerolls: 15   MR: 11
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: Kahlore
+Value/Plat: 1.75
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Lexi-acricron
+Experimental riven rating: 48.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  191.5
+		Grade: C (-6.06%)
+Critical Damage:  171.1
+		Grade: A- (4.89%)
+Punch Through:  3.9
+		Grade: A (7.18%)
+Recoil:  97.1
+		Grade: B (-0.78%)
+
+Polarity: Naramon   Rerolls: 18   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 2500
+Seller: -AK-molly
+Value/Plat: 1.38
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Sati-cronicron
+Experimental riven rating: 52.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  77.0
+Critical Chance:  184.3
+Multishot:  133.2
+Damage vs Infested":  -0.5
+
+Polarity: Vazarin   Rerolls: 5   MR: 13
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: -Qorvex-
+Value/Plat: 1.47
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Croni-acrican
+Experimental riven rating: 50.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  152.0
+		Grade: C (-6.82%)
+Multishot:  110.6
+		Grade: F (-9.6%)
+Fire Rate_Attack Speed:  80.7
+		Grade: B (-1.14%)
+Damage vs Infested":  -46.4
+		Grade: C+ (-5.18%)
+
+Polarity: Vazarin   Rerolls: 2   MR: 10
+Riven rank : 8
+Initial price:  2350   Buyout price: 3000
+Seller: Idunknow11
+Value/Plat: 1.31
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Croni-critatis
+Experimental riven rating: 59.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  212.1
+		Grade: A- (4.05%)
+Critical Damage:  165.8
+		Grade: B+ (1.64%)
+Fire Rate_Attack Speed:  88.0
+		Grade: A+ (7.8%)
+Zoom:  -69.4
+		Grade: A (6.37%)
+
+Polarity: Madurai   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: woXier
+Value/Plat: 0.19
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Crita-acritox
+Experimental riven rating: 52.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  157.8
+		Grade: B- (-3.27%)
+Critical Chance:  211.9
+		Grade: A- (3.95%)
+Toxin:  113.5
+		Grade: C (-7.23%)
+Zoom:  -63.9
+		Grade: B- (-2.06%)
+
+Polarity: Madurai   Rerolls: 39   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: -KD-GulligMage
+Value/Plat: 0.21
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

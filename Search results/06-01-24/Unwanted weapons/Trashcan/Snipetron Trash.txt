@@ -1,0 +1,86 @@
+Name: Snipetron Hexa-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.77, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  101.3
+		Grade: C- (-7.65%)
+Critical Chance:  172.9
+		Grade: C+ (-5.39%)
+Critical Damage:  151.8
+		Grade: A- (3.79%)
+Reload Speed:  -53.3
+		Grade: A+ (9.45%)
+
+Polarity: Naramon   Rerolls: 1   MR: 14
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: ProdiGal-Y
+Value/Plat: 2.14
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Acri-critadex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.57, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  176.4
+Critical Damage:  142.0
+Status Chance:  100.4
+Damage vs Grineer":  -0.6
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: qumingtian
+Value/Plat: 1.95
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.2, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.2
+		Grade: B (-1.4%)
+Critical Damage:  139.1
+		Grade: C+ (-4.89%)
+Status Chance:  116.8
+		Grade: A (6.48%)
+Reload Speed:  -48.9
+		Grade: B (0.42%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: wwe36D
+Value/Plat: 1.95
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Lexi-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.33, 
+Riven stats: 
+Critical Chance:  176.8
+		Grade: B- (-3.26%)
+Punch Through:  3.6
+		Grade: S (10.35%)
+Critical Damage:  148.1
+		Grade: B (1.26%)
+Status Duration:  -89.9
+		Grade: C- (-7.79%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: AYWC-ERROR-404
+Value/Plat: 1.82
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

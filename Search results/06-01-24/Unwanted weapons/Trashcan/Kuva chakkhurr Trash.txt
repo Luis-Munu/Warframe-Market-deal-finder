@@ -1,0 +1,170 @@
+Name: Kuva chakkhurr Crita-acridex
+Experimental riven rating: 34.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  64.6
+Critical Damage:  95.4
+Critical Chance:  127.8
+Damage vs Grineer":  -0.7
+
+Polarity: Vazarin   Rerolls: 6   MR: 9
+Riven rank : 8
+Initial price:  50   Buyout price: 50
+Seller: Maakavelli
+Value/Plat: 4.33
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -42.65, 
+Riven stats: 
+Status Chance:  66.2
+		Grade: C- (-7.7%)
+Critical Chance:  125.7
+		Grade: A- (5.19%)
+Critical Damage:  100.0
+		Grade: A- (4.57%)
+Multishot:  -53.8
+		Grade: C (-6.22%)
+
+Polarity: Madurai   Rerolls: 16   MR: 13
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: --SG--Lowerino
+Value/Plat: 2.14
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Crita-lexitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -29.82, 
+Riven stats: 
+Critical Chance:  125.1
+		Grade: A- (4.69%)
+Critical Damage:  92.5
+		Grade: B- (-3.27%)
+Punch Through:  2.2
+		Grade: B+ (3.14%)
+Multishot:  -52.9
+		Grade: C- (-7.79%)
+
+Polarity: Vazarin   Rerolls: 40   MR: 9
+Riven rank : 0
+Initial price:  120   Buyout price: 120
+Seller: WF_TennoHunter_WF_VEPM
+Value/Plat: 2.05
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Hexa-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.85, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  67.7
+		Grade: C (-5.61%)
+Critical Chance:  109.8
+		Grade: C- (-8.11%)
+Critical Damage:  90.2
+		Grade: C (-5.68%)
+Status Duration:  -65.0
+		Grade: B+ (1.97%)
+
+Polarity: Vazarin   Rerolls: 67   MR: 14
+Riven rank : 8
+Initial price:  280   Buyout price: 280
+Seller: ARKG001
+Value/Plat: 1.67
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Acri-critapha
+Experimental riven rating: 36.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  121.3
+Heat:  65.0
+Critical Damage:  102.4
+Damage vs Corpus":  -72.0
+
+Polarity: Vazarin   Rerolls: 14   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: KeYiQK
+Value/Plat: 2.07
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.88, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  109.3
+		Grade: C- (-8.53%)
+Critical Damage:  93.5
+		Grade: B- (-2.23%)
+Status Duration:  81.8
+		Grade: B+ (2.65%)
+Impact:  -80.9
+		Grade: A (5.76%)
+
+Polarity: Madurai   Rerolls: 12   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: -Katherine-
+Value/Plat: 1.39
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.66, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  77.0
+		Grade: A (7.36%)
+Critical Damage:  94.8
+		Grade: B (-0.87%)
+Critical Chance:  127.4
+		Grade: A (6.62%)
+Fire Rate_Attack Speed:  -40.4
+		Grade: A (5.54%)
+
+Polarity: Madurai   Rerolls: 79   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: fentyPrime
+Value/Plat: 1.3
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 8.99, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  96.8
+Critical Chance:  2.0
+Status Chance:  76.8
+Status Duration:  -58.5
+
+Polarity: Madurai   Rerolls: 33   MR: 16
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: m4vvro
+Value/Plat: 1.25
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

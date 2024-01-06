@@ -1,0 +1,88 @@
+Name: Baza Acri-hexacron
+Experimental riven rating: 49.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  15.4
+		Grade: C (-6.1%)
+Critical Damage:  13.7
+		Grade: A- (4.38%)
+Status Chance:  9.3
+		Grade: C (-5.53%)
+Puncture:  -10.8
+		Grade: B+ (2.87%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: Simonirico
+Value/Plat: 2.82
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Baza Sati-critaata
+Experimental riven rating: 46.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  154.8
+		Grade: C+ (-4.55%)
+Multishot:  89.9
+		Grade: B (1.47%)
+Critical Chance:  142.3
+		Grade: C+ (-3.6%)
+Status Chance:  -64.9
+		Grade: C- (-8.42%)
+
+Polarity: Naramon   Rerolls: 16   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price: 950
+Seller: DantesDels
+Value/Plat: 2.11
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Baza Sati-critaata
+Experimental riven rating: 59.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  155.3
+		Grade: C+ (-4.24%)
+Multishot:  92.2
+		Grade: A- (4.07%)
+Critical Chance:  144.3
+		Grade: B- (-2.24%)
+Damage vs Corpus":  -34.0
+		Grade: C+ (-4.05%)
+
+Polarity: Naramon   Rerolls: 100   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Rvban
+Value/Plat: 2.91
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Baza Acri-cronitox
+Experimental riven rating: 52.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  10.4
+		Grade: A (5.65%)
+Critical Damage:  14.3
+		Grade: A+ (8.95%)
+Fire Rate_Attack Speed:  7.0
+		Grade: A (6.57%)
+Ammo Maximum:  -4.2
+		Grade: C+ (-3.89%)
+
+Polarity: Madurai   Rerolls: 8   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price:  infinite 
+Seller: Solertaka
+Value/Plat: 0.21
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

@@ -1,0 +1,110 @@
+Name: Opticor Sati-critadra
+Experimental riven rating: 60.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  105.4
+		Grade: A+ (8.62%)
+Fire Rate_Attack Speed:  59.7
+		Grade: C- (-7.79%)
+Critical Chance:  166.3
+		Grade: B+ (2.86%)
+Damage vs Corpus":  -38.4
+		Grade: B (-1.05%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 12
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: Dan-.
+Value/Plat: 4.77
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Opticor Lexi-acricron
+Experimental riven rating: 60.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  134.3
+		Grade: A- (3.8%)
+Punch Through:  3.1
+		Grade: A (7.42%)
+Critical Chance:  168.7
+		Grade: A- (4.35%)
+Damage vs Infested":  -41.3
+		Grade: A (6.42%)
+
+Polarity: Madurai   Rerolls: 24   MR: 13
+Riven rank : 8
+Initial price:  555   Buyout price: 555
+Seller: Dumbledore778
+Value/Plat: 4.23
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Opticor Sati-visicron
+Experimental riven rating: 60.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  156.8
+		Grade: B- (-3.01%)
+Damage:  188.1
+		Grade: A (5.9%)
+Multishot:  103.7
+		Grade: A (6.87%)
+Ammo Maximum:  -44.8
+		Grade: A- (4.0%)
+
+Polarity: Naramon   Rerolls: 26   MR: 13
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: akiraww
+Value/Plat: 4.11
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Opticor Sati-cronitis
+Experimental riven rating: 68.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  59.4
+		Grade: C- (-8.25%)
+Critical Damage:  117.4
+		Grade: C- (-9.26%)
+Multishot:  92.5
+		Grade: C+ (-4.67%)
+Zoom:  -54.6
+		Grade: A (5.52%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 8
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: HaoYunGe
+Value/Plat: 3.15
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Opticor Crita-acrinok
+Experimental riven rating: 65.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  157.2
+		Grade: B- (-2.76%)
+Critical Damage:  124.4
+		Grade: C+ (-3.85%)
+Punch Through:  2.6
+		Grade: F (-9.91%)
+Zoom:  -54.6
+		Grade: A (5.52%)
+
+Polarity: Madurai   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  400   Buyout price:  infinite 
+Seller: moyudesu
+Value/Plat: 0.17
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

@@ -1,0 +1,154 @@
+Name: Cernos Crita-lexitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.39, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  3.4
+		Grade: A- (4.22%)
+Critical Damage:  141.1
+		Grade: C+ (-3.52%)
+Critical Chance:  193.1
+		Grade: A (5.66%)
+Status Duration:  -99.2
+		Grade: B+ (1.75%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: SPO0KEY
+Value/Plat: 1.46
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Acri-satidra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.32, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.9
+		Grade: A (7.28%)
+Fire Rate_Attack Speed:  66.6
+		Grade: C- (-9.0%)
+Multishot:  110.1
+		Grade: B (0.37%)
+Status Duration:  -101.4
+		Grade: A- (4.01%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ShinyswordPrime
+Value/Plat: 1.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Visi-acricron
+Experimental riven rating: 37.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  167.4
+		Grade: C- (-8.4%)
+Critical Damage:  139.0
+		Grade: C+ (-4.96%)
+Damage:  203.9
+		Grade: B+ (1.55%)
+Magazine Capacity:  -45.6
+		Grade: C (-6.36%)
+
+Polarity: Naramon   Rerolls: 112   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: StarLordWithGun
+Value/Plat: 1.64
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Crita-visican
+Experimental riven rating: 38.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  105.8
+		Grade: C+ (-3.55%)
+Critical Chance:  184.4
+		Grade: B (0.9%)
+Damage:  201.3
+		Grade: B (0.25%)
+Status Chance:  -84.5
+		Grade: C+ (-3.69%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  1490   Buyout price: 1490
+Seller: MauriceB
+Value/Plat: 1.45
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Croni-acriata
+Experimental riven rating: 37.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  78.3
+		Grade: A (6.98%)
+Critical Damage:  149.5
+		Grade: B+ (2.22%)
+Damage:  205.6
+		Grade: B+ (2.39%)
+Magazine Capacity:  -50.2
+		Grade: B+ (3.09%)
+
+Polarity: Madurai   Rerolls: 3   MR: 8
+Riven rank : 8
+Initial price:  100   Buyout price: 1600
+Seller: -Just_Hunter-
+Value/Plat: 1.38
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Sati-acridra
+Experimental riven rating: 36.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  141.8
+		Grade: B- (-3.05%)
+Multishot:  106.7
+		Grade: B- (-2.73%)
+Fire Rate_Attack Speed:  69.2
+		Grade: C+ (-5.45%)
+Magazine Capacity:  -46.2
+		Grade: C+ (-5.13%)
+
+Polarity: Madurai   Rerolls: 6   MR: 16
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: -Apathy
+Value/Plat: 1.07
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Acri-fevacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.25, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  149.7
+		Grade: B+ (2.36%)
+Reload Speed:  66.3
+		Grade: A+ (8.91%)
+Critical Chance:  190.7
+		Grade: A- (4.35%)
+Recoil:  80.3
+		Grade: C- (-8.48%)
+
+Polarity: Madurai   Rerolls: 1   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: HzDragon
+Value/Plat: 0.41
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

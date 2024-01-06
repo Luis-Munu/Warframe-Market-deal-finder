@@ -1,0 +1,306 @@
+Name: Stahlta Lexi-acricron
+Experimental riven rating: 48.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  14.5
+Punch Through:  0.3
+Critical Damage:  13.0
+Damage vs Grineer":  -1.0
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  50   Buyout price: 50
+Seller: YeetusHChrist
+Value/Plat: 8.98
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Acri-visidra
+Experimental riven rating: 51.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  122.0
+		Grade: A+ (8.44%)
+Damage:  149.2
+		Grade: B- (-3.4%)
+Fire Rate_Attack Speed:  56.2
+		Grade: B (-0.18%)
+Reload Speed:  -38.2
+		Grade: B+ (1.98%)
+
+Polarity: Madurai   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  388   Buyout price: 388
+Seller: LanderEric
+Value/Plat: 3.75
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-acriata
+Experimental riven rating: 51.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  56.2
+		Grade: B (-0.18%)
+Critical Damage:  122.0
+		Grade: A+ (8.44%)
+Damage:  149.2
+		Grade: B- (-3.4%)
+Reload Speed:  -38.0
+		Grade: B (1.45%)
+
+Polarity: Madurai   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: LanderEric
+Value/Plat: 3.68
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Lexi-acricron
+Experimental riven rating: 56.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  2.7
+		Grade: A+ (7.59%)
+Critical Damage:  121.2
+		Grade: A+ (7.73%)
+Critical Chance:  150.7
+		Grade: A (7.2%)
+Reload Speed:  -34.1
+		Grade: C- (-8.97%)
+
+Polarity: Madurai   Rerolls: 17   MR: 14
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: yilitang
+Value/Plat: 4.4
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Acri-critapha
+Experimental riven rating: 47.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  79.8
+		Grade: C+ (-5.43%)
+Critical Damage:  116.5
+		Grade: A- (3.55%)
+Critical Chance:  133.3
+		Grade: C+ (-5.18%)
+Puncture:  -94.7
+		Grade: A- (5.23%)
+
+Polarity: Naramon   Rerolls: 12   MR: 8
+Riven rank : 8
+Initial price:  580   Buyout price: 580
+Seller: yhxswns
+Value/Plat: 2.69
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acridex
+Experimental riven rating: 44.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  119.6
+		Grade: A (6.31%)
+Critical Chance:  153.0
+		Grade: A+ (8.83%)
+Status Chance:  81.3
+		Grade: C+ (-3.65%)
+Ammo Maximum:  -35.8
+		Grade: C+ (-4.43%)
+
+Polarity: Madurai   Rerolls: 40   MR: 9
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: xczaaa
+Value/Plat: 2.27
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-ignitis
+Experimental riven rating: 49.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  86.5
+		Grade: B+ (2.52%)
+Critical Damage:  106.0
+		Grade: C (-5.78%)
+Critical Chance:  146.4
+		Grade: A- (4.14%)
+Puncture:  -85.4
+		Grade: C+ (-5.1%)
+
+Polarity: Naramon   Rerolls: 15   MR: 14
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: VAC018.exe
+Value/Plat: 2.48
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-visican
+Experimental riven rating: 52.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  167.4
+		Grade: A+ (8.38%)
+Critical Chance:  154.6
+		Grade: S (9.97%)
+Multishot:  82.6
+		Grade: B- (-2.11%)
+Status Duration:  -81.4
+		Grade: A+ (8.54%)
+
+Polarity: Naramon   Rerolls: 56   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: xLiSA_OLiVEx
+Value/Plat: 2.39
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-critacan
+Experimental riven rating: 59.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  80.8
+		Grade: C+ (-4.24%)
+Critical Chance:  143.7
+		Grade: B+ (2.22%)
+Fire Rate_Attack Speed:  59.6
+		Grade: A (5.86%)
+Reload Speed:  -37.7
+		Grade: B (0.65%)
+
+Polarity: Naramon   Rerolls: 284   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rhegaly
+Value/Plat: 2.61
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Visi-acricron
+Experimental riven rating: 43.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  107.5
+		Grade: C+ (-4.45%)
+Critical Chance:  128.6
+		Grade: C- (-8.52%)
+Damage:  165.1
+		Grade: A (6.89%)
+Fire Rate_Attack Speed:  -47.6
+		Grade: A (5.7%)
+
+Polarity: Vazarin   Rerolls: 58   MR: 16
+Riven rank : 8
+Initial price:  900   Buyout price: 1400
+Seller: Depraved-GOD
+Value/Plat: 1.62
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Visi-acridra
+Experimental riven rating: 54.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  54.4
+		Grade: B- (-3.37%)
+Critical Damage:  113.3
+		Grade: B (0.71%)
+Damage:  162.2
+		Grade: A- (5.01%)
+Damage vs Corpus":  -33.5
+		Grade: B (-0.73%)
+
+Polarity: Madurai   Rerolls: 45   MR: 14
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: GL4DY
+Value/Plat: 2.0
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-acrican
+Experimental riven rating: 59.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  109.8
+		Grade: B- (-2.4%)
+Multishot:  80.4
+		Grade: C+ (-4.71%)
+Fire Rate_Attack Speed:  59.4
+		Grade: A (5.51%)
+Ammo Maximum:  -39.4
+		Grade: A- (5.18%)
+
+Polarity: Vazarin   Rerolls: 67   MR: 16
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: BingNiao
+Value/Plat: 2.02
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Acri-critacan
+Experimental riven rating: 48.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  146.0
+		Grade: A- (3.85%)
+Critical Damage:  120.6
+		Grade: A (7.2%)
+Multishot:  84.2
+		Grade: B (-0.21%)
+Fire Rate_Attack Speed:  -41.9
+		Grade: C (-6.96%)
+
+Polarity: Vazarin   Rerolls: 158   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Errry_
+Value/Plat: 1.53
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-satitis
+Experimental riven rating: 57.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  55.5
+		Grade: B (-1.42%)
+Multishot:  90.0
+		Grade: A (6.66%)
+Critical Damage:  114.3
+		Grade: B+ (1.6%)
+Reload Speed:  -35.6
+		Grade: C+ (-4.96%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Horyzen
+Value/Plat: 1.82
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

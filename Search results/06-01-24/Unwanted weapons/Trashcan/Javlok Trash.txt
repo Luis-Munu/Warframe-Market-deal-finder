@@ -1,0 +1,22 @@
+Name: Javlok Sati-cronitis
+Experimental riven rating: 39.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  109.0
+		Grade: B (-0.63%)
+Fire Rate_Attack Speed:  67.2
+		Grade: C- (-8.18%)
+Critical Damage:  156.1
+		Grade: A (6.73%)
+Magazine Capacity:  -47.2
+		Grade: B- (-3.07%)
+
+Polarity: Vazarin   Rerolls: 17   MR: 12
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: Goblin9Mu
+Value/Plat: 1.19
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

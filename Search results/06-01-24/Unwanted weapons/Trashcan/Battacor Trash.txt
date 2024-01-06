@@ -1,0 +1,88 @@
+Name: Battacor Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -23.85, 
+Riven stats: 
+Critical Chance:  158.7
+		Grade: B+ (2.63%)
+Critical Damage:  129.4
+		Grade: A- (4.56%)
+Status Duration:  110.4
+		Grade: A (7.05%)
+Fire Rate_Attack Speed:  -45.5
+		Grade: C- (-8.15%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  49   Buyout price: 49
+Seller: Everythingisyourchance
+Value/Plat: 2.54
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 7.84, 
+Riven stats: 
+Status Duration:  108.7
+		Grade: A- (5.4%)
+Critical Damage:  134.6
+		Grade: A+ (8.76%)
+Critical Chance:  144.5
+		Grade: C (-6.56%)
+Damage vs Infested":  -34.1
+		Grade: C- (-8.14%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  460   Buyout price: 460
+Seller: Arkaz1337
+Value/Plat: 1.49
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.25, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.8
+		Grade: C- (-8.95%)
+Critical Damage:  127.9
+		Grade: B+ (3.35%)
+Status Duration:  99.9
+		Grade: B- (-3.13%)
+Zoom:  -53.1
+		Grade: A (7.28%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Didelphis
+Value/Plat: 1.37
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Hexa-acricron
+Experimental riven rating: 33.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  123.4
+		Grade: B (-0.29%)
+Critical Chance:  141.2
+		Grade: C- (-8.69%)
+Status Chance:  93.9
+		Grade: B (1.17%)
+Ammo Maximum:  -43.2
+		Grade: A- (4.84%)
+
+Polarity: Madurai   Rerolls: 153   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Canelannic.
+Value/Plat: 1.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

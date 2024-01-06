@@ -1,0 +1,22 @@
+Name: Gorgon Crita-satidra
+Experimental riven rating: 73.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  74.6
+		Grade: C+ (-5.35%)
+Multishot:  114.4
+		Grade: B- (-3.16%)
+Critical Chance:  191.5
+		Grade: B- (-2.7%)
+Impact:  -121.7
+		Grade: B- (-3.4%)
+
+Polarity: Madurai   Rerolls: 4   MR: 8
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: huan11456
+Value/Plat: 2.43
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

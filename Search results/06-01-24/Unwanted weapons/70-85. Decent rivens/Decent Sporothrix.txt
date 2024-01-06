@@ -1,0 +1,22 @@
+Name: Sporothrix Sati-acridra
+Experimental riven rating: 75.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  69.8
+		Grade: C+ (-4.63%)
+Multishot:  119.0
+		Grade: A+ (8.49%)
+Critical Damage:  147.0
+		Grade: B (0.51%)
+Recoil:  80.9
+		Grade: C- (-7.8%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 10
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: GodOfWarFrame55
+Value/Plat: 3.41
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

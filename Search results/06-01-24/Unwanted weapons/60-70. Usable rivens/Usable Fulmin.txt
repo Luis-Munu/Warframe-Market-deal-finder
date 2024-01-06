@@ -1,0 +1,212 @@
+Name: Fulmin Acri-toxicron
+Experimental riven rating: 69.59
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  80.7
+		Grade: C+ (-5.06%)
+Toxin:  65.9
+		Grade: B+ (3.37%)
+Critical Chance:  111.2
+		Grade: A- (4.69%)
+Projectile Speed:  -51.9
+		Grade: B+ (1.77%)
+
+Polarity: Madurai   Rerolls: 3   MR: 14
+Riven rank : 7
+Initial price:  350   Buyout price: 350
+Seller: itsYordoPrime
+Value/Plat: 8.01
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Acri-critadra
+Experimental riven rating: 60.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  117.3
+Fire Rate_Attack Speed:  46.1
+Critical Damage:  101.8
+Damage vs Corpus":  -25.8
+
+Polarity: Vazarin   Rerolls: 52   MR: 11
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: Dicuss.
+Value/Plat: 3.26
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Acri-critatox
+Experimental riven rating: 65.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  109.8
+		Grade: C- (-8.11%)
+Toxin:  65.7
+		Grade: C- (-8.4%)
+Critical Damage:  91.5
+		Grade: C+ (-4.32%)
+Projectile Speed:  -53.3
+		Grade: C (-7.09%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  888   Buyout price: 888
+Seller: LittleFairs
+Value/Plat: 3.72
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Crita-satiata
+Experimental riven rating: 64.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  127.5
+Multishot:  65.4
+Damage:  141.4
+Damage vs Corpus":  -0.7
+
+Polarity: Madurai   Rerolls: 2   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: zuudPrime
+Value/Plat: 3.31
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Sati-critadra
+Experimental riven rating: 64.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  118.5
+		Grade: B (-0.83%)
+Fire Rate_Attack Speed:  43.5
+		Grade: C- (-9.1%)
+Multishot:  78.0
+		Grade: A+ (8.75%)
+Ammo Maximum:  -32.8
+		Grade: B+ (3.02%)
+
+Polarity: Vazarin   Rerolls: 67   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: SosseBargeld585
+Value/Plat: 3.31
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Croni-critatis
+Experimental riven rating: 67.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  40.5
+Critical Chance:  122.1
+Critical Damage:  92.2
+Damage vs Infested":  -24.7
+
+Polarity: Madurai   Rerolls: 40   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Hobby258
+Value/Plat: 3.25
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Sati-cronicron
+Experimental riven rating: 68.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  71.4
+		Grade: B (-0.45%)
+Fire Rate_Attack Speed:  43.5
+		Grade: C- (-9.1%)
+Critical Chance:  115.9
+		Grade: B- (-3.01%)
+Damage vs Infested":  -28.6
+		Grade: B (-0.3%)
+
+Polarity: Madurai   Rerolls: 210   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: AisakaTaig
+Value/Plat: 3.3
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Crita-satidra
+Experimental riven rating: 69.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  103.7
+Multishot:  67.3
+Fire Rate_Attack Speed:  42.5
+Damage vs Infested":  -29.6
+
+Polarity: Naramon   Rerolls: 11   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 2000
+Seller: Loybec
+Value/Plat: 2.36
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Sati-cronitis
+Experimental riven rating: 63.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  77.1
+		Grade: A (7.5%)
+Critical Damage:  101.9
+		Grade: A (6.56%)
+Fire Rate_Attack Speed:  51.2
+		Grade: A (6.99%)
+Ammo Maximum:  -31.8
+		Grade: B (-0.12%)
+
+Polarity: Madurai   Rerolls: 20   MR: 11
+Riven rank : 8
+Initial price:  2100   Buyout price: 2100
+Seller: Mambus
+Value/Plat: 2.04
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Fulmin Acri-critacan
+Experimental riven rating: 64.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  98.7
+		Grade: B+ (3.21%)
+Critical Chance:  116.9
+		Grade: B- (-2.17%)
+Multishot:  68.0
+		Grade: C+ (-5.19%)
+Damage vs Corpus":  -27.3
+		Grade: C+ (-4.83%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: Thomas878
+Value/Plat: 0.17
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Name: Quellor Igni-acricron
+Experimental riven rating: 41.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  13.7
+		Grade: C+ (-4.7%)
+Heat:  11.2
+		Grade: A- (3.88%)
+Critical Chance:  16.4
+		Grade: C- (-8.7%)
+Recoil:  7.9
+		Grade: C- (-8.4%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  700   Buyout price: 700
+Seller: Valturne
+Value/Plat: 2.12
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Quellor Acri-cronican
+Experimental riven rating: 57.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  134.2
+		Grade: A- (3.73%)
+Fire Rate_Attack Speed:  60.3
+		Grade: C (-6.86%)
+Multishot:  104.5
+		Grade: A+ (7.69%)
+Ammo Maximum:  -43.7
+		Grade: B (1.45%)
+
+Polarity: Madurai   Rerolls: 442   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: HzDragon
+Value/Plat: 0.2
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Quellor Sati-acricron
+Experimental riven rating: 51.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  11.0
+		Grade: B+ (2.03%)
+Critical Damage:  14.3
+		Grade: B (-0.52%)
+Critical Chance:  16.7
+		Grade: C (-7.03%)
+Magazine Capacity:  -4.9
+		Grade: B+ (2.37%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  4000   Buyout price:  infinite 
+Seller: LOUNKSI
+Value/Plat: 0.22
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

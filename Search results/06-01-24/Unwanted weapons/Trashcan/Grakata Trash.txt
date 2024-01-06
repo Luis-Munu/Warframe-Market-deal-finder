@@ -1,0 +1,87 @@
+Name: Grakata Acri-lexicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.81, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  3.5
+		Grade: B+ (3.31%)
+Critical Chance:  175.6
+		Grade: C (-7.47%)
+Critical Damage:  164.8
+		Grade: A+ (8.51%)
+Fire Rate_Attack Speed:  -56.1
+		Grade: C- (-7.72%)
+
+Polarity: Naramon   Rerolls: 13   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Rivachrono
+Value/Plat: 1.46
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -9.22, 
+Riven stats: 
+Critical Chance:  178.0
+		Grade: C (-6.21%)
+Critical Damage:  150.2
+		Grade: B (-1.11%)
+Status Duration:  119.2
+		Grade: C (-5.82%)
+Reload Speed:  -46.5
+		Grade: C- (-8.05%)
+
+Polarity: Naramon   Rerolls: 24   MR: 15
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Kekyas
+Value/Plat: 1.39
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Hexa-acricron
+Experimental riven rating: 29.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  20.4
+		Grade: B- (-3.26%)
+Critical Damage:  17.7
+		Grade: A- (4.89%)
+Status Chance:  13.7
+		Grade: A+ (8.24%)
+Ammo Maximum:  -5.7
+		Grade: B (1.45%)
+
+Polarity: Naramon   Rerolls: 9   MR: 16
+Riven rank : 0
+Initial price:  790   Buyout price: 790
+Seller: _738M1N4708_
+Value/Plat: 1.48
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Critatis
+Experimental riven rating: 26.44
+Two stats!
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  262.3
+		Grade: A- (4.71%)
+Critical Damage:  203.0
+		Grade: B (1.26%)
+Status Duration:  -65.0
+		Grade: B- (-2.73%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 8
+Riven rank : 0
+Initial price:  2000   Buyout price:  infinite 
+Seller: TAC_CARL_
+Value/Plat: 0.38
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

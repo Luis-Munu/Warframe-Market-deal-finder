@@ -1,0 +1,106 @@
+Name: Ogris Acri-satidra
+Experimental riven rating: 59.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  110.1
+		Grade: B (0.37%)
+Critical Damage:  151.3
+		Grade: B+ (3.45%)
+Fire Rate_Attack Speed:  69.7
+		Grade: C+ (-4.77%)
+Ammo Maximum:  -45.5
+		Grade: C (-6.56%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: kaiwen99
+Value/Plat: 3.26
+Used disposition: 1.3
+Real disposition: 0.7
+--------------------------------------------------
+Name: Ogris Crita-acriata
+Experimental riven rating: 61.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  197.3
+Critical Damage:  143.7
+Damage:  184.8
+Damage vs Infested":  -55.0
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Rester.natural
+Value/Plat: 3.02
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Ogris Crita-acriata
+Experimental riven rating: 25.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  175.4
+Critical Damage:  154.3
+Damage:  216.6
+Status Duration:  -82.3
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1   Buyout price: 1200
+Seller: Weilin.
+Value/Plat: 1.21
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Ogris Sati-visipha
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -4.05, 
+Riven stats: 
+Multishot:  115.1
+		Grade: A- (4.93%)
+Damage:  193.6
+		Grade: C+ (-3.58%)
+Heat:  102.8
+		Grade: C (-6.28%)
+Critical Chance:  -153.3
+		Grade: A- (4.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Angel_Wing-
+Value/Plat: 1.04
+Used disposition: 1.3
+Real disposition: 0.7
+--------------------------------------------------
+Name: Ogris Visi-satipha
+Experimental riven rating: 37.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  108.4
+		Grade: B (-1.18%)
+Damage:  217.2
+		Grade: A+ (8.17%)
+Heat:  106.3
+		Grade: B- (-3.09%)
+Damage vs Infested":  -44.1
+		Grade: B (0.52%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  2400   Buyout price: 2400
+Seller: Apple_Watch_Series_8
+Value/Plat: 1.17
+Used disposition: 1.3
+Real disposition: 0.7
+--------------------------------------------------

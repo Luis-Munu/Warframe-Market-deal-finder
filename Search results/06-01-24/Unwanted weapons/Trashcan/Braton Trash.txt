@@ -1,0 +1,198 @@
+Name: Braton Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 10.89, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  122.5
+		Grade: A+ (7.54%)
+Critical Chance:  175.7
+		Grade: C (-7.42%)
+Critical Damage:  143.4
+		Grade: C (-5.58%)
+Magazine Capacity:  -50.9
+		Grade: B (0.65%)
+
+Polarity: Madurai   Rerolls: 13   MR: 16
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: JiMrOuN
+Value/Plat: 1.65
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Hexa-acricron
+Experimental riven rating: 31.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  176.0
+		Grade: C (-7.26%)
+Critical Damage:  156.6
+		Grade: B+ (3.11%)
+Status Chance:  121.0
+		Grade: A (6.22%)
+Ammo Maximum:  -49.8
+		Grade: B- (-1.52%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  488   Buyout price: 488
+Seller: -Lmx-
+Value/Plat: 1.78
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Sati-cronicron
+Experimental riven rating: 27.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  171.3
+		Grade: F (-9.74%)
+Multishot:  109.8
+		Grade: C+ (-3.61%)
+Fire Rate_Attack Speed:  70.4
+		Grade: C (-7.37%)
+Slash:  -129.0
+		Grade: A (6.18%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: XAKU_PRIME_
+Value/Plat: 1.6
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -3.88, 
+Riven stats: 
+Status Duration:  121.6
+		Grade: C+ (-3.92%)
+Critical Chance:  192.8
+		Grade: B+ (1.59%)
+Critical Damage:  149.0
+		Grade: B- (-1.9%)
+Reload Speed:  -46.0
+		Grade: C- (-9.03%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  700   Buyout price: 700
+Seller: loserM_
+Value/Plat: 1.34
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.97, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  173.6
+		Grade: C- (-8.53%)
+Status Chance:  119.2
+		Grade: A- (4.64%)
+Critical Damage:  140.3
+		Grade: C- (-7.62%)
+Damage vs Grineer":  -45.3
+		Grade: B (-0.57%)
+
+Polarity: Naramon   Rerolls: 64   MR: 8
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: Desmo.
+Value/Plat: 1.32
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.04, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  149.0
+		Grade: B- (-1.9%)
+Critical Chance:  176.1
+		Grade: C (-7.21%)
+Status Duration:  116.0
+		Grade: C- (-8.35%)
+Puncture:  -114.1
+		Grade: C (-6.08%)
+
+Polarity: Naramon   Rerolls: 54   MR: 13
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: fentyPrime
+Value/Plat: 1.32
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -1.91, 
+Riven stats: 
+Critical Chance:  182.7
+		Grade: C+ (-3.73%)
+Heat:  119.0
+		Grade: A- (4.47%)
+Critical Damage:  157.9
+		Grade: A- (3.96%)
+Slash:  -120.9
+		Grade: B (-0.48%)
+
+Polarity: Vazarin   Rerolls: 29   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 800
+Seller: Damocles
+Value/Plat: 1.3
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -1.96, 
+Riven stats: 
+Critical Chance:  22.7
+		Grade: A+ (7.65%)
+Critical Damage:  15.6
+		Grade: C- (-7.56%)
+Status Duration:  14.5
+		Grade: B+ (3.11%)
+Ammo Maximum:  -5.9
+		Grade: A- (5.01%)
+
+Polarity: Madurai   Rerolls: 44   MR: 13
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: zzwkg
+Value/Plat: 1.27
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Braton Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -26.67, 
+Riven stats: 
+Critical Chance:  165.7
+		Grade: C (-5.71%)
+Critical Damage:  132.6
+		Grade: C (-5.71%)
+Status Duration:  117.2
+		Grade: B (0.01%)
+Fire Rate_Attack Speed:  -53.4
+		Grade: C+ (-5.14%)
+
+Polarity: Naramon   Rerolls: 51   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1750
+Seller: Xgems
+Value/Plat: 1.08
+Used disposition: 1.25
+Real disposition: 1.35
+--------------------------------------------------

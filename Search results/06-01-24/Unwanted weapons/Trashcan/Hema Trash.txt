@@ -1,0 +1,86 @@
+Name: Hema Crita-acridra
+Experimental riven rating: 39.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.0
+		Grade: B- (-1.51%)
+Critical Damage:  158.0
+		Grade: A+ (8.03%)
+Fire Rate_Attack Speed:  78.0
+		Grade: A (6.57%)
+Damage vs Grineer":  -41.0
+		Grade: C (-6.54%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: casual0001
+Value/Plat: 3.29
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Hema Crita-acriata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.1, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  184.2
+		Grade: B (0.79%)
+Damage:  183.7
+		Grade: C- (-8.51%)
+Critical Damage:  142.6
+		Grade: B- (-2.5%)
+Status Chance:  -90.5
+		Grade: B+ (3.14%)
+
+Polarity: Naramon   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: Kmarci1999
+Value/Plat: 1.59
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Hema Acri-satidra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.01, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  113.9
+		Grade: A- (3.84%)
+Fire Rate_Attack Speed:  70.0
+		Grade: C+ (-4.36%)
+Critical Damage:  156.5
+		Grade: A (7.01%)
+Status Duration:  -90.7
+		Grade: C (-6.97%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Lyra-Heartstrings
+Value/Plat: 1.39
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Hema Crita-cronitis
+Experimental riven rating: 36.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.0
+		Grade: A+ (8.77%)
+Critical Damage:  114.4
+		Grade: B- (-2.21%)
+Fire Rate_Attack Speed:  63.1
+		Grade: A+ (7.78%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 9
+Riven rank : 8
+Initial price:  200   Buyout price:  infinite 
+Seller: Cerber2k
+Value/Plat: 0.3
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

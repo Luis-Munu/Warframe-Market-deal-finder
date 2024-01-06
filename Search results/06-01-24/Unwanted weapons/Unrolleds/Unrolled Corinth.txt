@@ -1,0 +1,88 @@
+Name: Corinth Hexa-critatis
+Experimental riven rating: 35.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  89.3
+		Grade: A (5.83%)
+Critical Damage:  88.7
+		Grade: A- (5.12%)
+Status Chance:  89.6
+		Grade: A (6.19%)
+Ammo Maximum:  -63.7
+		Grade: C (-5.62%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Mellow34
+Value/Plat: 1.56
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Visi-critacan
+Experimental riven rating: 57.58
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  122.5
+		Grade: C+ (-5.12%)
+Critical Chance:  94.1
+		Grade: B- (-3.02%)
+Damage:  184.3
+		Grade: A- (3.76%)
+Slash:  -99.9
+		Grade: B- (-3.47%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: xLiSA_OLiVEx
+Value/Plat: 2.74
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-satidra
+Experimental riven rating: 66.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  80.2
+		Grade: C+ (-4.95%)
+Multishot:  111.1
+		Grade: B (-1.04%)
+Fire Rate_Attack Speed:  82.0
+		Grade: B- (-2.82%)
+Recoil:  73.4
+		Grade: A+ (8.75%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: No-response-from-networ
+Value/Plat: 2.66
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-acrican
+Experimental riven rating: 50.38
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  103.8
+		Grade: A (6.97%)
+Critical Damage:  98.0
+		Grade: B (1.0%)
+Multishot:  118.2
+		Grade: C- (-8.45%)
+Magazine Capacity:  -40.3
+		Grade: C (-6.45%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  6000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.22
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

@@ -1,0 +1,110 @@
+Name: Hind Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -15.91, 
+Riven stats: 
+Status Duration:  135.8
+		Grade: B+ (2.01%)
+Critical Chance:  204.0
+		Grade: B+ (2.19%)
+Critical Damage:  171.6
+		Grade: A (7.41%)
+Status Chance:  -98.1
+		Grade: B+ (2.36%)
+
+Polarity: Naramon   Rerolls: 29   MR: 8
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: akiraww
+Value/Plat: 2.14
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Acri-toxicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -6.49, 
+Riven stats: 
+Critical Chance:  185.3
+		Grade: C (-7.18%)
+Toxin:  115.6
+		Grade: C+ (-3.52%)
+Critical Damage:  166.3
+		Grade: A- (4.1%)
+Status Duration:  -99.1
+		Grade: C (-6.94%)
+
+Polarity: Madurai   Rerolls: 2   MR: 11
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: -Qorvex-
+Value/Plat: 1.54
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Crita-cronican
+Experimental riven rating: 39.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  203.1
+		Grade: B+ (1.74%)
+Multishot:  117.1
+		Grade: B- (-2.27%)
+Fire Rate_Attack Speed:  78.9
+		Grade: B (-1.31%)
+Magazine Capacity:  -54.1
+		Grade: B+ (1.71%)
+
+Polarity: Madurai   Rerolls: 12   MR: 11
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Maximum_Momentum
+Value/Plat: 2.5
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Croni-visitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.11, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  234.7
+		Grade: A (7.01%)
+Critical Damage:  150.5
+		Grade: C (-5.79%)
+Fire Rate_Attack Speed:  87.5
+		Grade: A+ (9.45%)
+Slash:  -120.3
+		Grade: C (-5.86%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: Rouble123
+Value/Plat: 1.49
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Crita-toxitis
+Experimental riven rating: 37.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  144.6
+		Grade: C- (-9.49%)
+Critical Chance:  209.6
+		Grade: A- (5.0%)
+Toxin:  125.4
+		Grade: A- (4.66%)
+Reload Speed:  -50.6
+		Grade: C+ (-4.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1   Buyout price: 800
+Seller: pandahu2
+Value/Plat: 1.77
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

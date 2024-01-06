@@ -1,0 +1,130 @@
+Name: Flux rifle Sati-acridra
+Experimental riven rating: 48.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  130.2
+		Grade: B (-0.45%)
+Critical Damage:  160.4
+		Grade: C- (-8.02%)
+Fire Rate_Attack Speed:  92.2
+		Grade: A (5.66%)
+Damage vs Corpus":  -49.9
+		Grade: C+ (-4.6%)
+
+Polarity: Naramon   Rerolls: 6   MR: 16
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: -Ezekiel.
+Value/Plat: 2.24
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Visi-critacan
+Experimental riven rating: 45.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  239.3
+Critical Chance:  222.9
+Multishot:  122.0
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 18   MR: 10
+Riven rank : 8
+Initial price:  1150   Buyout price: 1150
+Seller: Nobyara
+Value/Plat: 1.87
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-satiata
+Experimental riven rating: 46.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  227.3
+		Grade: A- (4.31%)
+Multishot:  128.8
+		Grade: B- (-1.52%)
+Damage:  220.0
+		Grade: C- (-8.11%)
+Ammo Maximum:  -56.5
+		Grade: B- (-2.69%)
+
+Polarity: Madurai   Rerolls: 160   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price: 1500
+Seller: 0WMVMW0
+Value/Plat: 1.68
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-visican
+Experimental riven rating: 54.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  225.5
+		Grade: B+ (3.49%)
+Damage:  249.3
+		Grade: A- (4.13%)
+Multishot:  124.9
+		Grade: C+ (-4.5%)
+Damage vs Infested":  -55.7
+		Grade: A (6.49%)
+
+Polarity: Madurai   Rerolls: 5   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Kono_Haiyang
+Value/Plat: 2.04
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Croni-acrican
+Experimental riven rating: 47.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  89.3
+		Grade: B+ (2.33%)
+Critical Damage:  174.5
+		Grade: B (0.07%)
+Multishot:  130.7
+		Grade: B (-0.07%)
+Reload Speed:  -63.7
+		Grade: S (9.71%)
+
+Polarity: Vazarin   Rerolls: 24   MR: 12
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: hcpeter
+Value/Plat: 1.24
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Crita-cronitis
+Experimental riven rating: 45.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  90.3
+		Grade: B+ (3.48%)
+Critical Chance:  230.6
+		Grade: A (5.83%)
+Critical Damage:  178.8
+		Grade: B+ (2.53%)
+Ammo Maximum:  -52.5
+		Grade: F (-9.58%)
+
+Polarity: Vazarin   Rerolls: 40   MR: 8
+Riven rank : 8
+Initial price:  250   Buyout price:  infinite 
+Seller: SANS202945
+Value/Plat: 0.25
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

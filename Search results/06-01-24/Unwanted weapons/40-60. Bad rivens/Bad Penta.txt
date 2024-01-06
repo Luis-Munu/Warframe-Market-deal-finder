@@ -1,0 +1,86 @@
+Name: Penta Crita-acrinok
+Experimental riven rating: 49.69
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  198.0
+Critical Damage:  150.0
+Punch Through:  33.0
+Damage vs Infested":  -0.5
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Lrunze
+Value/Plat: 2.86
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Acri-critadex
+Experimental riven rating: 45.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  186.0
+		Grade: A (5.85%)
+Critical Damage:  149.0
+		Grade: A (5.95%)
+Status Chance:  111.0
+		Grade: A- (5.24%)
+Impact:  -113.0
+		Grade: B (0.45%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: ShiroBookoo
+Value/Plat: 2.19
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Visi-saticron
+Experimental riven rating: 45.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  176.0
+		Grade: C (-7.26%)
+Damage:  215.6
+		Grade: B+ (3.4%)
+Multishot:  114.5
+		Grade: B (0.52%)
+Reload Speed:  -53.2
+		Grade: A- (5.2%)
+
+Polarity: Madurai   Rerolls: 35   MR: 16
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: WintFell
+Value/Plat: 1.79
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------
+Name: Penta Crita-satitis
+Experimental riven rating: 47.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.7
+		Grade: A (5.75%)
+Critical Damage:  137.0
+		Grade: F (-9.8%)
+Multishot:  110.1
+		Grade: B- (-3.34%)
+Status Chance:  -99.2
+		Grade: A+ (8.87%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  2500   Buyout price:  infinite 
+Seller: tangrenquq
+Value/Plat: 0.24
+Used disposition: 1.35
+Real disposition: 1.25
+--------------------------------------------------

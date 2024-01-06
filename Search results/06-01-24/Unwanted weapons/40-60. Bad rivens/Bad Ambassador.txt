@@ -1,0 +1,176 @@
+Name: Ambassador Acri-lexicron
+Experimental riven rating: 40.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  146.1
+		Grade: C (-5.52%)
+Critical Damage:  132.6
+		Grade: A (7.15%)
+Punch Through:  2.8
+		Grade: B (1.43%)
+Magazine Capacity:  -45.2
+		Grade: S (9.7%)
+
+Polarity: Naramon   Rerolls: 1   MR: 12
+Riven rank : 0
+Initial price:  50   Buyout price: 120
+Seller: PertamaxTurbo
+Value/Plat: 4.12
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Acri-critaata
+Experimental riven rating: 43.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.9
+		Grade: A- (5.41%)
+Critical Damage:  120.9
+		Grade: S (9.91%)
+Damage:  163.9
+		Grade: A+ (8.53%)
+Fire Rate_Attack Speed:  -46.2
+		Grade: A- (4.92%)
+
+Polarity: Madurai   Rerolls: 12   MR: 10
+Riven rank : 7
+Initial price:  700   Buyout price: 700
+Seller: Rost_chen
+Value/Plat: 2.2
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Croni-acrican
+Experimental riven rating: 50.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  129.6
+		Grade: A- (4.72%)
+Multishot:  90.0
+		Grade: B- (-3.03%)
+Fire Rate_Attack Speed:  65.9
+		Grade: A (6.41%)
+Damage vs Grineer":  -36.0
+		Grade: B- (-3.02%)
+
+Polarity: Naramon   Rerolls: 21   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: CXDEVIL
+Value/Plat: 2.53
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Sati-visicron
+Experimental riven rating: 44.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.7
+		Grade: C- (-9.01%)
+Multishot:  100.6
+		Grade: A+ (8.39%)
+Damage:  161.2
+		Grade: C+ (-5.12%)
+Magazine Capacity:  -42.9
+		Grade: A- (4.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: BingNiao
+Value/Plat: 1.94
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Croni-satitis
+Experimental riven rating: 51.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  88.1
+		Grade: C+ (-5.08%)
+Fire Rate_Attack Speed:  64.4
+		Grade: A- (3.99%)
+Critical Damage:  115.1
+		Grade: C (-6.99%)
+Reload Speed:  -41.8
+		Grade: B (1.45%)
+
+Polarity: Naramon   Rerolls: 29   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Just_Hunter-
+Value/Plat: 1.88
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Croni-saticron
+Experimental riven rating: 53.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  87.6
+		Grade: C (-5.62%)
+Critical Chance:  145.0
+		Grade: C (-6.23%)
+Fire Rate_Attack Speed:  65.3
+		Grade: A- (5.44%)
+Ammo Maximum:  -39.3
+		Grade: C+ (-4.62%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 1.96
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Crita-acrican
+Experimental riven rating: 51.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.3
+		Grade: A- (4.31%)
+Critical Damage:  113.7
+		Grade: C- (-8.12%)
+Multishot:  83.6
+		Grade: F (-9.93%)
+Reload Speed:  -37.5
+		Grade: C- (-8.99%)
+
+Polarity: Naramon   Rerolls: 5   MR: 11
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: Xytrigius
+Value/Plat: 1.79
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Ambassador Sati-acricron
+Experimental riven rating: 54.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  139.9
+		Grade: F (-9.53%)
+Critical Damage:  121.3
+		Grade: B- (-1.98%)
+Multishot:  97.2
+		Grade: A- (4.72%)
+Reload Speed:  -40.0
+		Grade: B- (-2.92%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: kaze69
+Value/Plat: 1.73
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

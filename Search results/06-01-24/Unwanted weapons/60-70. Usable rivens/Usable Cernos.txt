@@ -1,0 +1,64 @@
+Name: Cernos Croni-critatis
+Experimental riven rating: 60.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  77.1
+		Grade: A- (5.34%)
+Critical Damage:  133.6
+		Grade: C- (-8.65%)
+Critical Chance:  170.6
+		Grade: C (-6.65%)
+Damage vs Infested":  -42.4
+		Grade: B- (-3.35%)
+
+Polarity: Madurai   Rerolls: 72   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: HAMSTER_ARMOR_FK
+Value/Plat: 3.36
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Sati-visicron
+Experimental riven rating: 67.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  197.6
+Critical Chance:  164.6
+Multishot:  111.7
+Damage vs Infested":  -0.4
+
+Polarity: Madurai   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: -Qorvex-
+Value/Plat: 3.02
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Acri-cronican
+Experimental riven rating: 60.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  74.5
+		Grade: B+ (1.79%)
+Critical Damage:  158.2
+		Grade: A+ (8.17%)
+Multishot:  100.2
+		Grade: C- (-8.65%)
+Damage vs Infested":  -41.1
+		Grade: C (-6.32%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1900   Buyout price: 1900
+Seller: 130346010503621
+Value/Plat: 2.01
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

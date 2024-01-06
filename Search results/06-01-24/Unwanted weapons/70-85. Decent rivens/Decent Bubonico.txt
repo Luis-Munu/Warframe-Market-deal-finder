@@ -1,0 +1,140 @@
+Name: Bubonico Toxi-critatis
+Experimental riven rating: 77.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  64.0
+Critical Damage:  63.4
+Toxin:  65.7
+Impact:  -71.1
+
+Polarity: Naramon   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: masker01
+Value/Plat: 7.3
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Acri-croniata
+Experimental riven rating: 70.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  61.1
+Damage:  105.7
+Fire Rate_Attack Speed:  58.1
+Puncture:  -61.9
+
+Polarity: Madurai   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: clay1988
+Value/Plat: 4.61
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Visi-acricron
+Experimental riven rating: 74.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  66.6
+Critical Chance:  59.7
+Damage:  122.2
+Projectile Speed:  -49.5
+
+Polarity: Vazarin   Rerolls: 75   MR: 9
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: XINXIN_PRIME
+Value/Plat: 4.44
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-toxitis
+Experimental riven rating: 77.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  69.4
+Critical Damage:  58.8
+Toxin:  65.6
+Puncture:  -61.3
+
+Polarity: Madurai   Rerolls: 49   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Valwow
+Value/Plat: 4.89
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Croni-satitis
+Experimental riven rating: 71.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  64.8
+Multishot:  83.3
+Critical Damage:  58.4
+Projectile Speed:  -52.0
+
+Polarity: Madurai   Rerolls: 11   MR: 15
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: SNH48MoHan
+Value/Plat: 2.69
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Sati-acricron
+Experimental riven rating: 75.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  61.6
+Critical Chance:  60.6
+Multishot:  86.2
+Slash:  -72.4
+
+Polarity: Vazarin   Rerolls: 124   MR: 13
+Riven rank : 8
+Initial price:  2350   Buyout price: 2350
+Seller: Kimmen
+Value/Plat: 2.42
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Bubonico Crita-acrican
+Experimental riven rating: 81.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  63.6
+Critical Damage:  63.4
+Multishot:  76.7
+Recoil:  52.8
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  12000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.13
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

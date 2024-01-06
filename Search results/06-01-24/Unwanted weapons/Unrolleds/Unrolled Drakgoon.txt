@@ -1,0 +1,176 @@
+Name: Drakgoon Crita-acritox
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.04, 
+Riven stats: 
+Critical Chance:  126.0
+		Grade: A (6.66%)
+Critical Damage:  125.8
+		Grade: A (6.49%)
+Toxin:  109.1
+		Grade: C- (-7.64%)
+Fire Rate_Attack Speed:  -92.1
+		Grade: B- (-2.53%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: exinferis.42
+Value/Plat: 1.95
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Crita-cronican
+Experimental riven rating: 48.14
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  17.0
+		Grade: B- (-2.66%)
+Fire Rate_Attack Speed:  13.9
+		Grade: A (5.9%)
+Critical Chance:  14.2
+		Grade: A+ (8.19%)
+Damage vs Corpus":  -5.4
+		Grade: B+ (2.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  250   Buyout price: 250
+Seller: MacAdam29
+Value/Plat: 4.15
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Toxi-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.96, 
+Riven stats: 
+Critical Chance:  122.7
+		Grade: A- (3.87%)
+Critical Damage:  120.8
+		Grade: B+ (2.26%)
+Toxin:  124.9
+		Grade: A (5.73%)
+Status Duration:  -104.1
+		Grade: B (-0.85%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: 1ove2G5
+Value/Plat: 1.54
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Acri-saticron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -34.23, 
+Riven stats: 
+Critical Chance:  110.2
+		Grade: C (-6.71%)
+Critical Damage:  116.8
+		Grade: B (-1.12%)
+Multishot:  152.4
+		Grade: B- (-3.04%)
+Damage:  -168.6
+		Grade: B- (-2.53%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: -Sakazak-
+Value/Plat: 1.39
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Croni-saticron
+Experimental riven rating: 38.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  151.8
+		Grade: B- (-3.42%)
+Fire Rate_Attack Speed:  120.5
+		Grade: B+ (2.01%)
+Critical Chance:  111.1
+		Grade: C (-5.95%)
+Reload Speed:  -51.8
+		Grade: B (-1.22%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -Qorvex-
+Value/Plat: 1.82
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Acri-critadra
+Experimental riven rating: 49.62
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  112.0
+		Grade: C+ (-5.19%)
+Critical Damage:  121.2
+		Grade: B+ (2.6%)
+Fire Rate_Attack Speed:  106.5
+		Grade: F (-9.84%)
+Recoil:  100.2
+		Grade: A (6.04%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Apathy
+Value/Plat: 2.02
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Crita-acridra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 7.76, 
+Riven stats: 
+Critical Chance:  124.3
+		Grade: A- (5.22%)
+Critical Damage:  110.6
+		Grade: C (-6.37%)
+Fire Rate_Attack Speed:  107.5
+		Grade: C- (-9.0%)
+Status Duration:  -110.2
+		Grade: A- (4.96%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  1299   Buyout price: 1299
+Seller: BrickFaceBing
+Value/Plat: 1.16
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Sati-acridra
+Experimental riven rating: 42.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  18.1
+		Grade: A- (3.64%)
+Critical Damage:  12.3
+		Grade: C (-6.29%)
+Fire Rate_Attack Speed:  13.9
+		Grade: A (5.9%)
+Status Chance:  -9.8
+		Grade: C (-6.66%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price:  infinite 
+Seller: Goblin9Mu
+Value/Plat: 0.26
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

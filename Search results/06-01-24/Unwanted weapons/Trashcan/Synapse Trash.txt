@@ -1,0 +1,257 @@
+Name: Synapse Crita-acripha
+Experimental riven rating: 35.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  165.0
+Critical Damage:  119.1
+Heat:  92.9
+Damage vs Infested":  -0.6
+
+Polarity: Vazarin   Rerolls: 18   MR: 8
+Riven rank : 8
+Initial price:  220   Buyout price: 220
+Seller: -RP-Zeikero
+Value/Plat: 2.71
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 7.57, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  17.3
+Critical Chance:  21.4
+Status Duration:  14.3
+Damage vs Infested":  -0.9
+
+Polarity: Vazarin   Rerolls: 7   MR: 12
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: dayuan-js
+Value/Plat: 1.65
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Croni-critatis
+Experimental riven rating: 28.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  79.4
+		Grade: A (7.25%)
+Critical Damage:  150.4
+		Grade: B+ (1.66%)
+Critical Chance:  192.7
+		Grade: A- (4.24%)
+Status Duration:  -100.7
+		Grade: B+ (2.11%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 14
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Primed.Panda
+Value/Plat: 1.62
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 3.23, 
+Riven stats: 
+Critical Chance:  177.6
+		Grade: C+ (-3.93%)
+Critical Damage:  157.2
+		Grade: A (6.26%)
+Heat:  114.3
+		Grade: B+ (3.01%)
+Fire Rate_Attack Speed:  -53.6
+		Grade: C- (-9.49%)
+
+Polarity: Vazarin   Rerolls: 42   MR: 13
+Riven rank : 8
+Initial price:  799   Buyout price: 799
+Seller: Davidson4ik
+Value/Plat: 1.3
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-critanok
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -36.6, 
+Riven stats: 
+Critical Chance:  185.0
+		Grade: B (0.07%)
+Critical Damage:  158.4
+		Grade: A (7.07%)
+Punch Through:  3.2
+		Grade: B- (-3.03%)
+Damage:  -148.4
+		Grade: C- (-8.66%)
+
+Polarity: Naramon   Rerolls: 75   MR: 12
+Riven rank : 8
+Initial price:  799   Buyout price: 799
+Seller: Oplaft
+Value/Plat: 1.3
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Croni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.19, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  148.9
+		Grade: B (0.65%)
+Critical Chance:  182.5
+		Grade: B (-1.28%)
+Fire Rate_Attack Speed:  80.7
+		Grade: A+ (9.0%)
+Status Duration:  -95.6
+		Grade: B- (-3.06%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: ptq614
+Value/Plat: 1.27
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Crita-visitis
+Experimental riven rating: 39.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  181.0
+		Grade: B- (-2.09%)
+Critical Damage:  141.0
+		Grade: C+ (-4.69%)
+Damage:  198.0
+		Grade: B- (-2.52%)
+Fire Rate_Attack Speed:  -63.6
+		Grade: A (7.4%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  996   Buyout price: 996
+Seller: 24.5
+Value/Plat: 1.7
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Crita-acripha
+Experimental riven rating: 30.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  186.0
+		Grade: B (0.61%)
+Critical Damage:  156.4
+		Grade: A (5.72%)
+Heat:  104.0
+		Grade: C (-6.27%)
+Ammo Maximum:  -52.7
+		Grade: A (6.99%)
+
+Polarity: Madurai   Rerolls: 2   MR: 9
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: Wlinglong_YYY
+Value/Plat: 1.4
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Crita-hexatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 10.55, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  105.8
+		Grade: C+ (-4.65%)
+Critical Chance:  201.8
+		Grade: A+ (9.16%)
+Critical Damage:  134.1
+		Grade: C- (-9.36%)
+Fire Rate_Attack Speed:  -55.2
+		Grade: C (-6.79%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1900
+Seller: Nosferatoo
+Value/Plat: 1.06
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-saticron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -19.03, 
+Riven stats: 
+Critical Chance:  166.6
+		Grade: F (-9.88%)
+Critical Damage:  133.7
+		Grade: F (-9.63%)
+Multishot:  106.2
+		Grade: C+ (-4.29%)
+Damage:  -162.5
+		Grade: B (0.02%)
+
+Polarity: Vazarin   Rerolls: 33   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: CCCnana
+Value/Plat: 1.04
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-cronitin
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -27.34, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Magazine Capacity:  4.9
+Fire Rate_Attack Speed:  6.0
+Critical Damage:  12.0
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  200   Buyout price:  infinite 
+Seller: Krajecnikov
+Value/Plat: 0.41
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Croni-gelitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.23, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  72.8
+		Grade: B- (-1.67%)
+Cold:  101.5
+		Grade: C- (-8.52%)
+Critical Damage:  133.5
+		Grade: F (-9.76%)
+Magazine Capacity:  -51.4
+		Grade: A- (4.35%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 11
+Riven rank : 8
+Initial price:  199   Buyout price:  infinite 
+Seller: orpisai
+Value/Plat: 0.41
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------

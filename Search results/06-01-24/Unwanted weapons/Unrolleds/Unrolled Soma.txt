@@ -1,0 +1,86 @@
+Name: Soma Acri-lexicron
+Experimental riven rating: 37.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  130.0
+Critical Damage:  130.0
+Punch Through:  2.8
+Damage vs Grineer":  -35.0
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  420   Buyout price: 420
+Seller: SwertyBoy2016
+Value/Plat: 2.26
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -1.76, 
+Riven stats: 
+Critical Chance:  17.3
+		Grade: C+ (-3.69%)
+Critical Damage:  14.9
+		Grade: A- (3.65%)
+Status Duration:  12.6
+		Grade: A- (5.18%)
+Slash:  -12.3
+		Grade: A (6.97%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: caozei66
+Value/Plat: 1.46
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Crita-satiata
+Experimental riven rating: 52.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  18.1
+		Grade: C- (-8.29%)
+Multishot:  11.3
+		Grade: A- (4.81%)
+Critical Chance:  19.0
+		Grade: A (5.77%)
+Ammo Maximum:  -4.4
+		Grade: C- (-8.07%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1350   Buyout price: 1350
+Seller: epsil0n00
+Value/Plat: 2.06
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Visi-acridra
+Experimental riven rating: 57.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  181.0
+		Grade: B+ (1.9%)
+Critical Damage:  121.7
+		Grade: C (-5.94%)
+Fire Rate_Attack Speed:  60.5
+		Grade: C (-6.56%)
+Damage vs Infested":  -39.0
+		Grade: B (0.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: hoot1
+Value/Plat: 2.16
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

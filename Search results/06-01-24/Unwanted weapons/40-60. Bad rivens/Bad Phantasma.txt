@@ -1,0 +1,346 @@
+Name: Phantasma Visi-saticron
+Experimental riven rating: 54.45
+Best profile: General use
+Beam: 42.44, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  122.7
+Critical Chance:  80.9
+Damage:  176.4
+Damage vs Infested":  -0.6
+
+Polarity: Vazarin   Rerolls: 41   MR: 9
+Riven rank : 8
+Initial price:  199   Buyout price: 199
+Seller: stevencso
+Value/Plat: 6.06
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-cronican
+Experimental riven rating: 47.59
+Best profile: General use
+Beam: 36.73, 
+Riven stats: 
+Critical Chance:  10.8
+		Grade: S (9.71%)
+Multishot:  12.2
+		Grade: C (-6.85%)
+Fire Rate_Attack Speed:  10.3
+		Grade: A- (4.63%)
+Ammo Maximum:  -7.3
+		Grade: C (-7.29%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 8
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: SixGod1990
+Value/Plat: 3.73
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Croni-critacan
+Experimental riven rating: 42.36
+Best profile: General use
+Beam: 32.47, 
+Riven stats: 
+Fire Rate_Attack Speed:  91.5
+		Grade: B+ (3.28%)
+Multishot:  109.2
+		Grade: C (-7.36%)
+Critical Chance:  84.3
+		Grade: C+ (-4.85%)
+Damage vs Corpus":  -32.0
+		Grade: F (-9.69%)
+
+Polarity: Madurai   Rerolls: 40   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Purpal
+Value/Plat: 2.72
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-visicron
+Experimental riven rating: 44.53
+Best profile: General use
+Beam: 23.86, 
+Riven stats: 
+Critical Chance:  9.0
+		Grade: C- (-8.57%)
+Critical Damage:  10.8
+		Grade: S (9.71%)
+Damage:  18.0
+		Grade: B (-0.11%)
+Slash:  -10.9
+		Grade: A- (3.82%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: 664369
+Value/Plat: 2.78
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-cronitis
+Experimental riven rating: 51.34
+Best profile: General use
+Beam: 38.17, 
+Riven stats: 
+Fire Rate_Attack Speed:  85.5
+		Grade: B- (-3.5%)
+Critical Damage:  84.0
+		Grade: C+ (-5.19%)
+Critical Chance:  91.7
+		Grade: A- (3.5%)
+Puncture:  -85.6
+		Grade: C- (-9.41%)
+
+Polarity: Madurai   Rerolls: 25   MR: 14
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: WiseMonke
+Value/Plat: 2.68
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-critadra
+Experimental riven rating: 47.85
+Best profile: General use
+Beam: 29.77, 
+Riven stats: 
+Critical Chance:  92.5
+		Grade: A- (4.41%)
+Critical Damage:  93.1
+		Grade: A- (5.08%)
+Fire Rate_Attack Speed:  84.5
+		Grade: C+ (-4.62%)
+Damage vs Infested":  -37.9
+		Grade: A (6.96%)
+
+Polarity: Madurai   Rerolls: 63   MR: 12
+Riven rank : 8
+Initial price:  980   Buyout price: 980
+Seller: yyds4219
+Value/Plat: 2.14
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-saticron
+Experimental riven rating: 42.29
+Best profile: General use
+Beam: 29.06, 
+Riven stats: 
+Critical Chance:  87.0
+		Grade: B- (-1.8%)
+Critical Damage:  90.9
+		Grade: B+ (2.6%)
+Multishot:  117.8
+		Grade: B (-0.07%)
+Reload Speed:  -38.7
+		Grade: B- (-1.61%)
+
+Polarity: Vazarin   Rerolls: 210   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price: 1000
+Seller: CHROMEHEARTS
+Value/Plat: 1.84
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-cronican
+Experimental riven rating: 54.18
+Best profile: Beam
+General use: 44.32, 
+Riven stats: 
+Critical Damage:  58.1
+		Grade: C- (-8.19%)
+Fire Rate_Attack Speed:  57.8
+		Grade: C- (-8.66%)
+Multishot:  76.6
+		Grade: C- (-9.03%)
+Slash:  -64.5
+		Grade: C+ (-4.43%)
+
+Polarity: Madurai   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: oscarthetwo
+Value/Plat: 2.5
+Used disposition: 0.75
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-acrican
+Experimental riven rating: 54.81
+Best profile: General use
+Beam: 42.56, 
+Riven stats: 
+Critical Chance:  57.8
+		Grade: C- (-8.66%)
+Critical Damage:  68.9
+		Grade: A+ (8.88%)
+Multishot:  86.4
+		Grade: B+ (2.61%)
+Damage vs Infested":  -25.0
+		Grade: B (-1.22%)
+
+Polarity: Vazarin   Rerolls: 60   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: pony_lifang
+Value/Plat: 2.54
+Used disposition: 0.75
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-visican
+Experimental riven rating: 55.14
+Best profile: General use
+Beam: 41.63, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  91.4
+Damage:  155.9
+Multishot:  118.7
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 25   MR: 8
+Riven rank : 8
+Initial price:  1   Buyout price: 1000
+Seller: Vergila91
+Value/Plat: 2.56
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-visicron
+Experimental riven rating: 57.19
+Best profile: General use
+Beam: 32.71, 
+Riven stats: 
+Critical Damage:  96.6
+		Grade: A+ (9.03%)
+Damage:  162.6
+		Grade: B (0.26%)
+Critical Chance:  83.2
+		Grade: C (-6.09%)
+Impact:  -99.2
+		Grade: A- (4.98%)
+
+Polarity: Naramon   Rerolls: 39   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: SHI1215
+Value/Plat: 2.71
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-satiata
+Experimental riven rating: 51.67
+Best profile: General use
+Beam: 39.16, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  95.9
+Multishot:  129.0
+Damage:  157.0
+Damage vs Corpus":  -30.0
+
+Polarity: Madurai   Rerolls: 5   MR: 8
+Riven rank : 0
+Initial price:  1300   Buyout price: 1300
+Seller: IKUN--eternal-love
+Value/Plat: 2.04
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-critacan
+Experimental riven rating: 46.89
+Best profile: General use
+Beam: 32.7, 
+Riven stats: 
+Multishot:  107.0
+		Grade: C- (-9.23%)
+Critical Damage:  82.3
+		Grade: C (-7.11%)
+Critical Chance:  81.5
+		Grade: C- (-8.01%)
+Slash:  -99.8
+		Grade: A (5.62%)
+
+Polarity: Madurai   Rerolls: 66   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: ALABING2
+Value/Plat: 1.71
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Sati-critatis
+Experimental riven rating: 48.09
+Best profile: General use
+Beam: 34.66, 
+Riven stats: 
+Critical Chance:  81.1
+		Grade: C- (-8.46%)
+Critical Damage:  79.9
+		Grade: F (-9.82%)
+Multishot:  112.4
+		Grade: C+ (-4.65%)
+Damage vs Infested":  -34.9
+		Grade: B- (-1.51%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 14
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: hoot1
+Value/Plat: 1.75
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-saticron
+Experimental riven rating: 56.33
+Best profile: General use
+Beam: 52.3, 
+Riven stats: 
+Critical Damage:  89.5
+		Grade: B (1.02%)
+Multishot:  118.7
+		Grade: B (0.7%)
+Critical Chance:  80.0
+		Grade: F (-9.7%)
+Recoil:  68.9
+		Grade: B- (-2.78%)
+
+Polarity: Vazarin   Rerolls: 29   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Seriousman8
+Value/Plat: 2.11
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Sati-acridra
+Experimental riven rating: 58.26
+Best profile: Beam
+General use: 45.94, 
+Riven stats: 
+Multishot:  123.7
+		Grade: A- (4.94%)
+Critical Damage:  86.6
+		Grade: B- (-2.25%)
+Fire Rate_Attack Speed:  83.4
+		Grade: C (-5.87%)
+Reload Speed:  -40.4
+		Grade: B+ (2.72%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  100   Buyout price: 2100
+Seller: -Just_Hunter-
+Value/Plat: 1.81
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

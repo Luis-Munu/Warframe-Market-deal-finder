@@ -1,0 +1,88 @@
+Name: Torid Crita-lexitis
+Experimental riven rating: 25.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  185.5
+		Grade: B+ (1.5%)
+Critical Damage:  134.0
+		Grade: C- (-8.38%)
+Punch Through:  3.2
+		Grade: B- (-1.91%)
+Fire Rate_Attack Speed:  -63.6
+		Grade: A+ (8.64%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: Y-S-Y-H
+Value/Plat: 1.31
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-acridra
+Experimental riven rating: 43.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.9
+		Grade: B (-1.02%)
+Critical Damage:  151.1
+		Grade: B+ (3.31%)
+Fire Rate_Attack Speed:  66.5
+		Grade: C- (-9.14%)
+Reload Speed:  -47.5
+		Grade: B- (-2.46%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Ayan_kale
+Value/Plat: 1.75
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.28, 
+Riven stats: 
+Status Duration:  117.1
+		Grade: C+ (-3.92%)
+Critical Chance:  180.7
+		Grade: B (-1.13%)
+Critical Damage:  132.9
+		Grade: C- (-9.13%)
+Damage vs Infested":  -40.8
+		Grade: C (-7.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  5400   Buyout price: 5400
+Seller: Anzu24
+Value/Plat: 0.82
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Acri-satidra
+Experimental riven rating: 74.49
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  141.8
+		Grade: B- (-3.05%)
+Multishot:  118.6
+		Grade: A+ (8.12%)
+Fire Rate_Attack Speed:  67.4
+		Grade: C- (-7.91%)
+Zoom:  -55.2
+		Grade: C (-5.63%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  5555   Buyout price:  infinite 
+Seller: Franky
+Value/Plat: 0.14
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

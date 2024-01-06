@@ -1,0 +1,44 @@
+Name: Snipetron Acri-critatox
+Experimental riven rating: 63.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  158.7
+		Grade: A+ (8.51%)
+Critical Chance:  184.4
+		Grade: B (0.9%)
+Toxin:  103.1
+		Grade: C (-6.01%)
+Recoil:  82.6
+		Grade: C (-5.86%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 14
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: -Katherine-
+Value/Plat: 3.47
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Snipetron Acri-satidra
+Experimental riven rating: 60.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  11.6
+		Grade: C+ (-4.82%)
+Fire Rate_Attack Speed:  7.6
+		Grade: C (-6.54%)
+Critical Damage:  16.7
+		Grade: B+ (2.77%)
+Recoil:  10.5
+		Grade: A+ (7.7%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: ActuallyWo
+Value/Plat: 2.96
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

@@ -1,0 +1,127 @@
+Name: Synapse Lexi-acricron
+Experimental riven rating: 44.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  3.4
+		Grade: B+ (3.03%)
+Critical Chance:  171.8
+		Grade: C (-7.07%)
+Critical Damage:  146.6
+		Grade: B (-0.91%)
+Reload Speed:  -45.6
+		Grade: C (-7.43%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: DaoDao6120
+Value/Plat: 2.63
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Croni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.19, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  148.9
+		Grade: B (0.65%)
+Critical Chance:  182.5
+		Grade: B (-1.28%)
+Fire Rate_Attack Speed:  80.7
+		Grade: A+ (9.0%)
+Status Duration:  -95.6
+		Grade: B- (-3.06%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: ptq614
+Value/Plat: 1.27
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Hexa-acricron
+Experimental riven rating: 40.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  119.3
+Critical Damage:  138.0
+Critical Chance:  166.2
+Damage vs Infested":  -0.6
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: -NG-gawut
+Value/Plat: 1.82
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Crita-visitis
+Experimental riven rating: 39.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  181.0
+		Grade: B- (-2.09%)
+Critical Damage:  141.0
+		Grade: C+ (-4.69%)
+Damage:  198.0
+		Grade: B- (-2.52%)
+Fire Rate_Attack Speed:  -63.6
+		Grade: A (7.4%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  996   Buyout price: 996
+Seller: 24.5
+Value/Plat: 1.7
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Sati-cronitis
+Experimental riven rating: 40.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  74.3
+		Grade: B (0.36%)
+Critical Damage:  137.2
+		Grade: C (-7.26%)
+Multishot:  113.2
+		Grade: B+ (2.02%)
+Status Chance:  -86.6
+		Grade: B- (-2.43%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1888   Buyout price: 1888
+Seller: LittleFairs
+Value/Plat: 1.37
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Synapse Acri-cronitin
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -27.34, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Magazine Capacity:  4.9
+Fire Rate_Attack Speed:  6.0
+Critical Damage:  12.0
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  200   Buyout price:  infinite 
+Seller: Krajecnikov
+Value/Plat: 0.41
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------

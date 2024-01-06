@@ -1,0 +1,44 @@
+Name: Flux rifle Sati-critaata
+Experimental riven rating: 38.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  140.3
+		Grade: A (7.27%)
+Critical Chance:  218.7
+		Grade: B (0.37%)
+Damage:  228.4
+		Grade: C+ (-4.6%)
+Magazine Capacity:  -62.4
+		Grade: A (7.47%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  750   Buyout price: 1100
+Seller: StxyyHigh
+Value/Plat: 1.64
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Flux rifle Acri-satidra
+Experimental riven rating: 66.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  160.7
+		Grade: C- (-7.85%)
+Multishot:  143.4
+		Grade: S (9.65%)
+Fire Rate_Attack Speed:  89.9
+		Grade: B+ (3.02%)
+Recoil:  106.5
+		Grade: B+ (1.8%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  2500   Buyout price: 3000
+Seller: Nataruk
+Value/Plat: 1.71
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

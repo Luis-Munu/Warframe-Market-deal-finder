@@ -1,0 +1,66 @@
+Name: Ferrox Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.67, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  150.1
+		Grade: C (-7.16%)
+Critical Damage:  136.9
+		Grade: A (5.81%)
+Heat:  96.3
+		Grade: B (-0.76%)
+Magazine Capacity:  -45.1
+		Grade: A- (4.7%)
+
+Polarity: Madurai   Rerolls: 48   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price: 850
+Seller: 865395508
+Value/Plat: 1.28
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Ferrox Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.3, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  132.3
+		Grade: B+ (2.26%)
+Status Chance:  95.4
+		Grade: B- (-1.68%)
+Critical Chance:  145.9
+		Grade: F (-9.75%)
+Magazine Capacity:  -44.1
+		Grade: B+ (2.37%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  1888   Buyout price: 1888
+Seller: XIAOWEIDUO
+Value/Plat: 1.06
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Ferrox Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.63, 
+Riven stats: 
+Critical Chance:  177.8
+		Grade: S (9.98%)
+Critical Damage:  134.4
+		Grade: A- (3.88%)
+Status Duration:  116.7
+		Grade: A+ (8.24%)
+Ammo Maximum:  -40.5
+		Grade: C (-5.98%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 6000
+Seller: GJ54
+Value/Plat: 0.8
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

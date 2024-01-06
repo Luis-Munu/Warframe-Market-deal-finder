@@ -1,0 +1,22 @@
+Name: Steflos Crita-satidra
+Experimental riven rating: 70.88
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  82.8
+		Grade: B+ (3.29%)
+Multishot:  114.3
+		Grade: A (7.17%)
+Fire Rate_Attack Speed:  82.9
+		Grade: B+ (3.42%)
+Recoil:  63.2
+		Grade: B (-1.43%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: izz_OvO
+Value/Plat: 4.69
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

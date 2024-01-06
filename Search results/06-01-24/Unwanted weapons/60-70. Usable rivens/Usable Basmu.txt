@@ -1,0 +1,66 @@
+Name: Basmu Crita-acriata
+Experimental riven rating: 65.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  185.4
+		Grade: S (9.9%)
+Critical Damage:  133.9
+		Grade: B (-0.82%)
+Damage:  190.0
+		Grade: B+ (2.51%)
+Projectile Speed:  -83.9
+		Grade: A- (3.59%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Tsukuyomi_Nozomu
+Value/Plat: 3.41
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Sati-cronitis
+Experimental riven rating: 69.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  133.5
+		Grade: B (-1.11%)
+Fire Rate_Attack Speed:  70.7
+		Grade: A- (4.65%)
+Multishot:  106.7
+		Grade: A- (5.38%)
+Projectile Speed:  -75.3
+		Grade: C (-7.03%)
+
+Polarity: Vazarin   Rerolls: 11   MR: 11
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: RexImmortalis55
+Value/Plat: 3.8
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Basmu Acri-critadra
+Experimental riven rating: 63.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  70.2
+		Grade: A- (3.91%)
+Critical Damage:  147.2
+		Grade: A+ (9.03%)
+Critical Chance:  177.4
+		Grade: A- (5.16%)
+Damage vs Infested":  -37.7
+		Grade: C (-6.9%)
+
+Polarity: Naramon   Rerolls: 63   MR: 16
+Riven rank : 8
+Initial price:  400   Buyout price:  infinite 
+Seller: eloruryQWQ
+Value/Plat: 0.17
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

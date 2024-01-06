@@ -1,0 +1,106 @@
+Name: Steflos Acri-critanok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.34, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  9.2
+Critical Damage:  9.3
+Punch Through:  0.3
+Status Chance:  -6.7
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  30   Buyout price: 30
+Seller: _.f.a.n.t._
+Value/Plat: 2.86
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Crita-acritox
+Experimental riven rating: 61.04
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  9.2
+		Grade: B+ (3.29%)
+Critical Damage:  8.4
+		Grade: C (-5.69%)
+Toxin:  8.7
+		Grade: B- (-2.32%)
+Projectile Speed:  -7.2
+		Grade: B (1.06%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: Qin_Lin
+Value/Plat: 8.06
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.02, 
+Riven stats: 
+Critical Chance:  8.8
+		Grade: B (-1.2%)
+Critical Damage:  9.6
+		Grade: A+ (7.79%)
+Heat:  9.5
+		Grade: A (6.66%)
+Reload Speed:  -4.1
+		Grade: A- (3.69%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  399   Buyout price: 399
+Seller: Nyrre
+Value/Plat: 1.54
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Acri-toxicron
+Experimental riven rating: 37.8
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  4.4
+Toxin:  4.4
+Critical Chance:  4.9
+Magazine Capacity:  -2.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: ptq614
+Value/Plat: 1.8
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Crita-satidra
+Experimental riven rating: 70.88
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  82.8
+		Grade: B+ (3.29%)
+Multishot:  114.3
+		Grade: A (7.17%)
+Fire Rate_Attack Speed:  82.9
+		Grade: B+ (3.42%)
+Recoil:  63.2
+		Grade: B (-1.43%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: izz_OvO
+Value/Plat: 4.69
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

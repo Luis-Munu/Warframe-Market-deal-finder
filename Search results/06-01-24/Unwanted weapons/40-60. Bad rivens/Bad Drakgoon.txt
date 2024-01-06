@@ -1,0 +1,198 @@
+Name: Drakgoon Crita-cronican
+Experimental riven rating: 48.14
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  17.0
+		Grade: B- (-2.66%)
+Fire Rate_Attack Speed:  13.9
+		Grade: A (5.9%)
+Critical Chance:  14.2
+		Grade: A+ (8.19%)
+Damage vs Corpus":  -5.4
+		Grade: B+ (2.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  250   Buyout price: 250
+Seller: MacAdam29
+Value/Plat: 4.15
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Acri-visicron
+Experimental riven rating: 40.96
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  114.1
+		Grade: B- (-3.41%)
+Critical Damage:  124.5
+		Grade: A- (5.39%)
+Damage:  214.7
+		Grade: B (-0.71%)
+Damage vs Corpus":  -45.3
+		Grade: C+ (-4.12%)
+
+Polarity: Naramon   Rerolls: 70   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: YemeiPrime
+Value/Plat: 2.37
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Crita-acriata
+Experimental riven rating: 50.7
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  129.2
+		Grade: A+ (9.37%)
+Critical Damage:  126.0
+		Grade: A (6.66%)
+Damage:  203.6
+		Grade: C (-5.84%)
+Slash:  -129.6
+		Grade: B+ (2.87%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: wanjiu1916
+Value/Plat: 2.95
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Sati-acricron
+Experimental riven rating: 44.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  110.2
+		Grade: C (-6.71%)
+Multishot:  153.7
+		Grade: B- (-2.21%)
+Critical Chance:  108.6
+		Grade: C- (-8.07%)
+Status Chance:  -102.9
+		Grade: A+ (8.9%)
+
+Polarity: Naramon   Rerolls: 8   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: kingxzw
+Value/Plat: 2.13
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Visi-critatis
+Experimental riven rating: 40.05
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  120.5
+		Grade: B+ (2.01%)
+Damage:  232.2
+		Grade: A (7.38%)
+Critical Damage:  111.3
+		Grade: C (-5.78%)
+Slash:  -115.0
+		Grade: C- (-8.72%)
+
+Polarity: Vazarin   Rerolls: 53   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: hoot1
+Value/Plat: 1.74
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Acri-saticron
+Experimental riven rating: 45.23
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  111.2
+		Grade: C (-5.87%)
+Multishot:  160.8
+		Grade: B+ (2.31%)
+Critical Damage:  125.3
+		Grade: A (6.07%)
+Reload Speed:  -51.5
+		Grade: B- (-1.8%)
+
+Polarity: Madurai   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -Scipion-
+Value/Plat: 1.98
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Acri-critadra
+Experimental riven rating: 49.62
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  112.0
+		Grade: C+ (-5.19%)
+Critical Damage:  121.2
+		Grade: B+ (2.6%)
+Fire Rate_Attack Speed:  106.5
+		Grade: F (-9.84%)
+Recoil:  100.2
+		Grade: A (6.04%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Apathy
+Value/Plat: 2.02
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Sati-critaata
+Experimental riven rating: 59.25
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  172.3
+		Grade: S (9.62%)
+Critical Chance:  119.7
+		Grade: B (1.33%)
+Damage:  195.7
+		Grade: C- (-9.5%)
+Recoil:  94.1
+		Grade: B (-0.41%)
+
+Polarity: Madurai   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  1599   Buyout price: 1599
+Seller: Maccie1409
+Value/Plat: 2.17
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Drakgoon Sati-acridra
+Experimental riven rating: 42.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  18.1
+		Grade: A- (3.64%)
+Critical Damage:  12.3
+		Grade: C (-6.29%)
+Fire Rate_Attack Speed:  13.9
+		Grade: A (5.9%)
+Status Chance:  -9.8
+		Grade: C (-6.66%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price:  infinite 
+Seller: Goblin9Mu
+Value/Plat: 0.26
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

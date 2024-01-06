@@ -1,0 +1,106 @@
+Name: Steflos Acri-critanok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.34, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  9.2
+Critical Damage:  9.3
+Punch Through:  0.3
+Status Chance:  -6.7
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  30   Buyout price: 30
+Seller: _.f.a.n.t._
+Value/Plat: 2.86
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Crita-ignitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -0.28, 
+Riven stats: 
+Critical Chance:  79.5
+		Grade: B (-0.82%)
+Critical Damage:  74.4
+		Grade: C (-7.18%)
+Heat:  75.3
+		Grade: C (-6.06%)
+Fire Rate_Attack Speed:  -61.1
+		Grade: C+ (-4.71%)
+
+Polarity: Madurai   Rerolls: 9   MR: 11
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: HouLh
+Value/Plat: 2.14
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.02, 
+Riven stats: 
+Critical Chance:  8.8
+		Grade: B (-1.2%)
+Critical Damage:  9.6
+		Grade: A+ (7.79%)
+Heat:  9.5
+		Grade: A (6.66%)
+Reload Speed:  -4.1
+		Grade: A- (3.69%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  399   Buyout price: 399
+Seller: Nyrre
+Value/Plat: 1.54
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -23.28, 
+Riven stats: 
+Critical Damage:  83.0
+		Grade: A- (3.54%)
+Status Duration:  94.9
+		Grade: A (6.55%)
+Critical Chance:  75.4
+		Grade: C (-5.94%)
+Magazine Capacity:  -33.9
+		Grade: C+ (-4.74%)
+
+Polarity: Madurai   Rerolls: 20   MR: 13
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: ceilPrime
+Value/Plat: 1.39
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Acri-toxicron
+Experimental riven rating: 37.8
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  4.4
+Toxin:  4.4
+Critical Chance:  4.9
+Magazine Capacity:  -2.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: ptq614
+Value/Plat: 1.8
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

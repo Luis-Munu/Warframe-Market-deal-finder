@@ -1,0 +1,84 @@
+Name: Perigale Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -18.47, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  15.1
+Status Duration:  8.9
+Critical Damage:  12.3
+Slash:  -10.4
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  199   Buyout price: 199
+Seller: EntryFragger_XX
+Value/Plat: 1.82
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Acri-critatox
+Experimental riven rating: 43.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  130.9
+		Grade: B- (-1.99%)
+Critical Damage:  105.6
+		Grade: B (-1.2%)
+Toxin:  72.5
+		Grade: F (-9.55%)
+Magazine Capacity:  -37.1
+		Grade: A- (4.26%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: LYJZZX
+Value/Plat: 2.1
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Acri-visicron
+Experimental riven rating: 36.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  113.6
+		Grade: A (6.29%)
+Critical Chance:  121.0
+		Grade: C- (-9.4%)
+Damage:  147.7
+		Grade: B (0.66%)
+Slash:  -93.9
+		Grade: S (9.84%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1080   Buyout price: 1080
+Seller: hao0hao0hao-
+Value/Plat: 1.58
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Perigale Sati-acridra
+Experimental riven rating: 30.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  36.2
+Critical Damage:  81.4
+Multishot:  61.8
+Slash:  -62.5
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: benPedahtsour
+Value/Plat: 1.07
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

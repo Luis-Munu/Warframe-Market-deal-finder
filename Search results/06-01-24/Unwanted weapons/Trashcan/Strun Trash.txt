@@ -1,0 +1,1346 @@
+Name: Strun Lexi-critatis
+Experimental riven rating: 25.06
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Punch Through:  3.3
+		Grade: C (-6.07%)
+Critical Chance:  107.3
+		Grade: C- (-9.17%)
+Critical Damage:  120.9
+		Grade: B+ (2.35%)
+Projectile Speed:  -101.4
+		Grade: A (7.31%)
+
+Polarity: Madurai   Rerolls: 111   MR: 8
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: kl123321
+Value/Plat: 1.88
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 1.67, 
+Riven stats: 
+Punch Through:  0.4
+		Grade: B (-1.07%)
+Critical Chance:  14.3
+		Grade: A- (5.19%)
+Critical Damage:  12.3
+		Grade: F (-9.52%)
+Magazine Capacity:  -5.6
+		Grade: C (-7.21%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 16
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Wagiii
+Value/Plat: 1.65
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critatox
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -33.1, 
+Riven stats: 
+Critical Damage:  14.3
+		Grade: A+ (8.95%)
+Critical Chance:  12.7
+		Grade: B- (-3.24%)
+Toxin:  12.0
+		Grade: C- (-8.57%)
+Multishot:  -14.5
+		Grade: A- (3.8%)
+
+Polarity: Naramon   Rerolls: 191   MR: 13
+Riven rank : 0
+Initial price:  399   Buyout price: 399
+Seller: MrHuang886
+Value/Plat: 1.54
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-lexitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 2.59, 
+Riven stats: 
+Punch Through:  3.6
+		Grade: B (-1.07%)
+Critical Chance:  120.8
+		Grade: B (-1.26%)
+Critical Damage:  115.1
+		Grade: C (-5.92%)
+Magazine Capacity:  -54.0
+		Grade: B (-0.58%)
+
+Polarity: Naramon   Rerolls: 5   MR: 15
+Riven rank : 8
+Initial price:  399   Buyout price: 399
+Seller: _Arctorus_
+Value/Plat: 1.54
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -3.63, 
+Riven stats: 
+Multishot:  146.9
+		Grade: F (-9.76%)
+Damage:  221.3
+		Grade: B (-1.19%)
+Critical Chance:  119.8
+		Grade: B- (-2.08%)
+Status Duration:  -104.3
+		Grade: C+ (-4.08%)
+
+Polarity: Vazarin   Rerolls: 40   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: XannzerX
+Value/Plat: 1.54
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.25, 
+Riven stats: 
+Critical Chance:  123.0
+		Grade: B (0.53%)
+Critical Damage:  110.8
+		Grade: C- (-9.44%)
+Punch Through:  3.3
+		Grade: C- (-9.31%)
+Ammo Maximum:  -94.8
+		Grade: B- (-3.13%)
+
+Polarity: Naramon   Rerolls: 110   MR: 13
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: uyedfuyui
+Value/Plat: 1.54
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acridra
+Experimental riven rating: 29.5
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  98.9
+Critical Damage:  97.3
+Fire Rate_Attack Speed:  92.3
+Damage vs Grineer":  -0.6
+
+Polarity: Vazarin   Rerolls: 70   MR: 12
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: The_One_1519
+Value/Plat: 1.8
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Toxi-acricron
+Experimental riven rating: 33.05
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Toxin:  121.7
+		Grade: B (-0.53%)
+Critical Damage:  111.4
+		Grade: C- (-8.95%)
+Critical Chance:  124.0
+		Grade: B (1.35%)
+Status Chance:  -100.5
+		Grade: B+ (2.69%)
+
+Polarity: Naramon   Rerolls: 50   MR: 8
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: YuR1hANA
+Value/Plat: 2.01
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-acridra
+Experimental riven rating: 34.99
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  111.6
+		Grade: C (-5.53%)
+Damage:  218.9
+		Grade: B (1.23%)
+Fire Rate_Attack Speed:  106.4
+		Grade: F (-9.93%)
+Status Chance:  -95.1
+		Grade: B (0.64%)
+
+Polarity: Naramon   Rerolls: 35   MR: 8
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: KKFF33
+Value/Plat: 2.05
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-visican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.71, 
+Riven stats: 
+Critical Chance:  117.3
+		Grade: B (-0.7%)
+Damage:  237.6
+		Grade: S (9.88%)
+Multishot:  143.5
+		Grade: C- (-8.7%)
+Fire Rate_Attack Speed:  -85.7
+		Grade: C- (-9.3%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: dadiaomeinan
+Value/Plat: 1.46
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Croni-acriata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.44, 
+Riven stats: 
+Damage:  168.5
+		Grade: C- (-9.09%)
+Critical Damage:  102.1
+		Grade: B (0.84%)
+Fire Rate_Attack Speed:  105.4
+		Grade: A- (4.1%)
+Status Duration:  -84.5
+		Grade: C (-6.1%)
+
+Polarity: Naramon   Rerolls: 56   MR: 11
+Riven rank : 0
+Initial price:  500   Buyout price: 501
+Seller: SayMyName16
+Value/Plat: 1.46
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 1.42, 
+Riven stats: 
+Critical Chance:  112.2
+		Grade: C- (-8.29%)
+Critical Damage:  116.0
+		Grade: C+ (-5.19%)
+Heat:  122.0
+		Grade: B (-0.28%)
+Status Chance:  -89.5
+		Grade: C- (-8.55%)
+
+Polarity: Madurai   Rerolls: 82   MR: 11
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: xobo233500
+Value/Plat: 1.42
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critanok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 5.88, 
+Riven stats: 
+Critical Chance:  126.4
+		Grade: A (7.0%)
+Critical Damage:  107.5
+		Grade: C- (-9.0%)
+Punch Through:  3.4
+		Grade: B- (-3.23%)
+Magazine Capacity:  -54.4
+		Grade: A- (3.73%)
+
+Polarity: Naramon   Rerolls: 151   MR: 14
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: Ubi_Potato233
+Value/Plat: 1.42
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.32, 
+Riven stats: 
+Critical Chance:  126.2
+		Grade: A (6.83%)
+Critical Damage:  110.0
+		Grade: C (-6.88%)
+Heat:  128.7
+		Grade: A+ (8.95%)
+Recoil:  101.0
+		Grade: A (6.89%)
+
+Polarity: Naramon   Rerolls: 81   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Kirar-Epiphyllum
+Value/Plat: 1.39
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-saticron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -22.98, 
+Riven stats: 
+Critical Damage:  98.6
+		Grade: B- (-2.62%)
+Multishot:  129.5
+		Grade: C+ (-3.87%)
+Critical Chance:  94.7
+		Grade: C (-6.47%)
+Damage:  -156.0
+		Grade: A- (5.22%)
+
+Polarity: Naramon   Rerolls: 39   MR: 11
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: rizkysyarif3
+Value/Plat: 1.39
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-visidra
+Experimental riven rating: 38.19
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  111.1
+		Grade: S (9.72%)
+Damage:  176.3
+		Grade: C+ (-4.88%)
+Fire Rate_Attack Speed:  91.9
+		Grade: C- (-9.24%)
+Status Chance:  -82.2
+		Grade: B (1.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: RC31
+Value/Plat: 1.97
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.26, 
+Riven stats: 
+Critical Chance:  123.4
+		Grade: A- (4.46%)
+Critical Damage:  117.5
+		Grade: B (-0.53%)
+Heat:  107.5
+		Grade: C- (-9.0%)
+Ammo Maximum:  -90.2
+		Grade: C+ (-4.54%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: WizardlegendPrime
+Value/Plat: 1.34
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Croni-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.27, 
+Riven stats: 
+Critical Chance:  113.0
+		Grade: C- (-7.64%)
+Multishot:  149.4
+		Grade: C- (-8.22%)
+Fire Rate_Attack Speed:  124.8
+		Grade: B+ (2.0%)
+Status Duration:  -112.4
+		Grade: B+ (3.37%)
+
+Polarity: Naramon   Rerolls: 30   MR: 13
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: finiego
+Value/Plat: 1.34
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -12.79, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  103.3
+Critical Chance:  104.0
+Status Duration:  110.3
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 200   MR: 10
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: wenErmulberrycanthis
+Value/Plat: 1.34
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-satiata
+Experimental riven rating: 39.38
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  110.2
+		Grade: C (-6.71%)
+Multishot:  146.0
+		Grade: C (-7.11%)
+Damage:  199.4
+		Grade: C- (-7.79%)
+Slash:  -119.0
+		Grade: C (-5.55%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Dicuss.
+Value/Plat: 1.97
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 10.6, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  101.9
+Critical Damage:  192.1
+Damage:  108.5
+Status Duration:  -85.0
+
+Polarity: Naramon   Rerolls: 12   MR: 12
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: u_ykxl
+Value/Plat: 1.32
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-ignitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.87, 
+Riven stats: 
+Critical Damage:  120.2
+		Grade: B+ (1.75%)
+Heat:  108.3
+		Grade: C- (-8.32%)
+Critical Chance:  120.9
+		Grade: B+ (2.35%)
+Slash:  -128.8
+		Grade: B+ (2.23%)
+
+Polarity: Naramon   Rerolls: 2   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: idzuijinjiu
+Value/Plat: 1.3
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.01, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  112.8
+Critical Damage:  111.7
+Status Chance:  110.2
+Magazine Capacity:  -103.3
+
+Polarity: Vazarin   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: LiuLi1014
+Value/Plat: 1.3
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -7.4, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Duration:  111.8
+Critical Chance:  97.4
+Critical Damage:  101.7
+Damage vs Infested":  -58.1
+
+Polarity: Naramon   Rerolls: 41   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Liverdan
+Value/Plat: 1.3
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-critaata
+Experimental riven rating: 29.78
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  114.6
+		Grade: B- (-2.99%)
+Damage:  197.3
+		Grade: C- (-8.76%)
+Multishot:  157.7
+		Grade: B (0.33%)
+Magazine Capacity:  -51.5
+		Grade: B- (-1.8%)
+
+Polarity: Madurai   Rerolls: 40   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: ChangQing.
+Value/Plat: 1.48
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Croni-acricron
+Experimental riven rating: 35.97
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  111.2
+		Grade: C- (-9.11%)
+Fire Rate_Attack Speed:  120.6
+		Grade: B (-1.43%)
+Critical Damage:  112.1
+		Grade: C- (-8.38%)
+Slash:  -123.4
+		Grade: C+ (-5.43%)
+
+Polarity: Naramon   Rerolls: 36   MR: 13
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: ParKer76
+Value/Plat: 1.72
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-visicron
+Experimental riven rating: 37.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  223.9
+		Grade: B (-0.03%)
+Multishot:  167.7
+		Grade: B+ (3.02%)
+Critical Chance:  118.3
+		Grade: B- (-3.31%)
+Damage vs Grineer":  -50.0
+		Grade: B+ (2.18%)
+
+Polarity: Naramon   Rerolls: 14   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price: 800
+Seller: -Marilynmanson
+Value/Plat: 1.76
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Hexa-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.38, 
+Riven stats: 
+Critical Chance:  117.9
+		Grade: C+ (-3.64%)
+Status Chance:  123.8
+		Grade: B (1.19%)
+Critical Damage:  111.1
+		Grade: C- (-9.19%)
+Damage vs Grineer":  -47.2
+		Grade: C+ (-3.54%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 13
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: lovepirana
+Value/Plat: 1.28
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.32, 
+Riven stats: 
+Critical Chance:  106.7
+		Grade: A- (5.38%)
+Status Chance:  103.3
+		Grade: B+ (2.02%)
+Critical Damage:  104.9
+		Grade: A- (3.6%)
+Ammo Maximum:  -82.4
+		Grade: B+ (1.74%)
+
+Polarity: Vazarin   Rerolls: 94   MR: 10
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: Xapzy
+Value/Plat: 1.28
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Lexi-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.95, 
+Riven stats: 
+Critical Damage:  12.2
+		Grade: C (-7.05%)
+Punch Through:  0.4
+		Grade: B+ (2.47%)
+Critical Chance:  12.1
+		Grade: C- (-7.81%)
+Projectile Speed:  -10.8
+		Grade: B+ (2.87%)
+
+Polarity: Naramon   Rerolls: 107   MR: 8
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: zh_66
+Value/Plat: 1.27
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Lexi-critatis
+Experimental riven rating: 30.98
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  110.4
+		Grade: F (-9.77%)
+Punch Through:  3.5
+		Grade: C+ (-3.82%)
+Critical Chance:  114.7
+		Grade: C (-6.25%)
+Impact:  -135.7
+		Grade: A- (4.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: G1immer-
+Value/Plat: 1.47
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Hexa-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.87, 
+Riven stats: 
+Critical Chance:  119.1
+		Grade: B- (-2.65%)
+Critical Damage:  125.7
+		Grade: B+ (2.74%)
+Status Chance:  129.3
+		Grade: A (5.68%)
+Ammo Maximum:  -103.5
+		Grade: A (5.76%)
+
+Polarity: Madurai   Rerolls: 32   MR: 11
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: SHINI-baba
+Value/Plat: 1.25
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Toxi-critatis
+Experimental riven rating: 28.1
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  121.3
+		Grade: B+ (2.68%)
+Critical Damage:  116.9
+		Grade: B (-1.04%)
+Toxin:  126.1
+		Grade: A (6.75%)
+Damage vs Grineer":  -43.2
+		Grade: C- (-8.56%)
+
+Polarity: Madurai   Rerolls: 148   MR: 14
+Riven rank : 8
+Initial price:  998   Buyout price: 998
+Seller: Poolcore
+Value/Plat: 1.34
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Toxi-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 6.99, 
+Riven stats: 
+Critical Damage:  123.4
+		Grade: A- (4.46%)
+Toxin:  125.9
+		Grade: A (6.58%)
+Critical Chance:  106.4
+		Grade: F (-9.93%)
+Status Duration:  -113.5
+		Grade: A+ (8.11%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Suzakuin-Tsubaki
+Value/Plat: 1.23
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-visitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.39, 
+Riven stats: 
+Critical Chance:  113.3
+		Grade: C (-7.4%)
+Critical Damage:  110.6
+		Grade: F (-9.6%)
+Damage:  205.0
+		Grade: C- (-8.47%)
+Magazine Capacity:  -55.7
+		Grade: B+ (2.55%)
+
+Polarity: Vazarin   Rerolls: 84   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: period01
+Value/Plat: 1.23
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -12.11, 
+Riven stats: 
+Critical Damage:  122.2
+		Grade: B (-0.12%)
+Status Duration:  127.1
+		Grade: C (-6.5%)
+Critical Chance:  119.7
+		Grade: B- (-2.16%)
+Damage vs Corpus":  -48.0
+		Grade: B- (-1.91%)
+
+Polarity: Naramon   Rerolls: 30   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: qwerkl23
+Value/Plat: 1.23
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-hexatis
+Experimental riven rating: 25.42
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  103.1
+		Grade: B+ (1.82%)
+Critical Damage:  97.6
+		Grade: C+ (-3.61%)
+Status Chance:  101.6
+		Grade: B (0.34%)
+Slash:  -116.6
+		Grade: A+ (7.97%)
+
+Polarity: Madurai   Rerolls: 169   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Ichiharayuuko
+Value/Plat: 1.27
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critadex
+Experimental riven rating: 31.11
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  119.8
+		Grade: B- (-2.08%)
+Critical Chance:  128.0
+		Grade: A- (4.62%)
+Status Chance:  126.5
+		Grade: B+ (3.39%)
+Projectile Speed:  -88.5
+		Grade: F (-9.57%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: XuJlugan1993
+Value/Plat: 1.42
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-critaata
+Experimental riven rating: 31.76
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  148.9
+		Grade: C+ (-5.26%)
+Critical Chance:  110.2
+		Grade: C (-6.71%)
+Damage:  195.3
+		Grade: F (-9.68%)
+Status Chance:  -86.1
+		Grade: C- (-8.88%)
+
+Polarity: Naramon   Rerolls: 262   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Mlcic
+Value/Plat: 1.44
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-cronicron
+Experimental riven rating: 31.95
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  12.8
+		Grade: C (-5.84%)
+Critical Damage:  13.8
+		Grade: B+ (1.51%)
+Critical Chance:  12.6
+		Grade: C (-7.31%)
+Status Duration:  -11.7
+		Grade: B- (-3.16%)
+
+Polarity: Naramon   Rerolls: 13   MR: 10
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: XuanxuanVI
+Value/Plat: 1.45
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-critatis
+Experimental riven rating: 32.93
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  218.0
+		Grade: B- (-2.66%)
+Critical Chance:  112.6
+		Grade: C- (-7.97%)
+Critical Damage:  110.4
+		Grade: F (-9.77%)
+Status Chance:  -99.6
+		Grade: B+ (1.77%)
+
+Polarity: Madurai   Rerolls: 36   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: zunyao3
+Value/Plat: 1.48
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-critatis
+Experimental riven rating: 36.11
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  92.0
+Damage:  178.0
+Critical Chance:  96.0
+Damage vs Corpus":  -0.6
+
+Polarity: Madurai   Rerolls: 40   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: guolaidong
+Value/Plat: 1.59
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-visican
+Experimental riven rating: 38.75
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  127.3
+		Grade: A+ (7.76%)
+Multishot:  147.5
+		Grade: C (-6.15%)
+Damage:  231.8
+		Grade: A (7.2%)
+Status Chance:  -86.0
+		Grade: C- (-8.99%)
+
+Polarity: Naramon   Rerolls: 245   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Lcxyd_cc
+Value/Plat: 1.69
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Toxi-acricron
+Experimental riven rating: 34.11
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  107.8
+Critical Damage:  115.3
+Toxin:  125.5
+Damage vs Corpus":  -0.5
+
+Polarity: Naramon   Rerolls: 23   MR: 14
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Godzilla-Prime
+Value/Plat: 1.43
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.58, 
+Riven stats: 
+Critical Chance:  117.6
+		Grade: B (-0.45%)
+Critical Damage:  129.7
+		Grade: S (9.8%)
+Status Chance:  106.6
+		Grade: F (-9.76%)
+Damage vs Corpus":  -51.8
+		Grade: S (9.64%)
+
+Polarity: Naramon   Rerolls: 81   MR: 13
+Riven rank : 8
+Initial price:  1299   Buyout price: 1299
+Seller: D.P.war
+Value/Plat: 1.16
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-acridra
+Experimental riven rating: 30.78
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  127.8
+		Grade: A+ (8.19%)
+Fire Rate_Attack Speed:  109.1
+		Grade: C- (-7.64%)
+Damage:  237.7
+		Grade: S (9.93%)
+Magazine Capacity:  -52.2
+		Grade: B (-0.46%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: -Qorvex-
+Value/Plat: 1.27
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 6.38, 
+Riven stats: 
+Status Duration:  121.2
+		Grade: C- (-7.66%)
+Critical Chance:  109.6
+		Grade: C (-7.22%)
+Critical Damage:  127.9
+		Grade: A+ (8.27%)
+Impact:  -137.0
+		Grade: A+ (8.74%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 1500
+Seller: Mirungo
+Value/Plat: 1.12
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-critatis
+Experimental riven rating: 37.2
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  118.6
+Multishot:  159.2
+Critical Damage:  113.6
+Damage vs Grineer":  -56.0
+
+Polarity: Madurai   Rerolls: 15   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: WZQLB
+Value/Plat: 1.4
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critadex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.45, 
+Riven stats: 
+Critical Damage:  118.9
+		Grade: B- (-2.82%)
+Status Chance:  112.3
+		Grade: C- (-8.21%)
+Critical Chance:  117.0
+		Grade: C+ (-4.37%)
+Magazine Capacity:  -50.8
+		Grade: C (-6.47%)
+
+Polarity: Madurai   Rerolls: 48   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1600
+Seller: Unlimited-Blade-Works-YN
+Value/Plat: 1.1
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-critatis
+Experimental riven rating: 33.49
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  105.7
+		Grade: A- (4.39%)
+Critical Damage:  106.5
+		Grade: A- (5.18%)
+Multishot:  144.7
+		Grade: A (7.41%)
+Status Duration:  -98.6
+		Grade: S (9.57%)
+
+Polarity: Madurai   Rerolls: 9   MR: 16
+Riven rank : 8
+Initial price:  1888   Buyout price: 1888
+Seller: YuHdadi
+Value/Plat: 1.21
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-satidra
+Experimental riven rating: 34.86
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  125.1
+		Grade: A (5.9%)
+Multishot:  172.1
+		Grade: A+ (9.5%)
+Fire Rate_Attack Speed:  109.0
+		Grade: C- (-7.73%)
+Magazine Capacity:  -50.1
+		Grade: C+ (-4.47%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1900   Buyout price: 1900
+Seller: warframe2035-0.O
+Value/Plat: 1.24
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 8.6, 
+Riven stats: 
+Status Chance:  121.7
+		Grade: B+ (3.02%)
+Critical Damage:  117.7
+		Grade: B (-0.36%)
+Critical Chance:  107.1
+		Grade: C- (-9.34%)
+Reload Speed:  -49.4
+		Grade: C (-5.8%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 10
+Riven rank : 0
+Initial price:  1000   Buyout price: 2000
+Seller: Dofalamingo
+Value/Plat: 1.04
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Hexa-acricron
+Experimental riven rating: 34.17
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  117.7
+		Grade: B (-0.36%)
+Critical Chance:  108.1
+		Grade: C- (-8.49%)
+Status Chance:  119.5
+		Grade: B (1.16%)
+Impact:  -124.5
+		Grade: B (-1.18%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: --Shablauw--
+Value/Plat: 1.2
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -10.22, 
+Riven stats: 
+Critical Chance:  117.9
+		Grade: C+ (-3.64%)
+Critical Damage:  129.7
+		Grade: A (6.01%)
+Status Duration:  142.5
+		Grade: A- (4.82%)
+Damage vs Infested":  -49.0
+		Grade: B (0.14%)
+
+Polarity: Madurai   Rerolls: 51   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 3000
+Seller: Oma_Shu
+Value/Plat: 0.95
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -30.73, 
+Riven stats: 
+Critical Damage:  111.9
+		Grade: C- (-8.54%)
+Status Duration:  139.8
+		Grade: B+ (2.84%)
+Critical Chance:  126.7
+		Grade: A- (3.56%)
+Magazine Capacity:  -53.3
+		Grade: B- (-1.87%)
+
+Polarity: Madurai   Rerolls: 274   MR: 8
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: lqs0032
+Value/Plat: 0.95
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acrican
+Experimental riven rating: 39.97
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  128.6
+		Grade: A- (5.11%)
+Multishot:  161.1
+		Grade: B (-1.04%)
+Critical Damage:  128.1
+		Grade: A- (4.7%)
+Magazine Capacity:  -55.9
+		Grade: B+ (2.92%)
+
+Polarity: Madurai   Rerolls: 23   MR: 10
+Riven rank : 8
+Initial price:  4000   Buyout price:  infinite 
+Seller: kwbnyg
+Value/Plat: 0.28
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Crita-acrican
+Experimental riven rating: 39.74
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  128.5
+		Grade: A- (5.03%)
+Critical Damage:  111.9
+		Grade: C- (-8.54%)
+Multishot:  148.4
+		Grade: C- (-8.84%)
+Reload Speed:  -48.9
+		Grade: F (-9.97%)
+
+Polarity: Madurai   Rerolls: 314   MR: 11
+Riven rank : 8
+Initial price:  3000   Buyout price:  infinite 
+Seller: Ghost747380
+Value/Plat: 0.28
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Visi-acricron
+Experimental riven rating: 38.59
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  97.2
+		Grade: C+ (-4.0%)
+Critical Chance:  92.7
+		Grade: C- (-8.45%)
+Damage:  197.4
+		Grade: A (6.5%)
+Ammo Maximum:  -87.2
+		Grade: A+ (7.67%)
+
+Polarity: Madurai   Rerolls: 48   MR: 10
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: Myura18
+Value/Plat: 0.28
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Croni-satitis
+Experimental riven rating: 32.32
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  85.6
+		Grade: C- (-9.41%)
+Multishot:  121.2
+		Grade: C+ (-3.6%)
+Fire Rate_Attack Speed:  92.9
+		Grade: B- (-1.68%)
+
+Polarity: Madurai   Rerolls: 54   MR: 16
+Riven rank : 0
+Initial price:  199   Buyout price:  infinite 
+Seller: IkemenDesuNe
+Value/Plat: 0.33
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-cronicron
+Experimental riven rating: 32.0
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  128.0
+		Grade: A- (4.62%)
+Critical Chance:  123.5
+		Grade: B (0.94%)
+Critical Damage:  129.3
+		Grade: A (5.68%)
+Magazine Capacity:  -56.0
+		Grade: B+ (3.1%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price:  infinite 
+Seller: hua_er
+Value/Plat: 0.33
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-acricron
+Experimental riven rating: 31.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  144.0
+		Grade: C- (-8.38%)
+Critical Damage:  110.8
+		Grade: C (-6.2%)
+Critical Chance:  121.0
+		Grade: B+ (2.43%)
+Magazine Capacity:  -49.3
+		Grade: C (-5.99%)
+
+Polarity: Naramon   Rerolls: 89   MR: 11
+Riven rank : 8
+Initial price:  6500   Buyout price:  infinite 
+Seller: RAGAZII
+Value/Plat: 0.34
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -43.07, 
+Riven stats: 
+Multishot:  142.4
+		Grade: C- (-9.4%)
+Critical Chance:  113.9
+		Grade: C+ (-3.58%)
+Critical Damage:  119.1
+		Grade: B (0.82%)
+Damage:  -160.3
+		Grade: C (-7.32%)
+
+Polarity: Vazarin   Rerolls: 54   MR: 12
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: lindacheng666
+Value/Plat: 0.41
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------

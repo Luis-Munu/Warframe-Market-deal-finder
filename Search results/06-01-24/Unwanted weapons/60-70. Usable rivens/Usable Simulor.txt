@@ -1,0 +1,22 @@
+Name: Simulor Acri-critatox
+Experimental riven rating: 62.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  172.3
+		Grade: B- (-1.95%)
+Critical Damage:  152.7
+		Grade: A+ (8.58%)
+Toxin:  106.7
+		Grade: B (1.16%)
+Impact:  -120.3
+		Grade: A (6.94%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: BlueHair-miku
+Value/Plat: 3.1
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

@@ -1,0 +1,44 @@
+Name: Ignis Deci-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 3.44, 
+Riven stats: 
+Status Duration:  47.8
+		Grade: C (-7.3%)
+Critical Damage:  66.5
+		Grade: A (7.47%)
+Critical Chance:  78.2
+		Grade: B (1.14%)
+Ammo Maximum:  -19.5
+		Grade: C+ (-5.35%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: Dark-Aromr
+Value/Plat: 1.82
+Used disposition: 0.55
+Real disposition: 0.6
+--------------------------------------------------
+Name: Ignis Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.57, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  79.2
+		Grade: C (-6.1%)
+Critical Damage:  62.9
+		Grade: C (-6.82%)
+Heat:  50.0
+		Grade: B (-1.24%)
+Reload Speed:  -21.1
+		Grade: C (-6.12%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Skull
+Value/Plat: 1.46
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

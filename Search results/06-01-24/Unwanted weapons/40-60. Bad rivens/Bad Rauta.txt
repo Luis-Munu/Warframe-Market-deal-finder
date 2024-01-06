@@ -1,0 +1,88 @@
+Name: Rauta Sati-critatis
+Experimental riven rating: 58.96
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  62.6
+		Grade: B (-1.08%)
+Critical Damage:  61.6
+		Grade: B- (-2.66%)
+Multishot:  91.8
+		Grade: A+ (9.03%)
+Status Chance:  -53.0
+		Grade: A- (4.7%)
+
+Polarity: Vazarin   Rerolls: 11   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Master-Saryn-Prime
+Value/Plat: 4.28
+Used disposition: 0.75
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Acri-visicron
+Experimental riven rating: 58.8
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  42.0
+		Grade: F (-10.0%)
+Damage:  80.4
+		Grade: F (-10.0%)
+Critical Chance:  40.2
+		Grade: F (-10.0%)
+Damage vs Grineer":  -16.7
+		Grade: F (-10.0%)
+
+Polarity: Naramon   Rerolls: 17   MR: 16
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: Pekar_CZ
+Value/Plat: 2.84
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Sati-cronicron
+Experimental riven rating: 51.35
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  76.2
+		Grade: F (-9.5%)
+Fire Rate_Attack Speed:  59.4
+		Grade: C (-6.14%)
+Critical Chance:  64.3
+		Grade: B+ (1.61%)
+Status Chance:  -54.9
+		Grade: A+ (8.46%)
+
+Polarity: Naramon   Rerolls: 59   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: CauTayPrime.LiMiTed
+Value/Plat: 2.32
+Used disposition: 0.75
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Sati-acricron
+Experimental riven rating: 57.0
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  63.2
+		Grade: F (-10.0%)
+Critical Damage:  65.9
+		Grade: F (-10.0%)
+Multishot:  89.3
+		Grade: F (-10.0%)
+Status Duration:  -54.5
+		Grade: F (-10.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: FANGWENLONG
+Value/Plat: 2.14
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------

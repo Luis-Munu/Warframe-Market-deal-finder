@@ -1,0 +1,44 @@
+Name: Argonak Sati-critaata
+Experimental riven rating: 56.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  194.8
+		Grade: B (0.9%)
+Multishot:  109.9
+		Grade: A- (4.2%)
+Critical Chance:  179.8
+		Grade: B+ (2.32%)
+Reload Speed:  -48.0
+		Grade: B+ (2.51%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Be_A_Batman
+Value/Plat: 2.42
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Argonak Crita-acrican
+Experimental riven rating: 74.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  168.2
+		Grade: C+ (-4.28%)
+Critical Damage:  144.3
+		Grade: B+ (2.61%)
+Multishot:  104.2
+		Grade: B (-1.21%)
+Recoil:  89.0
+		Grade: A- (5.49%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  8000   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.14
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

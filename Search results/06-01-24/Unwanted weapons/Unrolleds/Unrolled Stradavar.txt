@@ -1,0 +1,88 @@
+Name: Stradavar Crita-visitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -21.04, 
+Riven stats: 
+Critical Chance:  18.2
+		Grade: A (5.92%)
+Critical Damage:  13.0
+		Grade: C+ (-5.46%)
+Damage:  20.0
+		Grade: A (5.94%)
+Multishot:  -8.1
+		Grade: B- (-1.81%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: AQDBB1
+Value/Plat: 1.3
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Croni-critacan
+Experimental riven rating: 51.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  167.1
+		Grade: A+ (8.06%)
+Multishot:  91.1
+		Grade: B- (-1.85%)
+Fire Rate_Attack Speed:  67.5
+		Grade: A+ (9.0%)
+Magazine Capacity:  -41.3
+		Grade: B (0.23%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: BingNiao
+Value/Plat: 2.64
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Visi-saticron
+Experimental riven rating: 42.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  184.2
+		Grade: A+ (8.42%)
+Multishot:  93.3
+		Grade: B (0.52%)
+Critical Chance:  151.0
+		Grade: B- (-2.35%)
+Status Chance:  -69.2
+		Grade: C (-6.79%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: SordidDreams
+Value/Plat: 1.56
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Crita-satidra
+Experimental riven rating: 81.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  58.5
+		Grade: C (-5.54%)
+Multishot:  88.0
+		Grade: C+ (-5.19%)
+Critical Chance:  167.1
+		Grade: A+ (8.06%)
+Impact:  -94.6
+		Grade: C+ (-4.43%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: xinwan630527
+Value/Plat: 3.95
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

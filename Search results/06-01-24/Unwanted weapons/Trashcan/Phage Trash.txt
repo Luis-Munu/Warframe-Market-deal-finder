@@ -1,0 +1,458 @@
+Name: Phage Acri-visidra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.75, 
+Riven stats: 
+Critical Damage:  12.9
+		Grade: C (-5.76%)
+Damage:  25.0
+		Grade: B (-0.22%)
+Fire Rate_Attack Speed:  12.6
+		Grade: C- (-7.95%)
+Magazine Capacity:  -5.5
+		Grade: C- (-9.49%)
+
+Polarity: Madurai   Rerolls: 11   MR: 10
+Riven rank : 0
+Initial price:  110   Buyout price: 110
+Seller: warworldquailty
+Value/Plat: 2.1
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 11.25, 
+Riven stats: 
+Status Chance:  111.1
+		Grade: F (-9.82%)
+Critical Chance:  117.5
+		Grade: C+ (-4.62%)
+Critical Damage:  122.6
+		Grade: B (-0.48%)
+Magazine Capacity:  -56.4
+		Grade: B+ (3.13%)
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  130   Buyout price: 130
+Seller: Sinkingendlesslyxxi
+Value/Plat: 2.01
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-satiata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.23, 
+Riven stats: 
+Multishot:  169.7
+		Grade: A- (3.53%)
+Critical Chance:  135.0
+		Grade: S (9.59%)
+Damage:  232.7
+		Grade: B+ (3.19%)
+Status Duration:  -109.0
+		Grade: B (-0.45%)
+
+Polarity: Madurai   Rerolls: 7   MR: 9
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: judiao.fzx
+Value/Plat: 1.95
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.01, 
+Riven stats: 
+Critical Chance:  135.2
+		Grade: S (9.75%)
+Critical Damage:  132.5
+		Grade: A+ (7.56%)
+Status Duration:  131.6
+		Grade: C+ (-3.86%)
+Damage vs Corpus":  -54.0
+		Grade: S (9.6%)
+
+Polarity: Naramon   Rerolls: 7   MR: 13
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: Djpopple
+Value/Plat: 1.82
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -15.97, 
+Riven stats: 
+Status Duration:  142.8
+		Grade: A- (4.33%)
+Critical Damage:  119.7
+		Grade: B- (-2.83%)
+Critical Chance:  123.7
+		Grade: B (0.41%)
+Reload Speed:  -53.0
+		Grade: B- (-3.09%)
+
+Polarity: Madurai   Rerolls: 10   MR: 16
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: golven1
+Value/Plat: 1.82
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.76, 
+Riven stats: 
+Critical Damage:  13.1
+		Grade: C+ (-4.3%)
+Status Chance:  13.5
+		Grade: B (-1.37%)
+Critical Chance:  13.4
+		Grade: B- (-2.1%)
+Damage vs Corpus":  -5.9
+		Grade: A+ (7.77%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Evil-Ogris
+Value/Plat: 1.65
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-toxitis
+Experimental riven rating: 30.62
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  124.8
+Toxin:  132.9
+Critical Damage:  122.7
+Status Chance:  -84.9
+
+Polarity: Naramon   Rerolls: 6   MR: 8
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: caobaochuan
+Value/Plat: 2.04
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-acridex
+Experimental riven rating: 25.16
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  128.1
+Status Chance:  119.7
+Critical Damage:  123.4
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Rosloz
+Value/Plat: 1.59
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.7, 
+Riven stats: 
+Critical Chance:  110.9
+		Grade: F (-9.98%)
+Critical Damage:  114.2
+		Grade: C (-7.3%)
+Heat:  121.9
+		Grade: B (-1.05%)
+Ammo Maximum:  -95.1
+		Grade: B- (-3.49%)
+
+Polarity: Madurai   Rerolls: 7   MR: 8
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: Biklon6666
+Value/Plat: 1.49
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 7.32, 
+Riven stats: 
+Heat:  124.0
+		Grade: B (0.66%)
+Critical Damage:  129.8
+		Grade: A- (5.36%)
+Critical Chance:  113.5
+		Grade: C- (-7.87%)
+Magazine Capacity:  -56.0
+		Grade: B+ (2.4%)
+
+Polarity: Madurai   Rerolls: 1   MR: 13
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: AfricanMomboJombo
+Value/Plat: 1.49
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.15, 
+Riven stats: 
+Critical Damage:  131.5
+		Grade: A (6.74%)
+Heat:  124.6
+		Grade: B (1.14%)
+Critical Chance:  120.7
+		Grade: B- (-2.02%)
+Status Chance:  -94.5
+		Grade: C+ (-4.1%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: BreezeTMP
+Value/Plat: 1.46
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Croni-critatis
+Experimental riven rating: 37.38
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  14.7
+		Grade: A (7.39%)
+Critical Damage:  14.3
+		Grade: A- (4.47%)
+Critical Chance:  14.4
+		Grade: A- (5.2%)
+Status Chance:  -11.0
+		Grade: B (0.47%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  300   Buyout price: 500
+Seller: __Yuu__
+Value/Plat: 2.12
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.4, 
+Riven stats: 
+Critical Damage:  12.6
+		Grade: C- (-7.95%)
+Critical Chance:  12.5
+		Grade: C- (-8.68%)
+Heat:  13.8
+		Grade: B (0.82%)
+Ammo Maximum:  -10.0
+		Grade: C- (-8.67%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: Umbrellaintherain
+Value/Plat: 1.39
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Crita-acrican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -16.13, 
+Riven stats: 
+Critical Chance:  129.6
+		Grade: A- (5.2%)
+Multishot:  157.6
+		Grade: C+ (-3.85%)
+Critical Damage:  127.9
+		Grade: A- (3.82%)
+Damage:  -183.4
+		Grade: B+ (1.67%)
+
+Polarity: Madurai   Rerolls: 5   MR: 15
+Riven rank : 0
+Initial price:  1   Buyout price: 600
+Seller: Skarpmaster
+Value/Plat: 1.39
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Sati-critadra
+Experimental riven rating: 32.58
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  113.5
+		Grade: C- (-7.87%)
+Fire Rate_Attack Speed:  111.9
+		Grade: C- (-9.17%)
+Multishot:  157.3
+		Grade: C+ (-4.03%)
+Magazine Capacity:  -51.3
+		Grade: C (-6.2%)
+
+Polarity: Madurai   Rerolls: 53   MR: 10
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: keshaking2
+Value/Plat: 1.74
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-cronicron
+Experimental riven rating: 38.41
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  120.6
+		Grade: B- (-2.1%)
+Fire Rate_Attack Speed:  132.8
+		Grade: A+ (7.8%)
+Critical Chance:  119.4
+		Grade: B- (-3.08%)
+Magazine Capacity:  -59.5
+		Grade: A+ (8.8%)
+
+Polarity: Madurai   Rerolls: 33   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: yingleren
+Value/Plat: 1.75
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-ignicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.31, 
+Riven stats: 
+Critical Chance:  116.6
+		Grade: C+ (-5.35%)
+Critical Damage:  134.7
+		Grade: A+ (9.34%)
+Heat:  130.9
+		Grade: A (6.26%)
+Damage vs Corpus":  -52.0
+		Grade: A (5.54%)
+
+Polarity: Madurai   Rerolls: 2   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price: 1000
+Seller: XUNTHEBESTPRIME
+Value/Plat: 1.23
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-visidra
+Experimental riven rating: 37.96
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  26.4
+		Grade: A- (5.36%)
+Fire Rate_Attack Speed:  13.7
+		Grade: B (0.09%)
+Critical Damage:  14.9
+		Grade: A+ (8.85%)
+Reload Speed:  -5.5
+		Grade: C- (-9.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: CHU.YI
+Value/Plat: 1.66
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Croni-critacan
+Experimental riven rating: 38.4
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  125.3
+		Grade: B+ (1.71%)
+Multishot:  162.7
+		Grade: B (-0.74%)
+Critical Chance:  122.9
+		Grade: B (-0.24%)
+Magazine Capacity:  -52.3
+		Grade: C+ (-4.37%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: pandahu2
+Value/Plat: 1.68
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Igni-critatis
+Experimental riven rating: 32.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Heat:  113.3
+		Grade: C- (-8.03%)
+Critical Chance:  111.6
+		Grade: C- (-9.41%)
+Critical Damage:  131.8
+		Grade: A (6.99%)
+Recoil:  91.5
+		Grade: C (-7.14%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1800   Buyout price:  infinite 
+Seller: art_chef
+Value/Plat: 0.33
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -20.59, 
+Riven stats: 
+Critical Chance:  122.8
+		Grade: B (-0.32%)
+Critical Damage:  125.5
+		Grade: B+ (1.87%)
+Status Duration:  133.8
+		Grade: B- (-2.25%)
+Magazine Capacity:  -50.9
+		Grade: C (-6.93%)
+
+Polarity: Madurai   Rerolls: 36   MR: 15
+Riven rank : 0
+Initial price:  1   Buyout price:  infinite 
+Seller: SARS69
+Value/Plat: 0.41
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------

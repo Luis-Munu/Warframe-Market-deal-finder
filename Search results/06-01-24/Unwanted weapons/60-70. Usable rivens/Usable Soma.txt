@@ -1,0 +1,66 @@
+Name: Soma Visi-acridra
+Experimental riven rating: 66.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  61.3
+		Grade: C+ (-5.32%)
+Critical Damage:  125.9
+		Grade: B- (-2.69%)
+Damage:  184.7
+		Grade: A- (3.98%)
+Puncture:  -106.4
+		Grade: B+ (2.81%)
+
+Polarity: Madurai   Rerolls: 10   MR: 16
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: clamantsilver1
+Value/Plat: 4.43
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Sati-cronicron
+Experimental riven rating: 66.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  101.4
+		Grade: A- (4.5%)
+Fire Rate_Attack Speed:  65.8
+		Grade: B+ (1.63%)
+Critical Chance:  149.6
+		Grade: C (-7.47%)
+Recoil:  79.8
+		Grade: B+ (2.81%)
+
+Polarity: Madurai   Rerolls: 30   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 2.69
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Soma Croni-acrican
+Experimental riven rating: 61.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  139.1
+		Grade: A+ (7.51%)
+Multishot:  97.5
+		Grade: B (0.48%)
+Fire Rate_Attack Speed:  70.9
+		Grade: S (9.51%)
+Status Chance:  -75.2
+		Grade: B- (-3.11%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 10
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: -Qorvex-
+Value/Plat: 2.27
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

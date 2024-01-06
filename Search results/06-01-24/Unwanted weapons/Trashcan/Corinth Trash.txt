@@ -1,0 +1,240 @@
+Name: Corinth Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.76, 
+Riven stats: 
+Status Duration:  97.9
+		Grade: C- (-9.2%)
+Critical Damage:  92.3
+		Grade: C+ (-4.88%)
+Critical Chance:  91.1
+		Grade: C (-6.12%)
+Projectile Speed:  -80.9
+		Grade: A- (4.23%)
+
+Polarity: Naramon   Rerolls: 5   MR: 10
+Riven rank : 8
+Initial price:  30   Buyout price: 30
+Seller: -CK-Milfmachine_
+Value/Plat: 2.86
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.81, 
+Riven stats: 
+Critical Damage:  11.0
+		Grade: B+ (2.03%)
+Critical Chance:  9.9
+		Grade: C- (-8.18%)
+Status Chance:  11.4
+		Grade: A (5.74%)
+Damage vs Grineer":  -4.0
+		Grade: C (-7.24%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 8
+Riven rank : 0
+Initial price:  180   Buyout price: 180
+Seller: jwcjbd
+Value/Plat: 1.86
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.81, 
+Riven stats: 
+Critical Chance:  89.6
+		Grade: C- (-7.66%)
+Critical Damage:  99.3
+		Grade: B+ (2.33%)
+Status Chance:  90.0
+		Grade: C (-7.25%)
+Magazine Capacity:  -45.8
+		Grade: A (6.32%)
+
+Polarity: Naramon   Rerolls: 16   MR: 11
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: DilancioPrime
+Value/Plat: 1.82
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-acripha
+Experimental riven rating: 30.21
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  103.7
+Critical Damage:  92.8
+Heat:  92.4
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 3   MR: 12
+Riven rank : 8
+Initial price:  399   Buyout price: 399
+Seller: Raven_Bond
+Value/Plat: 1.84
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.85, 
+Riven stats: 
+Critical Chance:  97.2
+		Grade: B (0.17%)
+Critical Damage:  98.5
+		Grade: B+ (1.51%)
+Status Duration:  112.5
+		Grade: A- (4.34%)
+Impact:  -105.0
+		Grade: B (1.46%)
+
+Polarity: Madurai   Rerolls: 12   MR: 13
+Riven rank : 8
+Initial price:  150   Buyout price: 400
+Seller: wanyyw
+Value/Plat: 1.54
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Acri-critadex
+Experimental riven rating: 34.61
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  100.7
+		Grade: A- (3.78%)
+Status Chance:  89.7
+		Grade: C- (-7.56%)
+Critical Damage:  101.3
+		Grade: A- (4.4%)
+Damage vs Corpus":  -37.2
+		Grade: C+ (-4.15%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Quota
+Value/Plat: 2.11
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.75, 
+Riven stats: 
+Critical Chance:  88.5
+		Grade: C- (-8.8%)
+Status Duration:  107.8
+		Grade: B (-0.01%)
+Critical Damage:  100.3
+		Grade: B+ (3.37%)
+Puncture:  -109.5
+		Grade: A (5.81%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Crepuscular2322
+Value/Plat: 1.46
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-acrican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -20.91, 
+Riven stats: 
+Critical Chance:  93.5
+		Grade: C+ (-3.64%)
+Critical Damage:  92.9
+		Grade: C+ (-4.26%)
+Multishot:  121.4
+		Grade: C (-5.97%)
+Damage:  -137.2
+		Grade: B- (-3.44%)
+
+Polarity: Naramon   Rerolls: 15   MR: 16
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: qingnihebeihaoguozhi
+Value/Plat: 1.3
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-lexitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.73, 
+Riven stats: 
+Critical Damage:  89.3
+		Grade: C- (-7.97%)
+Punch Through:  2.8
+		Grade: B- (-2.98%)
+Critical Chance:  104.5
+		Grade: A+ (7.69%)
+Magazine Capacity:  -42.4
+		Grade: B- (-1.57%)
+
+Polarity: Vazarin   Rerolls: 77   MR: 13
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: Melinoia
+Value/Plat: 1.27
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Hexa-critatis
+Experimental riven rating: 35.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  89.3
+		Grade: A (5.83%)
+Critical Damage:  88.7
+		Grade: A- (5.12%)
+Status Chance:  89.6
+		Grade: A (6.19%)
+Ammo Maximum:  -63.7
+		Grade: C (-5.62%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Mellow34
+Value/Plat: 1.56
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Hexa-critatis
+Experimental riven rating: 26.27
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Status Chance:  98.1
+		Grade: B (1.1%)
+Critical Chance:  105.7
+		Grade: A+ (8.93%)
+Critical Damage:  94.7
+		Grade: B- (-2.41%)
+Damage vs Grineer":  -37.7
+		Grade: B- (-2.86%)
+
+Polarity: Madurai   Rerolls: 29   MR: 13
+Riven rank : 0
+Initial price:  1333   Buyout price: 1333
+Seller: XWS11
+Value/Plat: 1.2
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

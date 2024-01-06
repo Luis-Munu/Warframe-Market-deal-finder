@@ -1,0 +1,236 @@
+Name: Stahlta Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 14.21, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  76.0
+		Grade: F (-9.93%)
+Critical Chance:  144.2
+		Grade: B+ (2.57%)
+Critical Damage:  106.7
+		Grade: C+ (-5.16%)
+Fire Rate_Attack Speed:  -46.0
+		Grade: B+ (2.15%)
+
+Polarity: Madurai   Rerolls: 8   MR: 14
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: baro52
+Value/Plat: 1.59
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acridex
+Experimental riven rating: 38.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  154.3
+Critical Damage:  123.1
+Status Chance:  46.2
+Damage vs Grineer":  -69.0
+
+Polarity: Vazarin   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: PoppyPoppy_
+Value/Plat: 2.35
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.44, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  128.1
+		Grade: C- (-8.88%)
+Critical Damage:  111.8
+		Grade: B (-0.63%)
+Status Duration:  90.3
+		Grade: C+ (-3.68%)
+Projectile Speed:  -62.1
+		Grade: C- (-7.99%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 14
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: K_I_B_O_R_G
+Value/Plat: 1.49
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-acrican
+Experimental riven rating: 26.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  113.9
+		Grade: B (1.24%)
+Multishot:  77.8
+		Grade: C- (-7.8%)
+Fire Rate_Attack Speed:  60.8
+		Grade: A+ (7.99%)
+Status Chance:  -70.3
+		Grade: A- (4.16%)
+
+Polarity: Naramon   Rerolls: 55   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: CNL77
+Value/Plat: 1.56
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acrides
+Experimental riven rating: 27.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.7
+		Grade: A (6.49%)
+Critical Damage:  108.7
+		Grade: B- (-3.38%)
+Status Duration:  87.2
+		Grade: C (-6.99%)
+Puncture:  -85.3
+		Grade: C+ (-5.21%)
+
+Polarity: Naramon   Rerolls: 41   MR: 9
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: Duang-G
+Value/Plat: 1.57
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Igni-critatis
+Experimental riven rating: 32.08
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  148.8
+		Grade: A (5.85%)
+Critical Damage:  104.6
+		Grade: C (-7.03%)
+Heat:  89.3
+		Grade: A (5.83%)
+Ammo Maximum:  -35.4
+		Grade: C+ (-5.5%)
+
+Polarity: Madurai   Rerolls: 58   MR: 15
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Death_Jue
+Value/Plat: 1.71
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acridex
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -31.81, 
+Riven stats: 
+Critical Damage:  13.1
+		Grade: A- (4.8%)
+Status Chance:  8.9
+		Grade: C+ (-5.07%)
+Critical Chance:  16.9
+		Grade: A+ (8.19%)
+Multishot:  -7.5
+		Grade: B (0.01%)
+
+Polarity: Madurai   Rerolls: 14   MR: 9
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: sk090807
+Value/Plat: 1.3
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 4.93, 
+Riven stats: 
+Critical Chance:  154.4
+		Grade: S (9.83%)
+Status Duration:  95.9
+		Grade: B+ (2.29%)
+Critical Damage:  108.0
+		Grade: C+ (-4.0%)
+Ammo Maximum:  -34.7
+		Grade: C (-7.36%)
+
+Polarity: Naramon   Rerolls: 335   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Suren-LLL
+Value/Plat: 1.3
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Croni-critacan
+Experimental riven rating: 35.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  124.0
+Multishot:  73.6
+Fire Rate_Attack Speed:  50.0
+Status Duration:  -74.1
+
+Polarity: Vazarin   Rerolls: 52   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: JinXianBing
+Value/Plat: 1.36
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acrican
+Experimental riven rating: 27.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  130.0
+		Grade: C- (-7.53%)
+Critical Damage:  117.6
+		Grade: A- (4.53%)
+Multishot:  78.0
+		Grade: C- (-7.56%)
+Status Duration:  -68.6
+		Grade: C- (-8.52%)
+
+Polarity: Naramon   Rerolls: 50   MR: 11
+Riven rank : 0
+Initial price:  2050   Buyout price: 2050
+Seller: Primitive-power
+Value/Plat: 1.09
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Stahlta Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.22, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  96.5
+Status Duration:  80.3
+Critical Chance:  132.7
+Puncture:  -81.7
+
+Polarity: Vazarin   Rerolls: 26   MR: 9
+Riven rank : 8
+Initial price:  350   Buyout price:  infinite 
+Seller: Huffee
+Value/Plat: 0.41
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

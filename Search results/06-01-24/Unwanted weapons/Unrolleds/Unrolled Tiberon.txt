@@ -1,0 +1,62 @@
+Name: Tiberon Acri-critanok
+Experimental riven rating: 30.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  150.7
+		Grade: B- (-2.55%)
+Critical Damage:  122.1
+		Grade: B (-1.34%)
+Punch Through:  2.6
+		Grade: C (-5.81%)
+Status Chance:  -68.9
+		Grade: C (-7.2%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: BeachdogPrime
+Value/Plat: 2.89
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-critadra
+Experimental riven rating: 48.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  155.7
+Critical Damage:  127.8
+Fire Rate_Attack Speed:  56.4
+Damage vs Grineer":  -62.0
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  128   Buyout price: 128
+Seller: APRICITY88
+Value/Plat: 5.81
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-saticron
+Experimental riven rating: 43.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  81.2
+Critical Chance:  109.1
+Critical Damage:  132.7
+Status Chance:  -63.4
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: LoveyouLiangBao
+Value/Plat: 1.41
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

@@ -1,0 +1,196 @@
+Name: Cedo Sati-cronicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -22.02, 
+Riven stats: 
+Critical Chance:  58.4
+		Grade: A (6.48%)
+Fire Rate_Attack Speed:  59.5
+		Grade: A+ (8.49%)
+Multishot:  79.7
+		Grade: A+ (9.22%)
+Critical Damage:  -42.5
+		Grade: B- (-3.12%)
+
+Polarity: Naramon   Rerolls: 29   MR: 9
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: prom47work
+Value/Plat: 1.65
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-lexitis
+Experimental riven rating: 33.12
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  50.3
+		Grade: C- (-8.29%)
+Critical Damage:  55.5
+		Grade: B (1.19%)
+Punch Through:  1.6
+		Grade: B- (-1.91%)
+Status Chance:  -40.4
+		Grade: C- (-7.91%)
+
+Polarity: Naramon   Rerolls: 9   MR: 14
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: TorresFung
+Value/Plat: 2.01
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Toxi-acricron
+Experimental riven rating: 35.87
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Toxin:  50.7
+		Grade: C- (-7.56%)
+Critical Damage:  52.3
+		Grade: C+ (-4.64%)
+Critical Chance:  54.0
+		Grade: B- (-1.54%)
+Fire Rate_Attack Speed:  -41.6
+		Grade: C+ (-5.18%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  490   Buyout price: 490
+Seller: HairdresserMan
+Value/Plat: 2.04
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Acri-cronicron
+Experimental riven rating: 34.43
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  55.0
+		Grade: B (0.28%)
+Fire Rate_Attack Speed:  56.0
+		Grade: B+ (2.1%)
+Critical Chance:  56.0
+		Grade: B+ (2.1%)
+Status Duration:  -45.0
+		Grade: C- (-7.68%)
+
+Polarity: Madurai   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 500
+Seller: whiteapple7
+Value/Plat: 1.94
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-acritox
+Experimental riven rating: 35.95
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  50.0
+		Grade: C- (-8.83%)
+Toxin:  50.0
+		Grade: C- (-8.83%)
+Critical Chance:  55.0
+		Grade: B (0.28%)
+Fire Rate_Attack Speed:  -42.2
+		Grade: C+ (-3.81%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Grisznaker
+Value/Plat: 2.03
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 7.71, 
+Riven stats: 
+Critical Chance:  55.1
+		Grade: B (0.46%)
+Critical Damage:  49.9
+		Grade: C- (-9.02%)
+Heat:  54.5
+		Grade: B (-0.63%)
+Status Duration:  -46.5
+		Grade: C+ (-4.61%)
+
+Polarity: Madurai   Rerolls: 11   MR: 15
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: CauTayPrime.LiMiTed
+Value/Plat: 1.34
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Igni-acricron
+Experimental riven rating: 30.63
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Heat:  58.9
+		Grade: A (7.39%)
+Critical Chance:  52.7
+		Grade: C+ (-3.91%)
+Critical Damage:  55.1
+		Grade: B (0.46%)
+Status Chance:  -41.2
+		Grade: C (-6.09%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: asdasppp
+Value/Plat: 1.57
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Crita-ignitis
+Experimental riven rating: 28.48
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Heat:  45.0
+		Grade: C- (-7.7%)
+Critical Chance:  53.0
+		Grade: A+ (8.71%)
+Critical Damage:  46.0
+		Grade: C (-5.64%)
+Reload Speed:  -20.0
+		Grade: C- (-7.59%)
+
+Polarity: Vazarin   Rerolls: 127   MR: 9
+Riven rank : 7
+Initial price:  850   Buyout price: 850
+Seller: abaddon45
+Value/Plat: 1.41
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------
+Name: Cedo Hexa-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 13.46, 
+Riven stats: 
+Critical Chance:  42.9
+		Grade: B- (-2.21%)
+Status Chance:  45.7
+		Grade: A- (4.17%)
+Critical Damage:  45.2
+		Grade: B+ (3.03%)
+
+Polarity: Naramon   Rerolls: 15   MR: 13
+Riven rank : 0
+Initial price:  1500   Buyout price:  infinite 
+Seller: GhostL2711
+Value/Plat: 0.41
+Used disposition: 0.65
+Real disposition: 0.65
+--------------------------------------------------

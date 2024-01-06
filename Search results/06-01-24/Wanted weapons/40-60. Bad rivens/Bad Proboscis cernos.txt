@@ -1,0 +1,238 @@
+Name: Proboscis cernos Crita-satiata
+Experimental riven rating: 48.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  103.3
+Multishot:  59.3
+Damage:  108.0
+Damage vs Grineer":  -0.8
+
+Polarity: Naramon   Rerolls: 25   MR: 11
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: -Ded_Kolya-
+Value/Plat: 5.51
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-acridra
+Experimental riven rating: 44.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  89.3
+		Grade: C- (-9.25%)
+Critical Damage:  83.5
+		Grade: A (6.03%)
+Fire Rate_Attack Speed:  40.6
+		Grade: B+ (3.02%)
+Reload Speed:  -25.2
+		Grade: C+ (-3.89%)
+
+Polarity: Madurai   Rerolls: 6   MR: 15
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: NCxiaogong
+Value/Plat: 4.05
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-acridra
+Experimental riven rating: 53.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  107.2
+		Grade: A+ (8.93%)
+Critical Damage:  80.9
+		Grade: B+ (2.73%)
+Fire Rate_Attack Speed:  40.0
+		Grade: B (1.5%)
+Damage vs Corpus":  -21.3
+		Grade: F (-9.83%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: TENET-TENGA
+Value/Plat: 4.67
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Acri-croniata
+Experimental riven rating: 58.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  114.3
+		Grade: A (5.72%)
+Fire Rate_Attack Speed:  42.1
+		Grade: A (6.83%)
+Critical Damage:  86.3
+		Grade: S (9.58%)
+Ammo Maximum:  -28.3
+		Grade: A+ (7.93%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Kramell
+Value/Plat: 4.18
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Croni-satitis
+Experimental riven rating: 44.44
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  8.3
+		Grade: C+ (-5.15%)
+Fire Rate_Attack Speed:  4.5
+		Grade: B+ (2.77%)
+Multishot:  6.7
+		Grade: B+ (2.09%)
+Magazine Capacity:  -2.7
+		Grade: C (-7.33%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: Korera-Irn
+Value/Plat: 2.43
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Acri-critaata
+Experimental riven rating: 41.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  76.8
+Critical Chance:  92.2
+Damage:  97.7
+Reload Speed:  -22.2
+
+Polarity: Madurai   Rerolls: 28   MR: 11
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: m4vvro
+Value/Plat: 1.86
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-acripha
+Experimental riven rating: 42.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  54.2
+		Grade: C- (-8.24%)
+Critical Damage:  77.3
+		Grade: B- (-1.84%)
+Critical Chance:  100.8
+		Grade: B+ (2.43%)
+Zoom:  -30.7
+		Grade: B- (-2.53%)
+
+Polarity: Madurai   Rerolls: 50   MR: 16
+Riven rank : 8
+Initial price:  989   Buyout price: 989
+Seller: sir1200
+Value/Plat: 1.85
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-cronitis
+Experimental riven rating: 40.83
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  92.6
+		Grade: C (-5.9%)
+Critical Damage:  73.3
+		Grade: C (-6.92%)
+Fire Rate_Attack Speed:  42.4
+		Grade: A+ (7.59%)
+Damage vs Grineer":  -24.0
+		Grade: B+ (1.6%)
+
+Polarity: Madurai   Rerolls: 2   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: sscret
+Value/Plat: 1.78
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Acri-critaata
+Experimental riven rating: 59.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  102.0
+		Grade: A- (3.65%)
+Critical Damage:  83.9
+		Grade: A (6.54%)
+Damage:  101.4
+		Grade: C (-6.21%)
+Damage vs Infested":  -25.1
+		Grade: A (6.25%)
+
+Polarity: Madurai   Rerolls: 2   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -CAG-YI.REN.HAGGARD-GEIW
+Value/Plat: 2.89
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Visi-vexican
+Experimental riven rating: 46.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  60.8
+		Grade: B+ (2.94%)
+Damage:  117.2
+		Grade: A+ (8.4%)
+Electricity:  63.7
+		Grade: A+ (7.85%)
+Recoil:  45.4
+		Grade: C+ (-3.91%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  4000   Buyout price: 4000
+Seller: bdub_
+Value/Plat: 1.07
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-acrican
+Experimental riven rating: 52.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  93.1
+		Grade: C+ (-5.39%)
+Critical Damage:  79.2
+		Grade: B (0.57%)
+Multishot:  58.2
+		Grade: B (-1.46%)
+Slash:  -57.6
+		Grade: C- (-8.56%)
+
+Polarity: Madurai   Rerolls: 2   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: Y-O-v-O-Y
+Value/Plat: 0.21
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------

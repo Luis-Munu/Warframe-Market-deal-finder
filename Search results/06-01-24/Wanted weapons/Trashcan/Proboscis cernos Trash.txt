@@ -1,0 +1,85 @@
+Name: Proboscis cernos Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -31.07, 
+Riven stats: 
+Critical Damage:  8.8
+		Grade: B (0.57%)
+Critical Chance:  10.5
+		Grade: C+ (-3.97%)
+Damage:  12.1
+		Grade: B (0.72%)
+Multishot:  -5.1
+		Grade: B- (-2.85%)
+
+Polarity: Naramon   Rerolls: 3   MR: 11
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: WatchNighter
+Value/Plat: 1.82
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Acri-critapha
+Experimental riven rating: 27.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  6.8
+		Grade: A- (3.62%)
+Critical Damage:  9.6
+		Grade: S (9.71%)
+Critical Chance:  11.4
+		Grade: A- (4.26%)
+Status Duration:  -5.9
+		Grade: B (1.15%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: lrdprime
+Value/Plat: 1.83
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -11.99, 
+Riven stats: 
+Critical Chance:  101.8
+		Grade: B+ (3.45%)
+Critical Damage:  77.4
+		Grade: B- (-1.72%)
+Status Duration:  66.3
+		Grade: B (1.03%)
+Reload Speed:  -25.4
+		Grade: B- (-3.13%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  444   Buyout price: 444
+Seller: TouchMyDuck
+Value/Plat: 1.5
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Toxi-critatis
+Experimental riven rating: 27.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Toxin:  40.6
+Critical Chance:  59.3
+Critical Damage:  46.4
+
+Polarity: Naramon   Rerolls: 8   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: Qekzu
+Value/Plat: 0.37
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------

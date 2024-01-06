@@ -1,0 +1,66 @@
+Name: Amprex Crita-satidra
+Experimental riven rating: 88.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  75.4
+		Grade: A- (5.13%)
+Critical Chance:  130.7
+		Grade: A+ (9.38%)
+Fire Rate_Attack Speed:  44.6
+		Grade: C (-6.8%)
+Zoom:  -36.0
+		Grade: C (-5.87%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: KarmaSutraa
+Value/Plat: 12.91
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Croni-saticron
+Experimental riven rating: 89.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  75.1
+		Grade: A- (4.71%)
+Fire Rate_Attack Speed:  51.3
+		Grade: A (7.2%)
+Critical Chance:  121.3
+		Grade: B+ (1.51%)
+Zoom:  -35.1
+		Grade: C- (-8.23%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: Gamer
+Value/Plat: 4.46
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Crita-cronican
+Experimental riven rating: 86.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  125.3
+		Grade: A- (4.86%)
+Fire Rate_Attack Speed:  46.6
+		Grade: B- (-2.62%)
+Multishot:  78.3
+		Grade: A+ (9.17%)
+Zoom:  -39.7
+		Grade: A- (3.8%)
+
+Polarity: Madurai   Rerolls: 16   MR: 13
+Riven rank : 8
+Initial price:  2300   Buyout price: 2300
+Seller: Legend-ZuoShen
+Value/Plat: 3.14
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

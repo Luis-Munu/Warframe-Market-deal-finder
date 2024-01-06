@@ -1,0 +1,742 @@
+Name: Convectrix Acri-lexicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.37, 
+Riven stats: 
+Punch Through:  3.4
+		Grade: C (-7.2%)
+Critical Chance:  122.0
+		Grade: B (-0.97%)
+Critical Damage:  127.6
+		Grade: A- (3.58%)
+Ammo Maximum:  -91.9
+		Grade: C (-6.74%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  25   Buyout price: 25
+Seller: dkx0109
+Value/Plat: 2.99
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Lexi-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -56.35, 
+Riven stats: 
+Critical Damage:  14.7
+		Grade: A (7.39%)
+Critical Chance:  14.9
+		Grade: A+ (8.85%)
+Punch Through:  0.4
+		Grade: B- (-1.75%)
+Damage:  -19.0
+		Grade: C+ (-5.2%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  60   Buyout price: 70
+Seller: d0m1n0_harv3y
+Value/Plat: 2.34
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Toxi-critatis
+Experimental riven rating: 31.32
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  116.6
+		Grade: C+ (-5.35%)
+Toxin:  131.0
+		Grade: A (6.34%)
+Critical Chance:  121.9
+		Grade: B (-1.05%)
+Magazine Capacity:  -55.9
+		Grade: B+ (2.21%)
+
+Polarity: Madurai   Rerolls: 2   MR: 13
+Riven rank : 8
+Initial price:  150   Buyout price: 150
+Seller: War-Seal
+Value/Plat: 2.59
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-visidra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -10.29, 
+Riven stats: 
+Fire Rate_Attack Speed:  111.3
+		Grade: F (-9.65%)
+Critical Damage:  129.0
+		Grade: A- (4.72%)
+Damage:  208.7
+		Grade: C (-7.45%)
+Status Duration:  -99.3
+		Grade: C- (-9.31%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 14
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: Crepuscular2322
+Value/Plat: 1.82
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-acritox
+Experimental riven rating: 32.41
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  125.3
+		Grade: B+ (1.71%)
+Critical Damage:  124.7
+		Grade: B (1.22%)
+Toxin:  116.9
+		Grade: C+ (-5.11%)
+Magazine Capacity:  -55.9
+		Grade: B+ (2.21%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 16
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: hikkyss
+Value/Plat: 2.47
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-toxicron
+Experimental riven rating: 30.08
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  114.1
+		Grade: C (-7.38%)
+Critical Damage:  118.0
+		Grade: C+ (-4.21%)
+Toxin:  114.7
+		Grade: C (-6.89%)
+Magazine Capacity:  -59.5
+		Grade: A+ (8.8%)
+
+Polarity: Vazarin   Rerolls: 38   MR: 12
+Riven rank : 8
+Initial price:  250   Buyout price: 250
+Seller: The-eyes-of-Devil
+Value/Plat: 2.11
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.95, 
+Riven stats: 
+Critical Chance:  118.2
+		Grade: C+ (-4.05%)
+Critical Damage:  116.6
+		Grade: C+ (-5.35%)
+Heat:  120.4
+		Grade: B- (-2.27%)
+Damage vs Grineer":  -51.3
+		Grade: A- (4.12%)
+
+Polarity: Madurai   Rerolls: 30   MR: 8
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: NissyX
+Value/Plat: 1.65
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.24, 
+Riven stats: 
+Status Duration:  137.1
+		Grade: B (0.16%)
+Critical Chance:  122.6
+		Grade: B (-0.48%)
+Critical Damage:  128.2
+		Grade: A- (4.07%)
+Damage vs Infested":  -48.3
+		Grade: B- (-1.97%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  320   Buyout price: 320
+Seller: Arknight77
+Value/Plat: 1.62
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Lexi-acricron
+Experimental riven rating: 34.82
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Punch Through:  4.1
+		Grade: S (11.9%)
+Critical Chance:  115.8
+		Grade: C (-6.0%)
+Critical Damage:  132.6
+		Grade: A+ (7.64%)
+Recoil:  101.3
+		Grade: B+ (2.8%)
+
+Polarity: Madurai   Rerolls: 20   MR: 9
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: YHY.victory
+Value/Plat: 2.23
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-critadex
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 3.84, 
+Riven stats: 
+Critical Damage:  14.1
+		Grade: B+ (3.01%)
+Critical Chance:  13.3
+		Grade: B- (-2.83%)
+Status Chance:  12.7
+		Grade: C (-7.22%)
+Fire Rate_Attack Speed:  -11.1
+		Grade: B (1.38%)
+
+Polarity: Naramon   Rerolls: 5   MR: 8
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Gaboar
+Value/Plat: 1.54
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-satiata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 6.65, 
+Riven stats: 
+Critical Chance:  120.7
+		Grade: B- (-2.02%)
+Multishot:  148.0
+		Grade: F (-9.71%)
+Damage:  236.8
+		Grade: A- (5.01%)
+Status Duration:  -109.0
+		Grade: B (-0.45%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: AK47__Prime
+Value/Plat: 1.46
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Visi-acricron
+Experimental riven rating: 34.68
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  208.9
+		Grade: C (-7.36%)
+Critical Damage:  112.8
+		Grade: C- (-8.44%)
+Critical Chance:  118.0
+		Grade: C+ (-4.21%)
+Damage vs Grineer":  -49.0
+		Grade: B (-0.55%)
+
+Polarity: Naramon   Rerolls: 20   MR: 8
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: jwhurmysun
+Value/Plat: 1.89
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-acridra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.17, 
+Riven stats: 
+Critical Chance:  134.5
+		Grade: A+ (9.18%)
+Critical Damage:  135.3
+		Grade: S (9.83%)
+Fire Rate_Attack Speed:  129.7
+		Grade: A- (5.28%)
+Status Chance:  -91.7
+		Grade: C (-6.94%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 13
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Goblin9Mu
+Value/Plat: 1.39
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-croniata
+Experimental riven rating: 33.44
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  212.0
+		Grade: C (-5.99%)
+Critical Damage:  128.6
+		Grade: A- (4.39%)
+Fire Rate_Attack Speed:  118.3
+		Grade: C+ (-3.97%)
+Damage vs Grineer":  -49.4
+		Grade: B (0.26%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 0
+Initial price:  400   Buyout price: 600
+Seller: xyxx123
+Value/Plat: 1.78
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.37, 
+Riven stats: 
+Heat:  131.5
+		Grade: A (6.74%)
+Critical Damage:  123.4
+		Grade: B (0.17%)
+Critical Chance:  118.1
+		Grade: C+ (-4.13%)
+Magazine Capacity:  -52.7
+		Grade: C+ (-3.64%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  350   Buyout price: 699
+Seller: Hernal
+Value/Plat: 1.34
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-acridra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -1.39, 
+Riven stats: 
+Fire Rate_Attack Speed:  115.0
+		Grade: C (-6.65%)
+Critical Damage:  115.4
+		Grade: C (-6.32%)
+Multishot:  176.0
+		Grade: A (7.38%)
+Status Chance:  -96.3
+		Grade: B- (-2.27%)
+
+Polarity: Madurai   Rerolls: 38   MR: 12
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: CatDogDuck
+Value/Plat: 1.34
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -30.05, 
+Riven stats: 
+Heat:  13.0
+		Grade: C+ (-5.03%)
+Critical Chance:  14.6
+		Grade: A (6.66%)
+Critical Damage:  13.2
+		Grade: C+ (-3.56%)
+Status Chance:  -10.7
+		Grade: B- (-2.27%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  750   Buyout price: 750
+Seller: Rotten_Zura
+Value/Plat: 1.32
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Croni-acrican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 1.56, 
+Riven stats: 
+Critical Damage:  130.1
+		Grade: A (5.61%)
+Multishot:  157.5
+		Grade: C+ (-3.91%)
+Fire Rate_Attack Speed:  134.9
+		Grade: S (9.5%)
+Status Chance:  -98.6
+		Grade: B (0.06%)
+
+Polarity: Naramon   Rerolls: 24   MR: 13
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: --TE--GpuLess
+Value/Plat: 1.32
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 5.41, 
+Riven stats: 
+Critical Chance:  132.7
+		Grade: A+ (7.72%)
+Critical Damage:  112.1
+		Grade: C- (-9.0%)
+Multishot:  178.9
+		Grade: A+ (9.15%)
+Status Chance:  -92.0
+		Grade: C (-6.64%)
+
+Polarity: Naramon   Rerolls: 44   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Dicuss.
+Value/Plat: 1.3
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -37.93, 
+Riven stats: 
+Critical Chance:  13.7
+		Grade: B (0.09%)
+Critical Damage:  12.9
+		Grade: C (-5.76%)
+Status Duration:  15.3
+		Grade: B (0.6%)
+Slash:  -14.7
+		Grade: B (0.7%)
+
+Polarity: Madurai   Rerolls: 203   MR: 9
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: .Aurora-
+Value/Plat: 1.3
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Croni-visitis
+Experimental riven rating: 27.91
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  125.8
+		Grade: B+ (2.12%)
+Critical Damage:  114.9
+		Grade: C (-6.73%)
+Damage:  224.2
+		Grade: B (-0.58%)
+Magazine Capacity:  -53.6
+		Grade: B- (-1.99%)
+
+Polarity: Vazarin   Rerolls: 60   MR: 10
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Anautumn11
+Value/Plat: 1.37
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 0.22, 
+Riven stats: 
+Multishot:  175.4
+		Grade: A (7.01%)
+Critical Chance:  113.4
+		Grade: C- (-7.95%)
+Critical Damage:  118.2
+		Grade: C+ (-4.05%)
+Status Chance:  -90.6
+		Grade: C- (-8.06%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  998   Buyout price: 998
+Seller: kindow42
+Value/Plat: 1.23
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 4.77, 
+Riven stats: 
+Critical Damage:  13.8
+		Grade: B (0.82%)
+Multishot:  19.2
+		Grade: A- (5.42%)
+Critical Chance:  14.2
+		Grade: A- (3.74%)
+Status Chance:  -10.1
+		Grade: C- (-7.75%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: VX-117
+Value/Plat: 1.23
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-satidra
+Experimental riven rating: 38.88
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  14.9
+		Grade: A+ (8.85%)
+Multishot:  17.2
+		Grade: C (-5.56%)
+Fire Rate_Attack Speed:  12.6
+		Grade: C- (-7.95%)
+Magazine Capacity:  -6.3
+		Grade: A- (3.68%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 13
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Wettan
+Value/Plat: 1.7
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-saticron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 2.33, 
+Riven stats: 
+Critical Damage:  134.9
+		Grade: S (9.5%)
+Multishot:  156.3
+		Grade: C+ (-4.64%)
+Critical Chance:  113.4
+		Grade: C- (-7.95%)
+Status Chance:  -95.9
+		Grade: B- (-2.68%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: Lachelein
+Value/Plat: 1.21
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Crita-hexatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 12.64, 
+Riven stats: 
+Critical Chance:  15.0
+		Grade: S (9.59%)
+Critical Damage:  13.8
+		Grade: B (0.82%)
+Status Chance:  13.8
+		Grade: B (0.82%)
+Magazine Capacity:  -5.7
+		Grade: C (-6.2%)
+
+Polarity: Vazarin   Rerolls: 12   MR: 15
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: lemonGM
+Value/Plat: 1.18
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.87, 
+Riven stats: 
+Multishot:  179.8
+		Grade: S (9.69%)
+Critical Chance:  121.4
+		Grade: B (-1.45%)
+Critical Damage:  128.4
+		Grade: A- (4.23%)
+Status Chance:  -100.3
+		Grade: B+ (1.79%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: AncientMagus
+Value/Plat: 1.04
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Sati-critatis
+Experimental riven rating: 36.46
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  111.1
+		Grade: F (-9.82%)
+Multishot:  167.8
+		Grade: B+ (2.37%)
+Critical Chance:  125.6
+		Grade: B+ (1.96%)
+Fire Rate_Attack Speed:  -102.8
+		Grade: A- (4.32%)
+
+Polarity: Madurai   Rerolls: 8   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: QEQEQR
+Value/Plat: 1.24
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-cronican
+Experimental riven rating: 31.62
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  127.0
+		Grade: B+ (3.09%)
+Multishot:  148.6
+		Grade: C- (-9.34%)
+Fire Rate_Attack Speed:  113.1
+		Grade: C- (-8.19%)
+Magazine Capacity:  -50.0
+		Grade: C- (-8.57%)
+
+Polarity: Naramon   Rerolls: 34   MR: 9
+Riven rank : 8
+Initial price:  2800   Buyout price: 2800
+Seller: --CF--Bic
+Value/Plat: 1.04
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-critanok
+Experimental riven rating: 31.81
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  120.5
+Critical Damage:  129.1
+Punch Through:  3.5
+Damage vs Infested":  -0.5
+
+Polarity: Naramon   Rerolls: 51   MR: 14
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: MILTIADO
+Value/Plat: 1.02
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-satidra
+Experimental riven rating: 39.46
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  121.6
+		Grade: B (-1.29%)
+Critical Damage:  127.5
+		Grade: B+ (3.5%)
+Multishot:  168.5
+		Grade: B+ (2.8%)
+Magazine Capacity:  -54.7
+		Grade: B (0.02%)
+
+Polarity: Madurai   Rerolls: 28   MR: 14
+Riven rank : 8
+Initial price:  4500   Buyout price:  infinite 
+Seller: MeLiroty
+Value/Plat: 0.28
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-cronicron
+Experimental riven rating: 35.7
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  98.6
+		Grade: B (0.06%)
+Critical Damage:  103.4
+		Grade: A- (4.93%)
+Critical Chance:  97.4
+		Grade: B (-1.16%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 11
+Riven rank : 0
+Initial price:  150   Buyout price:  infinite 
+Seller: TheDeadlyGambit
+Value/Plat: 0.3
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Croni-acritio
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -19.55, 
+Riven stats: 
+Fire Rate_Attack Speed:  122.6
+		Grade: B (-0.48%)
+Critical Damage:  116.1
+		Grade: C (-5.76%)
+Electricity:  119.2
+		Grade: B- (-3.24%)
+Slash:  -130.3
+		Grade: B (-0.83%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 8
+Riven rank : 8
+Initial price:  100   Buyout price:  infinite 
+Seller: Auroraler
+Value/Plat: 0.41
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Convectrix Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 10.95, 
+Riven stats: 
+Critical Chance:  96.7
+		Grade: B- (-1.87%)
+Critical Damage:  101.3
+		Grade: B+ (2.8%)
+Status Chance:  99.9
+		Grade: B (1.38%)
+
+Polarity: Madurai   Rerolls: 4   MR: 14
+Riven rank : 0
+Initial price:  1   Buyout price:  infinite 
+Seller: Zuriadyn
+Value/Plat: 0.41
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------

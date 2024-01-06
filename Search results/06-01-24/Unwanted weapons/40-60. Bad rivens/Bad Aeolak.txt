@@ -1,0 +1,126 @@
+Name: Aeolak Visi-saticron
+Experimental riven rating: 48.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  181.7
+		Grade: B+ (2.29%)
+Critical Chance:  160.5
+		Grade: B (-0.72%)
+Multishot:  96.4
+		Grade: B (-0.65%)
+Magazine Capacity:  -46.2
+		Grade: A (7.25%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: crazy0205
+Value/Plat: 3.89
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Crita-acridra
+Experimental riven rating: 55.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.0
+		Grade: B (-0.41%)
+Critical Damage:  133.0
+		Grade: B+ (2.8%)
+Fire Rate_Attack Speed:  67.0
+		Grade: B+ (3.48%)
+Damage vs Corpus":  -35.0
+		Grade: F (-9.81%)
+
+Polarity: Naramon   Rerolls: 2   MR: 8
+Riven rank : 0
+Initial price:  811   Buyout price: 811
+Seller: THHJSW
+Value/Plat: 2.94
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Crita-hexatis
+Experimental riven rating: 46.69
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  102.6
+Critical Damage:  171.9
+Critical Chance:  119.4
+Projectile Speed:  -72.7
+
+Polarity: Vazarin   Rerolls: 7   MR: 9
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: -_Hanako_-
+Value/Plat: 1.75
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Sati-cronicron
+Experimental riven rating: 55.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  93.8
+		Grade: B- (-3.33%)
+Fire Rate_Attack Speed:  65.8
+		Grade: B+ (1.63%)
+Critical Chance:  173.0
+		Grade: A (7.01%)
+Reload Speed:  -41.2
+		Grade: C+ (-4.36%)
+
+Polarity: Madurai   Rerolls: 9   MR: 10
+Riven rank : 0
+Initial price:  2200   Buyout price: 2200
+Seller: lesenn
+Value/Plat: 1.66
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Sati-acricron
+Experimental riven rating: 53.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  17.0
+Critical Damage:  14.5
+Multishot:  11.3
+Damage vs Grineer":  -1.0
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  2400   Buyout price: 2400
+Seller: cjw250
+Value/Plat: 1.53
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Sati-acridra
+Experimental riven rating: 55.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  118.6
+Multishot:  95.5
+Fire Rate_Attack Speed:  59.1
+Slash:  -90.6
+
+Polarity: Vazarin   Rerolls: 53   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: tangrenquq
+Value/Plat: 0.2
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

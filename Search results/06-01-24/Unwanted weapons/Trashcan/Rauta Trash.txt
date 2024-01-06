@@ -1,0 +1,22 @@
+Name: Rauta Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 2.61, 
+Riven stats: 
+Status Duration:  74.7
+		Grade: A (6.24%)
+Critical Chance:  61.9
+		Grade: B- (-2.19%)
+Critical Damage:  61.0
+		Grade: C+ (-3.61%)
+Reload Speed:  -30.5
+		Grade: A+ (8.56%)
+
+Polarity: Vazarin   Rerolls: 42   MR: 12
+Riven rank : 8
+Initial price:  250   Buyout price: 250
+Seller: BrandoThud
+Value/Plat: 1.72
+Used disposition: 0.75
+Real disposition: 0.0
+--------------------------------------------------

@@ -1,0 +1,176 @@
+Name: Phantasma Acri-cronicron
+Experimental riven rating: 12.23
+Best profile: General use
+Beam: -47.45, 
+Riven stats: 
+Critical Chance:  58.7
+		Grade: C (-7.24%)
+Critical Damage:  61.9
+		Grade: B- (-2.19%)
+Fire Rate_Attack Speed:  59.8
+		Grade: C (-5.5%)
+Status Chance:  -50.7
+		Grade: B (0.16%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: shuaiyuba
+Value/Plat: 1.36
+Used disposition: 0.75
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Visi-critatis
+Experimental riven rating: 31.36
+Best profile: General use
+Beam: 10.2, 
+Riven stats: 
+Critical Chance:  86.4
+		Grade: B- (-2.48%)
+Critical Damage:  83.7
+		Grade: C (-5.53%)
+Damage:  161.7
+		Grade: B (-0.3%)
+Reload Speed:  -36.9
+		Grade: C (-6.18%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: wuzi8xing
+Value/Plat: 2.09
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Acri-visicron
+Experimental riven rating: 44.53
+Best profile: General use
+Beam: 23.86, 
+Riven stats: 
+Critical Chance:  9.0
+		Grade: C- (-8.57%)
+Critical Damage:  10.8
+		Grade: S (9.71%)
+Damage:  18.0
+		Grade: B (-0.11%)
+Slash:  -10.9
+		Grade: A- (3.82%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: 664369
+Value/Plat: 2.78
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-acridra
+Experimental riven rating: 27.89
+Best profile: General use
+Beam: 9.97, 
+Riven stats: 
+Critical Chance:  88.0
+		Grade: B (-0.67%)
+Critical Damage:  85.3
+		Grade: C+ (-3.72%)
+Fire Rate_Attack Speed:  81.8
+		Grade: C- (-7.67%)
+Damage vs Grineer":  -35.0
+		Grade: B (-1.22%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  899   Buyout price: 899
+Seller: -Katherine-
+Value/Plat: 1.37
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Toxi-critatis
+Experimental riven rating: 61.39
+Best profile: General use
+Beam: 30.73, 
+Riven stats: 
+Critical Chance:  96.4
+		Grade: A+ (8.81%)
+Critical Damage:  92.8
+		Grade: A- (4.74%)
+Toxin:  97.2
+		Grade: S (9.71%)
+Impact:  -94.4
+		Grade: B (-0.1%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Quota
+Value/Plat: 3.05
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-satiata
+Experimental riven rating: 64.79
+Best profile: General use
+Beam: 48.27, 
+Riven stats: 
+Damage:  159.5
+		Grade: B- (-1.65%)
+Multishot:  120.2
+		Grade: B+ (1.97%)
+Critical Chance:  90.4
+		Grade: B+ (2.04%)
+Impact:  -102.6
+		Grade: A+ (8.58%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: 55yw22
+Value/Plat: 3.36
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Croni-satitis
+Experimental riven rating: 60.13
+Best profile: Beam
+General use: 48.32, 
+Riven stats: 
+Multishot:  113.5
+		Grade: C+ (-3.72%)
+Critical Damage:  85.1
+		Grade: C+ (-3.95%)
+Fire Rate_Attack Speed:  93.0
+		Grade: A- (4.97%)
+Damage vs Corpus":  -36.6
+		Grade: B+ (3.29%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Katherine-
+Value/Plat: 2.3
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Hexa-acricron
+Experimental riven rating: 30.95
+Best profile: General use
+Beam: 22.83, 
+Riven stats: 
+Critical Chance:  82.4
+		Grade: C (-6.99%)
+Status Chance:  94.5
+		Grade: A (6.66%)
+Critical Damage:  93.7
+		Grade: A (5.76%)
+Impact:  -102.5
+		Grade: A+ (8.48%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  1600   Buyout price: 1600
+Seller: shirgka
+Value/Plat: 1.23
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

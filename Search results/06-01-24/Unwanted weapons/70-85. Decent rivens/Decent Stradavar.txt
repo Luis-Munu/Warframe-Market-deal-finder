@@ -1,0 +1,66 @@
+Name: Stradavar Crita-visican
+Experimental riven rating: 77.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  168.0
+		Grade: B (-1.12%)
+Multishot:  86.1
+		Grade: C (-7.24%)
+Critical Chance:  158.5
+		Grade: B+ (2.5%)
+Zoom:  -50.9
+		Grade: B+ (2.84%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: POGU_Beast
+Value/Plat: 3.56
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Crita-satidra
+Experimental riven rating: 81.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  58.5
+		Grade: C (-5.54%)
+Multishot:  88.0
+		Grade: C+ (-5.19%)
+Critical Chance:  167.1
+		Grade: A+ (8.06%)
+Impact:  -94.6
+		Grade: C+ (-4.43%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: xinwan630527
+Value/Plat: 3.95
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Stradavar Acri-satidra
+Experimental riven rating: 75.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  136.0
+		Grade: S (9.9%)
+Multishot:  97.3
+		Grade: A- (4.83%)
+Fire Rate_Attack Speed:  68.0
+		Grade: S (9.8%)
+Puncture:  -105.8
+		Grade: A (6.88%)
+
+Polarity: Naramon   Rerolls: 41   MR: 16
+Riven rank : 8
+Initial price:  6000   Buyout price:  infinite 
+Seller: Nataruk
+Value/Plat: 0.14
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

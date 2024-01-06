@@ -1,0 +1,66 @@
+Name: Zhuge Crita-hexatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 3.39, 
+Riven stats: 
+Status Chance:  91.0
+		Grade: C (-6.22%)
+Critical Damage:  118.0
+		Grade: C- (-8.8%)
+Critical Chance:  157.5
+		Grade: B- (-2.58%)
+Status Duration:  -78.9
+		Grade: C- (-8.51%)
+
+Polarity: Madurai   Rerolls: 50   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: xiaoxinerciyuan2
+Value/Plat: 1.46
+Used disposition: 1.15
+Real disposition: 1.2
+--------------------------------------------------
+Name: Zhuge Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.36, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  157.2
+		Grade: C (-6.82%)
+Critical Damage:  140.1
+		Grade: A- (3.77%)
+Status Duration:  120.4
+		Grade: A (7.02%)
+Zoom:  -54.8
+		Grade: B (1.49%)
+
+Polarity: Madurai   Rerolls: 4   MR: 11
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: wooooo201
+Value/Plat: 1.39
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Zhuge Acri-critaata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.57, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  166.3
+		Grade: B (-1.42%)
+Critical Damage:  140.3
+		Grade: A- (3.92%)
+Damage:  170.8
+		Grade: C- (-7.85%)
+Status Duration:  -86.4
+		Grade: C+ (-3.99%)
+
+Polarity: Madurai   Rerolls: 6   MR: 15
+Riven rank : 0
+Initial price:  500   Buyout price: 700
+Seller: Dofalamingo
+Value/Plat: 1.34
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

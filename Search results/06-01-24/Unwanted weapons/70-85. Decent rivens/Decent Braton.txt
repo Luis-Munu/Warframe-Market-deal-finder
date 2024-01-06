@@ -1,0 +1,22 @@
+Name: Braton Visi-acricron
+Experimental riven rating: 73.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  229.2
+		Grade: S (9.92%)
+Critical Damage:  161.7
+		Grade: A (6.47%)
+Critical Chance:  176.0
+		Grade: C (-7.26%)
+Recoil:  94.3
+		Grade: B+ (3.49%)
+
+Polarity: Vazarin   Rerolls: 72   MR: 8
+Riven rank : 8
+Initial price:  7000   Buyout price:  infinite 
+Seller: Idunknow11
+Value/Plat: 0.15
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

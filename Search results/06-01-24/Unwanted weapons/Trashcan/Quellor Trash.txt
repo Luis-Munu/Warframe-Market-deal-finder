@@ -1,0 +1,22 @@
+Name: Quellor Croni-acrican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.43, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.2
+		Grade: B (-0.91%)
+Multishot:  87.7
+		Grade: F (-9.62%)
+Fire Rate_Attack Speed:  68.8
+		Grade: A (6.26%)
+Status Duration:  -84.9
+		Grade: B- (-1.56%)
+
+Polarity: Naramon   Rerolls: 36   MR: 10
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: wanjiu1916
+Value/Plat: 1.46
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

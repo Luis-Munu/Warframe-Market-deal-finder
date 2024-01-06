@@ -1,0 +1,22 @@
+Name: Convectrix Croni-saticron
+Experimental riven rating: 61.34
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  163.3
+		Grade: B (-0.37%)
+Fire Rate_Attack Speed:  128.8
+		Grade: A- (4.55%)
+Critical Chance:  118.2
+		Grade: C+ (-4.05%)
+Recoil:  97.9
+		Grade: B (-0.65%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: lliillililil22
+Value/Plat: 3.49
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------

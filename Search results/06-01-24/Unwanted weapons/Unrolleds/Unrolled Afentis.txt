@@ -1,0 +1,86 @@
+Name: Afentis Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -30.73, 
+Riven stats: 
+Critical Chance:  16.2
+		Grade: A+ (9.17%)
+Critical Damage:  12.8
+		Grade: A+ (7.79%)
+Heat:  9.8
+		Grade: S (10.03%)
+Damage:  -14.1
+		Grade: A+ (8.12%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  25   Buyout price: 25
+Seller: KalkasPrime
+Value/Plat: 2.99
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Afentis Crita-hexatis
+Experimental riven rating: 28.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  14.6
+		Grade: B- (-1.61%)
+Status Chance:  8.3
+		Grade: C (-6.81%)
+Critical Damage:  10.8
+		Grade: C- (-9.06%)
+Reload Speed:  -4.1
+		Grade: A- (3.69%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  400   Buyout price: 600
+Seller: NoctisLucisCaelumn
+Value/Plat: 1.57
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Afentis Sati-critatis
+Experimental riven rating: 56.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  75.2
+Critical Damage:  53.0
+Multishot:  46.1
+Damage vs Grineer":  -16.1
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1100   Buyout price: 1100
+Seller: fk_ye
+Value/Plat: 2.51
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Afentis Crita-acrican
+Experimental riven rating: 42.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.1
+		Grade: A (7.15%)
+Critical Damage:  110.5
+		Grade: B+ (3.39%)
+Multishot:  72.5
+		Grade: F (-9.55%)
+Fire Rate_Attack Speed:  -41.3
+		Grade: B- (-3.46%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: --MakiseKurisu--
+Value/Plat: 1.38
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

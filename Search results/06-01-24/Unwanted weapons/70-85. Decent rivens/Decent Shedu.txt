@@ -1,0 +1,306 @@
+Name: Shedu Crita-acridra
+Experimental riven rating: 78.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  108.0
+Critical Damage:  84.0
+Fire Rate_Attack Speed:  45.0
+Recoil:  45.0
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  888   Buyout price: 888
+Seller: lihuaming2
+Value/Plat: 5.47
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Acri-cronicron
+Experimental riven rating: 72.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  97.6
+		Grade: C (-7.43%)
+Critical Damage:  80.4
+		Grade: C+ (-4.71%)
+Fire Rate_Attack Speed:  39.6
+		Grade: C (-6.22%)
+Recoil:  49.0
+		Grade: B- (-3.2%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: timeaway77
+Value/Plat: 4.49
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Acri-satidra
+Experimental riven rating: 77.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  89.0
+		Grade: A- (5.48%)
+Multishot:  64.0
+		Grade: B (1.13%)
+Fire Rate_Attack Speed:  41.0
+		Grade: B- (-2.9%)
+Recoil:  49.0
+		Grade: B- (-3.2%)
+
+Polarity: Naramon   Rerolls: 42   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: 26443154
+Value/Plat: 5.26
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-cronicron
+Experimental riven rating: 80.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  42.0
+		Grade: B (-0.53%)
+Critical Chance:  103.0
+		Grade: B- (-2.31%)
+Multishot:  66.0
+		Grade: A- (4.29%)
+Recoil:  51.0
+		Grade: B (0.75%)
+
+Polarity: Madurai   Rerolls: 31   MR: 10
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: Photoshop2077
+Value/Plat: 5.53
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Croni-critatis
+Experimental riven rating: 74.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  40.4
+		Grade: C+ (-4.32%)
+Critical Chance:  110.5
+		Grade: A- (4.8%)
+Critical Damage:  77.1
+		Grade: C- (-8.63%)
+Recoil:  50.2
+		Grade: B (-0.83%)
+
+Polarity: Naramon   Rerolls: 36   MR: 10
+Riven rank : 8
+Initial price:  1050   Buyout price: 1050
+Seller: TIANG9527
+Value/Plat: 4.36
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Crita-acriata
+Experimental riven rating: 74.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  11.2
+		Grade: C+ (-4.4%)
+Critical Damage:  9.8
+		Grade: A- (4.53%)
+Damage:  12.2
+		Grade: C+ (-5.22%)
+Recoil:  5.7
+		Grade: B (1.34%)
+
+Polarity: Madurai   Rerolls: 2   MR: 13
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: Loreart
+Value/Plat: 3.89
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-acridra
+Experimental riven rating: 83.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  45.7
+		Grade: A+ (8.23%)
+Critical Damage:  93.0
+		Grade: S (10.22%)
+Multishot:  69.8
+		Grade: S (10.3%)
+Recoil:  48.8
+		Grade: C+ (-3.6%)
+
+Polarity: Madurai   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: laosana
+Value/Plat: 5.07
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Croni-critacan
+Experimental riven rating: 74.9
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  46.2
+		Grade: A+ (9.42%)
+Multishot:  63.4
+		Grade: B (0.18%)
+Critical Chance:  108.5
+		Grade: B+ (2.91%)
+Damage vs Infested":  -24.6
+		Grade: B- (-2.81%)
+
+Polarity: Vazarin   Rerolls: 73   MR: 9
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: Wxu.
+Value/Plat: 3.82
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-visicron
+Experimental riven rating: 70.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  65.5
+		Grade: A- (3.5%)
+Damage:  109.8
+		Grade: C+ (-5.22%)
+Critical Chance:  97.8
+		Grade: C (-7.24%)
+Damage vs Infested":  -22.9
+		Grade: F (-9.52%)
+
+Polarity: Madurai   Rerolls: 16   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: EVAEVEVEVEVEVEVEVEVEVEVE
+Value/Plat: 2.96
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-visicron
+Experimental riven rating: 76.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  60.1
+		Grade: C+ (-5.03%)
+Damage:  126.4
+		Grade: A+ (9.11%)
+Critical Chance:  110.4
+		Grade: A- (4.71%)
+Projectile Speed:  -55.1
+		Grade: A+ (8.85%)
+
+Polarity: Vazarin   Rerolls: 53   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: liuchengzhan
+Value/Plat: 3.44
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-cronicron
+Experimental riven rating: 77.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  95.0
+		Grade: F (-9.9%)
+Multishot:  67.4
+		Grade: A (6.51%)
+Fire Rate_Attack Speed:  43.7
+		Grade: B+ (3.49%)
+Recoil:  54.6
+		Grade: A+ (7.86%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 3.57
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Visi-saticron
+Experimental riven rating: 81.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  120.1
+		Grade: A- (3.68%)
+Multishot:  58.9
+		Grade: C (-6.93%)
+Critical Chance:  95.0
+		Grade: F (-9.9%)
+Zoom:  -30.8
+		Grade: C- (-8.73%)
+
+Polarity: Vazarin   Rerolls: 99   MR: 14
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: HaoYunGe
+Value/Plat: 4.02
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Croni-saticron
+Experimental riven rating: 73.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  63.8
+		Grade: B (0.82%)
+Fire Rate_Attack Speed:  45.3
+		Grade: A (7.28%)
+Critical Chance:  105.4
+		Grade: B (-0.03%)
+Damage vs Infested":  -26.1
+		Grade: B+ (3.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: Kiyorakaito
+Value/Plat: 2.8
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Acri-satidra
+Experimental riven rating: 74.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  91.9
+		Grade: A+ (8.92%)
+Multishot:  63.4
+		Grade: B (0.18%)
+Fire Rate_Attack Speed:  38.5
+		Grade: C- (-8.82%)
+Recoil:  54.2
+		Grade: A (7.07%)
+
+Polarity: Vazarin   Rerolls: 65   MR: 13
+Riven rank : 8
+Initial price:  2250   Buyout price: 2250
+Seller: fellamoment
+Value/Plat: 2.42
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

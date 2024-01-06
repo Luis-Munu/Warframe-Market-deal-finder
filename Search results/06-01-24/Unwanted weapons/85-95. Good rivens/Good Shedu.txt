@@ -1,0 +1,44 @@
+Name: Shedu Crita-satidra
+Experimental riven rating: 88.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  65.1
+		Grade: B+ (2.87%)
+Fire Rate_Attack Speed:  39.2
+		Grade: C (-7.16%)
+Critical Chance:  113.2
+		Grade: A (7.36%)
+Zoom:  -31.0
+		Grade: C- (-8.14%)
+
+Polarity: Madurai   Rerolls: 30   MR: 14
+Riven rank : 8
+Initial price:  1700   Buyout price: 2500
+Seller: Idunknow11
+Value/Plat: 3.04
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-critatis
+Experimental riven rating: 86.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  81.7
+		Grade: B- (-3.17%)
+Critical Chance:  106.3
+		Grade: B (0.82%)
+Multishot:  67.7
+		Grade: A (6.98%)
+Recoil:  45.9
+		Grade: C- (-9.32%)
+
+Polarity: Naramon   Rerolls: 16   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: placebo0729
+Value/Plat: 0.12
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

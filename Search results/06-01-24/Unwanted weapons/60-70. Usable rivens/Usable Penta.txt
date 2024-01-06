@@ -1,0 +1,22 @@
+Name: Penta Croni-acriata
+Experimental riven rating: 68.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  140.8
+		Grade: B (0.12%)
+Fire Rate_Attack Speed:  73.9
+		Grade: A- (5.01%)
+Damage:  189.3
+		Grade: B- (-1.95%)
+Impact:  -110.0
+		Grade: B- (-2.21%)
+
+Polarity: Madurai   Rerolls: 7   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price:  infinite 
+Seller: Penkyx
+Value/Plat: 0.16
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

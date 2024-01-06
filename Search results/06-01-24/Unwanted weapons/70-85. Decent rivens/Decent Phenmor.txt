@@ -1,0 +1,64 @@
+Name: Phenmor Croni-critacan
+Experimental riven rating: 77.59
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  87.6
+Multishot:  53.9
+Fire Rate_Attack Speed:  36.3
+Damage vs Infested":  -0.8
+
+Polarity: Naramon   Rerolls: 18   MR: 11
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Akakelp
+Value/Plat: 9.98
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Crita-acritox
+Experimental riven rating: 78.08
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  91.8
+		Grade: A+ (8.83%)
+Critical Damage:  65.2
+		Grade: B- (-3.41%)
+Toxin:  49.8
+		Grade: B- (-1.63%)
+Recoil:  41.4
+		Grade: B+ (2.23%)
+
+Polarity: Madurai   Rerolls: 15   MR: 11
+Riven rank : 8
+Initial price:  680   Buyout price: 680
+Seller: chaai_12
+Value/Plat: 6.72
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Acri-cronicron
+Experimental riven rating: 83.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  73.4
+		Grade: A+ (8.74%)
+Fire Rate_Attack Speed:  36.2
+		Grade: A (7.17%)
+Critical Chance:  89.9
+		Grade: A (6.58%)
+Zoom:  -29.6
+		Grade: S (9.64%)
+
+Polarity: Madurai   Rerolls: 2   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price:  infinite 
+Seller: MyshkinThePrince
+Value/Plat: 0.13
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

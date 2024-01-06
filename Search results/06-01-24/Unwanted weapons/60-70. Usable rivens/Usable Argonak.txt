@@ -1,0 +1,22 @@
+Name: Argonak Lexi-acricron
+Experimental riven rating: 66.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  162.5
+		Grade: C- (-7.53%)
+Critical Damage:  134.3
+		Grade: C+ (-4.5%)
+Punch Through:  3.1
+		Grade: B (-1.18%)
+Impact:  -109.4
+		Grade: B- (-2.75%)
+
+Polarity: Naramon   Rerolls: 14   MR: 16
+Riven rank : 0
+Initial price:  1900   Buyout price: 1900
+Seller: Melinoia
+Value/Plat: 2.3
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

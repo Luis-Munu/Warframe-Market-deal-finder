@@ -1,0 +1,371 @@
+Name: Dread Crita-acripha
+Experimental riven rating: 35.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  154.2
+		Grade: A- (5.43%)
+Heat:  106.9
+		Grade: B- (-2.54%)
+Critical Chance:  200.6
+		Grade: S (9.76%)
+Damage vs Corpus":  -42.0
+		Grade: C+ (-4.26%)
+
+Polarity: Vazarin   Rerolls: 38   MR: 9
+Riven rank : 8
+Initial price:  75   Buyout price: 200
+Seller: Sucukmann
+Value/Plat: 2.73
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Hexa-critatis
+Experimental riven rating: 37.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  176.7
+		Grade: B- (-3.31%)
+Critical Damage:  139.5
+		Grade: C+ (-4.62%)
+Status Chance:  117.3
+		Grade: A (6.94%)
+Ammo Maximum:  -52.6
+		Grade: A+ (8.02%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 15
+Riven rank : 8
+Initial price:  250   Buyout price: 250
+Seller: lidingwen
+Value/Plat: 2.73
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -31.57, 
+Riven stats: 
+Status Duration:  130.4
+		Grade: A (6.99%)
+Critical Chance:  178.8
+		Grade: B- (-2.17%)
+Critical Damage:  159.8
+		Grade: A+ (9.26%)
+Status Chance:  -88.8
+		Grade: B (1.21%)
+
+Polarity: Madurai   Rerolls: 38   MR: 12
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: erick956
+Value/Plat: 1.65
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Croni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -19.49, 
+Riven stats: 
+Fire Rate_Attack Speed:  77.5
+		Grade: A (5.89%)
+Critical Chance:  181.1
+		Grade: B (-0.91%)
+Critical Damage:  141.8
+		Grade: B- (-3.05%)
+Multishot:  -85.3
+		Grade: B- (-2.78%)
+
+Polarity: Madurai   Rerolls: 15   MR: 11
+Riven rank : 0
+Initial price:  389   Buyout price: 389
+Seller: Ctrl-IV
+Value/Plat: 1.55
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acri-cronican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.58, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  152.3
+		Grade: A- (4.13%)
+Multishot:  104.1
+		Grade: C+ (-5.1%)
+Fire Rate_Attack Speed:  71.9
+		Grade: B- (-1.76%)
+Status Chance:  -83.3
+		Grade: C+ (-5.06%)
+
+Polarity: Vazarin   Rerolls: 21   MR: 8
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: P1R3S_0
+Value/Plat: 1.49
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -6.05, 
+Riven stats: 
+Critical Chance:  167.4
+		Grade: C- (-8.4%)
+Critical Damage:  139.5
+		Grade: C+ (-4.62%)
+Heat:  107.1
+		Grade: B- (-2.36%)
+Status Duration:  -98.9
+		Grade: B (1.45%)
+
+Polarity: Madurai   Rerolls: 12   MR: 8
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: WF_TennoHunter_WF_VEPM
+Value/Plat: 1.46
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.71, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.1
+		Grade: A+ (9.49%)
+Critical Damage:  140.6
+		Grade: C+ (-3.87%)
+Heat:  116.6
+		Grade: A (6.3%)
+Damage vs Grineer":  -42.6
+		Grade: B- (-2.9%)
+
+Polarity: Naramon   Rerolls: 2   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Su_xun
+Value/Plat: 1.46
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 22.79, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  139.9
+		Grade: C+ (-4.34%)
+Heat:  119.5
+		Grade: A+ (8.94%)
+Critical Chance:  184.2
+		Grade: B (0.79%)
+Damage vs Grineer":  -46.6
+		Grade: A (6.22%)
+
+Polarity: Vazarin   Rerolls: 61   MR: 16
+Riven rank : 8
+Initial price:  780   Buyout price: 780
+Seller: TifaEstarossa
+Value/Plat: 1.31
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acri-cronican
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 17.68, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  101.6
+		Grade: C (-7.38%)
+Critical Damage:  141.1
+		Grade: C+ (-3.52%)
+Fire Rate_Attack Speed:  69.1
+		Grade: C (-5.59%)
+Status Chance:  -84.1
+		Grade: C+ (-4.15%)
+
+Polarity: Naramon   Rerolls: 25   MR: 16
+Riven rank : 0
+Initial price:  799   Buyout price: 799
+Seller: isQuareX
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Visi-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.23, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  103.1
+		Grade: C (-6.01%)
+Critical Chance:  183.3
+		Grade: B (0.3%)
+Damage:  217.5
+		Grade: A+ (8.32%)
+Status Duration:  -92.0
+		Grade: C (-5.63%)
+
+Polarity: Naramon   Rerolls: 12   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Myszka0312
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Crita-satitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 21.44, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  146.1
+Critical Damage:  191.3
+Multishot:  110.3
+Status Duration:  -89.0
+
+Polarity: Naramon   Rerolls: 30   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Chin..
+Value/Plat: 1.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.57, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Duration:  115.0
+		Grade: C (-5.64%)
+Critical Damage:  152.9
+		Grade: A- (4.54%)
+Critical Chance:  174.2
+		Grade: C+ (-4.68%)
+Recoil:  82.0
+		Grade: C (-6.54%)
+
+Polarity: Naramon   Rerolls: 5   MR: 16
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Kira_wf
+Value/Plat: 1.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Visi-critacan
+Experimental riven rating: 24.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  178.6
+		Grade: B- (-2.27%)
+Damage:  199.3
+		Grade: B (-0.74%)
+Multishot:  104.8
+		Grade: C+ (-4.46%)
+Status Chance:  -82.8
+		Grade: C (-5.63%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 11
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: quietcanary
+Value/Plat: 1.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Sati-critaata
+Experimental riven rating: 34.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  194.4
+		Grade: A (6.37%)
+Multishot:  118.2
+		Grade: A+ (7.76%)
+Damage:  185.0
+		Grade: C- (-7.87%)
+Status Chance:  -91.8
+		Grade: A- (4.63%)
+
+Polarity: Naramon   Rerolls: 75   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 900
+Seller: SnowClear
+Value/Plat: 1.58
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Crita-acrican
+Experimental riven rating: 39.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.4
+		Grade: B (-1.29%)
+Critical Damage:  142.5
+		Grade: B- (-2.57%)
+Multishot:  98.9
+		Grade: F (-9.84%)
+Status Duration:  -107.0
+		Grade: S (9.75%)
+
+Polarity: Naramon   Rerolls: 8   MR: 15
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -KD-GulligMage
+Value/Plat: 1.6
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acri-cronican
+Experimental riven rating: 32.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  157.1
+		Grade: A (7.42%)
+Multishot:  112.6
+		Grade: B+ (2.65%)
+Fire Rate_Attack Speed:  76.0
+		Grade: A- (3.84%)
+Slash:  -118.7
+		Grade: B (1.46%)
+
+Polarity: Madurai   Rerolls: 267   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Devil_Zues
+Value/Plat: 1.17
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Dread Acricron
+Experimental riven rating: 24.0
+Two stats!
+Best profile: Beam
+General use: 20.66, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  208.8
+		Grade: A+ (8.16%)
+Critical Chance:  221.3
+		Grade: C- (-8.26%)
+Status Chance:  -52.3
+		Grade: F (-9.7%)
+
+Polarity: Madurai   Rerolls: 12   MR: 12
+Riven rank : 8
+Initial price:  3000   Buyout price:  infinite 
+Seller: jittls
+Value/Plat: 0.41
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

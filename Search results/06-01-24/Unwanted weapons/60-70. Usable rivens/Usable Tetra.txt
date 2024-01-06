@@ -1,0 +1,20 @@
+Name: Tetra Crita-cronican
+Experimental riven rating: 65.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  205.6
+Fire Rate_Attack Speed:  79.9
+Multishot:  11.6
+Recoil:  93.9
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rhegaly
+Value/Plat: 3.0
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

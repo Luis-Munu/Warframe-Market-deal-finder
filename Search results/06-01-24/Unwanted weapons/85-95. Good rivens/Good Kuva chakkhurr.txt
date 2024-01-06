@@ -1,0 +1,66 @@
+Name: Kuva chakkhurr Visi-saticron
+Experimental riven rating: 87.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  133.0
+		Grade: B (1.3%)
+Multishot:  74.4
+		Grade: A- (3.74%)
+Critical Chance:  111.2
+		Grade: C (-6.94%)
+Impact:  -72.7
+		Grade: C+ (-4.96%)
+
+Polarity: Vazarin   Rerolls: 245   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1500
+Seller: Nataruk
+Value/Plat: 4.67
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Crita-cronican
+Experimental riven rating: 89.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  130.1
+		Grade: A+ (8.88%)
+Multishot:  68.5
+		Grade: C+ (-4.49%)
+Fire Rate_Attack Speed:  50.0
+		Grade: A- (4.48%)
+Zoom:  -38.0
+		Grade: B (-0.64%)
+
+Polarity: Naramon   Rerolls: 15   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -CHN-Huitt_Ethereal-L
+Value/Plat: 4.89
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Kuva chakkhurr Sati-critatis
+Experimental riven rating: 88.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  121.4
+		Grade: B+ (1.59%)
+Critical Damage:  91.8
+		Grade: C+ (-4.0%)
+Multishot:  75.9
+		Grade: A (5.83%)
+Recoil:  54.6
+		Grade: C+ (-4.83%)
+
+Polarity: Naramon   Rerolls: 71   MR: 10
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: litter69
+Value/Plat: 0.12
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

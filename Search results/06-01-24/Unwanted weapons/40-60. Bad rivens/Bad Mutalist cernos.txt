@@ -1,0 +1,154 @@
+Name: Mutalist cernos Sati-cronitis
+Experimental riven rating: 54.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  138.1
+		Grade: C- (-9.07%)
+Multishot:  111.6
+		Grade: B- (-2.03%)
+Fire Rate_Attack Speed:  69.1
+		Grade: C- (-9.08%)
+Damage vs Infested":  -47.8
+		Grade: A- (4.92%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Kmarci1999
+Value/Plat: 4.19
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Acri-critacan
+Experimental riven rating: 47.75
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  184.8
+		Grade: B- (-2.63%)
+Critical Damage:  154.0
+		Grade: B (1.4%)
+Multishot:  106.1
+		Grade: C (-6.86%)
+Reload Speed:  -50.1
+		Grade: B (-0.93%)
+
+Polarity: Madurai   Rerolls: 20   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ZaqMacKraken
+Value/Plat: 2.11
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Hexa-acricron
+Experimental riven rating: 52.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  152.6
+		Grade: B (0.47%)
+Status Chance:  125.0
+		Grade: S (9.74%)
+Critical Chance:  182.5
+		Grade: C+ (-3.84%)
+Damage vs Infested":  -43.6
+		Grade: C+ (-4.3%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Zealous_Acolyte
+Value/Plat: 2.37
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Acri-hexacron
+Experimental riven rating: 43.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  163.4
+		Grade: A+ (7.59%)
+Status Chance:  111.4
+		Grade: B- (-2.2%)
+Critical Chance:  176.5
+		Grade: C (-7.0%)
+Ammo Maximum:  -46.5
+		Grade: C- (-8.05%)
+
+Polarity: Madurai   Rerolls: 2   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Qorvex-
+Value/Plat: 1.74
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Crita-acrican
+Experimental riven rating: 44.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  192.2
+		Grade: B (1.27%)
+Critical Damage:  153.7
+		Grade: B (1.2%)
+Multishot:  113.2
+		Grade: B (-0.62%)
+Damage vs Grineer":  -41.3
+		Grade: C- (-9.35%)
+
+Polarity: Madurai   Rerolls: 37   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: 1315660368
+Value/Plat: 1.81
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Croni-critatis
+Experimental riven rating: 57.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  182.0
+		Grade: C+ (-4.1%)
+Critical Damage:  142.8
+		Grade: C (-5.98%)
+Fire Rate_Attack Speed:  73.8
+		Grade: B- (-2.9%)
+Projectile Speed:  -89.0
+		Grade: B- (-2.32%)
+
+Polarity: Vazarin   Rerolls: 93   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: duangduangda
+Value/Plat: 2.47
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Crita-acrican
+Experimental riven rating: 43.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.2
+		Grade: A- (5.49%)
+Critical Damage:  139.9
+		Grade: C- (-7.89%)
+Multishot:  111.4
+		Grade: B- (-2.2%)
+Damage vs Grineer":  -41.3
+		Grade: C- (-9.35%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1650   Buyout price: 1650
+Seller: 4165190212
+Value/Plat: 1.52
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

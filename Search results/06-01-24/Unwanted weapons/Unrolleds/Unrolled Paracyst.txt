@@ -1,0 +1,130 @@
+Name: Paracyst Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -89.75, 
+Riven stats: 
+Critical Damage:  14.9
+		Grade: C- (-9.36%)
+Status Duration:  14.4
+		Grade: A- (5.12%)
+Critical Chance:  21.1
+		Grade: B+ (2.72%)
+Damage:  -18.4
+		Grade: B+ (1.93%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: Czarok
+Value/Plat: 1.95
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Paracyst Acri-lexicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.2, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  19.9
+		Grade: B- (-3.12%)
+Critical Damage:  17.6
+		Grade: A (7.07%)
+Punch Through:  0.4
+		Grade: A+ (9.09%)
+Fire Rate_Attack Speed:  -6.3
+		Grade: C+ (-4.25%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: SoxFinOfGreed
+Value/Plat: 1.95
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Paracyst Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.6, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  196.0
+		Grade: A (6.02%)
+Critical Damage:  134.0
+		Grade: C- (-9.42%)
+Punch Through:  3.5
+		Grade: A (6.06%)
+Fire Rate_Attack Speed:  -60.0
+		Grade: B (1.32%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: Ensike
+Value/Plat: 1.82
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Paracyst Crita-satitis
+Experimental riven rating: 46.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  12.4
+		Grade: B (0.58%)
+Critical Chance:  20.7
+		Grade: B (0.78%)
+Critical Damage:  16.3
+		Grade: B (-0.84%)
+Damage vs Grineer":  -5.4
+		Grade: S (9.52%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: L_u_s_t
+Value/Plat: 1.87
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Paracyst Sati-acridra
+Experimental riven rating: 63.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  120.5
+Critical Damage:  153.9
+Fire Rate_Attack Speed:  74.2
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: bnuy
+Value/Plat: 2.92
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------
+Name: Paracyst Acri-satidra
+Experimental riven rating: 46.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.8
+		Grade: C+ (-3.88%)
+Multishot:  11.3
+		Grade: C- (-8.34%)
+Fire Rate_Attack Speed:  7.5
+		Grade: C- (-8.82%)
+Ammo Maximum:  -5.5
+		Grade: B (0.49%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  260   Buyout price:  infinite 
+Seller: yftyyds
+Value/Plat: 0.24
+Used disposition: 1.31
+Real disposition: 1.31
+--------------------------------------------------

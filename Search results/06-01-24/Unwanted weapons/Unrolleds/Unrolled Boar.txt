@@ -1,0 +1,152 @@
+Name: Boar Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: -7.51, 
+Riven stats: 
+Critical Chance:  108.0
+		Grade: C+ (-4.48%)
+Critical Damage:  114.0
+		Grade: B (0.83%)
+Heat:  120.0
+		Grade: A (6.13%)
+Fire Rate_Attack Speed:  -98.0
+		Grade: A+ (8.36%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  350   Buyout price: 350
+Seller: iatian
+Value/Plat: 1.59
+Used disposition: 1.34
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 6.44, 
+Riven stats: 
+Critical Damage:  127.5
+		Grade: A- (4.21%)
+Critical Chance:  123.4
+		Grade: B (0.86%)
+Status Duration:  127.0
+		Grade: C (-6.58%)
+Impact:  -135.6
+		Grade: A- (3.92%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: LauKoeYz
+Value/Plat: 1.23
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Toxi-critatis
+Experimental riven rating: 24.11
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  102.8
+		Grade: C- (-9.08%)
+Toxin:  120.6
+		Grade: A (6.66%)
+Critical Chance:  107.8
+		Grade: C+ (-4.66%)
+Status Chance:  -86.0
+		Grade: C+ (-4.91%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ProfeserNG
+Value/Plat: 1.24
+Used disposition: 1.34
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Sati-visicron
+Experimental riven rating: 53.48
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  114.6
+		Grade: C (-6.33%)
+Damage:  211.1
+		Grade: C (-5.74%)
+Multishot:  171.6
+		Grade: A- (5.41%)
+Damage vs Infested":  -45.9
+		Grade: C (-6.2%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Daikyu
+Value/Plat: 2.45
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Acri-hexacron
+Experimental riven rating: 28.7
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  127.6
+		Grade: A- (4.29%)
+Critical Chance:  123.3
+		Grade: B (0.78%)
+Status Chance:  123.9
+		Grade: B (1.27%)
+Projectile Speed:  -90.4
+		Grade: C- (-7.63%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Kair90
+Value/Plat: 1.11
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Acri-satidra
+Experimental riven rating: 58.94
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  131.5
+		Grade: A (7.48%)
+Multishot:  166.2
+		Grade: B+ (2.1%)
+Fire Rate_Attack Speed:  123.7
+		Grade: B (1.11%)
+Recoil:  99.7
+		Grade: B+ (1.87%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  3500   Buyout price:  infinite 
+Seller: VanHelShin4-14
+Value/Plat: 0.19
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Sati-acridra
+Experimental riven rating: 43.34
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  166.0
+Critical Damage:  112.6
+Fire Rate_Attack Speed:  122.5
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price:  infinite 
+Seller: watermelon5436
+Value/Plat: 0.26
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

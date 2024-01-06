@@ -1,0 +1,42 @@
+Name: Karak Toxi-critatis
+Experimental riven rating: 26.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  183.8
+Critical Damage:  150.6
+Toxin:  120.6
+Damage vs Grineer":  -0.5
+
+Polarity: Naramon   Rerolls: 185   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: isiwokxkx
+Value/Plat: 1.3
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Karak Acri-decicron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 2.93, 
+Riven stats: 
+Critical Chance:  182.3
+		Grade: C+ (-3.94%)
+Critical Damage:  156.6
+		Grade: B+ (3.11%)
+Status Duration:  122.6
+		Grade: B- (-3.13%)
+Impact:  -126.5
+		Grade: A- (4.13%)
+
+Polarity: Vazarin   Rerolls: 2   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: ImAspxct
+Value/Plat: 0.41
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Name: Nagantaka Visi-cronitis
+Experimental riven rating: 24.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  121.7
+		Grade: B+ (3.02%)
+Fire Rate_Attack Speed:  61.7
+		Grade: A- (4.37%)
+Damage:  169.9
+		Grade: A- (4.76%)
+Slash:  -97.9
+		Grade: A- (3.61%)
+
+Polarity: Madurai   Rerolls: 10   MR: 15
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: YYYXIAOSA
+Value/Plat: 1.19
+Used disposition: 1.05
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Acri-satidra
+Experimental riven rating: 29.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  110.9
+		Grade: B (1.1%)
+Critical Damage:  160.7
+		Grade: S (9.88%)
+Fire Rate_Attack Speed:  67.3
+		Grade: C- (-8.05%)
+Status Duration:  -105.8
+		Grade: A+ (8.52%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: karisa-
+Value/Plat: 1.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Nagantaka Crita-acrican
+Experimental riven rating: 29.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  104.1
+		Grade: C+ (-5.1%)
+Critical Chance:  189.3
+		Grade: A- (3.58%)
+Critical Damage:  141.5
+		Grade: B- (-3.25%)
+Status Duration:  -105.3
+		Grade: A+ (8.01%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 9
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: Baro--Ki--Teer
+Value/Plat: 1.2
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

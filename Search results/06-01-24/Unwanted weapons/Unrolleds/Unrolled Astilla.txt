@@ -1,0 +1,110 @@
+Name: Astilla Crita-acripha
+Experimental riven rating: 27.54
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  96.0
+		Grade: C- (-8.98%)
+Critical Damage:  113.7
+		Grade: A+ (7.8%)
+Heat:  102.0
+		Grade: B- (-3.29%)
+Damage vs Infested":  -42.2
+		Grade: B (0.04%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  200   Buyout price: 500
+Seller: heinive
+Value/Plat: 1.6
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Astilla Acri-cronicron
+Experimental riven rating: 35.07
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  112.2
+		Grade: A (6.38%)
+Fire Rate_Attack Speed:  99.5
+		Grade: C (-5.66%)
+Critical Chance:  108.5
+		Grade: B+ (2.87%)
+Magazine Capacity:  -42.8
+		Grade: C- (-8.59%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: fly0527
+Value/Plat: 1.86
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Astilla Visi-acricron
+Experimental riven rating: 59.56
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  200.9
+		Grade: A- (4.06%)
+Critical Damage:  107.1
+		Grade: B+ (1.54%)
+Critical Chance:  95.9
+		Grade: C- (-9.08%)
+Recoil:  78.2
+		Grade: C (-7.31%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  970   Buyout price: 970
+Seller: Legitrank
+Value/Plat: 2.95
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Astilla Acri-cronicron
+Experimental riven rating: 59.13
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  12.1
+		Grade: B+ (3.25%)
+Critical Chance:  11.1
+		Grade: C+ (-5.28%)
+Critical Damage:  12.5
+		Grade: A (6.66%)
+Recoil:  10.3
+		Grade: S (9.88%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: -Star-Love-Prime
+Value/Plat: 2.86
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Astilla Croni-satitis
+Experimental riven rating: 38.05
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  130.6
+		Grade: C (-6.94%)
+Critical Damage:  97.4
+		Grade: C- (-7.65%)
+Fire Rate_Attack Speed:  112.4
+		Grade: A (6.57%)
+Magazine Capacity:  -51.0
+		Grade: A+ (8.92%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Thicky
+Value/Plat: 1.28
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

@@ -1,0 +1,263 @@
+Name: Latron Croni-satitis
+Experimental riven rating: 70.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  137.3
+		Grade: C (-6.12%)
+Multishot:  105.9
+		Grade: B- (-3.46%)
+Fire Rate_Attack Speed:  75.7
+		Grade: B+ (3.43%)
+Puncture:  -110.8
+		Grade: C+ (-5.29%)
+
+Polarity: Madurai   Rerolls: 9   MR: 10
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: 1_NiNo
+Value/Plat: 3.36
+Used disposition: 1.3
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-critadra
+Experimental riven rating: 71.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  196.0
+		Grade: B (-0.41%)
+Critical Damage:  162.0
+		Grade: B+ (2.85%)
+Fire Rate_Attack Speed:  78.0
+		Grade: B (-1.04%)
+Puncture:  -133.0
+		Grade: A (5.57%)
+
+Polarity: Madurai   Rerolls: 29   MR: 8
+Riven rank : 8
+Initial price:  1480   Buyout price: 1480
+Seller: Chtholly.Nota
+Value/Plat: 3.1
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-cronican
+Experimental riven rating: 74.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  85.4
+		Grade: A+ (8.35%)
+Multishot:  119.7
+		Grade: B (1.33%)
+Critical Damage:  172.1
+		Grade: A+ (9.27%)
+Recoil:  98.2
+		Grade: A- (3.93%)
+
+Polarity: Madurai   Rerolls: 56   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: narcissist66
+Value/Plat: 2.64
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Sati-cronitis
+Experimental riven rating: 74.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  82.3
+		Grade: A- (4.42%)
+Multishot:  126.1
+		Grade: A (6.75%)
+Critical Damage:  146.1
+		Grade: C (-7.24%)
+Puncture:  -114.2
+		Grade: C- (-9.36%)
+
+Polarity: Madurai   Rerolls: 48   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Zeenie
+Value/Plat: 2.65
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-lexicron
+Experimental riven rating: 70.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  163.4
+		Grade: A- (3.74%)
+Critical Chance:  181.5
+		Grade: C- (-7.78%)
+Punch Through:  3.7
+		Grade: A- (5.31%)
+Zoom:  -61.8
+		Grade: B- (-1.89%)
+
+Polarity: Vazarin   Rerolls: 20   MR: 11
+Riven rank : 8
+Initial price:  20000   Buyout price: 20000
+Seller: Krithh
+Value/Plat: 0.48
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Crita-acrican
+Experimental riven rating: 83.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  170.8
+		Grade: A+ (8.44%)
+Critical Chance:  215.2
+		Grade: A+ (9.34%)
+Multishot:  111.1
+		Grade: C (-5.95%)
+Puncture:  -115.1
+		Grade: C- (-8.64%)
+
+Polarity: Naramon   Rerolls: 294   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: KaMiSaMa
+Value/Plat: 0.13
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Visi-critatis
+Experimental riven rating: 83.74
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  165.0
+		Grade: A- (4.76%)
+Damage:  237.3
+		Grade: S (9.74%)
+Critical Chance:  206.3
+		Grade: A- (4.82%)
+Zoom:  -58.3
+		Grade: C (-7.45%)
+
+Polarity: Naramon   Rerolls: 44   MR: 9
+Riven rank : 8
+Initial price:  10000   Buyout price:  infinite 
+Seller: -KD-GulligMage
+Value/Plat: 0.13
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Crita-acrican
+Experimental riven rating: 78.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  197.7
+		Grade: B (0.45%)
+Critical Damage:  144.8
+		Grade: C- (-8.07%)
+Multishot:  125.6
+		Grade: A (6.32%)
+Puncture:  -126.3
+		Grade: B (0.25%)
+
+Polarity: Vazarin   Rerolls: 57   MR: 9
+Riven rank : 8
+Initial price:  1013   Buyout price:  infinite 
+Seller: -Ning-Ci-
+Value/Plat: 0.13
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-satidra
+Experimental riven rating: 78.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  146.7
+		Grade: C (-6.86%)
+Multishot:  129.0
+		Grade: A+ (9.2%)
+Fire Rate_Attack Speed:  80.0
+		Grade: B (1.5%)
+Zoom:  -58.6
+		Grade: C (-6.97%)
+
+Polarity: Vazarin   Rerolls: 60   MR: 10
+Riven rank : 8
+Initial price:  2500   Buyout price:  infinite 
+Seller: Franky
+Value/Plat: 0.14
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acricron
+Experimental riven rating: 75.01
+Two stats!
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  232.3
+		Grade: C+ (-3.7%)
+Critical Damage:  204.0
+		Grade: A (5.67%)
+Zoom:  -40.4
+		Grade: A- (4.64%)
+
+Polarity: Vazarin   Rerolls: 60   MR: 8
+Riven rank : 0
+Initial price:  2000   Buyout price:  infinite 
+Seller: DivineRogue
+Value/Plat: 0.14
+Used disposition: 1.3
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-saticron
+Experimental riven rating: 74.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.2
+		Grade: B- (-3.33%)
+Critical Damage:  162.8
+		Grade: B+ (3.36%)
+Critical Chance:  179.3
+		Grade: C- (-8.9%)
+Puncture:  -133.2
+		Grade: A (5.72%)
+
+Polarity: Naramon   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  4000   Buyout price:  infinite 
+Seller: maett.
+Value/Plat: 0.15
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Latron Acri-critacan
+Experimental riven rating: 74.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  107.2
+		Grade: C- (-9.25%)
+Critical Chance:  197.1
+		Grade: B (0.14%)
+Critical Damage:  158.8
+		Grade: B (0.82%)
+Puncture:  -135.4
+		Grade: A (7.47%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: KaMiSaMa
+Value/Plat: 0.15
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

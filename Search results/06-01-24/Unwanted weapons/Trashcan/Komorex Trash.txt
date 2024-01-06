@@ -1,0 +1,44 @@
+Name: Komorex Acri-critaata
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 13.24, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  146.4
+		Grade: C- (-9.44%)
+Critical Damage:  130.1
+		Grade: B (0.56%)
+Damage:  160.9
+		Grade: C- (-9.42%)
+Status Chance:  -84.1
+		Grade: A+ (8.35%)
+
+Polarity: Naramon   Rerolls: 64   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: quietcanary
+Value/Plat: 1.23
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Komorex Croni-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.72, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  61.5
+		Grade: C+ (-5.01%)
+Critical Chance:  151.4
+		Grade: C (-6.35%)
+Multishot:  90.4
+		Grade: C (-6.84%)
+Status Duration:  -86.1
+		Grade: B (-0.16%)
+
+Polarity: Madurai   Rerolls: 10   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: GamingForce3D
+Value/Plat: 1.23
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

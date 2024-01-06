@@ -1,0 +1,42 @@
+Name: Aeolak Visi-saticron
+Experimental riven rating: 48.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  181.7
+		Grade: B+ (2.29%)
+Critical Chance:  160.5
+		Grade: B (-0.72%)
+Multishot:  96.4
+		Grade: B (-0.65%)
+Magazine Capacity:  -46.2
+		Grade: A (7.25%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: crazy0205
+Value/Plat: 3.89
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Sati-acricron
+Experimental riven rating: 53.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  17.0
+Critical Damage:  14.5
+Multishot:  11.3
+Damage vs Grineer":  -1.0
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  2400   Buyout price: 2400
+Seller: cjw250
+Value/Plat: 1.53
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

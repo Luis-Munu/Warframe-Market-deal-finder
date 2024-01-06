@@ -1,0 +1,150 @@
+Name: Sobek Croni-acrican
+Experimental riven rating: 41.32
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  120.2
+		Grade: A (7.11%)
+Multishot:  136.1
+		Grade: C- (-8.85%)
+Fire Rate_Attack Speed:  122.9
+		Grade: S (9.51%)
+Damage vs Grineer":  -42.8
+		Grade: C+ (-4.64%)
+
+Polarity: Madurai   Rerolls: 9   MR: 14
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: lulusang888
+Value/Plat: 3.49
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Crita-toxitis
+Experimental riven rating: 50.86
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  106.7
+		Grade: C+ (-4.92%)
+Toxin:  122.5
+		Grade: A+ (9.16%)
+Critical Damage:  103.3
+		Grade: C- (-7.95%)
+Projectile Speed:  -87.2
+		Grade: B- (-2.86%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Remember.Prime
+Value/Plat: 3.25
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Croni-critatis
+Experimental riven rating: 51.42
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  103.9
+Critical Chance:  112.6
+Fire Rate_Attack Speed:  117.9
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: supertilter830
+Value/Plat: 3.31
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Croni-critacan
+Experimental riven rating: 46.54
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  134.6
+		Grade: F (-9.85%)
+Fire Rate_Attack Speed:  119.1
+		Grade: A (6.13%)
+Critical Chance:  111.8
+		Grade: B (-0.38%)
+Damage vs Corpus":  -48.0
+		Grade: A (6.94%)
+
+Polarity: Naramon   Rerolls: 149   MR: 16
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: Lsp-Dahlia
+Value/Plat: 2.41
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Acri-critaata
+Experimental riven rating: 42.21
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Damage:  188.8
+		Grade: C- (-8.09%)
+Critical Damage:  121.4
+		Grade: A+ (8.18%)
+Critical Chance:  120.5
+		Grade: A (7.38%)
+Reload Speed:  -46.4
+		Grade: C (-6.86%)
+
+Polarity: Naramon   Rerolls: 3   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: JohnnyMarkBee
+Value/Plat: 2.02
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Croni-acrican
+Experimental riven rating: 45.05
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  118.7
+Multishot:  152.7
+Critical Damage:  118.6
+Damage vs Grineer":  -57.0
+
+Polarity: Madurai   Rerolls: 55   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: --CF--Tonfo
+Value/Plat: 1.97
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------
+Name: Sobek Visi-acricron
+Experimental riven rating: 53.92
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  103.7
+		Grade: C- (-7.59%)
+Critical Damage:  106.4
+		Grade: C+ (-5.19%)
+Damage:  214.4
+		Grade: A- (4.37%)
+Projectile Speed:  -86.3
+		Grade: C+ (-3.86%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 8
+Riven rank : 8
+Initial price:  1222   Buyout price: 1222
+Seller: Orange-soda
+Value/Plat: 2.23
+Used disposition: 1.33
+Real disposition: 1.33
+--------------------------------------------------

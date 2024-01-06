@@ -1,0 +1,22 @@
+Name: Baza Lexi-acricron
+Experimental riven rating: 68.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  116.1
+		Grade: B- (-1.72%)
+Punch Through:  2.7
+		Grade: B+ (2.47%)
+Critical Chance:  144.8
+		Grade: B- (-1.9%)
+Puncture:  -96.6
+		Grade: B+ (2.23%)
+
+Polarity: Madurai   Rerolls: 8   MR: 8
+Riven rank : 0
+Initial price:  2900   Buyout price: 2900
+Seller: Melinoia
+Value/Plat: 1.81
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

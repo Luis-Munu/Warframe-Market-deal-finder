@@ -1,0 +1,148 @@
+Name: Shedu Lexi-critatis
+Experimental riven rating: 43.57
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  103.0
+Critical Damage:  76.1
+Punch Through:  2.0
+Damage vs Grineer":  -0.8
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: CALLmeSIR66
+Value/Plat: 5.18
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Crita-acridra
+Experimental riven rating: 78.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  108.0
+Critical Damage:  84.0
+Fire Rate_Attack Speed:  45.0
+Recoil:  45.0
+
+Polarity: Naramon   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  888   Buyout price: 888
+Seller: lihuaming2
+Value/Plat: 5.47
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Acri-cronicron
+Experimental riven rating: 72.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  97.6
+		Grade: C (-7.43%)
+Critical Damage:  80.4
+		Grade: C+ (-4.71%)
+Fire Rate_Attack Speed:  39.6
+		Grade: C (-6.22%)
+Recoil:  49.0
+		Grade: B- (-3.2%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: timeaway77
+Value/Plat: 4.49
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Crita-acritox
+Experimental riven rating: 48.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  100.4
+		Grade: C+ (-4.78%)
+Critical Damage:  84.6
+		Grade: B (0.26%)
+Toxin:  60.8
+		Grade: C+ (-3.92%)
+Damage vs Grineer":  -25.4
+		Grade: B (0.36%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1150   Buyout price: 1150
+Seller: Jiu-Tiao
+Value/Plat: 2.0
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Croni-saticron
+Experimental riven rating: 73.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  63.8
+		Grade: B (0.82%)
+Fire Rate_Attack Speed:  45.3
+		Grade: A (7.28%)
+Critical Chance:  105.4
+		Grade: B (-0.03%)
+Damage vs Infested":  -26.1
+		Grade: B+ (3.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: Kiyorakaito
+Value/Plat: 2.8
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Sati-critatis
+Experimental riven rating: 41.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  100.5
+		Grade: C+ (-4.68%)
+Critical Damage:  77.1
+		Grade: C- (-8.63%)
+Multishot:  69.1
+		Grade: A+ (9.19%)
+Fire Rate_Attack Speed:  -31.1
+		Grade: C- (-7.92%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: ElectricProgressiveHouse
+Value/Plat: 1.36
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------
+Name: Shedu Crita-cronitis
+Experimental riven rating: 53.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  123.7
+Critical Damage:  88.2
+Fire Rate_Attack Speed:  45.2
+Magazine Capacity:  -30.2
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price:  infinite 
+Seller: NAKI_PRIME
+Value/Plat: 0.21
+Used disposition: 0.75
+Real disposition: 0.75
+--------------------------------------------------

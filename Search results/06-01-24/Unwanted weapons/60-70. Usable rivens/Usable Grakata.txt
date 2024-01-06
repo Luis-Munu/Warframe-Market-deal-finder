@@ -1,0 +1,44 @@
+Name: Grakata Sati-visicron
+Experimental riven rating: 69.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  171.0
+		Grade: F (-9.9%)
+Multishot:  115.0
+		Grade: B (0.96%)
+Damage:  201.7
+		Grade: B- (-3.27%)
+Puncture:  -119.1
+		Grade: B- (-1.97%)
+
+Polarity: Madurai   Rerolls: 11   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1500
+Seller: Pouty
+Value/Plat: 2.91
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Grakata Acri-visidra
+Experimental riven rating: 68.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  161.1
+		Grade: A (6.07%)
+Damage:  210.4
+		Grade: B (0.9%)
+Fire Rate_Attack Speed:  68.6
+		Grade: F (-9.74%)
+Impact:  -110.9
+		Grade: C- (-8.72%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1999   Buyout price: 1999
+Seller: Rollinge
+Value/Plat: 2.31
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

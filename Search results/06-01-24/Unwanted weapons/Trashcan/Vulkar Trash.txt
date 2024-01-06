@@ -1,0 +1,216 @@
+Name: Vulkar Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -9.66, 
+Riven stats: 
+Critical Damage:  160.3
+		Grade: B- (-1.73%)
+Critical Chance:  216.2
+		Grade: A (6.06%)
+Status Duration:  133.9
+		Grade: B- (-1.5%)
+Reload Speed:  -51.8
+		Grade: C+ (-4.63%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  120   Buyout price: 120
+Seller: Eason_MuDan
+Value/Plat: 2.05
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Igni-critatis
+Experimental riven rating: 30.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  111.4
+		Grade: C (-5.7%)
+Critical Chance:  214.8
+		Grade: A+ (9.14%)
+Critical Damage:  144.0
+		Grade: C- (-8.57%)
+Damage vs Infested":  -43.6
+		Grade: C- (-7.72%)
+
+Polarity: Madurai   Rerolls: 4   MR: 16
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: Nakano_Nino
+Value/Plat: 2.3
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Visi-critacan
+Experimental riven rating: 39.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  228.5
+		Grade: B+ (2.03%)
+Critical Chance:  192.4
+		Grade: C (-5.61%)
+Multishot:  129.8
+		Grade: A (6.09%)
+Fire Rate_Attack Speed:  -71.1
+		Grade: A+ (8.88%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price: 500
+Seller: liuwj666
+Value/Plat: 2.26
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Crita-acripha
+Experimental riven rating: 39.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  189.6
+		Grade: C (-6.99%)
+Critical Damage:  165.1
+		Grade: B (1.21%)
+Heat:  123.5
+		Grade: B (0.94%)
+Zoom:  -63.5
+		Grade: B- (-2.67%)
+
+Polarity: Vazarin   Rerolls: 45   MR: 16
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: CephalonProsen
+Value/Plat: 2.17
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Igni-acricron
+Experimental riven rating: 31.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  158.6
+		Grade: B- (-2.78%)
+Heat:  119.1
+		Grade: B- (-2.65%)
+Critical Chance:  184.6
+		Grade: C- (-9.44%)
+Recoil:  103.1
+		Grade: A- (5.35%)
+
+Polarity: Naramon   Rerolls: 70   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: dbwu
+Value/Plat: 1.55
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Toxi-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.17, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  158.8
+		Grade: B- (-2.65%)
+Toxin:  131.8
+		Grade: A+ (7.73%)
+Critical Chance:  201.0
+		Grade: B (-1.4%)
+Status Chance:  -90.9
+		Grade: C (-7.12%)
+
+Polarity: Naramon   Rerolls: 2   MR: 14
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: -Qorvex-
+Value/Plat: 1.14
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Acri-critanok
+Experimental riven rating: 29.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.3
+		Grade: B- (-1.74%)
+Punch Through:  3.3
+		Grade: C- (-9.31%)
+Critical Damage:  173.0
+		Grade: A (6.05%)
+Magazine Capacity:  -49.6
+		Grade: C- (-8.68%)
+
+Polarity: Naramon   Rerolls: 11   MR: 16
+Riven rank : 8
+Initial price:  200   Buyout price: 1500
+Seller: r41kaze
+Value/Plat: 1.23
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Acri-critacan
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -7.24, 
+Riven stats: 
+Critical Chance:  192.1
+		Grade: C (-5.76%)
+Critical Damage:  176.1
+		Grade: A+ (7.95%)
+Multishot:  110.7
+		Grade: F (-9.52%)
+Damage:  -196.1
+		Grade: A+ (9.46%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1800
+Seller: Year-20Landau
+Value/Plat: 1.07
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Critatis
+Experimental riven rating: 28.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  157.7
+		Grade: C- (-8.45%)
+Critical Chance:  232.8
+		Grade: A+ (8.15%)
+
+Polarity: Madurai   Rerolls: 16   MR: 13
+Riven rank : 8
+Initial price:  1904   Buyout price:  infinite 
+Seller: X-Yoshimura
+Value/Plat: 0.36
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Vulkar Visi-critatis
+Experimental riven rating: 25.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  153.2
+		Grade: C (-6.09%)
+Damage:  222.7
+		Grade: B (-0.56%)
+Critical Chance:  200.6
+		Grade: B- (-1.59%)
+Status Chance:  -104.6
+		Grade: A (6.88%)
+
+Polarity: Vazarin   Rerolls: 70   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: haichaor
+Value/Plat: 0.39
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

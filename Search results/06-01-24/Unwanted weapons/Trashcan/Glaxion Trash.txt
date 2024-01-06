@@ -1,0 +1,154 @@
+Name: Glaxion Acri-satidra
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.18, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.3
+		Grade: A- (4.2%)
+Critical Damage:  154.8
+		Grade: A (5.84%)
+Fire Rate_Attack Speed:  74.5
+		Grade: B+ (1.79%)
+Status Chance:  -81.3
+		Grade: C (-7.34%)
+
+Polarity: Madurai   Rerolls: 1   MR: 16
+Riven rank : 8
+Initial price:  250   Buyout price: 250
+Seller: jay870106
+Value/Plat: 1.72
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Croni-critatis
+Experimental riven rating: 37.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  75.4
+		Grade: B+ (3.02%)
+Critical Damage:  136.1
+		Grade: C (-6.94%)
+Critical Chance:  180.5
+		Grade: B (-1.23%)
+Reload Speed:  -44.8
+		Grade: C- (-8.0%)
+
+Polarity: Vazarin   Rerolls: 8   MR: 12
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: Lignoceric
+Value/Plat: 2.62
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Visi-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -34.0, 
+Riven stats: 
+Damage:  23.6
+		Grade: A (5.78%)
+Critical Chance:  20.3
+		Grade: B (-0.03%)
+Critical Damage:  16.4
+		Grade: B (0.92%)
+Multishot:  -9.5
+		Grade: B- (-2.55%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  499   Buyout price: 499
+Seller: BrickFaceBing
+Value/Plat: 1.46
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Visi-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 6.45, 
+Riven stats: 
+Critical Chance:  20.5
+		Grade: B (0.95%)
+Critical Damage:  15.7
+		Grade: B- (-3.39%)
+Damage:  22.6
+		Grade: B (1.3%)
+Status Chance:  -9.5
+		Grade: B- (-2.55%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  400   Buyout price: 600
+Seller: bomb666
+Value/Plat: 1.39
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Crita-acriata
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -36.2, 
+Riven stats: 
+Critical Chance:  18.3
+		Grade: F (-9.88%)
+Critical Damage:  16.6
+		Grade: B+ (2.15%)
+Damage:  22.5
+		Grade: B (0.85%)
+Multishot:  -9.6
+		Grade: B- (-1.53%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: CCVBOO
+Value/Plat: 1.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Sati-critatis
+Experimental riven rating: 31.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  21.0
+		Grade: B+ (3.42%)
+Critical Damage:  16.8
+		Grade: B+ (3.38%)
+Multishot:  12.8
+		Grade: A- (5.02%)
+Fire Rate_Attack Speed:  -6.2
+		Grade: C+ (-4.69%)
+
+Polarity: Vazarin   Rerolls: 71   MR: 13
+Riven rank : 0
+Initial price:  1   Buyout price: 1500
+Seller: Hurriccane
+Value/Plat: 1.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Glaxion Acri-visidra
+Experimental riven rating: 38.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  151.8
+		Grade: A- (3.79%)
+Damage:  191.2
+		Grade: C+ (-4.78%)
+Fire Rate_Attack Speed:  74.5
+		Grade: B+ (1.79%)
+Damage vs Grineer":  -43.7
+		Grade: B (-0.39%)
+
+Polarity: Madurai   Rerolls: 13   MR: 13
+Riven rank : 8
+Initial price:  250   Buyout price:  infinite 
+Seller: SANS202945
+Value/Plat: 0.28
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

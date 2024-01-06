@@ -1,0 +1,86 @@
+Name: Amprex Sati-visicron
+Experimental riven rating: 61.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  112.7
+		Grade: C (-5.69%)
+Damage:  125.3
+		Grade: C+ (-4.56%)
+Multishot:  73.0
+		Grade: B+ (1.78%)
+Ammo Maximum:  -30.9
+		Grade: B- (-2.95%)
+
+Polarity: Naramon   Rerolls: 37   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: 130346010503621
+Value/Plat: 2.72
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Crita-visican
+Experimental riven rating: 62.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  130.1
+Multishot:  76.4
+Damage:  142.2
+Damage vs Grineer":  -0.7
+
+Polarity: Vazarin   Rerolls: 10   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: _Inexcusable
+Value/Plat: 2.79
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Visi-critacan
+Experimental riven rating: 62.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  72.5
+		Grade: B (1.09%)
+Critical Chance:  124.5
+		Grade: A- (4.19%)
+Damage:  141.4
+		Grade: A+ (7.7%)
+Reload Speed:  -31.0
+		Grade: B- (-2.64%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  1555   Buyout price: 1555
+Seller: LittleFairs
+Value/Plat: 2.39
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Croni-satitis
+Experimental riven rating: 69.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  86.2
+		Grade: F (-9.86%)
+Multishot:  66.0
+		Grade: C- (-7.98%)
+Fire Rate_Attack Speed:  44.8
+		Grade: C (-6.38%)
+Zoom:  -41.2
+		Grade: A+ (7.72%)
+
+Polarity: Naramon   Rerolls: 6   MR: 11
+Riven rank : 8
+Initial price:  2888   Buyout price: 2888
+Seller: Be_A_Batman
+Value/Plat: 1.85
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

@@ -1,0 +1,88 @@
+Name: Strun Acri-cronican
+Experimental riven rating: 60.16
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  147.7
+		Grade: C- (-9.27%)
+Critical Damage:  127.8
+		Grade: A- (4.46%)
+Fire Rate_Attack Speed:  122.4
+		Grade: B (0.04%)
+Recoil:  89.0
+		Grade: C- (-9.06%)
+
+Polarity: Naramon   Rerolls: 62   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -BM-Unluko
+Value/Plat: 2.31
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Sati-cronicron
+Experimental riven rating: 65.65
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  111.5
+		Grade: C- (-8.87%)
+Fire Rate_Attack Speed:  124.6
+		Grade: B+ (1.84%)
+Multishot:  167.5
+		Grade: B+ (2.9%)
+Impact:  -119.6
+		Grade: C- (-8.34%)
+
+Polarity: Madurai   Rerolls: 23   MR: 16
+Riven rank : 8
+Initial price:  2222   Buyout price: 2222
+Seller: -Apathy
+Value/Plat: 2.04
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Croni-satitis
+Experimental riven rating: 69.1
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  154.1
+		Grade: B- (-1.96%)
+Critical Damage:  108.9
+		Grade: C- (-7.81%)
+Fire Rate_Attack Speed:  122.7
+		Grade: A- (3.87%)
+Impact:  -116.6
+		Grade: C (-7.45%)
+
+Polarity: Madurai   Rerolls: 115   MR: 9
+Riven rank : 8
+Initial price:  6666   Buyout price:  infinite 
+Seller: MarryHCJ
+Value/Plat: 0.16
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Strun Acri-cronican
+Experimental riven rating: 68.38
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  126.2
+		Grade: C (-6.32%)
+Critical Damage:  107.7
+		Grade: A (6.37%)
+Fire Rate_Attack Speed:  98.3
+		Grade: B- (-2.92%)
+Impact:  -105.5
+		Grade: B- (-2.31%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Drifter
+Value/Plat: 0.16
+Used disposition: 1.2
+Real disposition: 1.45
+--------------------------------------------------

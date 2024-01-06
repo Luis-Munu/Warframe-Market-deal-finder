@@ -1,0 +1,176 @@
+Name: Paris Lexi-acricron
+Experimental riven rating: 57.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  3.2
+		Grade: C (-5.55%)
+Critical Damage:  142.3
+		Grade: C (-6.31%)
+Critical Chance:  183.8
+		Grade: B- (-3.15%)
+Damage vs Infested":  -42.0
+		Grade: C- (-7.81%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  699   Buyout price: 699
+Seller: sandro22z
+Value/Plat: 3.31
+Used disposition: 1.35
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Sati-cronitis
+Experimental riven rating: 60.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  126.0
+		Grade: B+ (2.99%)
+Critical Damage:  149.1
+		Grade: C- (-8.6%)
+Fire Rate_Attack Speed:  79.3
+		Grade: B- (-2.86%)
+Damage vs Infested":  -51.8
+		Grade: A (5.86%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: xinsuanlaobaprime
+Value/Plat: 2.93
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Visi-saticron
+Experimental riven rating: 53.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  228.0
+		Grade: B+ (1.8%)
+Multishot:  122.3
+		Grade: B (-0.04%)
+Critical Chance:  200.6
+		Grade: B- (-1.59%)
+Reload Speed:  -52.5
+		Grade: B- (-3.34%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: FendigheeRicch
+Value/Plat: 1.96
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Croni-saticron
+Experimental riven rating: 48.36
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  206.5
+		Grade: A- (4.92%)
+Multishot:  126.5
+		Grade: A (7.09%)
+Fire Rate_Attack Speed:  84.7
+		Grade: A (7.46%)
+Magazine Capacity:  -47.9
+		Grade: C- (-8.66%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -CHN-Huitt_Ethereal-L
+Value/Plat: 1.53
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Sati-acridra
+Experimental riven rating: 58.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  123.1
+		Grade: B (0.61%)
+Fire Rate_Attack Speed:  74.2
+		Grade: C- (-9.11%)
+Critical Damage:  149.4
+		Grade: C- (-8.42%)
+Damage vs Infested":  -50.8
+		Grade: A- (3.82%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1700   Buyout price: 2500
+Seller: Idunknow11
+Value/Plat: 1.64
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Sati-acridra
+Experimental riven rating: 71.74
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  157.6
+		Grade: B (0.06%)
+Fire Rate_Attack Speed:  74.6
+		Grade: C+ (-5.35%)
+Multishot:  119.3
+		Grade: B (0.99%)
+Puncture:  -114.0
+		Grade: F (-9.51%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Drifter
+Value/Plat: 0.15
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Acri-satidra
+Experimental riven rating: 68.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.7
+		Grade: B (-0.51%)
+Multishot:  109.6
+		Grade: C (-7.22%)
+Fire Rate_Attack Speed:  83.6
+		Grade: A (6.07%)
+Puncture:  -129.7
+		Grade: B+ (2.95%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  7777   Buyout price:  infinite 
+Seller: Franky
+Value/Plat: 0.16
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------
+Name: Paris Sati-acricron
+Experimental riven rating: 52.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  160.7
+		Grade: B+ (2.03%)
+Critical Chance:  177.3
+		Grade: F (-9.92%)
+Multishot:  123.7
+		Grade: A- (4.72%)
+Magazine Capacity:  -56.6
+		Grade: A+ (7.93%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  4999   Buyout price:  infinite 
+Seller: skimxsk
+Value/Plat: 0.21
+Used disposition: 1.4
+Real disposition: 1.45
+--------------------------------------------------

@@ -1,0 +1,22 @@
+Name: Opticor Croni-satitis
+Experimental riven rating: 74.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  122.3
+		Grade: C+ (-5.47%)
+Multishot:  92.1
+		Grade: C+ (-5.09%)
+Fire Rate_Attack Speed:  69.0
+		Grade: A (6.57%)
+Zoom:  -51.1
+		Grade: B (-1.25%)
+
+Polarity: Naramon   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: nE0-_-
+Value/Plat: 2.68
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

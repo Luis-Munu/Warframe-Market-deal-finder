@@ -1,0 +1,14 @@
+,name,slot,critical_chance,critical_damage,status_chance,class,internal_name
+0,catchmoon,Primary,0.35,2.3,0.13,Shotgun,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart
+1,gaze,Primary,0.39,2.3,0.17,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart
+2,rattleguts,Primary,0.33,2.3,0.11,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart
+3,sporelacer,Primary,0.35,2.3,0.13,Shotgun,/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart
+4,tombfinger,Primary,0.38,2.3,0.16,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart
+5,vermisplicer,Primary,0.39,2.3,0.34,Rifle,/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart
+6,catchmoon,Secondary,0.35,2.3,0.13,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart
+7,gaze,Secondary,0.39,2.3,0.17,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart
+8,rattleguts,Secondary,0.33,2.3,0.11,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart
+9,sporelacer,Secondary,0.35,2.3,0.13,Rifle,/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart
+10,tombfinger,Secondary,0.38,2.3,0.16,Rifle,/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart
+11,vermisplicer,Secondary,0.39,2.3,0.34,Rifle,/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart
+12,dark_split_sword_(dual_swords),Melee,0.0,2.0,0.10000002,Melee,/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerHybridWeapon

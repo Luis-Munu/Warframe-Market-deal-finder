@@ -1,0 +1,42 @@
+Name: Mutalist quanta Crita-hexatis
+Experimental riven rating: 33.39
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Status Chance:  126.2
+Critical Damage:  165.3
+Critical Chance:  229.4
+Damage vs Corpus":  -0.5
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: ABCabcBC
+Value/Plat: 1.55
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Mutalist quanta Sati-critaata
+Experimental riven rating: 26.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  13.2
+		Grade: C (-6.14%)
+Critical Chance:  21.3
+		Grade: C- (-9.09%)
+Damage:  25.8
+		Grade: B (0.22%)
+Magazine Capacity:  -6.1
+		Grade: B- (-2.29%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: Umbrellaintherain
+Value/Plat: 1.17
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------

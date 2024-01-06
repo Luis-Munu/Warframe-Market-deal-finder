@@ -1,0 +1,84 @@
+Name: Tiberon Acri-critadra
+Experimental riven rating: 48.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  155.7
+Critical Damage:  127.8
+Fire Rate_Attack Speed:  56.4
+Damage vs Grineer":  -62.0
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  128   Buyout price: 128
+Seller: APRICITY88
+Value/Plat: 5.81
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-critanok
+Experimental riven rating: 45.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.7
+		Grade: B- (-3.19%)
+Critical Damage:  125.3
+		Grade: B (1.25%)
+Punch Through:  2.6
+		Grade: C (-5.81%)
+Reload Speed:  -41.1
+		Grade: B (-0.25%)
+
+Polarity: Madurai   Rerolls: 5   MR: 8
+Riven rank : 8
+Initial price:  180   Buyout price: 180
+Seller: shenquan123
+Value/Plat: 4.43
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Lexi-critatis
+Experimental riven rating: 48.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.9
+		Grade: C (-6.3%)
+Punch Through:  3.0
+		Grade: A+ (8.68%)
+Critical Damage:  113.1
+		Grade: C- (-8.61%)
+Ammo Maximum:  -44.9
+		Grade: A+ (8.97%)
+
+Polarity: Madurai   Rerolls: 10   MR: 13
+Riven rank : 8
+Initial price:  1900   Buyout price: 1900
+Seller: Melinoia
+Value/Plat: 1.58
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-saticron
+Experimental riven rating: 43.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  81.2
+Critical Chance:  109.1
+Critical Damage:  132.7
+Status Chance:  -63.4
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: LoveyouLiangBao
+Value/Plat: 1.41
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

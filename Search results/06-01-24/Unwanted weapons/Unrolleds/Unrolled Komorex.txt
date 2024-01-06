@@ -1,0 +1,66 @@
+Name: Komorex Crita-toxitis
+Experimental riven rating: 60.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.0
+		Grade: A+ (8.25%)
+Critical Damage:  122.0
+		Grade: C (-5.7%)
+Toxin:  92.0
+		Grade: C+ (-5.19%)
+Projectile Speed:  -73.0
+		Grade: C (-5.95%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: mn12sdkl
+Value/Plat: 4.57
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Komorex Crita-visitis
+Experimental riven rating: 44.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  13.1
+		Grade: C- (-8.87%)
+Critical Chance:  18.0
+		Grade: B (0.2%)
+Damage:  18.3
+		Grade: C (-7.28%)
+Reload Speed:  -4.7
+		Grade: B- (-1.8%)
+
+Polarity: Naramon   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: -Praxorus-
+Value/Plat: 2.13
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Komorex Crita-acridex
+Experimental riven rating: 58.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  164.5
+		Grade: B+ (1.75%)
+Status Chance:  96.0
+		Grade: B (-1.07%)
+Critical Damage:  128.2
+		Grade: B (-0.91%)
+Projectile Speed:  -76.2
+		Grade: B- (-1.83%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Qorvex-
+Value/Plat: 2.54
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

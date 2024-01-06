@@ -1,0 +1,84 @@
+Name: Supra Visi-cronitis
+Experimental riven rating: 39.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.9
+		Grade: A- (4.16%)
+Fire Rate_Attack Speed:  66.4
+		Grade: A (7.22%)
+Damage:  184.7
+		Grade: A+ (8.71%)
+Magazine Capacity:  -41.5
+		Grade: B (0.72%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: PoiioqPrime
+Value/Plat: 2.78
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Acri-visicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.71, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.3
+		Grade: B- (-3.45%)
+Critical Damage:  121.0
+		Grade: B- (-2.23%)
+Damage:  165.0
+		Grade: B- (-2.88%)
+Status Chance:  -77.1
+		Grade: A- (3.85%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Mammon_Prime
+Value/Plat: 1.46
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Sati-visicron
+Experimental riven rating: 60.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  15.9
+Multishot:  10.8
+Damage:  18.3
+Damage vs Infested":  -9.6
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: IaMaGOUSHOU
+Value/Plat: 4.47
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Acri-critacan
+Experimental riven rating: 42.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  125.0
+Critical Chance:  142.0
+Multishot:  88.8
+Damage vs Grineer":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  1400   Buyout price: 1400
+Seller: lihuaming2
+Value/Plat: 1.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

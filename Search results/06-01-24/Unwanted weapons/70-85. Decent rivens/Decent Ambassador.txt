@@ -1,0 +1,22 @@
+Name: Ambassador Croni-critatis
+Experimental riven rating: 71.74
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  122.6
+		Grade: B (-0.93%)
+Critical Chance:  161.2
+		Grade: A- (4.24%)
+Fire Rate_Attack Speed:  67.1
+		Grade: A+ (8.35%)
+Recoil:  81.0
+		Grade: A+ (9.1%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -.Lain.-
+Value/Plat: 4.82
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

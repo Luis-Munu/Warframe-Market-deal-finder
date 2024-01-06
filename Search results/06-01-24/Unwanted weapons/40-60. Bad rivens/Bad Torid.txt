@@ -1,0 +1,670 @@
+Name: Torid Visi-acridra
+Experimental riven rating: 41.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  66.4
+Critical Damage:  132.9
+Damage:  188.4
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 7   MR: 13
+Riven rank : 0
+Initial price:  900   Buyout price: 900
+Seller: _-Kingsize-_
+Value/Plat: 1.87
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Acri-critadra
+Experimental riven rating: 40.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  149.4
+		Grade: B+ (2.15%)
+Fire Rate_Attack Speed:  66.1
+		Grade: F (-9.69%)
+Critical Chance:  167.3
+		Grade: C- (-8.46%)
+Reload Speed:  -45.7
+		Grade: C (-6.15%)
+
+Polarity: Vazarin   Rerolls: 217   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: 206863637
+Value/Plat: 1.74
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Acri-critadex
+Experimental riven rating: 40.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  190.1
+		Grade: A- (4.02%)
+Critical Damage:  160.4
+		Grade: S (9.67%)
+Status Chance:  100.8
+		Grade: C- (-8.11%)
+Projectile Speed:  -90.5
+		Grade: B+ (3.14%)
+
+Polarity: Vazarin   Rerolls: 222   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -SOS-Suzumiya_Haruhi
+Value/Plat: 1.77
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critatis
+Experimental riven rating: 47.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.6
+		Grade: B (-1.18%)
+Critical Damage:  141.9
+		Grade: B- (-2.98%)
+Fire Rate_Attack Speed:  74.0
+		Grade: B (1.11%)
+Damage vs Corpus":  -41.9
+		Grade: C+ (-4.49%)
+
+Polarity: Madurai   Rerolls: 88   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: canxue666
+Value/Plat: 2.12
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Acri-visidra
+Experimental riven rating: 52.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  133.4
+Damage:  207.5
+Fire Rate_Attack Speed:  69.7
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 251   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: STYANAX_PRIME
+Value/Plat: 2.36
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Visi-acridra
+Experimental riven rating: 49.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  24.0
+		Grade: A+ (7.57%)
+Critical Damage:  17.1
+		Grade: A- (5.23%)
+Fire Rate_Attack Speed:  8.2
+		Grade: B (0.83%)
+Ammo Maximum:  -5.3
+		Grade: B- (-2.05%)
+
+Polarity: Naramon   Rerolls: 37   MR: 13
+Riven rank : 0
+Initial price:  1100   Buyout price: 1100
+Seller: chenweiyuyyds
+Value/Plat: 2.09
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-cronicron
+Experimental riven rating: 45.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  70.0
+		Grade: C+ (-4.36%)
+Critical Chance:  167.9
+		Grade: C- (-8.13%)
+Multishot:  119.9
+		Grade: A+ (9.31%)
+Damage vs Grineer":  -46.0
+		Grade: A- (4.85%)
+
+Polarity: Naramon   Rerolls: 4   MR: 8
+Riven rank : 8
+Initial price:  1150   Buyout price: 1150
+Seller: Robert2707
+Value/Plat: 1.89
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-acridra
+Experimental riven rating: 43.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.9
+		Grade: B (-1.02%)
+Critical Damage:  151.1
+		Grade: B+ (3.31%)
+Fire Rate_Attack Speed:  66.5
+		Grade: C- (-9.14%)
+Reload Speed:  -47.5
+		Grade: B- (-2.46%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Ayan_kale
+Value/Plat: 1.75
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-critadra
+Experimental riven rating: 46.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  71.1
+		Grade: B- (-2.85%)
+Critical Chance:  189.7
+		Grade: A- (3.8%)
+Multishot:  118.5
+		Grade: A+ (8.03%)
+Damage vs Grineer":  -41.0
+		Grade: C (-6.54%)
+
+Polarity: Madurai   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: SceneryMoonlight
+Value/Plat: 1.89
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-acrican
+Experimental riven rating: 51.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  77.2
+		Grade: A- (5.48%)
+Critical Damage:  147.4
+		Grade: B (0.78%)
+Multishot:  102.9
+		Grade: C (-6.19%)
+Damage vs Corpus":  -44.4
+		Grade: B (1.21%)
+
+Polarity: Vazarin   Rerolls: 90   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: --TS--Shadow_Walker
+Value/Plat: 2.13
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Toxi-acricron
+Experimental riven rating: 42.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Toxin:  105.8
+		Grade: C+ (-3.55%)
+Critical Damage:  145.8
+		Grade: B (-0.31%)
+Critical Chance:  175.2
+		Grade: C+ (-4.13%)
+Damage vs Corpus":  -44.0
+		Grade: B (0.29%)
+
+Polarity: Vazarin   Rerolls: 175   MR: 9
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Morran-Prime
+Value/Plat: 1.59
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-critadra
+Experimental riven rating: 52.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  114.9
+		Grade: A- (4.75%)
+Critical Chance:  174.3
+		Grade: C+ (-4.63%)
+Fire Rate_Attack Speed:  67.6
+		Grade: C- (-7.64%)
+Damage vs Corpus":  -46.9
+		Grade: A (6.91%)
+
+Polarity: Vazarin   Rerolls: 462   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: 6117611
+Value/Plat: 1.92
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-critadra
+Experimental riven rating: 57.86
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  119.3
+Critical Chance:  191.8
+Fire Rate_Attack Speed:  74.2
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 68   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: NANX-rAn
+Value/Plat: 2.18
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-acridra
+Experimental riven rating: 59.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  193.2
+Critical Damage:  148.0
+Fire Rate_Attack Speed:  74.0
+Damage vs Infested":  -0.6
+
+Polarity: Madurai   Rerolls: 428   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: TachibanaSan2
+Value/Plat: 2.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-critadra
+Experimental riven rating: 55.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  74.3
+		Grade: B+ (1.52%)
+Critical Chance:  186.6
+		Grade: B+ (2.1%)
+Multishot:  115.0
+		Grade: A- (4.84%)
+Ammo Maximum:  -48.7
+		Grade: B (0.01%)
+
+Polarity: Madurai   Rerolls: 169   MR: 9
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: Violet_Darling
+Value/Plat: 1.94
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Hexa-critatis
+Experimental riven rating: 45.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  173.2
+		Grade: C+ (-5.23%)
+Critical Damage:  138.4
+		Grade: C+ (-5.37%)
+Status Chance:  114.7
+		Grade: A- (4.57%)
+Zoom:  -53.9
+		Grade: C- (-7.85%)
+
+Polarity: Madurai   Rerolls: 44   MR: 15
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: WLMZXHB
+Value/Plat: 1.53
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-cronican
+Experimental riven rating: 52.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  103.8
+		Grade: C+ (-5.37%)
+Fire Rate_Attack Speed:  70.7
+		Grade: B- (-3.4%)
+Critical Chance:  191.4
+		Grade: A- (4.73%)
+Ammo Maximum:  -48.3
+		Grade: B (-0.81%)
+
+Polarity: Naramon   Rerolls: 36   MR: 16
+Riven rank : 8
+Initial price:  1900   Buyout price: 1900
+Seller: -Kira-Yoshikage-
+Value/Plat: 1.7
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-cronican
+Experimental riven rating: 49.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  185.5
+		Grade: B+ (1.5%)
+Multishot:  99.9
+		Grade: C- (-8.93%)
+Fire Rate_Attack Speed:  69.3
+		Grade: C+ (-5.31%)
+Ammo Maximum:  -49.4
+		Grade: B (1.45%)
+
+Polarity: Madurai   Rerolls: 58   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: donater13372
+Value/Plat: 1.58
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-acridra
+Experimental riven rating: 52.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  113.6
+		Grade: A- (3.56%)
+Fire Rate_Attack Speed:  68.0
+		Grade: C (-7.09%)
+Critical Damage:  142.7
+		Grade: B- (-2.43%)
+Ammo Maximum:  -51.6
+		Grade: A (5.96%)
+
+Polarity: Madurai   Rerolls: 283   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: OneceOcean
+Value/Plat: 1.64
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-cronican
+Experimental riven rating: 55.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  173.4
+Fire Rate_Attack Speed:  75.1
+Multishot:  120.6
+Damage vs Corpus":  -0.6
+
+Polarity: Madurai   Rerolls: 19   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: ODYSSEYKYIV
+Value/Plat: 1.75
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critacan
+Experimental riven rating: 55.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  107.5
+		Grade: B- (-2.0%)
+Fire Rate_Attack Speed:  77.8
+		Grade: A (6.3%)
+Critical Chance:  192.9
+		Grade: A (5.55%)
+Damage vs Corpus":  -45.7
+		Grade: A- (4.17%)
+
+Polarity: Madurai   Rerolls: 45   MR: 14
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: bdub_
+Value/Plat: 1.78
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critacan
+Experimental riven rating: 58.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  105.5
+		Grade: C+ (-3.82%)
+Critical Chance:  178.2
+		Grade: B- (-2.49%)
+Fire Rate_Attack Speed:  71.8
+		Grade: B- (-1.9%)
+Damage vs Infested":  -43.0
+		Grade: B- (-1.98%)
+
+Polarity: Vazarin   Rerolls: 140   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: LoRenZcc
+Value/Plat: 1.89
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critacan
+Experimental riven rating: 50.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  108.3
+		Grade: B (-1.27%)
+Fire Rate_Attack Speed:  79.3
+		Grade: A+ (8.35%)
+Critical Chance:  189.7
+		Grade: A- (3.8%)
+Reload Speed:  -45.1
+		Grade: C (-7.38%)
+
+Polarity: Naramon   Rerolls: 50   MR: 15
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: sbbvc
+Value/Plat: 1.52
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-critadra
+Experimental riven rating: 42.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  185.1
+		Grade: B (1.28%)
+Fire Rate_Attack Speed:  69.2
+		Grade: C+ (-5.45%)
+Multishot:  118.6
+		Grade: A+ (8.12%)
+Magazine Capacity:  -48.1
+		Grade: B (-1.22%)
+
+Polarity: Naramon   Rerolls: 23   MR: 9
+Riven rank : 8
+Initial price:  2300   Buyout price: 2300
+Seller: Aeternum.
+Value/Plat: 1.3
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-acrican
+Experimental riven rating: 50.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  76.2
+		Grade: A- (4.11%)
+Multishot:  102.0
+		Grade: C (-7.01%)
+Critical Damage:  138.7
+		Grade: C+ (-5.17%)
+Damage vs Corpus":  -46.4
+		Grade: A (5.77%)
+
+Polarity: Naramon   Rerolls: 223   MR: 16
+Riven rank : 8
+Initial price:  2400   Buyout price: 2400
+Seller: -McBolt-
+Value/Plat: 1.45
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critacan
+Experimental riven rating: 42.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  193.4
+		Grade: A (5.82%)
+Multishot:  100.3
+		Grade: C- (-8.56%)
+Fire Rate_Attack Speed:  72.8
+		Grade: B (-0.53%)
+Magazine Capacity:  -51.9
+		Grade: A (6.58%)
+
+Polarity: Vazarin   Rerolls: 67   MR: 8
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: SarahSamus
+Value/Plat: 1.25
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Croni-critacan
+Experimental riven rating: 50.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  111.2
+		Grade: B (1.38%)
+Critical Chance:  188.5
+		Grade: B+ (3.14%)
+Fire Rate_Attack Speed:  75.4
+		Grade: B+ (3.02%)
+Reload Speed:  -47.3
+		Grade: B- (-2.87%)
+
+Polarity: Naramon   Rerolls: 77   MR: 15
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: shuaipr
+Value/Plat: 1.43
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Sati-cronitis
+Experimental riven rating: 58.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  70.2
+		Grade: C+ (-4.08%)
+Critical Damage:  140.0
+		Grade: C+ (-4.28%)
+Multishot:  109.6
+		Grade: B (-0.08%)
+Damage vs Infested":  -41.6
+		Grade: C+ (-5.18%)
+
+Polarity: Naramon   Rerolls: 65   MR: 11
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: Pandaahh
+Value/Plat: 1.66
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Acri-saticron
+Experimental riven rating: 48.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  100.9
+		Grade: C- (-8.01%)
+Critical Chance:  180.5
+		Grade: B (-1.23%)
+Critical Damage:  148.5
+		Grade: B+ (1.54%)
+Reload Speed:  -48.9
+		Grade: B (0.42%)
+
+Polarity: Naramon   Rerolls: 67   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price:  infinite 
+Seller: cjamn
+Value/Plat: 0.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-acridra
+Experimental riven rating: 48.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  194.5
+Critical Damage:  139.5
+Fire Rate_Attack Speed:  66.2
+Damage vs Corpus":  -0.4
+
+Polarity: Madurai   Rerolls: 235   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: EndingIsFool
+Value/Plat: 0.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Torid Crita-acriata
+Experimental riven rating: 47.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  149.1
+		Grade: B+ (1.95%)
+Damage:  188.1
+		Grade: C (-6.32%)
+Critical Chance:  200.6
+		Grade: S (9.76%)
+Reload Speed:  -48.8
+		Grade: B (0.21%)
+
+Polarity: Naramon   Rerolls: 13   MR: 11
+Riven rank : 8
+Initial price:  4700   Buyout price:  infinite 
+Seller: zLEXTRO
+Value/Plat: 0.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

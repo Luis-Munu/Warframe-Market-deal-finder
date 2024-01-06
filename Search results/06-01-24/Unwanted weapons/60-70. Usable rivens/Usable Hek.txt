@@ -1,0 +1,44 @@
+Name: Hek Acri-critacan
+Experimental riven rating: 66.86
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  107.2
+		Grade: A (5.87%)
+Multishot:  126.9
+		Grade: C (-5.8%)
+Critical Chance:  105.0
+		Grade: A- (3.7%)
+Recoil:  76.3
+		Grade: C (-5.79%)
+
+Polarity: Vazarin   Rerolls: 11   MR: 16
+Riven rank : 8
+Initial price:  7000   Buyout price:  infinite 
+Seller: MyshkinThePrince
+Value/Plat: 0.16
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Sati-acricron
+Experimental riven rating: 65.2
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  98.8
+		Grade: B- (-2.42%)
+Multishot:  145.7
+		Grade: A+ (8.15%)
+Critical Chance:  96.5
+		Grade: C+ (-4.69%)
+Puncture:  -111.5
+		Grade: B+ (3.25%)
+
+Polarity: Madurai   Rerolls: 6   MR: 11
+Riven rank : 8
+Initial price:  5000   Buyout price:  infinite 
+Seller: -Sopa
+Value/Plat: 0.17
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

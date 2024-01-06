@@ -1,0 +1,22 @@
+Name: Soma Crita-acridra
+Experimental riven rating: 71.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  173.0
+		Grade: A (7.01%)
+Critical Damage:  133.0
+		Grade: B+ (2.8%)
+Fire Rate_Attack Speed:  63.0
+		Grade: B- (-2.69%)
+Zoom:  -56.0
+		Grade: A+ (8.22%)
+
+Polarity: Vazarin   Rerolls: 80   MR: 16
+Riven rank : 8
+Initial price:  1280   Buyout price: 1280
+Seller: Chtholly.Nota
+Value/Plat: 3.39
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

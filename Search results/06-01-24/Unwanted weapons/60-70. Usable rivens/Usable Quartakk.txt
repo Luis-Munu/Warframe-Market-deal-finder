@@ -1,0 +1,66 @@
+Name: Quartakk Acri-toxicron
+Experimental riven rating: 69.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.9
+		Grade: B (0.1%)
+Toxin:  109.0
+		Grade: B+ (3.34%)
+Critical Damage:  147.5
+		Grade: A- (4.89%)
+Recoil:  78.6
+		Grade: C (-6.84%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 15
+Riven rank : 8
+Initial price:  600   Buyout price: 850
+Seller: armagedon112
+Value/Plat: 4.34
+Used disposition: 1.25
+Real disposition: 1.05
+--------------------------------------------------
+Name: Quartakk Sati-cronitis
+Experimental riven rating: 64.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  74.5
+		Grade: A (5.86%)
+Multishot:  115.2
+		Grade: A+ (9.22%)
+Critical Damage:  131.9
+		Grade: C (-6.21%)
+Damage vs Infested":  -43.5
+		Grade: B+ (3.12%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 13
+Riven rank : 8
+Initial price:  888   Buyout price: 888
+Seller: -Apathy
+Value/Plat: 3.64
+Used disposition: 1.25
+Real disposition: 1.05
+--------------------------------------------------
+Name: Quartakk Sati-cronicron
+Experimental riven rating: 63.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.0
+		Grade: B- (-2.45%)
+Multishot:  96.3
+		Grade: A+ (8.69%)
+Fire Rate_Attack Speed:  63.5
+		Grade: A (7.42%)
+Damage vs Corpus":  -38.1
+		Grade: A+ (7.52%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: _.Hisoka._
+Value/Plat: 2.09
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

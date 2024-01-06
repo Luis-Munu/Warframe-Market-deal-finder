@@ -1,0 +1,1893 @@
+Name: Zenith Lexi-critatis
+Experimental riven rating: 48.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Punch Through:  2.9
+		Grade: A- (5.05%)
+Critical Damage:  112.4
+		Grade: C- (-9.17%)
+Critical Chance:  156.7
+		Grade: B (1.33%)
+Status Chance:  -77.8
+		Grade: A- (4.79%)
+
+Polarity: Naramon   Rerolls: 12   MR: 11
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: sanek1511
+Value/Plat: 4.66
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-toxicron
+Experimental riven rating: 56.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  155.5
+		Grade: B (0.56%)
+Toxin:  93.9
+		Grade: B (1.17%)
+Critical Damage:  131.6
+		Grade: A (6.34%)
+Ammo Maximum:  -40.3
+		Grade: B- (-2.19%)
+
+Polarity: Madurai   Rerolls: 116   MR: 16
+Riven rank : 8
+Initial price:  250   Buyout price: 250
+Seller: SHIRO_KIRISU
+Value/Plat: 5.73
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acridra
+Experimental riven rating: 58.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  56.9
+		Grade: C- (-8.12%)
+Critical Chance:  158.0
+		Grade: B+ (2.17%)
+Critical Damage:  122.7
+		Grade: B (-0.85%)
+Damage vs Corpus":  -39.0
+		Grade: A- (5.06%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  380   Buyout price: 380
+Seller: Andy-Low
+Value/Plat: 4.91
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Toxi-acricron
+Experimental riven rating: 47.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  150.5
+		Grade: B- (-2.68%)
+Critical Damage:  128.6
+		Grade: A- (3.92%)
+Toxin:  100.5
+		Grade: A+ (8.28%)
+Damage vs Grineer":  -37.6
+		Grade: B (1.29%)
+
+Polarity: Naramon   Rerolls: 148   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: DouSama
+Value/Plat: 3.28
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-cronican
+Experimental riven rating: 48.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  85.9
+Critical Chance:  148.3
+Fire Rate_Attack Speed:  58.2
+Damage vs Grineer":  -0.4
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: AYOAYOo
+Value/Plat: 3.33
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-critacan
+Experimental riven rating: 51.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  85.5
+		Grade: C- (-7.88%)
+Damage:  182.3
+		Grade: A (7.3%)
+Critical Chance:  145.7
+		Grade: C (-5.78%)
+Status Chance:  -72.2
+		Grade: B- (-2.75%)
+
+Polarity: Vazarin   Rerolls: 123   MR: 10
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: -VF-MrSplash
+Value/Plat: 3.31
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-saticron
+Experimental riven rating: 54.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  141.3
+		Grade: C- (-8.63%)
+Fire Rate_Attack Speed:  61.2
+		Grade: B (-1.18%)
+Multishot:  91.8
+		Grade: B (-1.09%)
+Status Chance:  -77.9
+		Grade: A- (4.93%)
+
+Polarity: Vazarin   Rerolls: 11   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: NightVibes
+Value/Plat: 3.69
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acridra
+Experimental riven rating: 56.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  166.0
+		Grade: A (7.35%)
+Critical Damage:  124.0
+		Grade: B (0.2%)
+Fire Rate_Attack Speed:  65.0
+		Grade: A- (4.96%)
+Damage vs Grineer":  -39.7
+		Grade: A (6.95%)
+
+Polarity: Naramon   Rerolls: 9   MR: 13
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: EagleMan66
+Value/Plat: 3.88
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-croniata
+Experimental riven rating: 48.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  118.1
+		Grade: C+ (-4.57%)
+Fire Rate_Attack Speed:  64.0
+		Grade: B+ (3.34%)
+Damage:  154.6
+		Grade: C- (-9.01%)
+Ammo Maximum:  -41.0
+		Grade: B (-0.5%)
+
+Polarity: Madurai   Rerolls: 4   MR: 9
+Riven rank : 8
+Initial price:  550   Buyout price: 550
+Seller: PrimeNio
+Value/Plat: 2.86
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-critacan
+Experimental riven rating: 42.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.6
+		Grade: B+ (3.21%)
+Damage:  177.9
+		Grade: A- (4.71%)
+Multishot:  88.6
+		Grade: C+ (-4.54%)
+Status Duration:  -89.1
+		Grade: A+ (8.01%)
+
+Polarity: Vazarin   Rerolls: 25   MR: 10
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: kki140
+Value/Plat: 2.32
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satidra
+Experimental riven rating: 56.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  168.3
+		Grade: A+ (8.83%)
+Multishot:  97.5
+		Grade: A- (5.05%)
+Fire Rate_Attack Speed:  65.1
+		Grade: A- (5.12%)
+Status Chance:  -67.3
+		Grade: C- (-9.35%)
+
+Polarity: Naramon   Rerolls: 10   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: qPsychoo_
+Value/Plat: 3.56
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-cronicron
+Experimental riven rating: 57.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  99.1
+		Grade: A (6.77%)
+Fire Rate_Attack Speed:  62.2
+		Grade: B (0.44%)
+Critical Chance:  147.1
+		Grade: C+ (-4.88%)
+Reload Speed:  -40.2
+		Grade: B- (-2.44%)
+
+Polarity: Madurai   Rerolls: 33   MR: 11
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: asdasppp
+Value/Plat: 3.67
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-critadra
+Experimental riven rating: 57.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  166.5
+		Grade: A+ (7.67%)
+Critical Damage:  133.9
+		Grade: A+ (8.2%)
+Fire Rate_Attack Speed:  65.1
+		Grade: A- (5.12%)
+Damage vs Grineer":  -38.0
+		Grade: B+ (2.37%)
+
+Polarity: Madurai   Rerolls: 99   MR: 13
+Riven rank : 0
+Initial price:  650   Buyout price: 650
+Seller: OublierszzZ
+Value/Plat: 3.45
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-critaata
+Experimental riven rating: 59.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  154.6
+		Grade: C- (-9.01%)
+Multishot:  95.8
+		Grade: B+ (3.22%)
+Critical Chance:  155.4
+		Grade: B (0.49%)
+Damage vs Corpus":  -34.2
+		Grade: C- (-7.87%)
+
+Polarity: Madurai   Rerolls: 34   MR: 10
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Dicuss.
+Value/Plat: 3.79
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satitis
+Experimental riven rating: 40.52
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  87.3
+		Grade: C (-5.94%)
+Critical Chance:  150.1
+		Grade: B- (-2.94%)
+Critical Damage:  111.5
+		Grade: F (-9.9%)
+Fire Rate_Attack Speed:  -50.3
+		Grade: B+ (1.54%)
+
+Polarity: Naramon   Rerolls: 317   MR: 11
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: MeanKittyPrime
+Value/Plat: 1.98
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-saticron
+Experimental riven rating: 50.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.2
+		Grade: C (-6.75%)
+Multishot:  93.2
+		Grade: B (0.41%)
+Damage:  184.5
+		Grade: A+ (8.59%)
+Magazine Capacity:  -43.9
+		Grade: A (6.54%)
+
+Polarity: Vazarin   Rerolls: 13   MR: 16
+Riven rank : 8
+Initial price:  799   Buyout price: 799
+Seller: Sty_.
+Value/Plat: 2.57
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 52.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  162.5
+		Grade: A- (5.08%)
+Critical Damage:  128.0
+		Grade: B+ (3.43%)
+Damage:  177.5
+		Grade: A- (4.47%)
+Status Chance:  -67.4
+		Grade: C- (-9.22%)
+
+Polarity: Madurai   Rerolls: 10   MR: 14
+Riven rank : 0
+Initial price:  799   Buyout price: 799
+Seller: WeirdOo.
+Value/Plat: 2.67
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-cronitis
+Experimental riven rating: 41.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  113.3
+Damage:  181.3
+Fire Rate_Attack Speed:  62.1
+Damage vs Grineer":  -0.6
+
+Polarity: Madurai   Rerolls: 15   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Fx3rm
+Value/Plat: 2.01
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-critatis
+Experimental riven rating: 43.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.9
+		Grade: B+ (3.4%)
+Critical Damage:  112.7
+		Grade: C- (-8.93%)
+Damage:  179.2
+		Grade: A- (5.47%)
+Fire Rate_Attack Speed:  -53.7
+		Grade: A+ (8.4%)
+
+Polarity: Vazarin   Rerolls: 121   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: yourlorder
+Value/Plat: 2.06
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-critaata
+Experimental riven rating: 44.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.2
+		Grade: A- (4.24%)
+Critical Damage:  134.0
+		Grade: A+ (8.28%)
+Damage:  161.2
+		Grade: C+ (-5.12%)
+Status Duration:  -90.7
+		Grade: S (9.95%)
+
+Polarity: Madurai   Rerolls: 116   MR: 9
+Riven rank : 0
+Initial price:  300   Buyout price: 800
+Seller: 147258369star
+Value/Plat: 2.17
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-visicron
+Experimental riven rating: 46.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  99.7
+		Grade: A (7.42%)
+Damage:  178.5
+		Grade: A- (5.06%)
+Critical Chance:  157.7
+		Grade: B+ (1.98%)
+Status Duration:  -89.3
+		Grade: A+ (8.25%)
+
+Polarity: Naramon   Rerolls: 73   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Shikiiiii
+Value/Plat: 2.28
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satidra
+Experimental riven rating: 50.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  160.6
+Multishot:  85.7
+Fire Rate_Attack Speed:  57.7
+Damage vs Grineer":  -4.0
+
+Polarity: Naramon   Rerolls: 34   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: tzxiaoshu
+Value/Plat: 2.54
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 51.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  155.7
+		Grade: C- (-8.36%)
+Critical Chance:  161.9
+		Grade: A- (4.69%)
+Critical Damage:  115.0
+		Grade: C (-7.07%)
+Damage vs Grineer":  -40.4
+		Grade: A+ (8.83%)
+
+Polarity: Madurai   Rerolls: 203   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 800
+Seller: SNH48-Team.V-Nana7mi
+Value/Plat: 2.59
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Toxi-critatis
+Experimental riven rating: 52.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  11.3
+Critical Damage:  13.8
+Toxin:  16.5
+Status Chance:  -8.9
+
+Polarity: Naramon   Rerolls: 18   MR: 13
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: clashyyys
+Value/Plat: 2.7
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 54.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  158.2
+		Grade: B+ (2.3%)
+Critical Damage:  113.7
+		Grade: C- (-8.12%)
+Damage:  161.3
+		Grade: C+ (-5.06%)
+Status Chance:  -79.6
+		Grade: A (7.22%)
+
+Polarity: Naramon   Rerolls: 164   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: ZnCdaq
+Value/Plat: 2.86
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-visicron
+Experimental riven rating: 56.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.8
+		Grade: C- (-8.95%)
+Critical Damage:  127.9
+		Grade: B+ (3.35%)
+Damage:  169.0
+		Grade: B (-0.53%)
+Slash:  -92.6
+		Grade: C (-6.46%)
+
+Polarity: Naramon   Rerolls: 22   MR: 13
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: SarahSamus
+Value/Plat: 3.04
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-satidra
+Experimental riven rating: 57.17
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  129.3
+		Grade: A- (4.48%)
+Multishot:  93.5
+		Grade: B (0.74%)
+Fire Rate_Attack Speed:  58.8
+		Grade: C+ (-5.05%)
+Ammo Maximum:  -42.6
+		Grade: B+ (3.39%)
+
+Polarity: Madurai   Rerolls: 217   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -Hamster.newbie-
+Value/Plat: 3.08
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 57.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  152.7
+		Grade: B (-1.25%)
+Critical Damage:  120.9
+		Grade: B- (-2.31%)
+Damage:  164.3
+		Grade: B- (-3.3%)
+Ammo Maximum:  -40.4
+		Grade: B- (-1.95%)
+
+Polarity: Madurai   Rerolls: 155   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Mammon_Prime
+Value/Plat: 3.08
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 57.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  148.1
+Critical Damage:  123.2
+Damage:  170.9
+Damage vs Corpus":  -0.6
+
+Polarity: Madurai   Rerolls: 164   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Asura-Kz
+Value/Plat: 3.12
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satidra
+Experimental riven rating: 58.0
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  152.4
+		Grade: B (-1.45%)
+Multishot:  95.1
+		Grade: B+ (2.46%)
+Fire Rate_Attack Speed:  67.0
+		Grade: A+ (8.19%)
+Reload Speed:  -38.2
+		Grade: C (-7.29%)
+
+Polarity: Naramon   Rerolls: 191   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: imRing..
+Value/Plat: 3.15
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-cronitis
+Experimental riven rating: 58.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  169.4
+		Grade: S (9.54%)
+Critical Damage:  115.6
+		Grade: C (-6.59%)
+Fire Rate_Attack Speed:  64.2
+		Grade: A- (3.67%)
+Reload Speed:  -44.0
+		Grade: A (6.79%)
+
+Polarity: Naramon   Rerolls: 74   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Lky-DearlyDream
+Value/Plat: 3.18
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-visitis
+Experimental riven rating: 58.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  161.5
+		Grade: C+ (-4.94%)
+Critical Chance:  167.6
+		Grade: A+ (8.38%)
+Critical Damage:  115.5
+		Grade: C (-6.67%)
+Ammo Maximum:  -37.1
+		Grade: F (-9.96%)
+
+Polarity: Madurai   Rerolls: 60   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: iTwinBlank
+Value/Plat: 3.18
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-acridra
+Experimental riven rating: 55.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  96.4
+		Grade: A- (3.86%)
+Critical Damage:  114.0
+		Grade: C- (-7.88%)
+Fire Rate_Attack Speed:  58.7
+		Grade: C+ (-5.21%)
+Damage vs Corpus":  -39.0
+		Grade: A- (5.06%)
+
+Polarity: Vazarin   Rerolls: 220   MR: 12
+Riven rank : 8
+Initial price:  888   Buyout price: 888
+Seller: def_qy
+Value/Plat: 2.75
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acrican
+Experimental riven rating: 45.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  121.3
+		Grade: B- (-1.98%)
+Multishot:  90.5
+		Grade: B- (-2.49%)
+Fire Rate_Attack Speed:  64.5
+		Grade: A- (4.15%)
+Magazine Capacity:  -42.8
+		Grade: A- (3.87%)
+
+Polarity: Naramon   Rerolls: 5   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 900
+Seller: Tokha8918
+Value/Plat: 2.08
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acrican
+Experimental riven rating: 49.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  116.8
+		Grade: C (-5.62%)
+Fire Rate_Attack Speed:  66.1
+		Grade: A (6.74%)
+Multishot:  86.9
+		Grade: C (-6.37%)
+Reload Speed:  -39.3
+		Grade: C+ (-4.62%)
+
+Polarity: Madurai   Rerolls: 140   MR: 11
+Riven rank : 8
+Initial price:  300   Buyout price: 900
+Seller: Tr4k41s
+Value/Plat: 2.35
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-cronican
+Experimental riven rating: 50.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  84.2
+Fire Rate_Attack Speed:  57.4
+Critical Damage:  115.4
+Damage vs Corpus":  -0.7
+
+Polarity: Madurai   Rerolls: 94   MR: 12
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: --UMBRA--Lucifer
+Value/Plat: 2.39
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-satitis
+Experimental riven rating: 52.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  88.7
+		Grade: C+ (-4.43%)
+Fire Rate_Attack Speed:  60.3
+		Grade: B- (-2.63%)
+Critical Damage:  115.4
+		Grade: C (-6.75%)
+Slash:  -91.7
+		Grade: C (-7.36%)
+
+Polarity: Vazarin   Rerolls: 42   MR: 13
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Spooky-robots
+Value/Plat: 2.51
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-critaata
+Experimental riven rating: 57.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  119.9
+		Grade: B- (-3.11%)
+Critical Chance:  150.6
+		Grade: B- (-2.61%)
+Damage:  171.3
+		Grade: B (0.82%)
+Slash:  -92.0
+		Grade: C (-7.06%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 16
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: SuperPumpkinPrime
+Value/Plat: 2.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-satidra
+Experimental riven rating: 58.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  127.8
+		Grade: B+ (3.27%)
+Multishot:  90.4
+		Grade: B- (-2.6%)
+Fire Rate_Attack Speed:  57.7
+		Grade: C (-6.83%)
+Slash:  -98.5
+		Grade: B (-0.5%)
+
+Polarity: Naramon   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: KitogowoMarin
+Value/Plat: 3.02
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-cronitis
+Experimental riven rating: 59.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  116.0
+		Grade: C (-6.27%)
+Fire Rate_Attack Speed:  62.8
+		Grade: B (1.41%)
+Critical Chance:  161.4
+		Grade: A- (4.37%)
+Ammo Maximum:  -43.9
+		Grade: A (6.54%)
+
+Polarity: Vazarin   Rerolls: 25   MR: 11
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Kyle_Snow
+Value/Plat: 3.09
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acriata
+Experimental riven rating: 58.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  161.5
+		Grade: C+ (-4.94%)
+Critical Damage:  126.3
+		Grade: B+ (2.06%)
+Fire Rate_Attack Speed:  63.4
+		Grade: B+ (2.38%)
+Slash:  -105.6
+		Grade: A (6.68%)
+
+Polarity: Madurai   Rerolls: 19   MR: 13
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: locjfj
+Value/Plat: 2.92
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-critatis
+Experimental riven rating: 46.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.2
+		Grade: C (-6.75%)
+Critical Damage:  121.0
+		Grade: B- (-2.23%)
+Damage:  171.1
+		Grade: B (0.71%)
+Damage vs Grineer":  -34.2
+		Grade: C- (-7.87%)
+
+Polarity: Madurai   Rerolls: 97   MR: 12
+Riven rank : 8
+Initial price:  800   Buyout price: 1000
+Seller: Sto_rmy
+Value/Plat: 2.05
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-acridra
+Experimental riven rating: 50.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  186.8
+		Grade: S (9.95%)
+Fire Rate_Attack Speed:  59.1
+		Grade: C+ (-4.57%)
+Critical Damage:  121.0
+		Grade: B- (-2.23%)
+Ammo Maximum:  -37.5
+		Grade: C- (-8.99%)
+
+Polarity: Vazarin   Rerolls: 551   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Aorefsprime
+Value/Plat: 2.26
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-critapha
+Experimental riven rating: 51.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  86.2
+		Grade: C (-7.13%)
+Critical Chance:  159.0
+		Grade: B+ (2.82%)
+Critical Damage:  135.3
+		Grade: A+ (9.33%)
+Recoil:  67.1
+		Grade: F (-9.62%)
+
+Polarity: Naramon   Rerolls: 12   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 1000
+Seller: ZicoGu2
+Value/Plat: 2.3
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-acridra
+Experimental riven rating: 54.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  121.9
+		Grade: B (-1.5%)
+Fire Rate_Attack Speed:  58.4
+		Grade: C (-5.7%)
+Multishot:  92.2
+		Grade: B (-0.66%)
+Ammo Maximum:  -39.9
+		Grade: B- (-3.17%)
+
+Polarity: Madurai   Rerolls: 1   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: The-Prowler
+Value/Plat: 2.53
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-acricron
+Experimental riven rating: 55.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  118.2
+		Grade: C+ (-4.49%)
+Critical Chance:  139.3
+		Grade: F (-9.92%)
+Damage:  181.5
+		Grade: A (6.83%)
+Ammo Maximum:  -38.9
+		Grade: C (-5.59%)
+
+Polarity: Naramon   Rerolls: 4   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: sa1nta1ex
+Value/Plat: 2.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-acridra
+Experimental riven rating: 55.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  113.7
+		Grade: C- (-8.12%)
+Damage:  174.2
+		Grade: B+ (2.53%)
+Fire Rate_Attack Speed:  55.9
+		Grade: F (-9.74%)
+Damage vs Infested":  -35.0
+		Grade: C (-5.71%)
+
+Polarity: Naramon   Rerolls: 150   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -COTTON
+Value/Plat: 2.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satiata
+Experimental riven rating: 58.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.0
+		Grade: C- (-7.53%)
+Multishot:  95.0
+		Grade: B+ (2.35%)
+Damage:  180.7
+		Grade: A (6.36%)
+Status Chance:  -79.5
+		Grade: A (7.08%)
+
+Polarity: Vazarin   Rerolls: 111   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: fgitiunle11
+Value/Plat: 2.82
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acriata
+Experimental riven rating: 49.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  169.5
+		Grade: B (-0.24%)
+Fire Rate_Attack Speed:  64.5
+		Grade: A- (4.15%)
+Critical Damage:  126.7
+		Grade: B+ (2.38%)
+Reload Speed:  -44.6
+		Grade: A+ (8.24%)
+
+Polarity: Naramon   Rerolls: 36   MR: 9
+Riven rank : 8
+Initial price:  900   Buyout price: 1100
+Seller: HausMayo
+Value/Plat: 2.09
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acridra
+Experimental riven rating: 53.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.8
+		Grade: B+ (3.34%)
+Fire Rate_Attack Speed:  55.8
+		Grade: F (-9.9%)
+Critical Damage:  121.6
+		Grade: B- (-1.74%)
+Reload Speed:  -41.2
+		Grade: B (-0.01%)
+
+Polarity: Naramon   Rerolls: 17   MR: 9
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: anxiaochaun
+Value/Plat: 2.34
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-satitis
+Experimental riven rating: 57.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  62.7
+		Grade: B (1.24%)
+Multishot:  92.9
+		Grade: B (0.09%)
+Critical Damage:  126.9
+		Grade: B+ (2.54%)
+Damage vs Corpus":  -35.9
+		Grade: B- (-3.29%)
+
+Polarity: Naramon   Rerolls: 39   MR: 11
+Riven rank : 8
+Initial price:  1100   Buyout price: 1100
+Seller: --She-won-t--come-aodi--
+Value/Plat: 2.57
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-visicron
+Experimental riven rating: 52.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  139.2
+		Grade: F (-9.98%)
+Critical Damage:  128.9
+		Grade: A- (4.16%)
+Damage:  170.5
+		Grade: B (0.35%)
+Status Chance:  -76.8
+		Grade: B+ (3.44%)
+
+Polarity: Naramon   Rerolls: 30   MR: 13
+Riven rank : 8
+Initial price:  1111   Buyout price: 1111
+Seller: Zeke_Jaeger
+Value/Plat: 2.28
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 54.49
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  162.4
+		Grade: A- (5.02%)
+Critical Damage:  121.1
+		Grade: B- (-2.14%)
+Damage:  163.6
+		Grade: C+ (-3.71%)
+Reload Speed:  -39.0
+		Grade: C+ (-5.35%)
+
+Polarity: Madurai   Rerolls: 801   MR: 11
+Riven rank : 8
+Initial price:  1111   Buyout price: 1111
+Seller: Yingxionghouzi
+Value/Plat: 2.38
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-toxitis
+Experimental riven rating: 50.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  167.8
+		Grade: A+ (8.51%)
+Toxin:  83.6
+		Grade: F (-9.93%)
+Critical Damage:  121.0
+		Grade: B- (-2.23%)
+Reload Speed:  -37.7
+		Grade: C- (-8.5%)
+
+Polarity: Madurai   Rerolls: 3   MR: 9
+Riven rank : 8
+Initial price:  1150   Buyout price: 1150
+Seller: AiroBigStar
+Value/Plat: 2.09
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-cronitis
+Experimental riven rating: 49.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  176.8
+		Grade: A- (4.06%)
+Fire Rate_Attack Speed:  60.0
+		Grade: B- (-3.11%)
+Critical Damage:  115.1
+		Grade: C (-6.99%)
+Damage vs Corpus":  -37.6
+		Grade: B (1.29%)
+
+Polarity: Naramon   Rerolls: 7   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Evyn97
+Value/Plat: 2.0
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-critadra
+Experimental riven rating: 50.91
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  154.9
+		Grade: B (0.17%)
+Fire Rate_Attack Speed:  58.3
+		Grade: C (-5.86%)
+Multishot:  100.8
+		Grade: A+ (8.6%)
+Magazine Capacity:  -41.3
+		Grade: B (0.23%)
+
+Polarity: Vazarin   Rerolls: 78   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: tiandaodao
+Value/Plat: 2.09
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satidra
+Experimental riven rating: 56.14
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  149.5
+		Grade: B- (-3.32%)
+Multishot:  86.1
+		Grade: C (-7.24%)
+Fire Rate_Attack Speed:  58.4
+		Grade: C (-5.7%)
+Ammo Maximum:  -38.4
+		Grade: C (-6.81%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Mambus
+Value/Plat: 2.38
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 59.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  164.9
+		Grade: A (6.63%)
+Critical Damage:  130.8
+		Grade: A (5.69%)
+Damage:  153.4
+		Grade: F (-9.71%)
+Ammo Maximum:  -37.6
+		Grade: C- (-8.75%)
+
+Polarity: Vazarin   Rerolls: 220   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Excalilbur-Prime
+Value/Plat: 2.62
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-cronicron
+Experimental riven rating: 47.74
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.1
+		Grade: C (-7.46%)
+Critical Damage:  127.9
+		Grade: B+ (3.35%)
+Fire Rate_Attack Speed:  60.2
+		Grade: B- (-2.79%)
+Status Chance:  -68.8
+		Grade: C (-7.33%)
+
+Polarity: Madurai   Rerolls: 74   MR: 8
+Riven rank : 8
+Initial price:  1   Buyout price: 1288
+Seller: Kekyas
+Value/Plat: 1.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acriata
+Experimental riven rating: 54.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  153.9
+		Grade: C- (-9.42%)
+Critical Chance:  169.5
+		Grade: S (9.61%)
+Critical Damage:  113.2
+		Grade: C- (-8.53%)
+Reload Speed:  -42.5
+		Grade: B+ (3.14%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 8
+Riven rank : 8
+Initial price:  1350   Buyout price: 1350
+Seller: TorresFung
+Value/Plat: 2.15
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Visi-critacan
+Experimental riven rating: 55.9
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  90.6
+		Grade: B- (-2.39%)
+Critical Chance:  152.9
+		Grade: B (-1.13%)
+Damage:  185.0
+		Grade: A+ (8.89%)
+Status Chance:  -73.7
+		Grade: B (-0.73%)
+
+Polarity: Vazarin   Rerolls: 263   MR: 15
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Fiqike
+Value/Plat: 2.17
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 56.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  161.2
+Critical Damage:  118.9
+Multishot:  88.8
+Damage vs Grineer":  -65.0
+
+Polarity: Naramon   Rerolls: 7   MR: 15
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Shark_57
+Value/Plat: 2.18
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 40.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  163.7
+		Grade: A (5.86%)
+Critical Damage:  118.4
+		Grade: C+ (-4.33%)
+Multishot:  87.0
+		Grade: C (-6.27%)
+Fire Rate_Attack Speed:  -46.2
+		Grade: C (-6.74%)
+
+Polarity: Madurai   Rerolls: 4   MR: 8
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: Kamikia
+Value/Plat: 1.5
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acrican
+Experimental riven rating: 42.11
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  86.3
+		Grade: C (-7.02%)
+Fire Rate_Attack Speed:  60.8
+		Grade: B- (-1.82%)
+Critical Damage:  115.8
+		Grade: C (-6.43%)
+Damage vs Grineer":  -33.5
+		Grade: F (-9.76%)
+
+Polarity: Madurai   Rerolls: 320   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: MACHSU
+Value/Plat: 1.54
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acriata
+Experimental riven rating: 43.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  61.9
+		Grade: B (-0.05%)
+Critical Damage:  133.3
+		Grade: A+ (7.71%)
+Damage:  178.8
+		Grade: A- (5.24%)
+Magazine Capacity:  -44.2
+		Grade: A (7.27%)
+
+Polarity: Vazarin   Rerolls: 37   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: --She-won-t--come-aodi--
+Value/Plat: 1.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Lexi-acricron
+Experimental riven rating: 45.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  145.4
+		Grade: C (-5.98%)
+Critical Damage:  119.3
+		Grade: C+ (-3.6%)
+Punch Through:  3.0
+		Grade: A+ (8.68%)
+Status Chance:  -74.6
+		Grade: B (0.48%)
+
+Polarity: Naramon   Rerolls: 19   MR: 14
+Riven rank : 8
+Initial price:  200   Buyout price: 1500
+Seller: kabipoteto
+Value/Plat: 1.66
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-cronican
+Experimental riven rating: 48.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  125.0
+		Grade: B (1.01%)
+Fire Rate_Attack Speed:  61.5
+		Grade: B (-0.69%)
+Multishot:  87.5
+		Grade: C (-5.73%)
+Status Chance:  -73.7
+		Grade: B (-0.73%)
+
+Polarity: Vazarin   Rerolls: 29   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: wxzzhennb
+Value/Plat: 1.78
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-critatox
+Experimental riven rating: 50.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  128.2
+		Grade: A- (3.59%)
+Toxin:  86.2
+		Grade: C (-7.13%)
+Critical Chance:  145.4
+		Grade: C (-5.98%)
+Slash:  -89.9
+		Grade: C- (-9.18%)
+
+Polarity: Madurai   Rerolls: 148   MR: 15
+Riven rank : 8
+Initial price:  700   Buyout price: 1500
+Seller: ElCor0nel
+Value/Plat: 1.85
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acriata
+Experimental riven rating: 51.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  123.3
+		Grade: B (-0.37%)
+Damage:  157.4
+		Grade: C (-7.36%)
+Fire Rate_Attack Speed:  66.4
+		Grade: A (7.22%)
+Damage vs Corpus":  -40.0
+		Grade: A+ (7.75%)
+
+Polarity: Madurai   Rerolls: 160   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: HIMBIACK
+Value/Plat: 1.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-saticron
+Experimental riven rating: 52.57
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  89.2
+Critical Chance:  139.3
+Critical Damage:  123.7
+Damage vs Grineer":  -0.7
+
+Polarity: Vazarin   Rerolls: 193   MR: 12
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: All_all_nihility
+Value/Plat: 1.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 53.74
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  148.6
+		Grade: C+ (-3.91%)
+Critical Damage:  117.1
+		Grade: C+ (-5.38%)
+Multishot:  87.6
+		Grade: C (-5.62%)
+Status Chance:  -72.2
+		Grade: B- (-2.75%)
+
+Polarity: Naramon   Rerolls: 375   MR: 14
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: Ayanami_Reill
+Value/Plat: 1.92
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 59.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  88.8
+		Grade: C+ (-4.33%)
+Critical Damage:  119.6
+		Grade: B- (-3.36%)
+Critical Chance:  163.0
+		Grade: A- (5.41%)
+Reload Speed:  -39.2
+		Grade: C+ (-4.86%)
+
+Polarity: Naramon   Rerolls: 92   MR: 15
+Riven rank : 8
+Initial price:  1600   Buyout price: 1600
+Seller: -.Unknown-
+Value/Plat: 2.2
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-critatis
+Experimental riven rating: 49.49
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  113.2
+		Grade: C- (-8.53%)
+Multishot:  93.4
+		Grade: B (0.63%)
+Critical Chance:  155.6
+		Grade: B (0.62%)
+Magazine Capacity:  -38.8
+		Grade: C (-5.83%)
+
+Polarity: Naramon   Rerolls: 38   MR: 16
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: -CAG-Ley_Ley
+Value/Plat: 1.65
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-cronican
+Experimental riven rating: 57.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  134.2
+		Grade: A+ (8.44%)
+Fire Rate_Attack Speed:  59.2
+		Grade: C+ (-4.41%)
+Multishot:  92.6
+		Grade: B (-0.23%)
+Damage vs Corpus":  -36.9
+		Grade: B (-0.6%)
+
+Polarity: Vazarin   Rerolls: 71   MR: 11
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: --She-won-t--come-aodi--
+Value/Plat: 1.96
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-acridra
+Experimental riven rating: 52.12
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  128.2
+Fire Rate_Attack Speed:  64.1
+Multishot:  98.5
+Damage vs Grineer":  -0.6
+
+Polarity: Naramon   Rerolls: 25   MR: 9
+Riven rank : 8
+Initial price:  1900   Buyout price: 1900
+Seller: Arrebol-7
+Value/Plat: 1.69
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 58.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  170.1
+		Grade: S (10.0%)
+Critical Damage:  115.9
+		Grade: C (-6.35%)
+Multishot:  96.0
+		Grade: B+ (3.43%)
+Damage vs Grineer":  -34.9
+		Grade: C (-5.98%)
+
+Polarity: Naramon   Rerolls: 44   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1988
+Seller: AFBECD
+Value/Plat: 1.87
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-satitis
+Experimental riven rating: 59.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  121.8
+		Grade: B- (-1.58%)
+Fire Rate_Attack Speed:  67.0
+		Grade: A+ (8.19%)
+Multishot:  99.7
+		Grade: A (7.42%)
+Ammo Maximum:  -39.4
+		Grade: C+ (-4.38%)
+
+Polarity: Madurai   Rerolls: 90   MR: 10
+Riven rank : 8
+Initial price:  1999   Buyout price: 1999
+Seller: LittleFairs
+Value/Plat: 1.93
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 47.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.5
+		Grade: C (-7.2%)
+Critical Damage:  130.3
+		Grade: A- (5.29%)
+Multishot:  96.7
+		Grade: A- (4.19%)
+Status Duration:  -90.0
+		Grade: A+ (9.1%)
+
+Polarity: Naramon   Rerolls: 40   MR: 14
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: yang166
+Value/Plat: 1.52
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-croniata
+Experimental riven rating: 52.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  132.5
+Fire Rate_Attack Speed:  62.3
+Damage:  168.0
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 60   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: alpace
+Value/Plat: 1.65
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-saticron
+Experimental riven rating: 55.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  144.3
+		Grade: C (-6.69%)
+Critical Damage:  129.4
+		Grade: A- (4.56%)
+Multishot:  96.8
+		Grade: A- (4.29%)
+Damage vs Grineer":  -34.0
+		Grade: C- (-8.41%)
+
+Polarity: Vazarin   Rerolls: 149   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Submarine_Y1n
+Value/Plat: 1.76
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Croni-acrican
+Experimental riven rating: 55.43
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  67.2
+		Grade: A+ (8.51%)
+Critical Damage:  123.9
+		Grade: B (0.12%)
+Multishot:  90.4
+		Grade: B- (-2.6%)
+Slash:  -89.6
+		Grade: C- (-9.49%)
+
+Polarity: Vazarin   Rerolls: 141   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 2000
+Seller: -Marilynmanson
+Value/Plat: 1.76
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-saticron
+Experimental riven rating: 57.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  96.4
+		Grade: A- (3.86%)
+Critical Damage:  133.2
+		Grade: A+ (7.63%)
+Critical Chance:  148.8
+		Grade: C+ (-3.78%)
+Status Chance:  -68.5
+		Grade: C- (-7.73%)
+
+Polarity: Madurai   Rerolls: 82   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: GenZZGroup
+Value/Plat: 1.84
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-acrican
+Experimental riven rating: 53.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  159.3
+		Grade: B+ (3.01%)
+Critical Damage:  127.1
+		Grade: B+ (2.7%)
+Multishot:  99.2
+		Grade: A (6.88%)
+Magazine Capacity:  -37.3
+		Grade: C- (-9.48%)
+
+Polarity: Madurai   Rerolls: 9   MR: 15
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: DKhaos777
+Value/Plat: 1.62
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Sati-acridra
+Experimental riven rating: 48.88
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  56.1
+		Grade: C- (-9.41%)
+Critical Damage:  118.9
+		Grade: C+ (-3.92%)
+Multishot:  99.8
+		Grade: A+ (7.53%)
+Damage vs Grineer":  -38.2
+		Grade: B+ (2.91%)
+
+Polarity: Madurai   Rerolls: 65   MR: 11
+Riven rank : 8
+Initial price:  2600   Buyout price: 2600
+Seller: 130346010503621
+Value/Plat: 1.36
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Crita-satitis
+Experimental riven rating: 56.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  84.9
+		Grade: C- (-8.53%)
+Critical Damage:  111.6
+		Grade: F (-9.82%)
+Critical Chance:  161.5
+		Grade: A- (4.44%)
+Status Chance:  -74.8
+		Grade: B (0.75%)
+
+Polarity: Madurai   Rerolls: 14   MR: 16
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: youyuezibile
+Value/Plat: 0.2
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acri-cronican
+Experimental riven rating: 51.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  97.3
+		Grade: A- (4.83%)
+Critical Damage:  134.0
+		Grade: A+ (8.28%)
+Fire Rate_Attack Speed:  66.1
+		Grade: A (6.74%)
+Status Chance:  -68.2
+		Grade: C- (-8.14%)
+
+Polarity: Madurai   Rerolls: 21   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price:  infinite 
+Seller: KennnyV
+Value/Plat: 0.22
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Zenith Acridra
+Experimental riven rating: 42.26
+Two stats!
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  19.1
+		Grade: A- (5.23%)
+Fire Rate_Attack Speed:  8.6
+		Grade: C+ (-5.31%)
+Slash:  -6.7
+		Grade: C- (-7.71%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  300   Buyout price:  infinite 
+Seller: UcanOkuzAppa
+Value/Plat: 0.26
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

@@ -1,0 +1,66 @@
+Name: Attica Visi-saticron
+Experimental riven rating: 70.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  196.5
+		Grade: B (-1.22%)
+Multishot:  123.1
+		Grade: B+ (3.1%)
+Damage:  230.3
+		Grade: A- (5.37%)
+Projectile Speed:  -90.0
+		Grade: C (-5.76%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Frank-Gallagher
+Value/Plat: 3.95
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Sati-visicron
+Experimental riven rating: 76.0
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  197.9
+		Grade: B (-0.51%)
+Damage:  218.7
+		Grade: B (0.07%)
+Multishot:  125.0
+		Grade: A- (4.69%)
+Zoom:  -66.0
+		Grade: A- (3.66%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 15
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: White
+Value/Plat: 3.83
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-satitis
+Experimental riven rating: 76.29
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  128.6
+		Grade: A+ (7.71%)
+Critical Damage:  145.2
+		Grade: C- (-8.79%)
+Critical Chance:  215.8
+		Grade: A+ (8.48%)
+Projectile Speed:  -96.7
+		Grade: B (1.25%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Loolman
+Value/Plat: 2.78
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

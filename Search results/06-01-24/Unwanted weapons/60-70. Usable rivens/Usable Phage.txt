@@ -1,0 +1,66 @@
+Name: Phage Crita-satiata
+Experimental riven rating: 63.59
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  162.2
+		Grade: B (-1.04%)
+Damage:  210.3
+		Grade: C (-6.74%)
+Critical Chance:  128.5
+		Grade: A- (4.31%)
+Recoil:  99.9
+		Grade: B (1.38%)
+
+Polarity: Madurai   Rerolls: 70   MR: 9
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: bilibilipipi
+Value/Plat: 2.74
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Sati-critadra
+Experimental riven rating: 62.16
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  125.3
+		Grade: B+ (1.71%)
+Fire Rate_Attack Speed:  120.4
+		Grade: B- (-2.27%)
+Multishot:  171.2
+		Grade: A- (4.45%)
+Damage vs Infested":  -44.9
+		Grade: C- (-8.87%)
+
+Polarity: Madurai   Rerolls: 2   MR: 15
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: Muguuu
+Value/Plat: 2.16
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------
+Name: Phage Sati-critatis
+Experimental riven rating: 61.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  118.4
+		Grade: C+ (-3.89%)
+Critical Damage:  114.1
+		Grade: C (-7.38%)
+Multishot:  164.0
+		Grade: B (0.06%)
+Damage vs Infested":  -48.1
+		Grade: B- (-2.37%)
+
+Polarity: Madurai   Rerolls: 2   MR: 9
+Riven rank : 8
+Initial price:  4000   Buyout price:  infinite 
+Seller: Juha.
+Value/Plat: 0.18
+Used disposition: 1.46
+Real disposition: 1.46
+--------------------------------------------------

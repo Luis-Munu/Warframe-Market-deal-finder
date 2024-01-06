@@ -1,0 +1,110 @@
+Name: Acceltra Crita-satidra
+Experimental riven rating: 64.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  92.3
+		Grade: A+ (9.43%)
+Multishot:  49.7
+		Grade: B- (-1.83%)
+Fire Rate_Attack Speed:  33.5
+		Grade: B (-0.83%)
+Reload Speed:  -22.4
+		Grade: B (-0.33%)
+
+Polarity: Madurai   Rerolls: 30   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Darren
+Value/Plat: 4.46
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Croni-acricron
+Experimental riven rating: 61.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  81.0
+		Grade: C+ (-3.97%)
+Critical Damage:  70.7
+		Grade: A- (4.74%)
+Fire Rate_Attack Speed:  35.4
+		Grade: A- (4.8%)
+Reload Speed:  -20.9
+		Grade: C (-7.01%)
+
+Polarity: Vazarin   Rerolls: 30   MR: 14
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: GL4DY
+Value/Plat: 3.48
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Sati-critaata
+Experimental riven rating: 60.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  47.7
+		Grade: C (-5.78%)
+Damage:  84.7
+		Grade: C- (-8.6%)
+Critical Chance:  77.4
+		Grade: C- (-8.24%)
+Damage vs Corpus":  -19.0
+		Grade: C (-6.16%)
+
+Polarity: Vazarin   Rerolls: 34   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: TIANG9527
+Value/Plat: 2.93
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Crita-satiata
+Experimental riven rating: 63.19
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  84.7
+		Grade: C- (-8.6%)
+Multishot:  48.9
+		Grade: B- (-3.41%)
+Critical Chance:  84.4
+		Grade: B (0.06%)
+Ammo Maximum:  -20.4
+		Grade: C- (-9.23%)
+
+Polarity: Naramon   Rerolls: 157   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: EricaHand.
+Value/Plat: 2.48
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Acceltra Acri-critadra
+Experimental riven rating: 64.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  31.6
+		Grade: C (-6.45%)
+Critical Damage:  69.5
+		Grade: B+ (2.96%)
+Critical Chance:  83.5
+		Grade: B (-1.01%)
+Ammo Maximum:  -20.8
+		Grade: C (-7.45%)
+
+Polarity: Vazarin   Rerolls: 20   MR: 14
+Riven rank : 0
+Initial price:  400   Buyout price:  infinite 
+Seller: Blacksword7w7
+Value/Plat: 0.17
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

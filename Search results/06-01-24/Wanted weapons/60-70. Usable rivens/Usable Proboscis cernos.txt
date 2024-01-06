@@ -1,0 +1,66 @@
+Name: Proboscis cernos Acri-cronicron
+Experimental riven rating: 68.57
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  84.8
+		Grade: A+ (7.68%)
+Fire Rate_Attack Speed:  38.8
+		Grade: B- (-1.55%)
+Critical Chance:  108.3
+		Grade: S (10.05%)
+Projectile Speed:  -43.3
+		Grade: C- (-8.35%)
+
+Polarity: Naramon   Rerolls: 39   MR: 16
+Riven rank : 8
+Initial price:  175   Buyout price: 175
+Seller: Berber013
+Value/Plat: 12.37
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Croni-acriata
+Experimental riven rating: 62.72
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  41.6
+		Grade: A (5.56%)
+Damage:  108.2
+		Grade: B (0.07%)
+Critical Damage:  83.1
+		Grade: A (5.52%)
+Damage vs Infested":  -25.2
+		Grade: A (6.68%)
+
+Polarity: Madurai   Rerolls: 64   MR: 12
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: YoboiZephyr
+Value/Plat: 4.89
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------
+Name: Proboscis cernos Visi-critacan
+Experimental riven rating: 67.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  105.4
+		Grade: A (7.11%)
+Multishot:  61.0
+		Grade: B+ (3.28%)
+Damage:  118.9
+		Grade: S (9.97%)
+Damage vs Infested":  -26.0
+		Grade: S (10.06%)
+
+Polarity: Naramon   Rerolls: 204   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 1550
+Seller: ErenBeifong
+Value/Plat: 2.72
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------

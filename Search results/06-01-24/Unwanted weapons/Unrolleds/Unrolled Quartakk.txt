@@ -1,0 +1,44 @@
+Name: Quartakk Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 16.39, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  105.1
+		Grade: B (-0.35%)
+Critical Chance:  170.0
+		Grade: B- (-3.26%)
+Critical Damage:  128.2
+		Grade: C- (-8.84%)
+Reload Speed:  -43.2
+		Grade: C- (-7.74%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: Kraeton.-
+Value/Plat: 1.59
+Used disposition: 1.25
+Real disposition: 1.05
+--------------------------------------------------
+Name: Quartakk Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.24, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Heat:  114.9
+		Grade: A+ (8.94%)
+Critical Damage:  131.5
+		Grade: C (-6.49%)
+Critical Chance:  180.4
+		Grade: B+ (2.66%)
+Reload Speed:  -43.6
+		Grade: C (-6.88%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: iPreddie
+Value/Plat: 1.23
+Used disposition: 1.25
+Real disposition: 1.05
+--------------------------------------------------

@@ -1,0 +1,107 @@
+Name: Tiberon Acri-critanok
+Experimental riven rating: 30.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  150.7
+		Grade: B- (-2.55%)
+Critical Damage:  122.1
+		Grade: B (-1.34%)
+Punch Through:  2.6
+		Grade: C (-5.81%)
+Status Chance:  -68.9
+		Grade: C (-7.2%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: BeachdogPrime
+Value/Plat: 2.89
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-critanok
+Experimental riven rating: 35.79
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  17.3
+		Grade: B (0.69%)
+Punch Through:  0.3
+		Grade: B- (-2.19%)
+Critical Damage:  15.1
+		Grade: S (9.81%)
+Status Chance:  -7.8
+		Grade: C+ (-5.45%)
+
+Polarity: Madurai   Rerolls: 3   MR: 11
+Riven rank : 0
+Initial price:  139   Buyout price: 139
+Seller: Glitzyvn
+Value/Plat: 3.2
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 13.26, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  170.1
+		Grade: S (10.0%)
+Critical Damage:  116.4
+		Grade: C (-5.94%)
+Heat:  86.5
+		Grade: C (-6.8%)
+Fire Rate_Attack Speed:  -53.4
+		Grade: A+ (7.8%)
+
+Polarity: Madurai   Rerolls: 1   MR: 15
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: JohnnyMeta
+Value/Plat: 1.46
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -7.68, 
+Riven stats: 
+Critical Chance:  150.2
+		Grade: B- (-2.87%)
+Critical Damage:  123.7
+		Grade: B (-0.04%)
+Status Duration:  98.0
+		Grade: C+ (-4.97%)
+Magazine Capacity:  -44.9
+		Grade: A+ (8.97%)
+
+Polarity: Madurai   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: crush-165
+Value/Plat: 1.34
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Tiberon Acri-zeticron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -17.6, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  78.6
+Critical Chance:  95.5
+Recoil:  -58.0
+
+Polarity: Madurai   Rerolls: 37   MR: 12
+Riven rank : 8
+Initial price:  1999   Buyout price:  infinite 
+Seller: VerbaVolant
+Value/Plat: 0.41
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

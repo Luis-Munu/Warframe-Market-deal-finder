@@ -1,0 +1,22 @@
+Name: Proboscis cernos Sati-visicron
+Experimental riven rating: 75.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  61.2
+		Grade: A- (3.62%)
+Critical Chance:  89.7
+		Grade: C- (-8.85%)
+Damage:  102.2
+		Grade: C+ (-5.47%)
+Impact:  -56.9
+		Grade: F (-9.67%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 9
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: ZSA-Gentle
+Value/Plat: 3.58
+Used disposition: 0.7
+Real disposition: 0.7
+--------------------------------------------------

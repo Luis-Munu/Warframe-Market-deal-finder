@@ -1,0 +1,262 @@
+Name: Hek Crita-acrides
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 5.56, 
+Riven stats: 
+Critical Chance:  104.3
+		Grade: B+ (3.01%)
+Critical Damage:  94.8
+		Grade: C (-6.37%)
+Status Duration:  103.6
+		Grade: C- (-7.91%)
+Recoil:  81.7
+		Grade: B (0.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: Dofalamingo
+Value/Plat: 2.14
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Acri-lexicron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.41, 
+Riven stats: 
+Critical Damage:  99.9
+		Grade: B (-1.34%)
+Critical Chance:  93.5
+		Grade: C- (-7.66%)
+Punch Through:  2.9
+		Grade: C+ (-3.7%)
+Ammo Maximum:  -80.8
+		Grade: B (-0.24%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: SSHY_TonyMah
+Value/Plat: 2.14
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Acri-satidra
+Experimental riven rating: 41.68
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  93.5
+		Grade: C- (-7.66%)
+Multishot:  122.4
+		Grade: C- (-9.15%)
+Fire Rate_Attack Speed:  99.4
+		Grade: B- (-1.83%)
+Status Chance:  -87.7
+		Grade: A+ (8.28%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  333   Buyout price: 333
+Seller: DonJuAnS64
+Value/Plat: 2.87
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Toxi-critatis
+Experimental riven rating: 34.1
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  97.4
+		Grade: A- (4.94%)
+Toxin:  102.4
+		Grade: S (10.33%)
+Critical Damage:  90.7
+		Grade: B- (-2.28%)
+Magazine Capacity:  -43.3
+		Grade: A- (5.09%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: taser_taser
+Value/Plat: 2.17
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Acri-critatox
+Experimental riven rating: 52.69
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  100.2
+		Grade: B (-1.04%)
+Critical Damage:  104.2
+		Grade: B+ (2.91%)
+Toxin:  97.3
+		Grade: C+ (-3.9%)
+Projectile Speed:  -88.1
+		Grade: A+ (8.78%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: bosliu6
+Value/Plat: 3.89
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Croni-acricron
+Experimental riven rating: 33.63
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  103.7
+		Grade: B+ (2.42%)
+Critical Chance:  99.6
+		Grade: B- (-1.63%)
+Critical Damage:  100.8
+		Grade: B (-0.45%)
+Status Chance:  -76.8
+		Grade: C+ (-5.18%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: NAN168
+Value/Plat: 1.79
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Acri-toxicron
+Experimental riven rating: 41.53
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  108.9
+		Grade: A+ (7.55%)
+Toxin:  103.5
+		Grade: B+ (2.22%)
+Critical Chance:  94.1
+		Grade: C (-7.06%)
+Damage vs Corpus":  -38.0
+		Grade: C (-6.16%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: kinjlo
+Value/Plat: 2.09
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Crita-toxitis
+Experimental riven rating: 29.85
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  108.2
+		Grade: A (6.86%)
+Toxin:  98.9
+		Grade: B- (-2.32%)
+Critical Damage:  92.1
+		Grade: C- (-9.04%)
+Status Chance:  -75.5
+		Grade: C (-6.78%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: DMlag
+Value/Plat: 1.48
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Visi-critacan
+Experimental riven rating: 46.59
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  96.8
+Multishot:  127.8
+Damage:  190.4
+Damage vs Corpus":  -0.6
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  950   Buyout price: 950
+Seller: CodeGas
+Value/Plat: 2.1
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Crita-acritox
+Experimental riven rating: 32.39
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  97.5
+		Grade: C+ (-3.71%)
+Critical Damage:  105.0
+		Grade: A- (3.7%)
+Toxin:  106.0
+		Grade: A- (4.69%)
+Damage vs Grineer":  -37.0
+		Grade: C- (-8.63%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  999   Buyout price: 999
+Seller: G10086
+Value/Plat: 1.46
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Croni-critacan
+Experimental riven rating: 58.81
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  102.4
+		Grade: B (1.13%)
+Critical Chance:  98.5
+		Grade: B- (-2.72%)
+Multishot:  128.8
+		Grade: C+ (-4.39%)
+Puncture:  -110.0
+		Grade: B+ (1.86%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -Apathy
+Value/Plat: 2.83
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Hek Sati-cronicron
+Experimental riven rating: 25.87
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  102.3
+		Grade: B (1.03%)
+Fire Rate_Attack Speed:  107.2
+		Grade: A (5.87%)
+Multishot:  147.8
+		Grade: S (9.71%)
+Status Duration:  -93.1
+		Grade: B+ (3.45%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: TorresFung
+Value/Plat: 1.21
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

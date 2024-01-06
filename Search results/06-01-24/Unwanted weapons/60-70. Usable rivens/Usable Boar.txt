@@ -1,0 +1,44 @@
+Name: Boar Crita-satidra
+Experimental riven rating: 65.43
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  121.6
+		Grade: B (-0.61%)
+Multishot:  173.1
+		Grade: A (6.34%)
+Fire Rate_Attack Speed:  125.0
+		Grade: B+ (2.17%)
+Impact:  -142.5
+		Grade: A+ (9.21%)
+
+Polarity: Vazarin   Rerolls: 50   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: zhuerchongPRIME
+Value/Plat: 2.17
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Boar Acri-satidra
+Experimental riven rating: 62.01
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  172.2
+		Grade: A (5.78%)
+Critical Damage:  133.1
+		Grade: A+ (8.79%)
+Fire Rate_Attack Speed:  125.5
+		Grade: B+ (2.58%)
+Recoil:  91.5
+		Grade: C (-6.5%)
+
+Polarity: Vazarin   Rerolls: 15   MR: 12
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: first311
+Value/Plat: 1.57
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

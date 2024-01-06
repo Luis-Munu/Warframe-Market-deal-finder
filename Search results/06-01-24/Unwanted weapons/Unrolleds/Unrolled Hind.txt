@@ -1,0 +1,88 @@
+Name: Hind Croni-visitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.11, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  234.7
+		Grade: A (7.01%)
+Critical Damage:  150.5
+		Grade: C (-5.79%)
+Fire Rate_Attack Speed:  87.5
+		Grade: A+ (9.45%)
+Slash:  -120.3
+		Grade: C (-5.86%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  450   Buyout price: 450
+Seller: Rouble123
+Value/Plat: 1.49
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Crita-toxitis
+Experimental riven rating: 37.09
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  144.6
+		Grade: C- (-9.49%)
+Critical Chance:  209.6
+		Grade: A- (5.0%)
+Toxin:  125.4
+		Grade: A- (4.66%)
+Reload Speed:  -50.6
+		Grade: C+ (-4.87%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  1   Buyout price: 800
+Seller: pandahu2
+Value/Plat: 1.77
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Crita-acridra
+Experimental riven rating: 43.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  182.2
+		Grade: C- (-8.73%)
+Critical Damage:  150.2
+		Grade: C (-5.98%)
+Fire Rate_Attack Speed:  76.4
+		Grade: C+ (-4.43%)
+Ammo Maximum:  -58.3
+		Grade: S (9.61%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: uyedfuyui
+Value/Plat: 1.98
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Croni-saticron
+Experimental riven rating: 71.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  86.3
+		Grade: A+ (7.95%)
+Multishot:  128.5
+		Grade: A (7.25%)
+Critical Chance:  193.2
+		Grade: B- (-3.22%)
+Recoil:  90.6
+		Grade: C+ (-5.47%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 3.09
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

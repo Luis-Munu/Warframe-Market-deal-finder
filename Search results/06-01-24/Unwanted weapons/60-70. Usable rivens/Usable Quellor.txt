@@ -1,0 +1,44 @@
+Name: Quellor Visi-critacan
+Experimental riven rating: 66.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  169.8
+		Grade: C+ (-4.4%)
+Critical Chance:  156.1
+		Grade: B- (-3.44%)
+Multishot:  94.4
+		Grade: B- (-2.71%)
+Damage vs Infested":  -36.7
+		Grade: C+ (-5.43%)
+
+Polarity: Madurai   Rerolls: 16   MR: 11
+Riven rank : 8
+Initial price:  1499   Buyout price: 1499
+Seller: DouYin1953000331
+Value/Plat: 2.73
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Quellor Crita-lexitis
+Experimental riven rating: 68.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  158.6
+		Grade: B- (-1.9%)
+Punch Through:  3.1
+		Grade: A (7.42%)
+Critical Damage:  125.4
+		Grade: B- (-3.08%)
+Zoom:  -55.7
+		Grade: A+ (7.64%)
+
+Polarity: Madurai   Rerolls: 3   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: HzDragon
+Value/Plat: 2.86
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

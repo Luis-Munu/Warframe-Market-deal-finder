@@ -1,0 +1,88 @@
+Name: Burston Croni-visitis
+Experimental riven rating: 61.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  85.2
+		Grade: A- (4.37%)
+Damage:  244.2
+		Grade: A+ (9.04%)
+Critical Damage:  164.0
+		Grade: B (0.53%)
+Puncture:  -122.0
+		Grade: C (-6.5%)
+
+Polarity: Naramon   Rerolls: 42   MR: 8
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: xCrimsonEye
+Value/Plat: 3.84
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Sati-cronicron
+Experimental riven rating: 62.15
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  130.3
+		Grade: A (6.5%)
+Fire Rate_Attack Speed:  82.2
+		Grade: B (0.69%)
+Critical Chance:  190.5
+		Grade: C (-6.55%)
+Recoil:  96.3
+		Grade: B- (-1.6%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1800   Buyout price: 1800
+Seller: xinsuanlaobaprime
+Value/Plat: 2.16
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Sati-cronitis
+Experimental riven rating: 61.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  118.4
+		Grade: B- (-3.23%)
+Critical Damage:  150.4
+		Grade: C- (-7.8%)
+Fire Rate_Attack Speed:  78.4
+		Grade: C+ (-3.96%)
+Puncture:  -118.1
+		Grade: C- (-9.49%)
+
+Polarity: Vazarin   Rerolls: 109   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: taoliuliu
+Value/Plat: 2.02
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Burston Croni-critatis
+Experimental riven rating: 63.4
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  163.3
+		Grade: B (0.1%)
+Fire Rate_Attack Speed:  88.1
+		Grade: A+ (7.92%)
+Critical Chance:  219.1
+		Grade: A (7.48%)
+Impact:  -126.6
+		Grade: B- (-2.98%)
+
+Polarity: Madurai   Rerolls: 27   MR: 10
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: MyshkinThePrince
+Value/Plat: 0.17
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

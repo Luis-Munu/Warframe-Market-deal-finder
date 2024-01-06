@@ -1,0 +1,64 @@
+Name: Supra Visi-acridra
+Experimental riven rating: 58.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  57.6
+		Grade: C (-6.99%)
+Damage:  176.9
+		Grade: A- (4.12%)
+Critical Damage:  118.6
+		Grade: C+ (-4.16%)
+Projectile Speed:  -70.0
+		Grade: C (-5.71%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  666   Buyout price: 666
+Seller: hcpeter
+Value/Plat: 3.57
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Acri-critacan
+Experimental riven rating: 42.32
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  125.0
+Critical Chance:  142.0
+Multishot:  88.8
+Damage vs Grineer":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  1400   Buyout price: 1400
+Seller: lihuaming2
+Value/Plat: 1.6
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Supra Crita-acrican
+Experimental riven rating: 41.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  142.9
+		Grade: C- (-7.59%)
+Critical Damage:  114.6
+		Grade: C (-7.4%)
+Multishot:  94.8
+		Grade: B+ (2.14%)
+Magazine Capacity:  -45.0
+		Grade: A+ (9.21%)
+
+Polarity: Madurai   Rerolls: 9   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Damola
+Value/Plat: 1.35
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

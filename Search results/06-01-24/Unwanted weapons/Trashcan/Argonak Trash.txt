@@ -1,0 +1,44 @@
+Name: Argonak Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -6.57, 
+Riven stats: 
+Heat:  109.5
+		Grade: A- (3.82%)
+Critical Chance:  162.7
+		Grade: C (-7.41%)
+Critical Damage:  139.2
+		Grade: B (-1.02%)
+Slash:  -111.0
+		Grade: B (-1.32%)
+
+Polarity: Madurai   Rerolls: 13   MR: 14
+Riven rank : 8
+Initial price:  200   Buyout price: 200
+Seller: xueziv
+Value/Plat: 1.82
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Argonak Visi-critacan
+Experimental riven rating: 30.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  190.0
+		Grade: B- (-1.59%)
+Critical Chance:  172.6
+		Grade: B- (-1.78%)
+Multishot:  95.0
+		Grade: F (-9.93%)
+Status Duration:  -101.5
+		Grade: A+ (8.28%)
+
+Polarity: Naramon   Rerolls: 9   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Ande.
+Value/Plat: 1.25
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

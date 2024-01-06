@@ -1,0 +1,44 @@
+Name: Harpak Croni-critacan
+Experimental riven rating: 69.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  88.1
+		Grade: B (0.96%)
+Critical Chance:  216.9
+		Grade: B (-0.46%)
+Multishot:  119.9
+		Grade: C- (-8.32%)
+Recoil:  96.0
+		Grade: C- (-8.23%)
+
+Polarity: Naramon   Rerolls: 2   MR: 16
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rhegaly
+Value/Plat: 3.4
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------
+Name: Harpak Sati-critatis
+Experimental riven rating: 66.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  136.0
+		Grade: A- (3.99%)
+Critical Chance:  201.5
+		Grade: C- (-7.53%)
+Critical Damage:  185.3
+		Grade: A (6.26%)
+Damage vs Infested":  -49.7
+		Grade: C+ (-4.98%)
+
+Polarity: Naramon   Rerolls: 12   MR: 9
+Riven rank : 8
+Initial price:  1250   Buyout price: 1250
+Seller: shirozidabezt
+Value/Plat: 3.0
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

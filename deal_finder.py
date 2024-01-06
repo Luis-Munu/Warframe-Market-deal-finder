@@ -10,6 +10,6 @@ Improve the punctuation system
 Optimize the program in almost every imaginable way.
 data structure access must be greatly improved."""
 
-import user_commands
+import src.user_commands as user_commands
 
 user_commands.choose_category()

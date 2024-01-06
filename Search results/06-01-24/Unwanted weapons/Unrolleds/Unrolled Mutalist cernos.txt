@@ -1,0 +1,88 @@
+Name: Mutalist cernos Visi-cronitis
+Experimental riven rating: 63.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  15.7
+		Grade: C (-6.97%)
+Damage:  25.5
+		Grade: S (10.06%)
+Fire Rate_Attack Speed:  8.3
+		Grade: B- (-1.72%)
+Zoom:  -7.2
+		Grade: A (6.68%)
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Aurora-borealis
+Value/Plat: 5.82
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Acri-critadex
+Experimental riven rating: 39.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.1
+		Grade: B+ (2.78%)
+Status Chance:  104.5
+		Grade: C- (-8.26%)
+Critical Chance:  182.5
+		Grade: C+ (-3.84%)
+Reload Speed:  -49.1
+		Grade: B- (-2.9%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Xyreax
+Value/Plat: 2.23
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Hexa-acricron
+Experimental riven rating: 52.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  152.6
+		Grade: B (0.47%)
+Status Chance:  125.0
+		Grade: S (9.74%)
+Critical Chance:  182.5
+		Grade: C+ (-3.84%)
+Damage vs Infested":  -43.6
+		Grade: C+ (-4.3%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Zealous_Acolyte
+Value/Plat: 2.37
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------
+Name: Mutalist cernos Crita-acrican
+Experimental riven rating: 43.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.2
+		Grade: A- (5.49%)
+Critical Damage:  139.9
+		Grade: C- (-7.89%)
+Multishot:  111.4
+		Grade: B- (-2.2%)
+Damage vs Grineer":  -41.3
+		Grade: C- (-9.35%)
+
+Polarity: Naramon   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  1650   Buyout price: 1650
+Seller: 4165190212
+Value/Plat: 1.52
+Used disposition: 1.35
+Real disposition: 1.35
+--------------------------------------------------

@@ -1,0 +1,84 @@
+Name: Panthera Acri-critades
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.35, 
+Riven stats: 
+Critical Damage:  149.2
+		Grade: C+ (-5.27%)
+Critical Chance:  190.6
+		Grade: B- (-3.16%)
+Status Duration:  128.5
+		Grade: B- (-2.1%)
+Projectile Speed:  -91.5
+		Grade: B- (-3.16%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  100   Buyout price: 100
+Seller: orpisai
+Value/Plat: 2.14
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Panthera Crita-ignitis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 9.27, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  194.4
+		Grade: B (-1.23%)
+Critical Damage:  145.1
+		Grade: C- (-7.88%)
+Heat:  114.0
+		Grade: B- (-3.5%)
+Reload Speed:  -49.8
+		Grade: C+ (-5.04%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -Katherine-
+Value/Plat: 1.3
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Panthera Acri-hexacron
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.95, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  172.3
+Status Chance:  118.2
+Critical Chance:  189.0
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: dRomx
+Value/Plat: 1.04
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Panthera Crita-hexatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 15.05, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  132.1
+Status Chance:  97.3
+Critical Damage:  162.3
+Damage vs Grineer":  -43.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 0
+Initial price:  2000   Buyout price: 2000
+Seller: CAPTAIN145
+Value/Plat: 1.04
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

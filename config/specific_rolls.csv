@@ -1,0 +1,5 @@
+stat1,stat2,stat3,negative,price,weapon
+critical_damage,base_damage_/_melee_damage,critical_chance,,400,twin_grakatas
+multishot,status_chance,fire_rate_/_attack_speed,,1850,nukor
+multishot,base_damage_/_melee_damage,electric_damage,,700,proboscis_cernos
+multishot,base_damage_/_melee_damage,heat_damage,,3000,ogris

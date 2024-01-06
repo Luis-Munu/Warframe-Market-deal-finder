@@ -1,0 +1,42 @@
+Name: Veldt Crita-satidra
+Experimental riven rating: 48.62
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  200.3
+Fire Rate_Attack Speed:  66.8
+Multishot:  104.8
+Damage vs Grineer":  -0.6
+
+Polarity: Naramon   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  450   Buyout price: 450
+Seller: losed1
+Value/Plat: 3.18
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Veldt Crita-acrican
+Experimental riven rating: 48.82
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  188.9
+		Grade: B+ (3.36%)
+Critical Damage:  151.6
+		Grade: A- (3.65%)
+Multishot:  101.4
+		Grade: C- (-7.56%)
+Magazine Capacity:  -51.5
+		Grade: A (5.76%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  3500   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.23
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

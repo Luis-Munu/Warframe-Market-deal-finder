@@ -1,0 +1,64 @@
+Name: Javlok Croni-acricron
+Experimental riven rating: 59.61
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  16.5
+Critical Chance:  19.0
+Fire Rate_Attack Speed:  8.5
+Damage vs Infested":  -0.9
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: Crepuscular2322
+Value/Plat: 3.31
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Javlok Crita-satiata
+Experimental riven rating: 46.69
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  199.3
+		Grade: A+ (9.05%)
+Multishot:  107.7
+		Grade: B- (-1.82%)
+Damage:  196.5
+		Grade: B- (-2.14%)
+Magazine Capacity:  -49.3
+		Grade: B (1.24%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: ZerNacK
+Value/Plat: 1.82
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Javlok Acri-satidra
+Experimental riven rating: 66.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  134.0
+		Grade: C- (-8.38%)
+Multishot:  104.8
+		Grade: C+ (-4.46%)
+Fire Rate_Attack Speed:  78.8
+		Grade: A+ (7.67%)
+Recoil:  88.6
+		Grade: B (0.98%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: Nataruk
+Value/Plat: 1.91
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

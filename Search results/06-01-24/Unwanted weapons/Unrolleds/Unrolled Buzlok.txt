@@ -1,0 +1,66 @@
+Name: Buzlok Crita-acripha
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 0.54, 
+Riven stats: 
+Critical Chance:  208.7
+		Grade: B+ (2.38%)
+Critical Damage:  154.8
+		Grade: C+ (-5.11%)
+Heat:  111.7
+		Grade: C- (-8.7%)
+Fire Rate_Attack Speed:  -61.8
+		Grade: C+ (-5.36%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  75   Buyout price: 75
+Seller: 558855
+Value/Plat: 2.3
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Igni-acricron
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: 0.93, 
+Riven stats: 
+Critical Chance:  22.8
+		Grade: B (0.67%)
+Critical Damage:  18.4
+		Grade: B+ (1.51%)
+Heat:  13.9
+		Grade: B+ (2.25%)
+Fire Rate_Attack Speed:  -6.9
+		Grade: C+ (-4.9%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: hellsydes
+Value/Plat: 1.54
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Crita-acritox
+Experimental riven rating: 57.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  194.3
+		Grade: C+ (-4.68%)
+Critical Damage:  151.3
+		Grade: C (-7.25%)
+Toxin:  122.6
+		Grade: B (0.21%)
+Recoil:  106.0
+		Grade: A+ (8.31%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: -VORUNA-PRIME-
+Value/Plat: 0.19
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

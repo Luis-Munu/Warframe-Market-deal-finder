@@ -1,0 +1,22 @@
+Name: Harpak Sati-acridra
+Experimental riven rating: 75.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  20.3
+		Grade: A- (4.77%)
+Multishot:  15.4
+		Grade: A (5.98%)
+Fire Rate_Attack Speed:  9.9
+		Grade: B+ (2.1%)
+Zoom:  -7.3
+		Grade: C (-5.8%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  4000   Buyout price:  infinite 
+Seller: MyshkinThePrince
+Value/Plat: 0.14
+Used disposition: 1.55
+Real disposition: 1.55
+--------------------------------------------------

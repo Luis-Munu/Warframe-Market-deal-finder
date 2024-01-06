@@ -1,0 +1,88 @@
+Name: Amprex Sati-critadra
+Experimental riven rating: 71.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  12.9
+		Grade: B- (-2.84%)
+Multishot:  8.6
+		Grade: A+ (7.92%)
+Fire Rate_Attack Speed:  5.0
+		Grade: C (-5.96%)
+Damage vs Infested":  -3.3
+		Grade: A- (3.54%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 15
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: MrZumter
+Value/Plat: 6.79
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Sati-cronicron
+Experimental riven rating: 82.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  113.8
+		Grade: C+ (-4.77%)
+Fire Rate_Attack Speed:  50.7
+		Grade: A (5.95%)
+Multishot:  76.3
+		Grade: A (6.38%)
+Zoom:  -41.5
+		Grade: A+ (8.51%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Rhegaly
+Value/Plat: 3.23
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Acri-cronican
+Experimental riven rating: 72.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  44.0
+		Grade: C- (-8.05%)
+Critical Damage:  98.6
+		Grade: B+ (3.11%)
+Multishot:  65.9
+		Grade: C- (-8.12%)
+Zoom:  -41.3
+		Grade: A+ (7.98%)
+
+Polarity: Naramon   Rerolls: 19   MR: 8
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: 130346010503621
+Value/Plat: 2.37
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------
+Name: Amprex Sati-acridra
+Experimental riven rating: 71.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  91.7
+		Grade: C+ (-4.11%)
+Fire Rate_Attack Speed:  44.5
+		Grade: C (-7.01%)
+Multishot:  69.8
+		Grade: B- (-2.68%)
+Recoil:  58.0
+		Grade: B (1.1%)
+
+Polarity: Naramon   Rerolls: 2   MR: 13
+Riven rank : 8
+Initial price:  3000   Buyout price: 3000
+Seller: quietcanary
+Value/Plat: 1.84
+Used disposition: 0.85
+Real disposition: 0.85
+--------------------------------------------------

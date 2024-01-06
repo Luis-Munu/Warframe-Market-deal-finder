@@ -1,0 +1,110 @@
+Name: Simulor Acri-critatox
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 20.21, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  175.8
+		Grade: B (0.04%)
+Toxin:  104.5
+		Grade: B (-0.92%)
+Critical Damage:  143.2
+		Grade: B+ (1.83%)
+Fire Rate_Attack Speed:  -53.0
+		Grade: C (-5.85%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 11
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: Vini
+Value/Plat: 1.65
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Simulor Deci-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -17.6, 
+Riven stats: 
+Critical Chance:  19.1
+		Grade: B- (-2.18%)
+Critical Damage:  15.0
+		Grade: C+ (-4.0%)
+Status Duration:  12.8
+		Grade: B- (-1.7%)
+Damage vs Grineer":  -4.9
+		Grade: A- (4.54%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  500   Buyout price: 500
+Seller: Violet_E.G
+Value/Plat: 1.46
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Simulor Crita-acridra
+Experimental riven rating: 38.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  160.7
+		Grade: C- (-8.55%)
+Critical Damage:  130.4
+		Grade: C (-7.27%)
+Fire Rate_Attack Speed:  69.2
+		Grade: B- (-1.67%)
+Reload Speed:  -46.6
+		Grade: B (-0.48%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: ysjovo
+Value/Plat: 2.23
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Simulor Sati-visicron
+Experimental riven rating: 39.27
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  164.9
+		Grade: C (-6.16%)
+Multishot:  104.1
+		Grade: B (-1.3%)
+Damage:  183.3
+		Grade: C+ (-5.06%)
+Magazine Capacity:  -50.9
+		Grade: A+ (8.71%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: SarahSamus
+Value/Plat: 1.71
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------
+Name: Simulor Sati-critatis
+Experimental riven rating: 27.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  140.1
+		Grade: B (-0.38%)
+Critical Chance:  182.9
+		Grade: A- (4.08%)
+Multishot:  110.9
+		Grade: A- (5.15%)
+Status Chance:  -89.3
+		Grade: A (5.85%)
+
+Polarity: Madurai   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: Ayanami_ReiII
+Value/Plat: 0.37
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

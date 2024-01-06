@@ -1,0 +1,132 @@
+Name: Arca plasmor Sati-critadra
+Experimental riven rating: 70.04
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  57.5
+		Grade: C (-6.88%)
+Critical Chance:  50.3
+		Grade: A+ (8.39%)
+Fire Rate_Attack Speed:  46.8
+		Grade: B (0.85%)
+Recoil:  40.6
+		Grade: A+ (9.37%)
+
+Polarity: Vazarin   Rerolls: 345   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: NORWI
+Value/Plat: 3.91
+Used disposition: 0.55
+Real disposition: 0.95
+--------------------------------------------------
+Name: Arca plasmor Sati-critaata
+Experimental riven rating: 77.33
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  50.2
+		Grade: A+ (8.17%)
+Multishot:  67.0
+		Grade: A+ (8.51%)
+Damage:  90.6
+		Grade: A (6.65%)
+Projectile Speed:  -37.1
+		Grade: B (-0.06%)
+
+Polarity: Madurai   Rerolls: 51   MR: 8
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ganzhe66
+Value/Plat: 4.86
+Used disposition: 0.55
+Real disposition: 0.95
+--------------------------------------------------
+Name: Arca plasmor Croni-critacan
+Experimental riven rating: 71.34
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  8.8
+		Grade: B (-1.2%)
+Fire Rate_Attack Speed:  9.2
+		Grade: B+ (3.29%)
+Multishot:  11.6
+		Grade: B- (-2.11%)
+Recoil:  6.7
+		Grade: C (-5.96%)
+
+Polarity: Vazarin   Rerolls: 46   MR: 8
+Riven rank : 0
+Initial price:  1444   Buyout price: 1444
+Seller: -Apathy
+Value/Plat: 3.13
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Arca plasmor Crita-visican
+Experimental riven rating: 70.36
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  84.8
+		Grade: A (5.79%)
+Damage:  154.9
+		Grade: A (5.57%)
+Multishot:  110.6
+		Grade: A- (3.7%)
+Damage vs Infested":  -34.0
+		Grade: A (6.05%)
+
+Polarity: Madurai   Rerolls: 61   MR: 16
+Riven rank : 8
+Initial price:  1555   Buyout price: 1555
+Seller: Toin1
+Value/Plat: 2.89
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Arca plasmor Crita-satidra
+Experimental riven rating: 71.03
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  79.6
+		Grade: B (-0.7%)
+Multishot:  108.0
+		Grade: B (1.26%)
+Fire Rate_Attack Speed:  87.3
+		Grade: A+ (8.91%)
+Recoil:  70.1
+		Grade: A+ (9.33%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 8
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: RisingAurora
+Value/Plat: 2.3
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Arca plasmor Crita-satitis
+Experimental riven rating: 73.36
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  86.5
+		Grade: A+ (7.91%)
+Critical Damage:  82.4
+		Grade: B+ (2.8%)
+Multishot:  113.9
+		Grade: A (6.79%)
+Damage vs Infested":  -31.0
+		Grade: B- (-3.3%)
+
+Polarity: Vazarin   Rerolls: 7   MR: 11
+Riven rank : 8
+Initial price:  4000   Buyout price:  infinite 
+Seller: LeafElemen7_TeP1uFa.WisP
+Value/Plat: 0.15
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

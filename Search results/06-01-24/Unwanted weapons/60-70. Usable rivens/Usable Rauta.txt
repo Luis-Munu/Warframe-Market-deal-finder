@@ -1,0 +1,66 @@
+Name: Rauta Acri-satidra
+Experimental riven rating: 60.61
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Damage:  64.3
+		Grade: B+ (1.61%)
+Multishot:  85.4
+		Grade: B (1.43%)
+Fire Rate_Attack Speed:  59.4
+		Grade: C (-6.14%)
+Reload Speed:  -25.9
+		Grade: C- (-7.81%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 14
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: MrRedJ
+Value/Plat: 5.19
+Used disposition: 0.75
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Crita-visitis
+Experimental riven rating: 66.8
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  67.1
+		Grade: F (-10.0%)
+Damage:  120.0
+		Grade: F (-10.0%)
+Critical Damage:  65.2
+		Grade: F (-10.0%)
+Damage vs Corpus":  -36.0
+		Grade: F (-10.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: QioBLin92
+Value/Plat: 6.56
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Croni-satitis
+Experimental riven rating: 68.2
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  86.0
+		Grade: B+ (2.14%)
+Critical Damage:  60.8
+		Grade: C+ (-3.92%)
+Fire Rate_Attack Speed:  67.3
+		Grade: A (6.35%)
+Slash:  -64.8
+		Grade: C+ (-3.99%)
+
+Polarity: Vazarin   Rerolls: 18   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Pouty
+Value/Plat: 2.81
+Used disposition: 0.75
+Real disposition: 0.0
+--------------------------------------------------

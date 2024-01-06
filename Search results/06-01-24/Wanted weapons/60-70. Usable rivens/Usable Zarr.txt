@@ -1,0 +1,150 @@
+Name: Zarr Crita-cronitis
+Experimental riven rating: 63.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  14.7
+		Grade: B+ (2.26%)
+Fire Rate_Attack Speed:  7.6
+		Grade: A (5.65%)
+Critical Chance:  19.6
+		Grade: A+ (9.11%)
+Reload Speed:  -4.5
+		Grade: C (-5.98%)
+
+Polarity: Naramon   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: PinkRhyno
+Value/Plat: 5.69
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Acri-hexacron
+Experimental riven rating: 60.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  78.7
+Critical Damage:  71.8
+Status Chance:  53.7
+Zoom:  -23.2
+
+Polarity: Vazarin   Rerolls: 15   MR: 15
+Riven rank : 0
+Initial price:  200   Buyout price: 500
+Seller: Jazdu
+Value/Plat: 4.57
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Acri-critaata
+Experimental riven rating: 60.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  132.5
+		Grade: B+ (2.41%)
+Critical Chance:  158.6
+		Grade: B- (-1.9%)
+Damage:  189.7
+		Grade: A (6.8%)
+Reload Speed:  -42.0
+		Grade: B- (-2.5%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 16
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: VoodooLoop
+Value/Plat: 3.83
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-satiata
+Experimental riven rating: 67.3
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  81.9
+		Grade: B- (-2.9%)
+Multishot:  53.9
+		Grade: A (6.47%)
+Damage:  96.7
+		Grade: A- (4.34%)
+Ammo Maximum:  -21.6
+		Grade: C+ (-3.89%)
+
+Polarity: Vazarin   Rerolls: 50   MR: 9
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: DalygFarmer
+Value/Plat: 4.82
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Croni-saticron
+Experimental riven rating: 62.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  71.0
+		Grade: S (9.66%)
+Multishot:  106.5
+		Grade: S (9.75%)
+Critical Chance:  167.1
+		Grade: B+ (3.36%)
+Magazine Capacity:  -47.4
+		Grade: S (10.04%)
+
+Polarity: Madurai   Rerolls: 180   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: GenjiNikana
+Value/Plat: 3.66
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Acri-critaata
+Experimental riven rating: 60.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  129.1
+		Grade: B (-0.22%)
+Critical Chance:  156.3
+		Grade: B- (-3.32%)
+Damage:  160.7
+		Grade: F (-9.53%)
+Ammo Maximum:  -44.0
+		Grade: B+ (2.14%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 10
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: adgdsh
+Value/Plat: 2.66
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-acriata
+Experimental riven rating: 66.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  175.1
+Critical Damage:  139.6
+Damage:  160.8
+Ammo Maximum:  -24.4
+
+Polarity: Madurai   Rerolls: 48   MR: 9
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: eawqar
+Value/Plat: 3.09
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

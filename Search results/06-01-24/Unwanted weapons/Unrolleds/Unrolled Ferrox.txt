@@ -1,0 +1,22 @@
+Name: Ferrox Crita-decitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -0.63, 
+Riven stats: 
+Critical Chance:  177.8
+		Grade: S (9.98%)
+Critical Damage:  134.4
+		Grade: A- (3.88%)
+Status Duration:  116.7
+		Grade: A+ (8.24%)
+Ammo Maximum:  -40.5
+		Grade: C (-5.98%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 6000
+Seller: GJ54
+Value/Plat: 0.8
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

@@ -1,0 +1,44 @@
+Name: Alternox Visi-acricron
+Experimental riven rating: 62.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  119.8
+		Grade: B (1.41%)
+Damage:  177.3
+		Grade: A+ (9.32%)
+Critical Chance:  148.9
+		Grade: B (0.87%)
+Recoil:  69.3
+		Grade: B- (-2.21%)
+
+Polarity: Madurai   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Pouty
+Value/Plat: 2.83
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Alternox Crita-satiata
+Experimental riven rating: 65.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  160.8
+		Grade: A+ (8.93%)
+Multishot:  93.0
+		Grade: A- (4.97%)
+Damage:  159.2
+		Grade: B- (-1.84%)
+Projectile Speed:  -64.6
+		Grade: C- (-8.84%)
+
+Polarity: Naramon   Rerolls: 5   MR: 12
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: 38441828
+Value/Plat: 2.62
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

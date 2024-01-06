@@ -1,0 +1,22 @@
+Name: Tenora Crita-ignitis
+Experimental riven rating: 38.56
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  168.8
+		Grade: A+ (9.16%)
+Critical Damage:  114.7
+		Grade: C (-7.32%)
+Heat:  90.3
+		Grade: B- (-2.71%)
+Slash:  -102.9
+		Grade: A- (3.95%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 13
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: CXDEVIL
+Value/Plat: 1.93
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

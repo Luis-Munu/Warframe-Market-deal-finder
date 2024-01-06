@@ -1,0 +1,20 @@
+Name: Daikyu Crita-acrinok
+Experimental riven rating: 67.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  19.9
+Critical Damage:  15.6
+Punch Through:  0.3
+Zoom:  -6.7
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: Mr.Lammers
+Value/Plat: 13.07
+Used disposition: 1.25
+Real disposition: 1.25
+--------------------------------------------------

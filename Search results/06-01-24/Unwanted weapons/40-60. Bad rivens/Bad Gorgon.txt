@@ -1,0 +1,176 @@
+Name: Gorgon Crita-acridra
+Experimental riven rating: 57.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  20.4
+		Grade: C (-6.71%)
+Critical Damage:  16.4
+		Grade: C (-6.29%)
+Fire Rate_Attack Speed:  9.5
+		Grade: A+ (8.48%)
+Status Duration:  -12.4
+		Grade: A (6.3%)
+
+Polarity: Madurai   Rerolls: 31   MR: 8
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: artuoliya4433
+Value/Plat: 5.51
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Crita-visican
+Experimental riven rating: 45.24
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  221.5
+		Grade: B+ (2.43%)
+Multishot:  109.8
+		Grade: C (-7.05%)
+Critical Chance:  204.8
+		Grade: A- (4.06%)
+Damage vs Grineer":  -44.0
+		Grade: C (-6.87%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 9
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: BBTU0114
+Value/Plat: 2.49
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Acri-visidra
+Experimental riven rating: 43.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  157.2
+		Grade: A- (3.5%)
+Fire Rate_Attack Speed:  69.3
+		Grade: C- (-8.82%)
+Damage:  210.0
+		Grade: B (0.71%)
+Damage vs Corpus":  -46.0
+		Grade: B (0.97%)
+
+Polarity: Naramon   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Hashimoto_Ai
+Value/Plat: 2.1
+Used disposition: 1.35
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Crita-cronitis
+Experimental riven rating: 45.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  78.0
+		Grade: B (-1.04%)
+Critical Damage:  149.4
+		Grade: C+ (-5.15%)
+Critical Chance:  201.5
+		Grade: B+ (2.38%)
+Reload Speed:  -50.8
+		Grade: B- (-3.13%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  850   Buyout price: 850
+Seller: War_YiMEL
+Value/Plat: 2.14
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Crita-visican
+Experimental riven rating: 57.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  215.4
+		Grade: A+ (9.44%)
+Multishot:  112.3
+		Grade: C+ (-4.93%)
+Damage:  222.2
+		Grade: B+ (2.76%)
+Damage vs Corpus":  -49.0
+		Grade: A- (3.71%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: -SOS-Suzumiya_Haruhi
+Value/Plat: 2.92
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Croni-satitis
+Experimental riven rating: 43.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  122.3
+		Grade: A- (3.53%)
+Fire Rate_Attack Speed:  83.2
+		Grade: A (5.56%)
+Critical Damage:  158.2
+		Grade: B (0.44%)
+Magazine Capacity:  -56.2
+		Grade: A (7.17%)
+
+Polarity: Vazarin   Rerolls: 18   MR: 16
+Riven rank : 8
+Initial price:  1299   Buyout price: 1299
+Seller: --I--meego_neo
+Value/Plat: 1.67
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Crita-acrinok
+Experimental riven rating: 46.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  207.8
+		Grade: A (5.58%)
+Punch Through:  3.5
+		Grade: B (-0.38%)
+Critical Damage:  161.6
+		Grade: B+ (2.6%)
+Ammo Maximum:  -50.2
+		Grade: C+ (-4.27%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  1900   Buyout price: 1900
+Seller: Melinoia
+Value/Plat: 1.52
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------
+Name: Gorgon Sati-critatis
+Experimental riven rating: 55.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  124.9
+		Grade: A (5.73%)
+Critical Chance:  208.0
+		Grade: A (5.68%)
+Critical Damage:  162.0
+		Grade: B+ (2.85%)
+Reload Speed:  -47.9
+		Grade: C- (-8.66%)
+
+Polarity: Vazarin   Rerolls: 86   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: Chocolate_Wumbo_II
+Value/Plat: 0.2
+Used disposition: 1.4
+Real disposition: 1.4
+--------------------------------------------------

@@ -1,0 +1,218 @@
+Name: Miter Acri-hexacron
+Experimental riven rating: 46.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  197.1
+		Grade: C (-6.53%)
+Status Chance:  122.8
+		Grade: B- (-2.98%)
+Critical Damage:  176.4
+		Grade: A- (4.53%)
+Damage vs Infested":  -48.9
+		Grade: B- (-3.4%)
+
+Polarity: Naramon   Rerolls: 43   MR: 9
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: rswhal
+Value/Plat: 2.84
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Croni-acriata
+Experimental riven rating: 59.51
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  84.3
+		Grade: B (-0.18%)
+Critical Damage:  184.4
+		Grade: A+ (9.27%)
+Damage:  212.3
+		Grade: C- (-8.37%)
+Recoil:  105.5
+		Grade: A- (4.21%)
+
+Polarity: Madurai   Rerolls: 207   MR: 8
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: Ghastly-Ghoul
+Value/Plat: 3.43
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Sati-acridra
+Experimental riven rating: 43.63
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  79.1
+		Grade: C (-6.33%)
+Critical Damage:  162.5
+		Grade: C+ (-3.71%)
+Multishot:  128.4
+		Grade: B (1.45%)
+Reload Speed:  -53.8
+		Grade: C+ (-4.25%)
+
+Polarity: Madurai   Rerolls: 26   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Cris.Supertramp
+Value/Plat: 1.9
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Crita-acridex
+Experimental riven rating: 43.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  231.4
+		Grade: S (9.73%)
+Critical Damage:  169.7
+		Grade: B (0.56%)
+Status Chance:  126.2
+		Grade: B (-0.29%)
+Damage vs Corpus":  -55.0
+		Grade: A+ (8.65%)
+
+Polarity: Vazarin   Rerolls: 9   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Yea_Sakura_
+Value/Plat: 1.75
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Acri-satidra
+Experimental riven rating: 56.02
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  172.0
+		Grade: B+ (1.92%)
+Multishot:  116.0
+		Grade: C- (-8.35%)
+Fire Rate_Attack Speed:  83.0
+		Grade: B- (-1.72%)
+Damage vs Infested":  -47.0
+		Grade: C (-7.15%)
+
+Polarity: Vazarin   Rerolls: 14   MR: 16
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: 28710
+Value/Plat: 2.27
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Sati-acridra
+Experimental riven rating: 48.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  165.5
+		Grade: B- (-1.93%)
+Fire Rate_Attack Speed:  80.7
+		Grade: C+ (-4.44%)
+Multishot:  127.8
+		Grade: B (0.97%)
+Damage vs Corpus":  -48.0
+		Grade: C+ (-5.18%)
+
+Polarity: Naramon   Rerolls: 59   MR: 11
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Agni
+Value/Plat: 1.77
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Sati-cronitis
+Experimental riven rating: 51.55
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  153.4
+		Grade: C- (-9.1%)
+Fire Rate_Attack Speed:  87.7
+		Grade: A- (3.85%)
+Multishot:  137.7
+		Grade: A+ (8.8%)
+Ammo Maximum:  -57.2
+		Grade: B+ (1.8%)
+
+Polarity: Madurai   Rerolls: 20   MR: 8
+Riven rank : 8
+Initial price:  2300   Buyout price: 2300
+Seller: Lightningbreak
+Value/Plat: 1.52
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Croni-acridex
+Experimental riven rating: 55.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  161.2
+Status Chance:  120.3
+Fire Rate_Attack Speed:  98.0
+Recoil:  98.0
+
+Polarity: Naramon   Rerolls: 22   MR: 16
+Riven rank : 8
+Initial price:  500   Buyout price:  infinite 
+Seller: Kyos3
+Value/Plat: 0.2
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Crita-satitis
+Experimental riven rating: 51.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  127.2
+		Grade: B (0.5%)
+Critical Damage:  169.1
+		Grade: B (0.2%)
+Critical Chance:  223.0
+		Grade: A (5.75%)
+Ammo Maximum:  -53.6
+		Grade: C+ (-4.61%)
+
+Polarity: Madurai   Rerolls: 197   MR: 16
+Riven rank : 8
+Initial price:  100   Buyout price:  infinite 
+Seller: StellarisAzalea
+Value/Plat: 0.22
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------
+Name: Miter Acri-saticron
+Experimental riven rating: 50.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  130.9
+		Grade: B+ (3.42%)
+Critical Chance:  200.3
+		Grade: C+ (-5.01%)
+Critical Damage:  181.4
+		Grade: A (7.49%)
+Ammo Maximum:  -55.6
+		Grade: B (-1.05%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 11
+Riven rank : 8
+Initial price:  8888   Buyout price:  infinite 
+Seller: KimTaeyeon309
+Value/Plat: 0.22
+Used disposition: 1.5
+Real disposition: 1.5
+--------------------------------------------------

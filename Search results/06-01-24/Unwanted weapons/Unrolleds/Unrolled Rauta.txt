@@ -1,0 +1,44 @@
+Name: Rauta Crita-visitis
+Experimental riven rating: 66.8
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  67.1
+		Grade: F (-10.0%)
+Damage:  120.0
+		Grade: F (-10.0%)
+Critical Damage:  65.2
+		Grade: F (-10.0%)
+Damage vs Corpus":  -36.0
+		Grade: F (-10.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: QioBLin92
+Value/Plat: 6.56
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------
+Name: Rauta Sati-acricron
+Experimental riven rating: 57.0
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  63.2
+		Grade: F (-10.0%)
+Critical Damage:  65.9
+		Grade: F (-10.0%)
+Multishot:  89.3
+		Grade: F (-10.0%)
+Status Duration:  -54.5
+		Grade: F (-10.0%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: FANGWENLONG
+Value/Plat: 2.14
+Used disposition: 0.0
+Real disposition: 0.0
+--------------------------------------------------

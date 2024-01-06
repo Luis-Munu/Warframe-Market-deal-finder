@@ -1,0 +1,22 @@
+Name: Basmu Visi-critacan
+Experimental riven rating: 70.94
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  178.6
+		Grade: A (5.87%)
+Damage:  200.7
+		Grade: A+ (8.28%)
+Multishot:  104.2
+		Grade: B+ (2.91%)
+Projectile Speed:  -80.6
+		Grade: B (-0.48%)
+
+Polarity: Naramon   Rerolls: 4   MR: 12
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: Just-SKY
+Value/Plat: 3.16
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

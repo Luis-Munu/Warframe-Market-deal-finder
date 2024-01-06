@@ -448,5 +448,41 @@
             "chance_to_gain_combo_count":[-40,-100],
             "range":[-10,-100]
         }
+    },
+    "4":{
+        "General use":{
+            "multishot":[20,-100],
+            "base_damage_/_melee_damage":[12.5,-100],
+            "impact_damage":[-40,20],
+            "slash_damage":[-40,-40],
+            "puncture_damage":[-40,15],
+            "critical_chance":[20,-100],
+            "critical_damage":[15,-100],
+            "toxin_damage":[7.5,0],
+            "heat_damage":[-5,0],
+            "electric_damage":[-5,0],
+            "cold_damage":[3.75,0],
+            "status_chance":[3,-30],
+            "status_duration":[-40,-100],
+            "damage_vs_infested":[-40,5],
+            "damage_vs_grineer":[-40,-15],
+            "damage_vs_corpus":[-40, -5],
+            "fire_rate_/_attack_speed":[12.5,-30],
+            "magazine_capacity":[-40,-20],
+            "ammo_maximum":[-40,-5],
+            "projectile_speed":[-40,10],
+            "reload_speed":[-40,-10],
+            "recoil":[-40,15],
+            "zoom":[-40,20],
+            "punch_through":[5,0],
+            "finisher_damage":[0,0],
+            "critical_chance_on_slide_attack":[0,0],
+            "combo_duration":[0,0],
+            "channeling_efficiency":[0,0],
+            "channeling_damage":[0,0],
+            "chance_to_gain_extra_combo_count":[0,0],
+            "chance_to_gain_combo_count":[0,0],
+            "range":[0,0]
+        }
     }
 }

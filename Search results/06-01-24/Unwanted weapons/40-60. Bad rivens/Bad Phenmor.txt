@@ -1,0 +1,196 @@
+Name: Phenmor Acri-critadra
+Experimental riven rating: 58.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  82.2
+		Grade: B- (-2.55%)
+Critical Damage:  66.3
+		Grade: B- (-1.78%)
+Fire Rate_Attack Speed:  32.0
+		Grade: C+ (-5.27%)
+Damage vs Corpus":  -20.1
+		Grade: B (-0.73%)
+
+Polarity: Vazarin   Rerolls: 36   MR: 15
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: PsAFomalhaut
+Value/Plat: 5.67
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Visi-critatis
+Experimental riven rating: 55.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  77.6
+		Grade: C- (-8.0%)
+Critical Damage:  67.4
+		Grade: B (-0.15%)
+Damage:  94.5
+		Grade: B+ (1.97%)
+Reload Speed:  -23.7
+		Grade: A- (5.45%)
+
+Polarity: Naramon   Rerolls: 24   MR: 9
+Riven rank : 8
+Initial price:  700   Buyout price: 700
+Seller: xzj250kg
+Value/Plat: 3.15
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Sati-acridra
+Experimental riven rating: 51.84
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  49.8
+		Grade: B- (-1.63%)
+Critical Damage:  70.3
+		Grade: A- (4.14%)
+Fire Rate_Attack Speed:  30.8
+		Grade: C- (-8.82%)
+Status Duration:  -47.0
+		Grade: A- (4.45%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  750   Buyout price: 750
+Seller: WF-Prime
+Value/Plat: 2.72
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Acri-visicron
+Experimental riven rating: 40.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  77.1
+		Grade: C- (-8.59%)
+Damage:  91.8
+		Grade: B (-0.94%)
+Critical Damage:  68.2
+		Grade: B (1.03%)
+Fire Rate_Attack Speed:  -28.3
+		Grade: A- (4.74%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  200   Buyout price: 888
+Seller: Maple.Lee
+Value/Plat: 1.84
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Crita-cronitis
+Experimental riven rating: 42.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  34.9
+		Grade: B+ (3.32%)
+Critical Damage:  61.5
+		Grade: C- (-8.89%)
+Critical Chance:  90.9
+		Grade: A+ (7.77%)
+Status Chance:  -41.3
+		Grade: B+ (1.99%)
+
+Polarity: Madurai   Rerolls: 20   MR: 12
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: finalPAP
+Value/Plat: 1.86
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Crita-satiata
+Experimental riven rating: 59.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  89.2
+		Grade: C+ (-3.75%)
+Critical Chance:  84.0
+		Grade: B (-0.41%)
+Multishot:  49.5
+		Grade: B- (-2.23%)
+Status Duration:  -48.3
+		Grade: A (7.34%)
+
+Polarity: Naramon   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Hobby258
+Value/Plat: 2.6
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Sati-critatis
+Experimental riven rating: 45.73
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  65.6
+Critical Damage:  84.8
+Multishot:  55.3
+Status Chance:  -37.1
+
+Polarity: Madurai   Rerolls: 5   MR: 10
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: MutongCC
+Value/Plat: 1.78
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Crita-acrican
+Experimental riven rating: 53.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  89.8
+		Grade: A (6.46%)
+Multishot:  47.7
+		Grade: C (-5.78%)
+Critical Damage:  69.1
+		Grade: B+ (2.37%)
+Magazine Capacity:  -20.9
+		Grade: C (-7.01%)
+
+Polarity: Vazarin   Rerolls: 228   MR: 15
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Soksar.
+Value/Plat: 1.69
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Phenmor Acri-saticron
+Experimental riven rating: 51.0
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  69.2
+		Grade: B+ (2.52%)
+Multishot:  50.5
+		Grade: B (-0.25%)
+Critical Chance:  76.6
+		Grade: C- (-9.19%)
+Magazine Capacity:  -21.5
+		Grade: C+ (-4.34%)
+
+Polarity: Naramon   Rerolls: 66   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price:  infinite 
+Seller: sapphire_26
+Value/Plat: 0.22
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

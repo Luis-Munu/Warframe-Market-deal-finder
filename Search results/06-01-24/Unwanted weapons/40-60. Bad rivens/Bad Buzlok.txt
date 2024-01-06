@@ -1,0 +1,66 @@
+Name: Buzlok Sati-critadra
+Experimental riven rating: 56.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  85.6
+		Grade: A- (4.86%)
+Multishot:  132.2
+		Grade: A+ (8.05%)
+Critical Chance:  219.4
+		Grade: A+ (7.63%)
+Reload Speed:  -52.5
+		Grade: B- (-3.34%)
+
+Polarity: Madurai   Rerolls: 7   MR: 16
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: TouchMyDuck
+Value/Plat: 4.47
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Crita-acritox
+Experimental riven rating: 57.81
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  194.3
+		Grade: C+ (-4.68%)
+Critical Damage:  151.3
+		Grade: C (-7.25%)
+Toxin:  122.6
+		Grade: B (0.21%)
+Recoil:  106.0
+		Grade: A+ (8.31%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: -VORUNA-PRIME-
+Value/Plat: 0.19
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Buzlok Acri-critadra
+Experimental riven rating: 40.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  163.4
+		Grade: B (0.17%)
+Critical Chance:  195.8
+		Grade: C+ (-3.95%)
+Fire Rate_Attack Speed:  76.2
+		Grade: C (-6.66%)
+Magazine Capacity:  -57.6
+		Grade: A (6.05%)
+
+Polarity: Vazarin   Rerolls: 37   MR: 14
+Riven rank : 8
+Initial price:  300   Buyout price:  infinite 
+Seller: SunDinRock
+Value/Plat: 0.27
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

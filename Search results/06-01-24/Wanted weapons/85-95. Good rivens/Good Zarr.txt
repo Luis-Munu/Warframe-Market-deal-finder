@@ -1,0 +1,66 @@
+Name: Zarr Toxi-critatis
+Experimental riven rating: 87.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  125.1
+		Grade: B- (-3.31%)
+Toxin:  106.7
+		Grade: S (9.96%)
+Critical Chance:  176.6
+		Grade: A+ (9.24%)
+Impact:  -101.1
+		Grade: B- (-2.31%)
+
+Polarity: Madurai   Rerolls: 2   MR: 16
+Riven rank : 8
+Initial price:  590   Buyout price: 590
+Seller: NIDZABOSS
+Value/Plat: 10.59
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-toxitis
+Experimental riven rating: 91.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  176.3
+		Grade: A+ (9.05%)
+Toxin:  103.0
+		Grade: A (6.15%)
+Critical Damage:  135.0
+		Grade: A- (4.34%)
+Zoom:  -46.7
+		Grade: F (-9.75%)
+
+Polarity: Naramon   Rerolls: 22   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 1300
+Seller: RuimteVentilator
+Value/Plat: 5.91
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------
+Name: Zarr Crita-satidra
+Experimental riven rating: 86.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  161.6
+		Grade: B (-0.04%)
+Multishot:  96.9
+		Grade: B (-0.14%)
+Fire Rate_Attack Speed:  63.3
+		Grade: B- (-2.23%)
+Zoom:  -49.5
+		Grade: C+ (-4.34%)
+
+Polarity: Madurai   Rerolls: 80   MR: 8
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: HundredChopKing
+Value/Plat: 4.55
+Used disposition: 1.15
+Real disposition: 0.6
+--------------------------------------------------

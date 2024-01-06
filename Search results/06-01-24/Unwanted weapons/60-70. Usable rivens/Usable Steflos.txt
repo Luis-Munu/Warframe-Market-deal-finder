@@ -1,0 +1,42 @@
+Name: Steflos Crita-acritox
+Experimental riven rating: 61.04
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  9.2
+		Grade: B+ (3.29%)
+Critical Damage:  8.4
+		Grade: C (-5.69%)
+Toxin:  8.7
+		Grade: B- (-2.32%)
+Projectile Speed:  -7.2
+		Grade: B (1.06%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 12
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: Qin_Lin
+Value/Plat: 8.06
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------
+Name: Steflos Sati-cronicron
+Experimental riven rating: 66.76
+Best profile: General use
+Beam: 24.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Fire Rate_Attack Speed:  63.9
+Multishot:  88.4
+Critical Chance:  63.3
+Recoil:  55.2
+
+Polarity: Madurai   Rerolls: 14   MR: 8
+Riven rank : 8
+Initial price:  777   Buyout price: 777
+Seller: -Apathy
+Value/Plat: 4.2
+Used disposition: 0.95
+Real disposition: 0.95
+--------------------------------------------------

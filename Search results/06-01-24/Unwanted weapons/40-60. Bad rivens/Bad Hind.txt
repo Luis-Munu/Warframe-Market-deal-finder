@@ -1,0 +1,64 @@
+Name: Hind Croni-acricron
+Experimental riven rating: 46.6
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  162.4
+Fire Rate_Attack Speed:  83.3
+Critical Chance:  184.7
+Damage vs Corpus":  -0.5
+
+Polarity: Madurai   Rerolls: 1   MR: 11
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -Qorvex-
+Value/Plat: 2.27
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Croni-satitis
+Experimental riven rating: 59.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.4
+		Grade: B- (-2.1%)
+Fire Rate_Attack Speed:  85.5
+		Grade: A (6.95%)
+Multishot:  121.8
+		Grade: B+ (1.66%)
+Damage vs Infested":  -50.2
+		Grade: A- (4.76%)
+
+Polarity: Naramon   Rerolls: 7   MR: 8
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: -Apathy
+Value/Plat: 3.35
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Hind Crita-acridra
+Experimental riven rating: 43.41
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  182.2
+		Grade: C- (-8.73%)
+Critical Damage:  150.2
+		Grade: C (-5.98%)
+Fire Rate_Attack Speed:  76.4
+		Grade: C+ (-4.43%)
+Ammo Maximum:  -58.3
+		Grade: S (9.61%)
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: uyedfuyui
+Value/Plat: 1.98
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

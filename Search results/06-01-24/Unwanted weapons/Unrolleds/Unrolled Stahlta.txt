@@ -1,0 +1,20 @@
+Name: Stahlta Lexi-acricron
+Experimental riven rating: 48.07
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  14.5
+Punch Through:  0.3
+Critical Damage:  13.0
+Damage vs Grineer":  -1.0
+
+Polarity: Naramon   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  50   Buyout price: 50
+Seller: YeetusHChrist
+Value/Plat: 8.98
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

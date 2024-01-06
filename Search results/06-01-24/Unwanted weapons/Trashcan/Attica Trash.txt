@@ -1,0 +1,66 @@
+Name: Attica Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 23.21, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  20.4
+		Grade: C- (-7.7%)
+Critical Damage:  17.4
+		Grade: B- (-1.63%)
+Heat:  12.0
+		Grade: F (-9.54%)
+Ammo Maximum:  -5.8
+		Grade: B- (-1.52%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 16
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: 1lastkiss
+Value/Plat: 1.65
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.25, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  205.5
+		Grade: B+ (3.31%)
+Critical Damage:  155.0
+		Grade: B- (-2.63%)
+Heat:  126.8
+		Grade: A (6.2%)
+Status Chance:  -97.3
+		Grade: B+ (1.88%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: ks_lj
+Value/Plat: 1.39
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Crita-toxitis
+Experimental riven rating: 29.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  200.7
+		Grade: B (0.89%)
+Toxin:  112.6
+		Grade: C (-5.69%)
+Critical Damage:  146.3
+		Grade: C- (-8.1%)
+Fire Rate_Attack Speed:  -66.9
+		Grade: A- (4.99%)
+
+Polarity: Madurai   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  690   Buyout price: 690
+Seller: Divine_Intellect
+Value/Plat: 1.54
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

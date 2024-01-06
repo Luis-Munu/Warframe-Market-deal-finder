@@ -1,0 +1,194 @@
+Name: Cernos Visi-acridra
+Experimental riven rating: 47.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Damage:  20.1
+Critical Damage:  17.7
+Fire Rate_Attack Speed:  7.3
+Ammo Maximum:  -5.9
+
+Polarity: Madurai   Rerolls: 10   MR: 15
+Riven rank : 0
+Initial price:  250   Buyout price: 250
+Seller: ptq614
+Value/Plat: 4.01
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Crita-toxitis
+Experimental riven rating: 42.05
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  134.9
+		Grade: C- (-7.76%)
+Toxin:  106.0
+		Grade: B- (-3.36%)
+Critical Chance:  198.0
+		Grade: A+ (8.34%)
+Damage vs Grineer":  -44.0
+		Grade: B (0.29%)
+
+Polarity: Vazarin   Rerolls: 6   MR: 10
+Riven rank : 8
+Initial price:  899   Buyout price: 899
+Seller: --UMBRA--FlyingPupper
+Value/Plat: 1.91
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Crita-satidra
+Experimental riven rating: 53.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  71.1
+		Grade: B- (-2.85%)
+Critical Chance:  197.1
+		Grade: A+ (7.85%)
+Multishot:  117.8
+		Grade: A (7.39%)
+Magazine Capacity:  -52.1
+		Grade: A (6.99%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 15
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: White
+Value/Plat: 2.45
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Croni-acriata
+Experimental riven rating: 46.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  77.0
+		Grade: A- (5.21%)
+Damage:  196.6
+		Grade: B- (-2.09%)
+Critical Damage:  143.7
+		Grade: B- (-1.75%)
+Ammo Maximum:  -46.6
+		Grade: C+ (-4.3%)
+
+Polarity: Naramon   Rerolls: 3   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: -Qorvex-
+Value/Plat: 1.87
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Acri-critaata
+Experimental riven rating: 47.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  180.7
+		Grade: B (-1.13%)
+Critical Damage:  148.4
+		Grade: B (1.47%)
+Damage:  197.8
+		Grade: B (-1.49%)
+Damage vs Grineer":  -45.9
+		Grade: A- (4.63%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 14
+Riven rank : 8
+Initial price:  1   Buyout price: 1200
+Seller: H1U0
+Value/Plat: 1.93
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Crita-acriata
+Experimental riven rating: 51.96
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  154.3
+		Grade: A (5.5%)
+Critical Chance:  198.0
+		Grade: A+ (8.34%)
+Damage:  202.5
+		Grade: B (0.85%)
+Damage vs Grineer":  -45.4
+		Grade: B+ (3.49%)
+
+Polarity: Naramon   Rerolls: 32   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: CHINGENJI
+Value/Plat: 2.14
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Crita-acritox
+Experimental riven rating: 53.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  199.1
+		Grade: A+ (8.94%)
+Critical Damage:  156.4
+		Grade: A (6.94%)
+Toxin:  109.4
+		Grade: B (-0.27%)
+Ammo Maximum:  -47.8
+		Grade: B- (-1.84%)
+
+Polarity: Naramon   Rerolls: 110   MR: 12
+Riven rank : 8
+Initial price:  1   Buyout price: 1200
+Seller: 0WMVMW0
+Value/Plat: 2.25
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Visi-saticron
+Experimental riven rating: 44.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  201.7
+		Grade: B (0.45%)
+Critical Chance:  179.3
+		Grade: B- (-1.89%)
+Multishot:  107.8
+		Grade: B- (-1.72%)
+Magazine Capacity:  -46.5
+		Grade: C+ (-4.51%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 8
+Riven rank : 8
+Initial price:  1400   Buyout price: 1400
+Seller: 130346010503621
+Value/Plat: 1.67
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Cernos Acri-cronican
+Experimental riven rating: 53.49
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  144.6
+Fire Rate_Attack Speed:  71.9
+Multishot:  105.4
+Damage vs Corpus":  -0.5
+
+Polarity: Naramon   Rerolls: 20   MR: 8
+Riven rank : 8
+Initial price:  1899   Buyout price: 1899
+Seller: sir1200
+Value/Plat: 1.74
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

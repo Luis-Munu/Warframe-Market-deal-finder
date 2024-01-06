@@ -1,0 +1,219 @@
+Name: Lenz Visi-acridra
+Experimental riven rating: 48.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  110.4
+		Grade: B- (-1.87%)
+Damage:  159.0
+		Grade: B+ (2.94%)
+Fire Rate_Attack Speed:  54.0
+		Grade: C+ (-4.08%)
+Status Chance:  -69.1
+		Grade: B+ (2.38%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 8
+Riven rank : 8
+Initial price:  300   Buyout price: 300
+Seller: Cephalon_Cy
+Value/Plat: 3.85
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acriata
+Experimental riven rating: 59.78
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.5
+		Grade: B (-0.06%)
+Critical Damage:  114.9
+		Grade: B+ (2.13%)
+Damage:  141.7
+		Grade: C- (-8.26%)
+Status Chance:  -70.5
+		Grade: A- (4.45%)
+
+Polarity: Madurai   Rerolls: 0   MR: 13
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: taoliuliu
+Value/Plat: 5.04
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acridex
+Experimental riven rating: 42.48
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Status Chance:  81.6
+		Grade: B- (-3.29%)
+Critical Chance:  141.2
+		Grade: B (0.44%)
+Critical Damage:  110.0
+		Grade: B- (-2.23%)
+Damage vs Infested":  -35.3
+		Grade: A- (4.6%)
+
+Polarity: Madurai   Rerolls: 33   MR: 16
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Sniyx
+Value/Plat: 2.3
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acriata
+Experimental riven rating: 42.0
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  146.7
+		Grade: C+ (-5.02%)
+Critical Damage:  115.8
+		Grade: B+ (2.93%)
+Critical Chance:  149.2
+		Grade: A (6.13%)
+Fire Rate_Attack Speed:  -44.6
+		Grade: B (-0.96%)
+
+Polarity: Naramon   Rerolls: 17   MR: 14
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Fuub_Oin
+Value/Plat: 2.19
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-acridra
+Experimental riven rating: 44.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  143.0
+		Grade: B+ (1.72%)
+Critical Damage:  106.0
+		Grade: C (-5.78%)
+Fire Rate_Attack Speed:  55.1
+		Grade: B- (-2.13%)
+Magazine Capacity:  -34.0
+		Grade: C- (-9.23%)
+
+Polarity: Vazarin   Rerolls: 31   MR: 10
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: Nikolaievitch
+Value/Plat: 2.04
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Toxi-acricron
+Experimental riven rating: 44.77
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  109.1
+		Grade: B- (-3.03%)
+Critical Chance:  133.2
+		Grade: C+ (-5.25%)
+Toxin:  86.4
+		Grade: B+ (2.4%)
+Magazine Capacity:  -39.9
+		Grade: A (6.52%)
+
+Polarity: Madurai   Rerolls: 4   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: sandawitch
+Value/Plat: 1.96
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acri-saticron
+Experimental riven rating: 41.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  82.5
+		Grade: B- (-2.23%)
+Critical Chance:  129.4
+		Grade: C- (-7.95%)
+Critical Damage:  116.9
+		Grade: A- (3.91%)
+Fire Rate_Attack Speed:  -41.8
+		Grade: C (-7.18%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: __Virtue
+Value/Plat: 1.51
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Croni-satitis
+Experimental riven rating: 44.35
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  9.5
+		Grade: B (1.33%)
+Fire Rate_Attack Speed:  6.5
+		Grade: A- (3.91%)
+Critical Damage:  12.3
+		Grade: B- (-1.6%)
+Magazine Capacity:  -4.1
+		Grade: B (-1.49%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 8
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: Pudge
+Value/Plat: 1.62
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Croni-acricron
+Experimental riven rating: 51.04
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  105.7
+		Grade: C (-6.05%)
+Critical Chance:  127.5
+		Grade: C- (-9.31%)
+Fire Rate_Attack Speed:  54.3
+		Grade: C+ (-3.55%)
+Reload Speed:  -36.0
+		Grade: C+ (-3.89%)
+
+Polarity: Vazarin   Rerolls: 48   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: souler110
+Value/Plat: 1.87
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acridra
+Experimental riven rating: 57.98
+Two stats!
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  140.7
+		Grade: C+ (-5.25%)
+Fire Rate_Attack Speed:  70.3
+		Grade: C+ (-5.4%)
+Zoom:  -29.4
+		Grade: B (-1.01%)
+
+Polarity: Madurai   Rerolls: 10   MR: 9
+Riven rank : 8
+Initial price:  499   Buyout price:  infinite 
+Seller: Frank_The_Tank
+Value/Plat: 0.19
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

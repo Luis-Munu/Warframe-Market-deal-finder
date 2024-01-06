@@ -1,0 +1,106 @@
+Name: Scourge Acri-critaata
+Experimental riven rating: 59.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  169.8
+		Grade: C- (-8.39%)
+Critical Chance:  166.4
+		Grade: B (-1.36%)
+Critical Damage:  135.9
+		Grade: B (0.66%)
+Recoil:  73.2
+		Grade: F (-9.62%)
+
+Polarity: Naramon   Rerolls: 24   MR: 12
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: Pouty
+Value/Plat: 3.94
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-visitis
+Experimental riven rating: 40.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  169.8
+		Grade: B (-0.06%)
+Critical Damage:  112.4
+		Grade: C- (-9.17%)
+Critical Chance:  154.8
+		Grade: B (0.1%)
+Damage vs Corpus":  -34.1
+		Grade: C- (-8.14%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 12
+Riven rank : 8
+Initial price:  650   Buyout price: 650
+Seller: Mk1-Graxx
+Value/Plat: 2.1
+Used disposition: 1.1
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Crita-acrican
+Experimental riven rating: 59.71
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  157.7
+Critical Damage:  142.1
+Multishot:  111.3
+Damage vs Infested":  -63.0
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Rester.natural
+Value/Plat: 2.61
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Visi-saticron
+Experimental riven rating: 50.98
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Multishot:  102.2
+Critical Chance:  127.7
+Damage:  190.0
+Damage vs Corpus":  -38.9
+
+Polarity: Madurai   Rerolls: 18   MR: 10
+Riven rank : 8
+Initial price:  1300   Buyout price: 1300
+Seller: Ribbits
+Value/Plat: 2.01
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------
+Name: Scourge Sati-critatis
+Experimental riven rating: 59.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  107.0
+		Grade: A (5.68%)
+Critical Damage:  132.2
+		Grade: B- (-2.08%)
+Critical Chance:  171.4
+		Grade: B+ (1.6%)
+Damage vs Infested":  -39.8
+		Grade: B- (-1.72%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: Dcaa712
+Value/Plat: 1.91
+Used disposition: 1.2
+Real disposition: 1.2
+--------------------------------------------------

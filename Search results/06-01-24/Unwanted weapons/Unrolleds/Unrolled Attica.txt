@@ -1,0 +1,86 @@
+Name: Attica Acri-critanok
+Experimental riven rating: 58.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  18.6
+Critical Chance:  22.1
+Punch Through:  0.4
+Damage vs Infested":  -0.1
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  100   Buyout price: 100
+Seller: xjzj60
+Value/Plat: 10.95
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Visi-acridra
+Experimental riven rating: 67.53
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  8.1
+		Grade: C- (-8.49%)
+Critical Damage:  16.7
+		Grade: C (-5.59%)
+Damage:  23.5
+		Grade: B- (-3.23%)
+Zoom:  -6.5
+		Grade: C- (-8.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  400   Buyout price: 400
+Seller: Wolverine53671
+Value/Plat: 6.74
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Igni-critatis
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 18.25, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  205.5
+		Grade: B+ (3.31%)
+Critical Damage:  155.0
+		Grade: B- (-2.63%)
+Heat:  126.8
+		Grade: A (6.2%)
+Status Chance:  -97.3
+		Grade: B+ (1.88%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: ks_lj
+Value/Plat: 1.39
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------
+Name: Attica Visi-saticron
+Experimental riven rating: 70.42
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  196.5
+		Grade: B (-1.22%)
+Multishot:  123.1
+		Grade: B+ (3.1%)
+Damage:  230.3
+		Grade: A- (5.37%)
+Projectile Speed:  -90.0
+		Grade: C (-5.76%)
+
+Polarity: Naramon   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Frank-Gallagher
+Value/Plat: 3.95
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

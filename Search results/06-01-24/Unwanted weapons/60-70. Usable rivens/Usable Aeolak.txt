@@ -1,0 +1,64 @@
+Name: Aeolak Crita-acridra
+Experimental riven rating: 60.64
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  150.0
+Critical Damage:  123.0
+Fire Rate_Attack Speed:  67.0
+Damage vs Infested":  -0.6
+
+Polarity: Naramon   Rerolls: 5   MR: 10
+Riven rank : 0
+Initial price:  600   Buyout price: 600
+Seller: NNIKIKI
+Value/Plat: 4.07
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Acri-critaata
+Experimental riven rating: 68.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  168.0
+		Grade: A- (3.92%)
+Critical Damage:  140.8
+		Grade: A+ (8.83%)
+Damage:  168.2
+		Grade: C+ (-5.31%)
+Projectile Speed:  -84.5
+		Grade: A+ (8.87%)
+
+Polarity: Madurai   Rerolls: 11   MR: 9
+Riven rank : 8
+Initial price:  1   Buyout price: 600
+Seller: bozedr
+Value/Plat: 5.27
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Aeolak Croni-saticron
+Experimental riven rating: 63.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  92.5
+		Grade: C+ (-4.67%)
+Fire Rate_Attack Speed:  66.1
+		Grade: B+ (2.09%)
+Critical Chance:  146.5
+		Grade: C- (-9.38%)
+Slash:  -112.2
+		Grade: A+ (8.42%)
+
+Polarity: Naramon   Rerolls: 28   MR: 12
+Riven rank : 8
+Initial price:  2200   Buyout price: 2200
+Seller: -Qorvex-
+Value/Plat: 1.97
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

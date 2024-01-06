@@ -1,0 +1,132 @@
+Name: Phantasma Sati-cronitis
+Experimental riven rating: 67.09
+Best profile: Beam
+General use: 53.63, 
+Riven stats: 
+Critical Damage:  85.2
+		Grade: C+ (-3.83%)
+Fire Rate_Attack Speed:  93.7
+		Grade: A (5.76%)
+Multishot:  125.2
+		Grade: A (6.21%)
+Slash:  -91.9
+		Grade: B- (-2.74%)
+
+Polarity: Vazarin   Rerolls: 16   MR: 15
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: sonettoer
+Value/Plat: 6.63
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Visi-saticron
+Experimental riven rating: 63.51
+Best profile: General use
+Beam: 46.31, 
+Riven stats: 
+Critical Chance:  83.9
+		Grade: C+ (-5.3%)
+Multishot:  115.0
+		Grade: B- (-2.44%)
+Damage:  162.0
+		Grade: B (-0.11%)
+Impact:  -96.0
+		Grade: B+ (1.6%)
+
+Polarity: Vazarin   Rerolls: 1   MR: 9
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: 26443154
+Value/Plat: 3.46
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Toxi-critatis
+Experimental riven rating: 61.39
+Best profile: General use
+Beam: 30.73, 
+Riven stats: 
+Critical Chance:  96.4
+		Grade: A+ (8.81%)
+Critical Damage:  92.8
+		Grade: A- (4.74%)
+Toxin:  97.2
+		Grade: S (9.71%)
+Impact:  -94.4
+		Grade: B (-0.1%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: Quota
+Value/Plat: 3.05
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-satiata
+Experimental riven rating: 64.79
+Best profile: General use
+Beam: 48.27, 
+Riven stats: 
+Damage:  159.5
+		Grade: B- (-1.65%)
+Multishot:  120.2
+		Grade: B+ (1.97%)
+Critical Chance:  90.4
+		Grade: B+ (2.04%)
+Impact:  -102.6
+		Grade: A+ (8.58%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: 55yw22
+Value/Plat: 3.36
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Croni-satitis
+Experimental riven rating: 60.13
+Best profile: Beam
+General use: 48.32, 
+Riven stats: 
+Multishot:  113.5
+		Grade: C+ (-3.72%)
+Critical Damage:  85.1
+		Grade: C+ (-3.95%)
+Fire Rate_Attack Speed:  93.0
+		Grade: A- (4.97%)
+Damage vs Corpus":  -36.6
+		Grade: B+ (3.29%)
+
+Polarity: Madurai   Rerolls: 0   MR: 9
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: -Katherine-
+Value/Plat: 2.3
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------
+Name: Phantasma Crita-satidra
+Experimental riven rating: 63.8
+Best profile: General use
+Beam: 49.1, 
+Riven stats: 
+Fire Rate_Attack Speed:  83.1
+		Grade: C (-6.2%)
+Critical Chance:  95.4
+		Grade: A+ (7.68%)
+Multishot:  111.6
+		Grade: C+ (-5.33%)
+Impact:  -101.8
+		Grade: A+ (7.74%)
+
+Polarity: Vazarin   Rerolls: 73   MR: 13
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: skins1998
+Value/Plat: 2.52
+Used disposition: 1.05
+Real disposition: 1.05
+--------------------------------------------------

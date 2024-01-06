@@ -1,0 +1,22 @@
+Name: Ambassador Sati-visicron
+Experimental riven rating: 44.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  140.7
+		Grade: C- (-9.01%)
+Multishot:  100.6
+		Grade: A+ (8.39%)
+Damage:  161.2
+		Grade: C+ (-5.12%)
+Magazine Capacity:  -42.9
+		Grade: A- (4.12%)
+
+Polarity: Madurai   Rerolls: 0   MR: 15
+Riven rank : 0
+Initial price:  1000   Buyout price: 1000
+Seller: BingNiao
+Value/Plat: 1.94
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

@@ -1,0 +1,22 @@
+Name: Hind Croni-saticron
+Experimental riven rating: 71.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  86.3
+		Grade: A+ (7.95%)
+Multishot:  128.5
+		Grade: A (7.25%)
+Critical Chance:  193.2
+		Grade: B- (-3.22%)
+Recoil:  90.6
+		Grade: C+ (-5.47%)
+
+Polarity: Madurai   Rerolls: 0   MR: 16
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 3.09
+Used disposition: 1.42
+Real disposition: 1.42
+--------------------------------------------------

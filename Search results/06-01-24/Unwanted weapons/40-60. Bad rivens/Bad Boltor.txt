@@ -1,0 +1,390 @@
+Name: Boltor Visi-acridra
+Experimental riven rating: 42.23
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  66.6
+		Grade: C- (-9.0%)
+Critical Damage:  141.7
+		Grade: B- (-3.11%)
+Damage:  202.5
+		Grade: B (0.85%)
+Damage vs Corpus":  -42.8
+		Grade: B- (-2.44%)
+
+Polarity: Naramon   Rerolls: 74   MR: 10
+Riven rank : 8
+Initial price:  400   Buyout price: 400
+Seller: Caino8819
+Value/Plat: 2.71
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Sati-cronicron
+Experimental riven rating: 54.38
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  67.2
+		Grade: C- (-8.18%)
+Multishot:  103.3
+		Grade: C (-5.83%)
+Critical Chance:  165.0
+		Grade: F (-9.72%)
+Projectile Speed:  -93.3
+		Grade: A (6.34%)
+
+Polarity: Madurai   Rerolls: 3   MR: 10
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: XuHao-Prime
+Value/Plat: 2.94
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Croni-satitis
+Experimental riven rating: 45.68
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  77.5
+		Grade: A (5.89%)
+Critical Damage:  143.7
+		Grade: B- (-1.75%)
+Multishot:  111.1
+		Grade: B (1.28%)
+Damage vs Grineer":  -47.0
+		Grade: A (7.13%)
+
+Polarity: Naramon   Rerolls: 70   MR: 16
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: lmnut
+Value/Plat: 2.22
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Acri-cronicron
+Experimental riven rating: 46.58
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Chance:  171.6
+Critical Damage:  138.6
+Fire Rate_Attack Speed:  70.9
+Damage vs Corpus":  -0.6
+
+Polarity: Naramon   Rerolls: 2   MR: 9
+Riven rank : 0
+Initial price:  800   Buyout price: 800
+Seller: SUMMERTOM
+Value/Plat: 2.27
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Visi-critatis
+Experimental riven rating: 43.34
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  214.0
+		Grade: A (6.58%)
+Critical Chance:  182.0
+		Grade: B (-0.41%)
+Critical Damage:  137.0
+		Grade: C (-6.33%)
+Ammo Maximum:  -44.3
+		Grade: C- (-9.03%)
+
+Polarity: Naramon   Rerolls: 36   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: IOQ233
+Value/Plat: 1.89
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Lexi-critatis
+Experimental riven rating: 45.06
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  139.7
+		Grade: C+ (-4.48%)
+Punch Through:  3.4
+		Grade: A- (4.22%)
+Critical Chance:  177.6
+		Grade: B- (-2.82%)
+Damage vs Infested":  -42.2
+		Grade: C+ (-3.81%)
+
+Polarity: Madurai   Rerolls: 212   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Yuggs
+Value/Plat: 1.97
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Crita-acriata
+Experimental riven rating: 57.99
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  194.4
+		Grade: A (6.37%)
+Critical Damage:  151.0
+		Grade: B+ (3.24%)
+Damage:  184.4
+		Grade: C- (-8.16%)
+Projectile Speed:  -85.5
+		Grade: B- (-2.55%)
+
+Polarity: Vazarin   Rerolls: 5   MR: 14
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ZCY5201314
+Value/Plat: 2.77
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Visi-critacan
+Experimental riven rating: 51.16
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  169.6
+		Grade: B (0.53%)
+Damage:  202.2
+		Grade: A+ (9.09%)
+Multishot:  98.3
+		Grade: B- (-2.92%)
+Damage vs Corpus":  -41.0
+		Grade: B (1.24%)
+
+Polarity: Madurai   Rerolls: 39   MR: 11
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: luoguogang
+Value/Plat: 2.1
+Used disposition: 1.2
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Acri-visidra
+Experimental riven rating: 54.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  156.7
+		Grade: A (7.14%)
+Fire Rate_Attack Speed:  66.2
+		Grade: F (-9.55%)
+Damage:  184.4
+		Grade: C- (-8.16%)
+Projectile Speed:  -90.3
+		Grade: B+ (2.92%)
+
+Polarity: Vazarin   Rerolls: 10   MR: 15
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: Les-Gauss_Umbra
+Value/Plat: 2.28
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Sati-cronitis
+Experimental riven rating: 46.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  133.0
+		Grade: C- (-9.06%)
+Multishot:  115.8
+		Grade: A (5.57%)
+Fire Rate_Attack Speed:  76.4
+		Grade: A- (4.39%)
+Reload Speed:  -46.3
+		Grade: C+ (-4.92%)
+
+Polarity: Vazarin   Rerolls: 19   MR: 13
+Riven rank : 8
+Initial price:  1299   Buyout price: 1299
+Seller: --I--meego_neo
+Value/Plat: 1.81
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Crita-cronican
+Experimental riven rating: 40.66
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  107.3
+		Grade: B- (-2.18%)
+Critical Chance:  191.3
+		Grade: A- (4.67%)
+Fire Rate_Attack Speed:  74.7
+		Grade: B+ (2.06%)
+Magazine Capacity:  -50.9
+		Grade: A- (4.53%)
+
+Polarity: Naramon   Rerolls: 55   MR: 8
+Riven rank : 0
+Initial price:  1500   Buyout price: 1500
+Seller: qinyilin
+Value/Plat: 1.5
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Crita-satidra
+Experimental riven rating: 47.85
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  188.7
+		Grade: B+ (3.25%)
+Multishot:  104.1
+		Grade: C+ (-5.1%)
+Fire Rate_Attack Speed:  66.8
+		Grade: C- (-8.73%)
+Ammo Maximum:  -49.8
+		Grade: B+ (2.27%)
+
+Polarity: Madurai   Rerolls: 7   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Rhegaly
+Value/Plat: 1.74
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Visi-saticron
+Experimental riven rating: 59.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  169.7
+		Grade: C (-7.14%)
+Multishot:  117.5
+		Grade: A (7.12%)
+Damage:  220.1
+		Grade: S (9.62%)
+Damage vs Infested":  -44.5
+		Grade: B (1.43%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 13
+Riven rank : 8
+Initial price:  1550   Buyout price: 1550
+Seller: JM.Comic
+Value/Plat: 2.24
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Lexi-acricron
+Experimental riven rating: 49.21
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Punch Through:  3.2
+Critical Damage:  132.2
+Critical Chance:  183.5
+Damage vs Infested":  -0.6
+
+Polarity: Vazarin   Rerolls: 3   MR: 15
+Riven rank : 8
+Initial price:  1700   Buyout price: 1700
+Seller: G2LS2
+Value/Plat: 1.69
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Sati-acridra
+Experimental riven rating: 58.18
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  70.1
+		Grade: C+ (-4.22%)
+Critical Damage:  143.5
+		Grade: B- (-1.88%)
+Multishot:  110.7
+		Grade: B (0.92%)
+Damage vs Infested":  -41.8
+		Grade: C+ (-4.72%)
+
+Polarity: Vazarin   Rerolls: 57   MR: 13
+Riven rank : 0
+Initial price:  1899   Buyout price: 1899
+Seller: Achilles
+Value/Plat: 1.92
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Sati-cronitis
+Experimental riven rating: 46.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  132.4
+Multishot:  107.6
+Fire Rate_Attack Speed:  67.3
+Damage vs Corpus":  -60.0
+
+Polarity: Naramon   Rerolls: 130   MR: 11
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: _Ecstasy
+Value/Plat: 1.48
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Acri-cronitox
+Experimental riven rating: 54.47
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  142.1
+		Grade: B- (-2.84%)
+Fire Rate_Attack Speed:  69.3
+		Grade: C+ (-5.31%)
+Toxin:  101.6
+		Grade: C (-7.38%)
+Recoil:  81.6
+		Grade: C (-7.0%)
+
+Polarity: Naramon   Rerolls: 175   MR: 13
+Riven rank : 8
+Initial price:  1   Buyout price:  infinite 
+Seller: IkemenDesuNe
+Value/Plat: 0.2
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Boltor Crita-lexitis
+Experimental riven rating: 53.87
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  132.1
+		Grade: F (-9.68%)
+Critical Chance:  193.4
+		Grade: A (5.82%)
+Punch Through:  3.3
+		Grade: B (1.15%)
+Puncture:  -117.8
+		Grade: B (0.69%)
+
+Polarity: Madurai   Rerolls: 29   MR: 12
+Riven rank : 8
+Initial price:  999   Buyout price:  infinite 
+Seller: FlashRick
+Value/Plat: 0.21
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

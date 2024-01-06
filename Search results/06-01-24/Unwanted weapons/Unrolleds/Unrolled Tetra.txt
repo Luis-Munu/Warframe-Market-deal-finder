@@ -1,0 +1,110 @@
+Name: Tetra Croni-visitis
+Experimental riven rating: 47.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  19.2
+		Grade: B+ (2.4%)
+Damage:  27.3
+		Grade: A (6.05%)
+Fire Rate_Attack Speed:  10.2
+		Grade: A+ (8.71%)
+Damage vs Corpus":  -5.5
+		Grade: B- (-2.21%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 14
+Riven rank : 0
+Initial price:  150   Buyout price: 150
+Seller: cikespeim
+Value/Plat: 5.27
+Used disposition: 1.5
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Crita-ignitis
+Experimental riven rating: 24.0
+Best profile: Beam
+Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, General use: -59.22, 
+Riven stats: 
+Heat:  133.4
+		Grade: A- (5.4%)
+Critical Damage:  181.5
+		Grade: A+ (7.55%)
+Critical Chance:  229.6
+		Grade: A+ (8.88%)
+Multishot:  -100.2
+		Grade: B (-1.03%)
+
+Polarity: Naramon   Rerolls: 0   MR: 9
+Riven rank : 0
+Initial price:  200   Buyout price: 200
+Seller: chunguoguo
+Value/Plat: 1.82
+Used disposition: 1.5
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Acri-critapha
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 12.91, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  205.0
+		Grade: B (0.57%)
+Heat:  122.1
+		Grade: B (-0.2%)
+Critical Damage:  175.0
+		Grade: A (7.28%)
+Reload Speed:  -56.9
+		Grade: A- (4.76%)
+
+Polarity: Madurai   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  292   Buyout price: 292
+Seller: qb0dp3
+Value/Plat: 1.66
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Crita-acrinok
+Experimental riven rating: 24.0
+Best profile: Beam
+General use: 19.02, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  17.1
+		Grade: C (-5.66%)
+Critical Chance:  21.7
+		Grade: C+ (-4.19%)
+Punch Through:  0.4
+		Grade: B (-1.07%)
+Fire Rate_Attack Speed:  -7.8
+		Grade: A+ (7.51%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 10
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Raanevot
+Value/Plat: 1.65
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------
+Name: Tetra Croni-saticron
+Experimental riven rating: 47.89
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  13.7
+		Grade: B (0.78%)
+Fire Rate_Attack Speed:  9.2
+		Grade: B (1.43%)
+Critical Chance:  22.3
+		Grade: B- (-1.54%)
+Damage vs Corpus":  -5.2
+		Grade: C+ (-4.36%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 11
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: Waxy001
+Value/Plat: 3.77
+Used disposition: 1.45
+Real disposition: 1.45
+--------------------------------------------------

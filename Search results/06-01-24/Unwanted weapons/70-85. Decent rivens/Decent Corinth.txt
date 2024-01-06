@@ -1,0 +1,88 @@
+Name: Corinth Crita-toxitis
+Experimental riven rating: 74.64
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  102.1
+		Grade: A- (5.22%)
+Critical Damage:  90.3
+		Grade: C (-6.94%)
+Toxin:  94.8
+		Grade: B- (-2.3%)
+Impact:  -100.2
+		Grade: B- (-3.18%)
+
+Polarity: Madurai   Rerolls: 80   MR: 9
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Valwow
+Value/Plat: 4.48
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Sati-acricron
+Experimental riven rating: 70.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  110.4
+		Grade: B- (-1.66%)
+Critical Damage:  78.9
+		Grade: C (-6.49%)
+Critical Chance:  86.8
+		Grade: B+ (2.87%)
+Slash:  -93.9
+		Grade: A- (4.34%)
+
+Polarity: Naramon   Rerolls: 10   MR: 13
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: P1anetes.
+Value/Plat: 2.42
+Used disposition: 1.0
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Sati-critatis
+Experimental riven rating: 76.29
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Multishot:  136.8
+		Grade: A (5.96%)
+Critical Chance:  94.5
+		Grade: B- (-2.61%)
+Critical Damage:  88.2
+		Grade: C- (-9.1%)
+Projectile Speed:  -74.1
+		Grade: C+ (-4.53%)
+
+Polarity: Vazarin   Rerolls: 48   MR: 10
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Angel_Wing-
+Value/Plat: 2.78
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------
+Name: Corinth Crita-acrican
+Experimental riven rating: 72.6
+Best profile: General use
+Beam: 24.0, 
+Riven stats: 
+Critical Chance:  95.2
+		Grade: B- (-1.89%)
+Critical Damage:  94.5
+		Grade: B- (-2.61%)
+Multishot:  122.5
+		Grade: C+ (-5.12%)
+Puncture:  -111.3
+		Grade: A+ (7.55%)
+
+Polarity: Madurai   Rerolls: 28   MR: 12
+Riven rank : 8
+Initial price:  5555   Buyout price:  infinite 
+Seller: -Ning-Ci-
+Value/Plat: 0.15
+Used disposition: 1.15
+Real disposition: 1.15
+--------------------------------------------------

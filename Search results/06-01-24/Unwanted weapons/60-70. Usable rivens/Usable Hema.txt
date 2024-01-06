@@ -1,0 +1,44 @@
+Name: Hema Sati-critadra
+Experimental riven rating: 67.46
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  21.3
+		Grade: A- (4.89%)
+Multishot:  13.3
+		Grade: A+ (9.12%)
+Fire Rate_Attack Speed:  8.1
+		Grade: B (-0.39%)
+Projectile Speed:  -9.5
+		Grade: B- (-2.55%)
+
+Polarity: Vazarin   Rerolls: 0   MR: 8
+Riven rank : 0
+Initial price:  1200   Buyout price: 1200
+Seller: Be_A_Batman
+Value/Plat: 3.21
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------
+Name: Hema Acri-satidra
+Experimental riven rating: 66.25
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  67.7
+		Grade: C (-7.5%)
+Multishot:  107.6
+		Grade: B- (-1.91%)
+Critical Damage:  152.8
+		Grade: A- (4.48%)
+Recoil:  91.8
+		Grade: A- (4.63%)
+
+Polarity: Madurai   Rerolls: 0   MR: 10
+Riven rank : 8
+Initial price:  10   Buyout price: 2500
+Seller: MyshkinThePrince
+Value/Plat: 1.91
+Used disposition: 1.3
+Real disposition: 1.3
+--------------------------------------------------

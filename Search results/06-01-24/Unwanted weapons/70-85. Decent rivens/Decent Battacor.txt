@@ -1,0 +1,66 @@
+Name: Battacor Croni-critatis
+Experimental riven rating: 77.97
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  158.0
+		Grade: B+ (2.17%)
+Critical Damage:  113.0
+		Grade: C- (-8.69%)
+Fire Rate_Attack Speed:  67.0
+		Grade: A+ (8.19%)
+Zoom:  -54.0
+		Grade: A+ (9.1%)
+
+Polarity: Madurai   Rerolls: 83   MR: 12
+Riven rank : 8
+Initial price:  1480   Buyout price: 1480
+Seller: Chtholly.Nota
+Value/Plat: 3.65
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Acri-satidra
+Experimental riven rating: 77.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  61.8
+		Grade: B (-0.21%)
+Critical Damage:  133.8
+		Grade: A+ (8.12%)
+Multishot:  98.2
+		Grade: A (5.8%)
+Puncture:  -100.5
+		Grade: B+ (1.53%)
+
+Polarity: Madurai   Rerolls: 10   MR: 14
+Riven rank : 8
+Initial price:  2400   Buyout price: 2400
+Seller: -Apathy
+Value/Plat: 2.5
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------
+Name: Battacor Acri-satidra
+Experimental riven rating: 81.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  117.6
+		Grade: C+ (-4.97%)
+Multishot:  100.8
+		Grade: A+ (8.6%)
+Fire Rate_Attack Speed:  64.3
+		Grade: A- (3.83%)
+Zoom:  -47.9
+		Grade: B- (-3.22%)
+
+Polarity: Naramon   Rerolls: 0   MR: 12
+Riven rank : 8
+Initial price:  3500   Buyout price:  infinite 
+Seller: GoldenFleece_Prime
+Value/Plat: 0.13
+Used disposition: 1.1
+Real disposition: 1.1
+--------------------------------------------------

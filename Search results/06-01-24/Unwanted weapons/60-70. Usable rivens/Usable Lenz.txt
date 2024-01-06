@@ -1,0 +1,88 @@
+Name: Lenz Crita-acrinok
+Experimental riven rating: 60.93
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  137.5
+		Grade: B- (-2.19%)
+Critical Damage:  107.0
+		Grade: C+ (-4.89%)
+Punch Through:  2.3
+		Grade: C- (-8.35%)
+Damage vs Infested":  -30.9
+		Grade: C- (-8.44%)
+
+Polarity: Naramon   Rerolls: 83   MR: 11
+Riven rank : 8
+Initial price:  500   Buyout price: 500
+Seller: Hanni_
+Value/Plat: 4.59
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Crita-satiata
+Experimental riven rating: 65.03
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  148.1
+		Grade: A- (5.35%)
+Multishot:  83.3
+		Grade: B (-1.28%)
+Damage:  140.2
+		Grade: C- (-9.23%)
+Damage vs Corpus":  -37.0
+		Grade: S (9.64%)
+
+Polarity: Naramon   Rerolls: 2   MR: 9
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: nnnnnnnnnn666
+Value/Plat: 3.91
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acri-critatox
+Experimental riven rating: 65.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  106.8
+		Grade: C+ (-5.07%)
+Critical Chance:  133.1
+		Grade: C+ (-5.32%)
+Toxin:  76.2
+		Grade: F (-9.69%)
+Projectile Speed:  -63.1
+		Grade: C (-6.51%)
+
+Polarity: Naramon   Rerolls: 8   MR: 10
+Riven rank : 8
+Initial price:  800   Buyout price: 800
+Seller: Doreen66
+Value/Plat: 4.0
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------
+Name: Lenz Acri-satidra
+Experimental riven rating: 64.28
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  104.1
+		Grade: C (-7.47%)
+Multishot:  85.7
+		Grade: B+ (1.57%)
+Fire Rate_Attack Speed:  60.5
+		Grade: A (7.46%)
+Damage vs Infested":  -33.4
+		Grade: B (-1.03%)
+
+Polarity: Naramon   Rerolls: 35   MR: 9
+Riven rank : 8
+Initial price:  2000   Buyout price: 2000
+Seller: -Ning-Ci-
+Value/Plat: 2.12
+Used disposition: 1.0
+Real disposition: 1.0
+--------------------------------------------------

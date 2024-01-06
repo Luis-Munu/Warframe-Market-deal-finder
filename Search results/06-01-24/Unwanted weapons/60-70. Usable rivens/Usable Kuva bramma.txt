@@ -1,0 +1,436 @@
+Name: Kuva bramma Crita-acridex
+Experimental riven rating: 62.8
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  66.6
+		Grade: B (-1.34%)
+Critical Chance:  90.7
+		Grade: A+ (7.53%)
+Status Chance:  47.3
+		Grade: C (-6.57%)
+Impact:  -52.4
+		Grade: B- (-2.95%)
+
+Polarity: Vazarin   Rerolls: 106   MR: 12
+Riven rank : 8
+Initial price:  280   Buyout price: 280
+Seller: MagicalMelon
+Value/Plat: 7.05
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Lexi-critatis
+Experimental riven rating: 65.5
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Punch Through:  0.2
+Critical Damage:  7.0
+Critical Chance:  8.8
+Status Duration:  -5.3
+
+Polarity: Madurai   Rerolls: 9   MR: 14
+Riven rank : 0
+Initial price:  300   Buyout price: 300
+Seller: --RV--Malevolent13
+Value/Plat: 7.54
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Acri-critadex
+Experimental riven rating: 61.37
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  89.3
+		Grade: A (5.87%)
+Status Chance:  48.3
+		Grade: C+ (-4.6%)
+Critical Damage:  71.8
+		Grade: A (6.37%)
+Impact:  -57.2
+		Grade: A (5.94%)
+
+Polarity: Naramon   Rerolls: 20   MR: 16
+Riven rank : 8
+Initial price:  350   Buyout price: 350
+Seller: daxp
+Value/Plat: 5.8
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Toxi-critatis
+Experimental riven rating: 61.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  66.9
+		Grade: B (-0.89%)
+Toxin:  54.2
+		Grade: A (7.06%)
+Critical Chance:  84.2
+		Grade: B (-0.18%)
+Reload Speed:  -23.7
+		Grade: A- (5.45%)
+
+Polarity: Vazarin   Rerolls: 35   MR: 15
+Riven rank : 8
+Initial price:  600   Buyout price: 600
+Seller: InShortYes
+Value/Plat: 4.12
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-cronitis
+Experimental riven rating: 65.95
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  65.3
+		Grade: B- (-3.26%)
+Fire Rate_Attack Speed:  35.4
+		Grade: A- (4.8%)
+Critical Chance:  89.4
+		Grade: A (5.99%)
+Damage vs Corpus":  -21.0
+		Grade: A- (3.71%)
+
+Polarity: Naramon   Rerolls: 5   MR: 16
+Riven rank : 8
+Initial price:  750   Buyout price: 750
+Seller: Roddit
+Value/Plat: 4.19
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-visicron
+Experimental riven rating: 68.26
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  78.8
+		Grade: C (-6.58%)
+Multishot:  54.7
+		Grade: A+ (8.05%)
+Damage:  92.2
+		Grade: B (-0.51%)
+Damage vs Corpus":  -22.0
+		Grade: A+ (8.65%)
+
+Polarity: Madurai   Rerolls: 142   MR: 12
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: VoodoKingdom
+Value/Plat: 3.99
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-visican
+Experimental riven rating: 69.13
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  88.0
+		Grade: A- (4.33%)
+Multishot:  50.3
+		Grade: B (-0.65%)
+Damage:  95.3
+		Grade: B+ (2.83%)
+Ammo Maximum:  -23.0
+		Grade: B+ (2.34%)
+
+Polarity: Naramon   Rerolls: 226   MR: 10
+Riven rank : 8
+Initial price:  900   Buyout price: 900
+Seller: EricaHand.
+Value/Plat: 4.09
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Acri-satidra
+Experimental riven rating: 62.7
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+The stats of this riven don't match its rank, they may be outdated or wrong.
+
+Riven stats: 
+Critical Damage:  69.2
+Multishot:  53.3
+Fire Rate_Attack Speed:  32.5
+Damage vs Corpus":  -0.8
+
+Polarity: Naramon   Rerolls: 195   MR: 15
+Riven rank : 8
+Initial price:  999   Buyout price: 999
+Seller: dianlexiaojibeng
+Value/Plat: 3.16
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Acri-hexacron
+Experimental riven rating: 61.92
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  72.4
+		Grade: A (7.26%)
+Critical Chance:  82.0
+		Grade: B- (-2.79%)
+Status Chance:  50.5
+		Grade: B (-0.25%)
+Impact:  -52.3
+		Grade: B- (-3.14%)
+
+Polarity: Madurai   Rerolls: 76   MR: 13
+Riven rank : 8
+Initial price:  200   Buyout price: 1000
+Seller: YaroLynx
+Value/Plat: 3.09
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-cronican
+Experimental riven rating: 63.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  90.1
+		Grade: A (6.82%)
+Multishot:  45.8
+		Grade: F (-9.53%)
+Fire Rate_Attack Speed:  36.0
+		Grade: A (6.57%)
+Reload Speed:  -22.0
+		Grade: B- (-2.11%)
+
+Polarity: Vazarin   Rerolls: 4   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: GalacticGod
+Value/Plat: 3.22
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-cronitis
+Experimental riven rating: 64.65
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  35.6
+		Grade: A- (5.39%)
+Critical Damage:  67.0
+		Grade: B (-0.74%)
+Multishot:  53.5
+		Grade: A (5.68%)
+Damage vs Corpus":  -22.2
+		Grade: S (9.64%)
+
+Polarity: Naramon   Rerolls: 3   MR: 16
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: -Agni
+Value/Plat: 3.34
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-acriata
+Experimental riven rating: 65.31
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  88.4
+		Grade: A- (4.8%)
+Critical Damage:  67.9
+		Grade: B (0.59%)
+Damage:  93.3
+		Grade: B (0.68%)
+Ammo Maximum:  -22.3
+		Grade: B (-0.78%)
+
+Polarity: Vazarin   Rerolls: 3   MR: 13
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: ZRYeternity
+Value/Plat: 3.41
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-critaata
+Experimental riven rating: 67.45
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  84.0
+		Grade: B (-0.41%)
+Damage:  88.9
+		Grade: C+ (-4.07%)
+Multishot:  52.5
+		Grade: A- (3.7%)
+Ammo Maximum:  -22.5
+		Grade: B (0.11%)
+
+Polarity: Naramon   Rerolls: 262   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Cordelious
+Value/Plat: 3.62
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-cronitis
+Experimental riven rating: 69.01
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Fire Rate_Attack Speed:  36.0
+		Grade: A (6.57%)
+Critical Damage:  71.3
+		Grade: A (5.63%)
+Critical Chance:  91.0
+		Grade: A+ (7.88%)
+Ammo Maximum:  -23.2
+		Grade: B+ (3.23%)
+
+Polarity: Vazarin   Rerolls: 87   MR: 15
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Lancelordz
+Value/Plat: 3.79
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Visi-critatis
+Experimental riven rating: 69.1
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  80.8
+		Grade: C+ (-4.21%)
+Damage:  95.9
+		Grade: B+ (3.48%)
+Critical Damage:  61.7
+		Grade: C- (-8.6%)
+Damage vs Infested":  -19.6
+		Grade: B- (-3.2%)
+
+Polarity: Vazarin   Rerolls: 24   MR: 10
+Riven rank : 8
+Initial price:  1000   Buyout price: 1000
+Seller: Kawai_Ani
+Value/Plat: 3.8
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-visicron
+Experimental riven rating: 68.2
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  53.8
+		Grade: A (6.27%)
+Damage:  87.2
+		Grade: C (-5.91%)
+Critical Chance:  84.8
+		Grade: B (0.53%)
+Ammo Maximum:  -22.5
+		Grade: B (0.11%)
+
+Polarity: Naramon   Rerolls: 19   MR: 12
+Riven rank : 8
+Initial price:  1200   Buyout price: 1200
+Seller: shaloon.
+Value/Plat: 3.27
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-satiata
+Experimental riven rating: 69.67
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Chance:  88.6
+		Grade: A- (5.04%)
+Multishot:  52.4
+		Grade: A- (3.5%)
+Damage:  91.9
+		Grade: B (-0.83%)
+Damage vs Corpus":  -20.0
+		Grade: B (-1.22%)
+
+Polarity: Naramon   Rerolls: 22   MR: 11
+Riven rank : 8
+Initial price:  1   Buyout price: 1200
+Seller: Taoist_Priest-YJ
+Value/Plat: 3.41
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-critaata
+Experimental riven rating: 68.33
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Damage:  86.1
+		Grade: C (-7.09%)
+Critical Chance:  83.6
+		Grade: B (-0.89%)
+Multishot:  54.7
+		Grade: A+ (8.05%)
+Damage vs Corpus":  -20.9
+		Grade: B+ (3.22%)
+
+Polarity: Naramon   Rerolls: 13   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price: 1500
+Seller: Frost_burnt
+Value/Plat: 2.82
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Sati-cronitis
+Experimental riven rating: 68.54
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Multishot:  51.6
+		Grade: B+ (1.92%)
+Fire Rate_Attack Speed:  33.5
+		Grade: B (-0.83%)
+Critical Damage:  65.0
+		Grade: C+ (-3.71%)
+Damage vs Infested":  -20.7
+		Grade: B+ (2.23%)
+
+Polarity: Naramon   Rerolls: 19   MR: 13
+Riven rank : 8
+Initial price:  2500   Buyout price: 2500
+Seller: Pandaahh
+Value/Plat: 2.0
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------
+Name: Kuva bramma Crita-acridex
+Experimental riven rating: 63.76
+Best profile: General use
+Beam: 24.0, Eidolon hunting - Rubico: 8.0, Eidolon hunting - Vectis: 8.0, 
+Riven stats: 
+Critical Damage:  67.9
+		Grade: B (0.59%)
+Status Chance:  49.2
+		Grade: B- (-2.82%)
+Critical Chance:  90.6
+		Grade: A (7.41%)
+Impact:  -51.8
+		Grade: C+ (-4.06%)
+
+Polarity: Naramon   Rerolls: 95   MR: 15
+Riven rank : 8
+Initial price:  1500   Buyout price:  infinite 
+Seller: ---Tinara---
+Value/Plat: 0.17
+Used disposition: 0.6
+Real disposition: 0.6
+--------------------------------------------------

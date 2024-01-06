@@ -1,7 +1,7 @@
 ## UPDATE
 The project has been pretty much dead for the last 2 years, I did some small changes due to certain issues arising to make the project remain functional, but that's about it until WFM implements new endpoints so third party apps don't have to bombard them with requests. Hopefully when that happens their performance and speed will be as great as it once was and I'll update the project with the new functionality.
 
-I will repeat it again: DO NOT USE THE SLOW MARKET SCANS AS OF NOW, not only it will take hours to complete but also saturate WFM servers, this includes, but is not limited to, slow riven searches and relic scans.
+DO NOT USE THE SLOW MARKET SCANS AS OF NOW, not only it will take hours to complete but also saturate WFM servers, this includes, but is not limited to, slow riven searches and relic scans.
 
 # Warframe Market deal finder
 

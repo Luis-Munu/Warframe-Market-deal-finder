@@ -23,21 +23,19 @@ To add or remove weapons edit wantedWeapons.csv. To add or remove rolls edit wan
 
 ## How to use
 
-It currently uses Python 3.9.7, install the library ratelimit using the command "pip3 install ratelimit" and execute the main file using "python deal_finder.py" on the project folder.
+It currently uses Python 3.10.7, install the library ratelimit using the command "pip3 install ratelimit" and execute the main file using "python deal_finder.py" on the project folder.
 
 
 ## TODO
 
-As of now there're several things to do, which I may continue in the following months.
+As of now there're several things to do, which I may continue some time in the future.
 - Add support for rivenhunter.com and riven.market.
-   - Translation system for URLs of WFM to the other websites. 
+   - Translation system for URLs of WFM to the other websites. DONE but RH requests are blocked.
    - Multiprocessing for each website in order to shorten waiting times. 
-   - Slight editions on request processing and riven object creation. 
-- Change the way of storing and accesing data with pandas to make it faster to use and more modular. 
-- Update the GUI to make the tool usable for normal people. 
+   - Slight editions on request processing and riven object creation.
+- Update the GUI to make the tool accessible for normal people.
    - Finish the remaining screens with Sigma. 
    - Add functionality to the UI. 
-- Create an update method to automatically update and cache all the item databases instead of just weapons.
-- Ask for mathematical advice to upgrade the weighting system, may use Xikto's DPS calculator to improve the current profiles.
-- Implement a search to create buy orders on the items with better buy/sell ratio if they have decent volume. Buy low, sell high.
-- Upgrade the code spaghetti quality. 
+- Update ducat values when updating the database.
+- Current weightings for the different profiles are mostly picked by gut feeling, a mathematical procedure should be implemented.
+- Upgrade the code's quality, which is a hard task as it is mostly spaghetti right now.
